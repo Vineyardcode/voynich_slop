@@ -1,0 +1,29 @@
+# Voynich Manuscript — Folio 43r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f43r>     <! $Q=F $P=E $F=c $B=3 $I=H $L=B $H=2 $C=2>
+# page 83
+# herbal
+# Currier's language B, hand 2
+# Plant ID: Antennaria Gnaphalium
+#
+<f43r.1,@P0>      <%>tarodaiin.ytedy.eeody.ofchtar.chcphedy.ypar.shol.folor.aiin.cphey.dar
+<f43r.2,+P0>      yteody.oteol.ytedy.ar.chety.dar.aiir.okaldy.daral.otchdy.daiin.dals
+<f43r.3,+P0>      yty.yty.oty.she.ody.shy.olor.yteedy.kaiin.chky.qotydy.dar.aiin.ykam
+<f43r.4,+P0>      das,ar.ytey,tedy,kar.arar.she.kalchdy.cholky.qotaly.chedy.oty.otam
+<f43r.5,+P0>      ykar.ch[e:i]dy.shekody.qotody.qotar.okedy.dar.choetchy.dam.otain.y,tam
+<f43r.6,+P0>      kchedy.chedy.daly.cheody.cheolkeepchy<$>
+#
+<f43r.7,+P0>      <%>pshesy.otey,kshdy.opchdy.kedar.okedy.chdy.sho{cphh}y.dyty,dy.pchdy.kedy.dam
+<f43r.8,+P0>      ytchedy.chedy.cheody.shy.qoiiin.sheeeky.chedy.dain.shy.ykolor.[o:a]taiin.old
+<f43r.9,+P0>      dshedy.qotedy.dor.cheey.odain<$>
+#
+<f43r.10,+P0>     <%>pshdar.shed.ody.qotedy.yfchdy.qo{ckhh}dy.opchdy.daiin.qokedy.dydydy.qotar
+<f43r.11,+P0>     ytchedy.ty.shol.t[o:a]ldy.shody.oteedy.shdy.otolol.shd.olky.ytol.otary.cheky,dy
+<f43r.12,+P0>     dor.shol.qokol,shedy.qotedy.qokeedy.qokody.okeedy.otedy.shedy.oty.yty,dy.saiin
+<f43r.13,+P0>     tshed.qosheckhey.odeeedy.qeokeey.qotedy.daiin.shodody.shochol.chckhy.y,kedydy
+<f43r.14,+P0>     ykeody.checkhy.choteey.odain.ch{ckhhh}y.chokoraiin<$>
+#
+#

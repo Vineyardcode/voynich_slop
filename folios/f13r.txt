@@ -1,0 +1,24 @@
+# Voynich Manuscript — Folio 13r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f13r>     <! $Q=B $P=I $F=w $B=4 $I=H $L=A $H=1 $C=1>
+# page 23
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Tussilago petronitas, colto foot (all sp?)
+#
+<f13r.1,@P0>      <%>torshor.opchy.shol.dy.qopchy.shol.opchor.dypchy.dchg
+<f13r.2,+P0>      dchol.chol.dol.shkchy.ydal.shy.ykchy.qot[?:ch]y.daiin.s.y
+<f13r.3,+P0>      s,y.dchor.shaiin.oeees.ykor.chor.ytshy.ykchy.kchy.dar
+<f13r.4,+P0>      qodchy.ytchy.otchor<$>
+#
+<f13r.5,+P0>      <%>shorodo.shy.tshy.kchol.dpchy,qopchy.otchol.cfholdy
+<f13r.6,+P0>      tchor.dor.daiin.qotchol.okchy.okchor,oiin.chckhy.d
+<f13r.7,+P0>      dchy.qoky.chol.dy.qo{kh}y.d,oldy<->okchor.doaiin
+<f13r.8,+P0>      shochy.qokchy.torchy.k{chky}<->s.okchey.daiin
+<f13r.9,+P0>      oldy.shey.chol.d[o:a]iin.ykoly<->okchal.daldy
+<f13r.10,+P0>     sotchy.kchy.okorory<$>
+#
+#

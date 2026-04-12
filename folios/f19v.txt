@@ -1,0 +1,27 @@
+# Voynich Manuscript — Folio 19v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f19v>     <! $Q=C $P=F $F=c $B=3 $I=H $L=A $H=1 $C=1>
+# page 36
+# herbal
+# Currier's language A, hand 1
+#
+<f19v.1,@P0>      <%>pochaiin.cthor.chpcheos.opchey.py,kchy
+<f19v.2,+P0>      qokchy.kchol.sor.qokchos.ykchy.darom
+<f19v.3,+P0>      otchy.chol,daiin.qotol.ytol.daiiin
+<f19v.4,+P0>      ytch.chcthy.qotol.daiin.daiin
+<f19v.5,+P0>      qotchy.qoteey.daiin.doty.qot
+<f19v.6,+P0>      ychoy.kchor.cthol.chocthy.s
+<f19v.7,+P0>      ycho.[r:s].chaiin.cthor<$>
+#
+<f19v.8,+P0>      <%>toy.tchey,qo.dchol.qokchs.dom
+<f19v.9,+P0>      ychor.oky.chor.yt[o:a]l.chol.oky,ddor
+<f19v.10,+P0>     daiin.chor.daiin.qoko[r:n].y.okchan
+<f19v.11,+P0>     qotol.d[o:a]r.okchor.daiin.cthor.otam
+<f19v.12,+P0>     otch.okchodshy.daiin.or.otaiin.dai[s:r]
+<f19v.13,+P0>     yees.ykchol.oty.ytor.ytar.ytchor.ytaiin
+<f19v.14,+Pr>     otchol,cheaiin.cthol<$>
+#
+#

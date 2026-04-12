@@ -1,0 +1,27 @@
+# Voynich Manuscript — Folio 52v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f52v>     <! $Q=G $P=H $F=d $B=4 $I=H $L=A $H=1 $C=1>
+# page 102
+# herbal
+# Currier's language A,  hand 1
+#
+<f52v.1,@P0>      <%>pchor.chcphol.cphaiiin.otcheor.ytor,kol.chocph[a:o]r
+<f52v.2,+P0>      ytchey.chol.ctho,daiir.shy.kor.ese,chor.chy.dam
+<f52v.3,+P0>      oor,chor.chochar.l[s:r].chteeor.ytol.sheol.otam
+<f52v.4,+P0>      tchor.ctheor.ctheol.cheeor.cheol.chckheey.s[o:a]dy
+<f52v.5,+P0>      yteey.cthor,cheo[s:r].cpheodar.dy<->sarg
+<f52v.6,+P0>      qotodaiin.cthor.oty.kcholy<$>
+#
+<f52v.7,+P0>      <%>pcheol.sholoiin.cthor.aiin
+<f52v.8,+P0>      kodaiin.cthy.qokeey.s.ol
+<f52v.9,+P0>      daiin.ckheol.chol.qoke[y:o]l.daiin
+<f52v.10,+P0>     yokee[y:o].qokody.chol.sol,s.aiin
+<f52v.11,+P0>     daiin.shor.qodaiin.ckhey.sal
+<f52v.12,+P0>     qoekar.ckhol.ykchody.ckhy
+<f52v.13,+P0>     yk[o:a]r.okaiiin.ckheeey.daiig
+<f52v.14,+P0>     odar.cheokor.ckheey<$>
+#
+#

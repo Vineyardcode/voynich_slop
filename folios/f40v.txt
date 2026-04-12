@@ -1,0 +1,34 @@
+# Voynich Manuscript — Folio 40v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f40v>     <! $Q=E $P=P $F=z $B=1 $I=H $L=B $H=2 $C=2>
+# page 78
+# Currier's language B, hand 2
+# herbal
+# gathering mark 5
+# Plant ID: Thistle, Gerneolem(?) Artichoke, Helianthus Tuberosus
+#
+<f40v.1,@P0>      <%>pchedain.chefaiin.oldy
+<f40v.2,+P0>      todar.qokaiin.ol.ara[g:m]
+<f40v.3,+P0>      s,air,ain.okaiin.okam
+<f40v.4,+P0>      taraiin.okaiin.ch{ckhy}
+<f40v.5,+P0>      solaiin.okar.oly.chckhy
+<f40v.6,+P0>      qoeedaiin.ol.chedy.daiin
+<f40v.7,+P0>      shody.qokol,chedy.s.ar
+<f40v.8,+P0>      chodaiin.chkalykedy.okal
+<f40v.9,+P0>      tchy,pchody.pchdy.kor.ol
+<f40v.10,+P0>     tchkaiin.tchedy.qokaiin.oraiin
+<f40v.11,+P0>     schedy.qokol.chedy.dalor.a{ith}y
+<f40v.12,+P0>     ycheekeey.daiin.okaiin<$>
+#
+<f40v.13,+P0>     <%>toees.chedy.kedy.olfchedy.qokedy<->daiin.chefain
+<f40v.14,+P0>     saiin.o.lchey.kchedy.okar.qokchdy.dy<->qokees.am.chdy
+<f40v.15,+P0>     qokchey.qody.or.aiiin.o,kaiin.o,ckhy<->sheod.faimy
+<f40v.16,+P0>     shol.kedy.lor.ar.okar.qoky.kedy.r<->yteey.qokam
+<f40v.17,+P0>     tochey.qokeedy.qokaiin.okeos.qokar<->okees.ar.o[k:?]y
+<f40v.18,+P0>     saiin.otain.chckhy.okal.okair.arol<->qokey.okary
+<f40v.19,+Pc>     pchedy.chetar.ofair.arody<$>
+#
+#

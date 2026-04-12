@@ -1,0 +1,32 @@
+# Voynich Manuscript — Folio 24r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f24r>     <! $Q=C $P=O $F=z $B=1 $I=H $L=A $H=1 $C=1>
+# page 45
+# herbal
+# Currier's language A, hand 1
+#
+<f24r.1,@P0>      <%>por,or,y.chor.opchar.she.cheol.daiin.or
+<f24r.2,+P0>      qotaiin.char.odaiin.okai{ikh}al.oky
+<f24r.3,+P0>      ycthar.cthal.okol.qotar.ckhy
+<f24r.4,+P0>      or.chckhaly.cthar.eeor.chees.da
+<f24r.5,+P0>      qodar.cho.r.chey.cthy.cthe.keom
+<f24r.6,+P0>      oeeeos.cthor.otal.qocthol.qoky
+<f24r.7,+P0>      q@145;kar.chtar.s.cheor.cthol.qodol
+<f24r.8,+P0>      ychor.s.om.qoear.daiin.qokeol
+<f24r.9,+P0>      odaiin.ckham.qodai{ikh}y.dol.dal
+<f24r.10,+P0>     q[?:e]or.cfhar.chor.s.am.chotaiin.dy
+<f24r.11,+P0>     sar.cheoiees.okeem.cheor.qokain
+<f24r.12,+P0>     qokchy.qotchy.tol.tod.ckhy
+<f24r.13,+P0>     oees.ol.s.chey.chcth.s,ar
+<f24r.14,+P0>     qor.cheey.qod.char.cthal
+<f24r.15,+P0>     ockhoees.oeees.ol.dal.s
+<f24r.16,+P0>     sham.okeal.dal.dam.dal
+<f24r.17,+P0>     sshey.otam.sham.cthoj.oky
+<f24r.18,+P0>     ycheol.chol.daiin.chol.s
+<f24r.19,+P0>     yol.kol.chol.shom.otacphy
+<f24r.20,+Pc>     sam.chorly<$>
+#
+#

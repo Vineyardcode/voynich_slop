@@ -1,0 +1,8 @@
+# Voynich Manuscript — Folio 85v and 86r (foldout)
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+# No transcription available for this folio
+# Keys attempted: f85v, f86r
+# (May be illustration-only, or use different key)

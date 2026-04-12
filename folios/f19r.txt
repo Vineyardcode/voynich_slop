@@ -1,0 +1,26 @@
+# Voynich Manuscript — Folio 19r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f19r>     <! $Q=C $P=E $F=c $B=3 $I=H $L=A $H=1 $C=1>
+# page 35
+# herbal
+# Currier's language A, hand 1
+# Same plant as f102v1[2,2] ? (Stolfi)
+#
+<f19r.1,@P0>      <%>pchor.qodchy.qotshy.dy.tchy.qotchy.qoky.daiin.dchydy
+<f19r.2,+P0>      dshy.chor.y.tchy.chol.dytchy.chordy.daiin.dyty.@241;.cho@242;<!corr?>
+<f19r.3,+P0>      oscheor.shy.tdaiin.chol.dor.yky
+<f19r.4,+P0>      qokorar.daiin.chckhy.shy,kchor
+<f19r.5,+P0>      otchy.tchy.qoky.daiin.@243;
+<f19r.6,+P0>      yshor.shy.daiin.otytchy.daiin
+<f19r.7,+P0>      qo'k.cho.ky.cthar.dor.chan.dar
+<f19r.8,+P0>      or.chor.daky.dal.chor.dorl.shy
+<f19r.9,+P0>      qotchor.dy.dor.y.tchy,kchy.shdaiin
+<f19r.10,+P0>     daiin.cthor.chol.ykchor.chordy
+<f19r.11,+P0>     qotchy.qolody.choldy.cthyd
+<f19r.12,+P0>     ykchor.chor.daiin.daiinol
+<f19r.13,+P0>     os,octhor.ytchor<$>
+#
+#

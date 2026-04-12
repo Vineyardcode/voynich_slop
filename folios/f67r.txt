@@ -1,0 +1,139 @@
+# Voynich Manuscript — Folio 67r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f67r1>    <! $Q=I $P=B $F=a $B=1 $I=A $H=4>
+# page 119, 120
+# astronomical
+# "moon @ circles"
+# Has gathering mark 9
+# Has 'a' in upper right corner
+# Newbold plate III, Brumbaugh p66, both of whom call it f67r
+#
+<f67r1.1,@P0>     <%>teeodaiin.shey.epairody.osaiin.yteeoey.shey.epaiin.o.aiin
+<f67r1.2,+P0>     daiir.okeody.qoekeey.sar.oeteody.oteey.keey.keo.keeoda[l:?]
+<f67r1.3,+P0>     ycheo.s.o,iim.[che:eee]os.aiin.okesoe.ar.am.shees.dalaiin.dam
+<f67r1.4,+P0>     cheodaiin.[ch:a]ekeey.s.ar.air.s,o,ar.cheey.dair.cthey<$>
+#
+# There is a noticeable gap in the word-rings at 11:45
+# Rings numbered C1 to C3, outer to inner
+<f67r1.5,@Cc>     <!00:00>soairol.shdy.chokeody.ykeedal.ol.oteodaiin.cho{ikh}edy.ot.chteokaiin.choteedy.otor.epchy.chpar.ar.sheees.deedy.soeteed.octheey.s.o.eokeot.y.choteoky.chockhy.okees.sor.aiin.daram.schdes.chdar.dar.dchschdy.dar.dar.ar.otardar.ykaros
+<f67r1.6,+Cc>     <!00:00>dair.al.cheol.dal.oekaiin.sol.daiin.eetees.saiin.ykeos.l.chy.otodaiin.chetejy.otar.dair.ar.chedar.okeedy.ot[e:i]odaiin.ychsy.chekeey.ot.dol.al.cheor.okeo,r.oiin.cheeky.ary.okeo,keds.oshey.shchey.chol.dair.dain.cho.dar.aldy
+<f67r1.7,+Cc>     <!00:00>archeo,r.qoikeey.oteeos.cheockhey.oteochedy.okechdar.dararal.okeorar.sotey.dair.yteey.oteo.s.oteees.oteo.otee[s:e']y.sheokeey.oteodal.chokeed.sar.ain.y<!subscript>.oto.keedais.deeety.okeey.teodain.chekchy.dair.chparam
+# Radii of the circle, clockwise, starting from the North
+<f67r1.8,@Ri>     otaldy
+<f67r1.9,@Ri>     otoky
+<f67r1.10,@Ri>    seeaiir
+<f67r1.11,@Ri>    ykees.ary
+<f67r1.12,@Ri>    sosaiir
+<f67r1.13,@Ri>    oteey.dar
+<f67r1.14,@Ri>    yto,daiir
+<f67r1.15,@Ri>    sheosam
+<f67r1.16,@Ri>    ykeeody
+<f67r1.17,@Ri>    okeol.sal
+<f67r1.18,@Ri>    okeey.sar
+<f67r1.19,@Ri>    dalary
+#
+#
+
+<f67r2>    <! $Q=I $P=C $F=a $B=1 $I=A $H=4>
+# page 121, 124
+# astronomical
+# General description of page:
+# Circular diagram with 12 sectors and 12 moon or planet faces.
+# One outer circle in red ink, with 12 pieces of scattered writing in red ink.
+# Middle circle is divided in 12 radial sections with short paragraphs.
+# Sector nrs are cf. Petersen, first = from 09:00 to 10:00 and further clockwise.
+# Inner circle with  8 words around an 8-point star with clouds (?)
+# From one of the star point there is a radiating dotted line that runs up
+# to the lower part of the middle section.
+# Each of the middle sections starts with text, in 7 cases with one "heading",
+# which is transcribed as a combination of Pb (blocked) and L0 loci.
+# More inside are 12 labels near moon faces and inside that 8 more words (Ls loci).
+# At NW of the circle there seems to be a line that marks the start of text (?)
+#
+# Has 'b' in upper right corner
+#
+# Outside ring, all in red ink:
+<f67r2.1,@L0>     ykshy.s.aram
+<f67r2.2,&L0>     ykecho.ols.eesydy
+<f67r2.3,&L0>     [{c'}:@164;]ey.shs.okar
+<f67r2.4,&L0>     shekchy.sykos
+<f67r2.5,&L0>     ykeody.okchy
+<f67r2.6,&L0>     dchetay
+<f67r2.7,&L0>     ykchy.kchey.ykchys
+<f67r2.8,&L0>     chkchdar
+<f67r2.9,&L0>     ykar.ykaly
+<f67r2.10,&L0>    lkshy,kchy.okar
+<f67r2.11,&L0>    chky.chykchs.chy
+<f67r2.12,&L0>    ykees.ykchos
+# Blocked text and individual words in sectors, starting at 10:00
+<f67r2.13,@Pb>    <%>opodchol.s.ain.aldy
+<f67r2.14,+Pb>    soeey.doiin.oldy<$>
+<f67r2.15,+L0>    dolchsody
+<f67r2.16,@Pb>    <%>oda[eiin:iiin].okoes.oekain.y
+<f67r2.17,+Pb>    otchey.soraiir.dy
+<f67r2.18,+Pb>    qopchy.daiin.dal<$>
+<f67r2.19,@Pb>    <%>ydchos.ain.ar.amy
+<f67r2.20,+Pb>    chocfhy.saral
+<f67r2.21,+Pb>    sain.am.ar<$>
+<f67r2.22,+L0>    okal
+<f67r2.23,@Pb>    <%>oparchy.salsain
+<f67r2.24,+Pb>    sodar.ofar.ar
+<f67r2.25,+Pb>    ydam<$>
+<f67r2.26,@Pb>    <%>yteoor.yto.ykor
+<f67r2.27,+Pb>    okeo,r.aiin.am<$>
+<f67r2.28,+L0>    okain.a[m:g]
+<f67r2.29,@Pb>    <%>ytody.saiin
+<f67r2.30,+Pb>    ochol.olol<$>
+<f67r2.31,+L0>    opcholdy
+<f67r2.32,@Pb>    <%>dosar.odas.air.alaiin
+<f67r2.33,+Pb>    dokan.oear.odal<$>
+<f67r2.34,+L0>    ofar.oeoldan
+<f67r2.35,@Pb>    <%>chol.[g:d]iin.okol
+<f67r2.36,+Pb>    ytor.daiin.or<$>
+<f67r2.37,+L0>    ytoaiin
+<f67r2.38,@Pb>    <%>otoldos.octhole
+<f67r2.39,+Pb>    sor.chedaiin.dy
+<f67r2.40,+Pb>    yteos.oiin.og<$>
+<f67r2.41,@Pb>    <%>ytoeopchey.chekody
+<f67r2.42,+Pb>    sosho.chos.ockhy
+<f67r2.43,+Pb>    daiin.aiin.os.qsg<$>
+<f67r2.44,@Pb>    <%>ofydy.sheody.aiin
+<f67r2.45,+Pb>    ycheody.es.odaiiin
+<f67r2.46,+Pb>    yekees.oraly<$>
+<f67r2.47,+L0>    yfain
+<f67r2.48,@Pb>    <%>todaiin.dain.dy
+<f67r2.49,+Pb>    os,choer.aiin
+<f67r2.50,+Pb>    choee[a:y].sal
+<f67r2.51,+Pb>    da[d:g]aiin<$>
+# Labels near moon or planet faces
+<f67r2.52,@Ls>    qotoear
+<f67r2.53,&Ls>    dchdar
+<f67r2.54,&Ls>    y,saldal
+<f67r2.55,&Ls>    ytodal
+<f67r2.56,&Ls>    tol.daiin
+<f67r2.57,&Ls>    otar,dy
+<f67r2.58,&Ls>    cho.dal,g
+<f67r2.59,&Ls>    ytchodly
+<f67r2.60,&Ls>    octhys
+<f67r2.61,&Ls>    ytokar
+<f67r2.62,&Ls>    otolor
+<f67r2.63,&Ls>    okodar
+# Words inside moon or planet faces
+<f67r2.64,@L0>    s.air
+<f67r2.65,&L0>    soe[a:o]r
+<f67r2.66,&L0>    cpheey
+<f67r2.67,&L0>    okodar
+<f67r2.68,&L0>    oepchod
+<f67r2.69,&L0>    s.a{cthh}y
+<f67r2.70,&L0>    osar
+<f67r2.71,&L0>    oran
+# Now text in normal paragraphs, at bottom
+<f67r2.72,@P0>    <%>dar.aldaiin.ydaiin.qkoy.ydaiin.qofair.ypair.ykoaiin.ydoly.ytalchos.oly.okey
+# The following single line is in red ink
+<f67r2.73,+P0>    sshey.sy,shees.qeykeey.ykchey.ykchey.qokeochy.oaiin.okol.ar.olar
+<f67r2.74,+P0>    yshey.qokeeody.cheos.oeeos.qockhy.chos.aiin.okeeody.qokoaiin.odain.ar.air.ay<$>
+#
+#

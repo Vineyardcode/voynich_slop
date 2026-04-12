@@ -1,0 +1,25 @@
+# Voynich Manuscript — Folio 7r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f7r>      <! $Q=A $P=M $F=y $B=2 $I=H $L=A $H=1 $C=1>
+# page 13
+# herbal
+# Currier's language A, hand 1
+# Pland ID: Nymphaea alba
+# 10 lines in two paragraphs, both cut by plant
+#
+<f7r.1,@P0>       <%>fchodaiin.shopchey.qko<->shey.qoos.sheey.charochy
+<f7r.2,+P0>       dcheey.keo.r.shor.dold<->dchey.kchey.otchy.cheody
+<f7r.3,+P0>       oeeees.cheodaiin.sheey<->ytcheey.qotchy.chald
+<f7r.4,+P0>       qokcho.cho.lochey.daiin<->ychey.kchos.odaiin
+<f7r.5,+P0>       oaiir<->otaiin<$>
+#
+<f7r.6,+P0>       <%>ksholo,chey.qotoees.chkoldy<->otchor.choaiin
+<f7r.7,+P0>       dshoy.cthol.chol.otchol.dain<->shody.shol.chotchy
+<f7r.8,+P0>       okchey.deeeese.choty.qokchy<->shol.keey.choty.dain
+<f7r.9,+P0>       qokechy.ol,choiin.chol.cphey<->shckhy.chochy.kchod
+<f7r.10,+P0>      s,chain.chor.daiin.chckhy<$>
+#
+#

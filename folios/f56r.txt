@@ -1,0 +1,34 @@
+# Voynich Manuscript — Folio 56r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f56r>     <! $Q=G $P=O $F=z $B=1 $I=H $L=A $H=1 $C=1>
+# page 109
+# herbal
+# Currier's language A,  hand 1
+# Plant ID: Boragine echium, Dianthus flower (convolvulus?)
+# Kraus p45, Zimansky; 'fern'
+#
+<f56r.1,@P0>      <%>o@167;chal.chchs@168;y.oty.esedy.chy.ychocphy.chorchy.chy
+<f56r.2,+P0>      chokchey.ch[o:a]l.choly.korchy.chykey.choty.shokaiin
+<f56r.3,+P0>      olchey.chokchol.chey.keey.qokeey.chokeey.choksy
+<f56r.4,+P0>      qot,chor.chor.chokor.chkor,chy<->okar.chdy
+<f56r.5,+P0>      chochor.cho.chodaly.daiin
+<f56r.6,+P0>      ykch[o:a].dy.dchey.keey.daiin.y
+<f56r.7,+P0>      sho.kchol.otchor.choky.dal
+<f56r.8,+P0>      schol.choy.choky.cheeckhody<$>
+#
+<f56r.9,+P0>      <%>tchoky.kchol.shol.chotchey,tchol
+<f56r.10,+P0>     yt,chor.otchy.chok.y,t.chey.r.okaiin
+<f56r.11,+P0>     shy,kcheey.daiin.cthol.chos.chokor
+<f56r.12,+P0>     sh.cho.kchey.qokokchy
+<f56r.13,+P0>     okchy.chokcheo.kchal
+<f56r.14,+P0>     s,chol.chotol.qotchy
+<f56r.15,+P0>     tcho,tchol.chol.cthy
+<f56r.16,+P0>     qotchy.chody.ctho,r.chey.kch[a:o]rg
+<f56r.17,+P0>     chokeey.qokcheey.schey.d,aiin.dy
+<f56r.18,+P0>     sho.chokchy.kchoar<->sotodan
+<f56r.19,+P0>     otchey.keol.daiin<$>
+#
+#

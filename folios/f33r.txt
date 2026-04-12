@@ -1,0 +1,19 @@
+# Voynich Manuscript — Folio 33r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f33r>     <! $Q=E $P=A $F=a $B=1 $I=H $L=B $H=2 $C=2>
+# page 63
+# Currier's language B, hand 2
+# herbal
+#
+<f33r.1,@P0>      <%>tshdar.shd[o:a]r.shepchdy.cphody.yfoldy.qofo{ikh}dy.otchedy.lfchdy.daiin
+<f33r.2,+P0>      ytchedy.qokar.cheky.okaldy.qokaldy.otor.oldar.qotar.otar.otardam
+<f33r.3,+P0>      laiin.y.cheky.qokedy.shedy.chdal.chechdaiin.qokchy.ody.chekeedy.yka[m:g]
+<f33r.4,+P0>      taiin.chekey.or.al,aiiin.saiin.okaiin.dar.cheedy.chkeey.far.aiin.s
+<f33r.5,+P0>      pair.or.aiin.otaiin.ol,kor.aiin.okal.otal.chdal.shekal.qokar.ota[m:g]
+<f33r.6,+P0>      yteey.shody.kchedy,dy.chekar.okaiin.okaiin.daiin.okal
+<f33r.7,+P0>      dar.chos.aiin.or.aiin.cheekaiin.okain.ar.okeeey<$>
+#
+#

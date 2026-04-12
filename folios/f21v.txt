@@ -1,0 +1,20 @@
+# Voynich Manuscript — Folio 21v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f21v>     <! $Q=C $P=J $F=w $B=4 $I=H $L=A $H=1 $C=1>
+# page 40
+# herbal
+# Currier's language A, hand 1
+#
+<f21v.1,@P0>      <%>toldshy.chofchy.qofshey.shckhol.odaiin.shey.ckholy
+<f21v.2,+P0>      oeeesoy.qokchy.chody.qotchy.qokchy.choty.tchol.daiin
+<f21v.3,+P0>      qotol.keeees.chotchy.tcho.choty.chor.qotol.daiin.dal
+<f21v.4,+P0>      sho.chodaiin.choty.chol.daiin.daiin.chty<->chtol
+<f21v.5,+P0>      osho.deey.ctho.l.sho,cthy.daiin.dait.oky
+<f21v.6,+P0>      sho.tsho.chotshol.chol.todaiin.daiin
+<f21v.7,+P0>      ykcho.lchol.cho,l,chaiin.otchy.s.sheaiin
+<f21v.8,+P0>      cho.l.kchochaiin<$>
+#
+#

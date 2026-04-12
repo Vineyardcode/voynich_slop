@@ -1,0 +1,25 @@
+# Voynich Manuscript — Folio 9r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f9r>      <! $Q=B $P=A $F=a $B=1 $I=H $L=A $H=1 $C=1>
+# page 17
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Chelidonium Majus, Sallkraut (sp?)
+# last 3 words in last paragraph indented (signatures?)
+#
+<f9r.1,@P0>       <%>tydlo.choly.cthor.orchey.s.shy.odaiin.sary<->shor.cthy
+<f9r.2,+P0>       oykeey.chol,ytaiin.okchody.toeoky.okoiin.dy<->or.chaiin
+<f9r.3,+P0>       toiin.cphy.qotod.otaiin.cthy.okor.chey<->ctho,d.ram
+<f9r.4,+P0>       [y:o]shy.chokcho.chcthod,shor.shaiin.otar,dor<->ytol.dayty
+<f9r.5,+P0>       daiin.chor.sor.cthy.chokoiin.shol.dsholdy<->otchol.ot.dy<$>
+#
+<f9r.6,+P0>       <%>pshoain.cthoaiin.okaiir.{c@134;h}odoral.shar<->sy<->shydal.chdy
+<f9r.7,+P0>       or.chol.chy,tchy.tchol.ytor.qotol.chyky<->chodar.aiin
+<f9r.8,+P0>       qotcho.qokchy.cthey.koraiin.okain.d<->dal<->s.olshocth[y:g]
+<f9r.9,+P0>       ocho,cthy.cho{cto}y.chodykchy.saiin,dchy<->daiin
+<f9r.10,+Pc>      ytcha[s:r].oraiin.chkor<$>
+#
+#

@@ -1,0 +1,21 @@
+# Voynich Manuscript — Folio 11r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f11r>     <! $Q=B $P=E $F=c $B=3 $I=H $L=A $H=1 $C=1>
+# page 21
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Silene Aca[ul|nt]is (O'N)
+#
+<f11r.1,@P0>      <%>tshol.schoal.cfhy.shfydaiin.cphy.shey.tchody.shoyty
+<f11r.2,+P0>      socthody.qodor,y.kshy.daiin.ytchy.ytchoky.kchol.daiin
+<f11r.3,+P0>      qoty.chol.cthy.d[o:a]r.ykychy.choty.dain.chaiin.daiin.d[o:e]d
+<f11r.4,+P0>      dchol.chy.kchy.dy.daiin<$>
+#
+<f11r.5,+P0>      <%>tchol.shor.shor.dky.{c'h@148;h}y.daiin.cthy.d,y,chodl,daiin
+<f11r.6,+P0>      odl.d,s,y.otol.chaiin.ykchor.dair.chody.cthy.s.daiin
+<f11r.7,+P0>      qotchy.okchol.cthy.dy<$>
+#
+#

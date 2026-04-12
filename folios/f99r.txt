@@ -1,0 +1,76 @@
+# Voynich Manuscript — Folio 99r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f99r>     <! $Q=S $P=A $F=a $B=1 $I=P $L=A $H=1>
+# page 201
+# pharmaceutical
+# Kraus plate XXXI labeled jars
+# Currier's language A, hand 4?
+#
+# Top row of labels. Petersen ID in curly brackets.
+<f99r.1,@Lc>      <!68a>okaradag
+<f99r.2,@Lf>      <!68b>okar,y
+<f99r.3,@Lf>      <!69>darar
+<f99r.4,@Lf>      <!70>oky
+<f99r.5,@Lf>      <!71>salo
+<f99r.6,@Lf>      <!72>aro
+<f99r.7,+Lf>      <!72>ain
+<f99r.8,@Lf>      <!73>okor
+<f99r.9,@Lf>      <!74>ralol
+<f99r.10,@Lf>     <!75>skeeal
+<f99r.11,@Lf>     <!76>okary
+<f99r.12,@Lf>     <!77>okolo
+<f99r.13,@Lf>     <!78>otalam
+<f99r.14,@Lf>     <!79>otoldy
+#
+<f99r.15,@P0>     <%>pcheody.oteody.<!gap>daiin.cpheey.tshol.dal.cfheol.olaiin.sar
+<f99r.16,+P0>     saroshy.shor.s,shor.sheol.kolsheol.qoeol.sholkol.ckhol.ckhory
+<f99r.17,+P0>     dcheor.chr.al.yckhy.okeol.ckhor.oraiin.chor.qokeeor.chory
+<f99r.18,+P0>     qokeor.chol.ykol.cheey.chody.ckhol.daiin.okeoly.daiin.ckhy<$>
+#
+# Second row of labels. Petersen ID in curly brackets.
+<f99r.19,@Lc>     <!80a>oparal
+<f99r.20,@Lf>     <!80b>oaro
+<f99r.21,@Lf>     <!81>aloly
+<f99r.22,@Lf>     <!82>aora[?:r]
+<f99r.23,@Lf>     <!83>choky
+<f99r.24,@Lf>     <!84>oky
+<f99r.25,@Lf>     <!85a>okeoly
+<f99r.26,@Lf>     <!85b>yteold
+<f99r.27,@Lf>     <!86a>cheotchy
+#
+<f99r.28,@P0>     <%>kodaiin.opchey.qoky.dar.otchor.opsho.okeol.sheol.oteoefol
+<f99r.29,+P0>     dsheol.ckhey.ckheol.okeol.ctheol.qokey.ckhol.okeol.okeey.dald
+<f99r.30,+P0>     tol,cheody.qokol.okoly.okoldy.qokoly.qokal.okchol.qokold
+<f99r.31,+P0>     chees.okeey.qotol.sheol,daiin.qotol.okeol<$>
+#
+# Third row of labels. Petersen ID in curly brackets.
+<f99r.32,@Lc>     <!87a>tsholdy
+<f99r.33,@Lf>     <!87b>okos
+<f99r.34,@Lf>     <!87c>oekey
+<f99r.35,@Lf>     <!88>dar
+<f99r.36,@Lf>     <!89>chockhi[a:y]
+<f99r.37,@Lf>     <!90>r,cheyet
+<f99r.38,@Lf>     <!91>saiiny
+<f99r.39,@Lf>     <!92>sory
+<f99r.40,@Lf>     <!93>dam
+#
+<f99r.41,@P0>     <%>tsheeor.cpheol.{ck}ey.pchol.ckhey.ypchol,chor.choly.qotocthey.qkory
+<f99r.42,+P0>     sol.sheol.keshey.qokeeey.chs.chey.dalchey.ctheey.daiin.cheom
+<f99r.43,+P0>     daiin.cheeokeey.checkhey.dor.oldy.sheey.keody.okeeey.s.aiin.ols
+<f99r.44,+P0>     qokey.chkeey.chey.ckhey.ckhey.ykeey.oiin.air.chody.oeksa<$>
+#
+# Fourth set of labels. Petersen ID in curly brackets.
+<f99r.45,@Lc>     <!94a>yteoldy
+<f99r.46,@Lf>     <!94b>tolsasy
+#
+<f99r.47,@P0>     <%>tol,keey.ctheey
+<f99r.48,+P0>     ykeol.okeol.ockhey.chol.cheodal.okeo,r,alcheeg.orar
+<f99r.49,+P0>     okeeey.keey.keear.okeey.daiin.okeol,s.aiin.olaiir.oolsal
+<f99r.50,+P0>     qokeeo.okeey.qokeey.okesy.qokeeo.sar.sheseky.or.al
+<f99r.51,+P0>     yshaiin.{ykh}ey.octhey.dy,daiin.okor.okeey.sh{cty}sh
+<f99r.52,+P0>     ychor.ols.or,agairom<$>
+#
+#

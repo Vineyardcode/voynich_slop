@@ -1,0 +1,26 @@
+# Voynich Manuscript — Folio 15v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f15v>     <! $Q=B $P=N $F=y $B=2 $I=H $L=A $H=1 $C=1>
+# page 28
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Herba Paris (liliacesus), Herba Mortis
+# Leaves = Aconitum / Paris Quadrifolia (O'Neill)
+#
+<f15v.1,@P0>      <%>poror.orshy.choiin.dtchan.opchordy
+<f15v.2,+P0>      @138;chor.or.oro.r,aiin.cthy.[?:t]ain,dar
+<f15v.3,+P0>      cthor.daiin.qokor.okeor.okaiin
+<f15v.4,+P0>      doiin.choky.shol.qoky.qotchod
+<f15v.5,+P0>      otchor.chor.chor.ytchor.cthy.s
+<f15v.6,+P0>      qotchey.choty.kaiin.otchy.r.aiin
+<f15v.7,+P0>      {co}y.cho[iin:iir].sho.[?:s].chy.s.chy.tor.ols
+<f15v.8,+P0>      ytchor.chor.ol.oiin.oty.shol.daiin
+<f15v.9,+P0>      otchol,octhol.chol.chol.chody.kan
+<f15v.10,+P0>     sor.chor.cthoiin.cthy.qokaiin
+<f15v.11,+P0>     sol,oiin.cheor.chol.daiin.cthy
+<f15v.12,+P0>     daiin.cthor.chol.chor<$>
+#
+#

@@ -1,0 +1,29 @@
+# Voynich Manuscript — Folio 22v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f22v>     <! $Q=C $P=L $F=x $B=3 $I=H $L=A $H=1 $C=1>
+# page 42
+# herbal
+# Currier's language A, hand 1
+#
+<f22v.1,@P0>      <%>pysaiinor.ofchar.oky.tchy.otdy<->sor.shy.qo'd
+<f22v.2,+P0>      daiin.y,kaiin.qotchy.kchy.[o:y]tchyd<->dshor.ychy
+<f22v.3,+P0>      qoky.kchorl.otchy.cthy.otchyky<->ytchol.otam
+<f22v.4,+P0>      otchaiin.shoty.qoky<->saiin<->odaiin.ytaiin
+<f22v.5,+P0>      dor.y,kcheor.daiin<$>
+#
+<f22v.6,+P0>      <%>fshor.shy,tchor.otaiin
+<f22v.7,+P0>      ychor.chor.qokchol.chory
+<f22v.8,+P0>      qotchy.cthy.qokol.daiin.dam
+<f22v.9,+P0>      okshor.shody.chol.tchol.otaiin,daiin
+<f22v.10,+P0>     qokchy.daiin.s<->or.ytal
+<f22v.11,+P0>     sokaiin.oty.dy
+<f22v.12,+P0>     ychky.daiin.cthy
+<f22v.13,+P0>     okchain.chkoldy.shotoly
+<f22v.14,+P0>     qotch[y:?].olshly.shol.daiin
+<f22v.15,+P0>     sho.cthy.chocthy.qokchy.dory
+<f22v.16,+Pc>     saiinchy.daldalol<$>
+#
+#

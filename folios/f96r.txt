@@ -1,0 +1,26 @@
+# Voynich Manuscript — Folio 96r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f96r>     <! $Q=Q $P=K $F=z $B=1 $I=H $L=A $H=1 $C=4>
+# page 199
+# herbal
+# Currier's language A, hand 4
+# Plant ID: dipsaxus, calendula (O'Neill)
+#
+<f96r.1,@P0>      <%>tor.cheeor.ckheos.olsheeosol.cpheol.cpheor.chodar
+<f96r.2,+P0>      ytol.oteeor.sheol.oteey.qokeody.qokeeody.cthey
+<f96r.3,+P0>      toaiin.{cthh}odal.chos.ckheody.keody.chodol.oty
+<f96r.4,+P0>      or.chor.chkchol.chokchor.s.or.sheockhy.choly
+<f96r.5,+P0>      daiin.chodaiin.cthey.tol.sheor.qokeol.okol
+<f96r.6,+P0>      lor.ckheey.chol.cholody.cheol.ctheor.sor
+<f96r.7,+P0>      oiir.or.ckhor.chkey.ckhocthy.or.chockhy
+<f96r.8,+P0>      ykeor.[se:sh]cheeol.sheol.qokeeey.chol.daiin
+<f96r.9,+P0>      todar.sheo.cthody.shokocfhy.chopcho.dory
+<f96r.10,+P0>     otchodol.shocthody.shockhy.otchodor.cho{cty}
+<f96r.11,+P0>     teol.cheody.shodol.qokchod<->s<->aiin.chokey
+<f96r.12,+P0>     dcheor.cheol.cheodaiin.ol<->dy<->d<->chs<->archeody
+<f96r.13,+P0>     oteodsho.qotchos<$>
+#
+#

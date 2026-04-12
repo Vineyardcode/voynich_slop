@@ -1,0 +1,72 @@
+# Voynich Manuscript — Folio 80r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f80r>     <! $Q=M $P=K $F=v $B=5 $I=B $L=B $H=2 $C=2>
+# page 157
+# biological
+# Guy p213 (who calls it f80v), Bennett p189
+# Currier's language B, hand  2
+# queens on top
+#
+<f80r.1,@Ln>      toroly
+<f80r.2,=Ln>      olchdy
+<f80r.3,=Ln>      okaly
+<f80r.4,=Ln>      okolo
+<f80r.5,=Ln>      okary
+<f80r.6,=Ln>      opor
+<f80r.7,~Ln>      olky
+<f80r.8,=Ln>      otalshedy
+<f80r.9,~Ln>      okar
+<f80r.10,+Ln>     okan
+<f80r.11,@P0>     <%>pdol.fshedy.{q@207;}polkain.octhor.okchdy.qokeedy.qopcheol<->olkoiin.y,darshey
+<f80r.12,+P0>     dykshy.ol,otchedy.qokain.qotain.chckhey.qokain.okal.qotain.okedy.qo,l,r
+<f80r.13,+P0>     tchedy.qotair.cheol.qokal.qokal.cheety.qokaiin.qokar.qokain.chedy.qokam
+<f80r.14,+P0>     solkain.shl.lky.chcthy.qokain.qotchy.qotal.dy.chckhy.lchey.qotar.otal
+<f80r.15,+P0>     qokedy.qokeedy.checkhy.olchedy.qokain.chey.qokechckhy.otar.cheoltain.sy
+<f80r.16,+P0>     solchedy.qokeedy.qokar.ol.chedy.qokain.shecthy.qokeedy.saltar.chkain.oty
+<f80r.17,+P0>     solky.sheckhy.sheky.shkeol.qokar.sheky.chetain.ol.olkar.okain.sheky.qokal.da[?:y]
+<f80r.18,+P0>     paiin.sheol.qokain.chety.qokeedy.qokar.shcthy.qotol.shecthy.qokain.olkam
+<f80r.19,+P0>     dcheol.shedy.qok[ee:a]l.qotaiin.chtal.schcthy.qokal.chcthy.qokain.okain.oloky
+<f80r.20,+P0>     qoteedy,keey.qokain.chckhy.qoty.dalched.otain.shedy.qokair.shey.dalom
+<f80r.21,+P0>     shedy.qokey.shckhey.qotar.chckhy.otol.teol.sheol.qotal.oltain.chcthy
+<f80r.22,+P0>     qokeedy.qol.shecthy.qokalkeol.qoky.qokal.shedy.sal.olkain.shey.qokl
+<f80r.23,+P0>     yshey.l.shey,kaiin.lor.aiiin.shcthy.pchey,ty.ol.keedy,tar.oky.lar
+<f80r.24,+P0>     lol.chey.[r:?]chy.r,ol.dain.oty.qoty.otalor.sheckhy.olkeey.ral.chedy[o:a]r
+<f80r.25,+P0>     dar.sheal.cheeky.okain.sol.lshedy.dol.checthy.orol.eeesal.olo.teol.ory
+<f80r.26,+P0>     lchol.dar.shecthy.otedy.qol.olcheedy.opcheeky.qotchy.qokaiin.otair.olky
+<f80r.27,+P0>     lol.shar.otaiin.olkaiin.ol.olkain.oraiin.olor.checthy.olor<$>
+#
+<f80r.28,+P0>     <%>pcheolkal.dal.korchy.qotey.qoty.rchedy.qokal.olkolshedy.chty
+<f80r.29,+P0>     okchey.qoky.chedy.qokain.shedy.qol.sheey.qokal.dar,ary
+<f80r.30,+P0>     dshedy.qokal.chcthy.qokain.shedy.okaiin.shey.dainol
+<f80r.31,+P0>     qokal.checthy.sol.chey.okalol.okaly.qokeedy.oly
+<f80r.32,+P0>     solchey.qoky.r.cheykain.sheckhy.qokain.okain.ol
+<f80r.33,+P0>     solchey.qokeey.lkar.otal.olkeey.okain.shecthy.ol<$>
+#
+# Stream of blue liquid
+<f80r.34,+P0>     <%>{c@132;h}{c@133;h}ey.rcheky.shepchedy.qokar.ol.qockhey.olchey.qokedy.koroiin.y
+<f80r.35,+P0>     olkeey.l,sheol.qokeey.shedy.qol.shedy.qokain.shey.qoty.qokain.qokady
+<f80r.36,+P0>     qokeey.rchey.tain.oteey.qokain.shekaiin.sheckhy.qolshey.qokain.ol.lom
+<f80r.37,+P0>     sol.olkeeey.otar.orchey.qokeey.ltalor.olor.qokaiin.ol.shey.qotor,alom
+<f80r.38,+P0>     sor.olky.qoty,ty,tor.sheyky.t,otol.opchedy.qokain.sheky.qokain.ol
+<f80r.39,+P0>     qokeedy.qokail.oteey.otain.shedy.ykeey.rar.[a:o]lshees<$>
+#
+<f80r.40,+P0>     <%>torolshsdy.opchey.shepchy.qotain.shcthy.qokedy.daly
+<f80r.41,+P0>     tolkain.otal.chedy.qokar.ol.shedy.checkhy.or,oly
+<f80r.42,+P0>     y,cheeytal.checthy.qokain.qokain.checthy.qokain.ol
+<f80r.43,+P0>     sor.sheckhy.qokar.checkhy.okain.sheckhy.qokeey.ly
+<f80r.44,+P0>     qokain.shckhy.qokolkain.chedy.qokain.checthy.lor
+<f80r.45,+P0>     okain.shedy.qokan.chedy.qotain.cheky.lteey.lolom
+<f80r.46,+P0>     qokain.cheey.olkain.shedy.qokain.orol.s<$>
+#
+<f80r.47,+P0>     <%>polchy.efaloir.okain.okaiin.cheey,kaiin.ylor.olkeey.qokal
+<f80r.48,+P0>     sal.shy.loiin.cheey.qotl.shety.sheoky.qokaiin.cheey.ram
+<f80r.49,+P0>     t[iiin:ain].chey.ral,k[ar:ir].chey.lkl.ol.shees.okaiin.olky,oklor
+<f80r.50,+P0>     lol.chey.saiin.shety.okaiiin.sheor.tchey.lkaiin.okainy
+<f80r.51,+P0>     talkl.ol.s,al.cheoly.daiin.otaly.otain.chey.lkain.olom
+<f80r.52,+P0>     sol,tl.shey.qoklcheey.lkaiin.ol.olor.aiin,y,daiin.cheol,kain
+<f80r.53,+P0>     lol.eey.lchey.qokal.cheol.lchor.otlol<$>
+#
+#

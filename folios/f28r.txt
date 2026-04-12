@@ -1,0 +1,22 @@
+# Voynich Manuscript — Folio 28r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f28r>     <! $Q=D $P=G $F=d $B=4 $I=H $L=A $H=1 $C=1>
+# page 53
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Arum or Arisarum (Haselwurtz)
+#
+<f28r.1,@P0>      <%>pchodar.shod.chocphy.opchol.daiin<->otchol.chy.qo,ldy
+<f28r.2,+P0>      otchor.otchor.cthol.{ct}y.ctheol.dy<->dchar.chakod.dly
+<f28r.3,+P0>      qotchaiin.shor.cthol.cthol.shor<->chotchy.tchodar
+<f28r.4,+P0>      choty.chtol.otol.chotchy.cthol<->otol.choky.qoty
+<f28r.5,+P0>      oksho.otorchy.kchoror.chodaiin<->sho,cthody.okoy
+<f28r.6,+P0>      qokchol.qodaiin.otcholchy.daiin<->cho.qokol.o,kam
+<f28r.7,+P0>      sho.otor.shockhy.shocthy.otoldy<->dshor.dol.dar
+<f28r.8,+P0>      oschotshl.daiin.okchey.kol.daiin<->shol.dsho.otaiin
+<f28r.9,+P0>      ytchol.deey.yteol.deaiin<$>
+#
+#

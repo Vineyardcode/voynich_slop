@@ -1,0 +1,67 @@
+# Voynich Manuscript — Folio 84r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f84r>     <! $Q=M $P=S $F=z $B=1 $I=B $L=B $H=2 $C=2>
+# page 165
+# biological
+# Newbold VI, Zimansky; Public baths
+# Currier's language B, hand 2
+#
+# For nymph labels: Petersen ID in comments
+<f84r.1,@Lt>      <!1>ololal
+<f84r.2,@Ln>      <!2>or.shekar
+<f84r.3,+Ln>      <!3/low>ydy
+<f84r.4,@Ln>      <!3/high>okedy
+<f84r.5,=Ln>      <!3/high>loly
+<f84r.6,@Ln>      <!4>doiir
+<f84r.7,=Ln>      <!4>olshy
+<f84r.8,@Ln>      <!5>otedy
+<f84r.9,=Ln>      <!5>lkol
+<f84r.10,@Ln>     <!6>okolshy
+<f84r.11,@Ln>     <!7>otoly
+<f84r.12,@Ln>     <!8>dshedy
+<f84r.13,@P0>     <%>kol.chedy.qokeey.otedy.dytedy.okeedy.olshed.opshed.ykshedy.qotedy.opoly
+<f84r.14,+P0>     tol.or,sheey.chckhdy.schckhy.dal.y,shedy.otedy.qol.or.ol.eedy.qokeey.or,oly
+<f84r.15,+P0>     qokeey.dar.shedy.qokedy.qokeedy.qokedy.chedy.okain.chey.qokedy.dar.olardy
+<f84r.16,+P0>     tor.shedytedy.o'l.ol,cheol.shedy.shckhy.qokal.olkedy<$>
+#
+<f84r.17,+P0>     <%>pchol.cphol.sol,teol.tedy.qotedy.qokeedy.qokeey.ol,keedy.teyqokedy.qopor.oly
+<f84r.18,+P0>     otchy.olshedy.qokedy.shedy.okedy.shckhy.chckhy.olchey.schey.dal.chckhy.ral
+<f84r.19,+P0>     qokey.sol.yqokain.qolkeey.qotedy.qokain.shedy.salchedy<$>
+#
+<f84r.20,+P0>     <%>psholpchcfhdy.qokeedy.dy.qokedy.daiin.shckhedy.qokaiin.checthy.dar.checthy.am
+<f84r.21,+P0>     qokaiin.chol.cheky.okal,y,chey.okal.chedy,tor,y.otshedy.qokey.l,shedy<$>
+#
+<f84r.22,+P0>     <%>qotchsdy.ykeedy.qokal.ol.shedy.qokedy.qokeedy.qokeedy.chedy.raiin.chey.otar,dar
+<f84r.23,+P0>     dar.sheor.shcthy.qokeor.qotedy.rshedy.qolchey.oteey.qol.shedy.ol.dain.ol,or
+<f84r.24,+P0>     pol.tar.shedy,qokedy.okal.shey.qokar,chckhy.otchey.qokchedy.chey.qokaiin
+<f84r.25,+P0>     pchedy.qotchedy.otaiiin.chcthy.shedy.otedy.qoty.qotedy.ol,okedy.otedy.ram
+<f84r.26,+P0>     qotol.sh{cthh}y.oty.dar.shcthy.schdy.qokeedy.olkey<$>
+#
+<f84r.27,+P0>     <%>p[a:o]lchd.@146;chedy.shcthy.olky.dar.opalkaiin.o,qofchedy.or,aiiin.ofoly.oroly
+<f84r.28,+P0>     sar.ol.olaiin.y,qol,y,qor.or.ckhedy.chkedy.okain.shedy.qokolchedy.olain
+<f84r.29,+P0>     qokeedy.okeey.dar.olchedy.qsolkeedy.rar.checkhy.otar.chedy.olchcthy.lor
+<f84r.30,+P0>     dchdy.qokedy.ol,chckhy.olchdy.sar,or.ykeedy.chetey.rain.shedy.shekam
+<f84r.31,+P0>     ykchdar.or.arar.shedy.qokal.daiin.shedy.olkedy.qokedy.qoky.chedy.daiin
+<f84r.32,+P0>     qotar.ytedy.tedy.dar.olkedy.qotedy.shckhy.chtol.tedy.dar.or,oly
+<f84r.33,+P0>     shol.tchdy,tedy.ykain.shey.cheol,y,tedy.ol,kedy.okedar.ol,keed,ol,ary
+<f84r.34,+P0>     dsheyteey.sor.ol.shedy.daraldy.otedaiin.shckhchy.chckhy.daiin,aryly
+<f84r.35,+P0>     qokal.daiin.dain.otey.cheor.air.shckhy.or,air,oro<$>
+#
+<f84r.36,+P0>     <%>shey.dar.shey.dain.aiin.shedy.orol,ykar.okedy.qoky.chedy.okedar.chey.alol
+<f84r.37,@P1>     qoteedy.qokol.otedy.shedy.qokeedy.dal,ol,dam
+<f84r.38,+P1>     s,or,olchdy.lshedy.qokchy.dol.otedy.ytchor,olky
+<f84r.39,+P1>     dshedy.sheedy.qokedy.chedy.teedy.qokeedy
+<f84r.40,+P1>     qokeedy.dkedy.olshedy.qokal.shckhy.olkeedy
+<f84r.41,+P1>     dsheedy.oteedy.qotar.chekar.orshedy.saiin
+<f84r.42,+P1>     okaiin.otchdy.qokain.shedy.qokeey.qotedy
+<f84r.43,+P1>     qokain.otchedy.skeey.rcheky.dal.okeedy
+<f84r.44,+P1>     ykedy.qotedy.chcthy.ol,chcthy.dar.ar,ory
+<f84r.45,+P1>     yteolchedy.qokor.shekedy.okedy.{cthh}y.dam
+<f84r.46,+P1>     d[ch:?]edy.qokedy.ar.oror.okedy.okedy<$>
+#
+<f84r.47,@Lt>     <!33>otaly
+#
+#

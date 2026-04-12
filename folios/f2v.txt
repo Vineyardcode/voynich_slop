@@ -1,0 +1,23 @@
+# Voynich Manuscript — Folio 2v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f2v>      <! $Q=A $P=D $F=b $B=2 $I=H $L=A $H=1 $C=1 $X=O>
+# page 4
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Collocasia, Egyptian lotus, Nymphoides Peltata (R. Zandbergen)
+# Just 8 lines, all cut by plant
+#
+<f2v.1,@P0>       <%>kooiin.cheo,pchor.otaiin,odain.chor<->dair.shty
+<f2v.2,+P0>       kcho,kchy.sho.shol.qotcho.loeees.qoty<->chor.daiin
+<f2v.3,+P0>       otchy.chor.lshy.chol.chody.chodain<->chcthy.daiin
+<f2v.4,+P0>       sho.cholo.cheor.chodaiin<$>
+#
+<f2v.5,+P0>       <%>kchor<!mark above o>.shy.daiiin.ch{cko}m<->s,shey.dor,chol,daiin
+<f2v.6,+P0>       dor.chol.chor.chol.keol.chy.chty<->daiin.o,tchor.chan
+<f2v.7,+P0>       daiin.chotchey.qoteeey.chokeos<->chees.chr.cheaiin
+<f2v.8,+P0>       chokoishe.chor.cheol.chol.dolody<$>
+#
+#

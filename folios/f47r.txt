@@ -1,0 +1,25 @@
+# Voynich Manuscript — Folio 47r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f47r>     <! $Q=F $P=M $F=y $B=2 $I=H $L=A $H=1 $C=1>
+# page 91
+# herbal
+# Curriers language A, hand 1
+# Plant ID: Indian cucumber?
+#
+<f47r.1,@P0>      <%>@159;chair.oly.sheaiin.shol.daiin.chdy
+<f47r.2,+P0>      chokchol.chol,choldy.dair.cha[d:j],aiin
+<f47r.3,+P0>      dor.chol.chy.chaiin.ckhey.chol.dain.okaiin
+<f47r.4,+P0>      qokcheo.cthey.chokain.chol.daiin.kchdal
+<f47r.5,+P0>      dain.olshey.chokolg<$>
+#
+<f47r.6,+P0>      <%>folr.chey,so.chol.shol,aiin.shol.shol.chdy.cholol
+<f47r.7,+P0>      schesy.kchor.cthaiin.chol.chol.chol.chor.{ck@191;h}ey
+<f47r.8,+P0>      shokeey.chy.tchod.choy.sho.chtchy.@161;char.ctham
+<f47r.9,+P0>      qoko,kor.chaiin.okal.chol.daiin.okcho,kcho[r:s]sy
+<f47r.10,+P0>     shy.otcho.keey.tor.chey.otchy.tchol.dain.dam
+<f47r.11,+P0>     dsho.cphy.daiin.daiiny<$>
+#
+#

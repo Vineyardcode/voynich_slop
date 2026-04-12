@@ -1,0 +1,96 @@
+# Voynich Manuscript — Folio 70v (part)
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f70v1>    <! $Q=J $P=H $F=z $B=1 $I=Z $H=4 $X=M>
+# page 136
+# Aries (dark)
+# Gathering mark 10
+# Two concentric circles of text. In the centre is the astrological
+# symbol for Aries (dark) eating a plant, word "Abril" in the Roman
+# alphabet. Abril is Spanish for April, Aries is March 20th to April 20th.
+#
+<f70v1.1,@Cc>     <!11:00>dalalody.oteoshey.okoksheo.shokey.raiin.otor.ochy.s.a[ir:is].cheody.cheey.oteo,[ch:ee]y.daiir.chcthy.dlal.oteodaiin.ykeody.oteody.sheo.daiin.oteedy.chetalchs.zar.shoteeody.okeeo,dal.cheody.okchoteees.oteeody.cheokeo.otaiin.shes.to,ar.oly.daly.sheal
+# Nymph labels, outer ring:
+<f70v1.2,@Lz>     <!10:30>otalchy.tar.am.dy
+<f70v1.3,&Lz>     <!00:00>opchey.sal
+<f70v1.4,&Lz>     <!01:00>otakaizan
+<f70v1.5,&Lz>     <!02:30>okalal
+<f70v1.6,&Lz>     <!03:30>otaly
+<f70v1.7,&Lz>     <!04:30>oalcheg
+<f70v1.8,&Lz>     <!06:00>otchodals
+<f70v1.9,&Lz>     <!07:00>okolshy
+<f70v1.10,&Lz>    <!08:00>otshshdy
+<f70v1.11,&Lz>    <!09:00>otal.ypsharal
+<f70v1.12,@Cc>    <!11:00>daiin.okey.otodal.cheokeeo.okeodal.shol.olaiin.saiin.sheo.qokeeol.otchykey.chekeal.oteosaiin.chekey.okeolol.chees.o?eey.opotey.dal,al,s.otecheo.dal
+#
+# Nymph labels. It is assumed that the text to the right of the nymph belongs
+# with it but on this page (especially inner circle) it is not entirely clear.
+# Clock position is that of nymph (approx). Ordering cf. ThP.
+# Inner ring:
+<f70v1.13,@Lz>    <!10:30>okoly
+<f70v1.14,&Lz>    <!00:00>otalaiin
+<f70v1.15,&Lz>    <!02:00>oteo.alals.araly
+<f70v1.16,&Lz>    <!05:00>oteoeey.otal.okealar
+<f70v1.17,&Lz>    <!08:00>otear.araydy
+#
+#
+
+<f70v2>    <! $Q=J $P=G $F=z $B=1 $I=Z $H=4 $X=M>
+# page 135
+# Pisces
+#
+# General description of page:
+# Three concentric rings of text. In the centre are two fish (the astrological
+# symbol for Pisces), two stars, a ``word'' of Voynich text and the word Mars
+# in the Roman alphabet. Mars is French for March, Pisces is February 20th to
+# March 20th.
+#
+# Between the inner ring and the middle ring are ten female(?) figures, each
+# beside a barrel and holding a star. Between the middle and the outer ring
+# are 19 (NOT 20) female figures, each standing in a barrel and holding a star
+# Each of the figures in the 29 figures is labelled with a "word" or phrase
+# of Voynich text.
+#
+<f70v2.1,@Cc>     <!10:30>okcheo.dar.otey.ykeey.tchy.otsheo.oteotey.she[y:o].shecth.opcheoldair.dateey.sal.ody.choteey.choeteedy.oteoteotsho.yteos.alain.sheodaly.{c@162;h}o.aiin.cholkal.chokear.oteody.cholaiin.oteeoal.al.sheeos.okey.chol,dy.otees.cho.s.ola[r:n].otoaiin.oteeody.sos.todaiin.chokain.otalal.oteeam
+# Nymph labels, outer ring:
+<f70v2.2,@Lz>     <!09:00>otalalg
+<f70v2.3,&Lz>     <!10:00>ykary
+<f70v2.4,&Lz>     <!10:30>otar?
+<f70v2.5,&Lz>     <!11:00>oty
+<f70v2.6,&Lz>     <!11:30>oky.ody
+<f70v2.7,&Lz>     <!00:00>oty.ar
+<f70v2.8,&Lz>     <!00:30>okala
+<f70v2.9,&Lz>     <!01:00>otody
+<f70v2.10,&Lz>    <!01:30>otald
+<f70v2.11,&Lz>    <!02:00>otaldar
+<f70v2.12,&Lz>    <!02:45>okody
+<f70v2.13,&Lz>    <!03:15>opysam
+<f70v2.14,&Lz>    <!04:00>ch{ckhh}y
+<f70v2.15,&Lz>    <!04:30>otaly
+<f70v2.16,&Lz>    <!05:30>otal.arar
+<f70v2.17,&Lz>    <!06:30>otaldy
+<f70v2.18,&Lz>    <!07:00>okeoly
+<f70v2.19,&Lz>    <!08:00>okydy
+<f70v2.20,&Lz>    <!08:30>okee[s:r]
+<f70v2.21,@Cc>    <!09:00>daii@197;amdy.otar.am.aral.otair,chedaiin.oteey.dair.shchey.daiin.chalaly.oteody.chotol.chedy.oteotey.oteeeor,ar.alody.daiir.oteedar.oteey.teey.dalal.cheoltey.oteedy.sheeteey.?okeeol.ykeeos.shey.ykair.arar.alos
+#
+# Nymph labels. Clock position is that of nymph (approx).
+# Ordering cf. ThP.
+# Inner ring:
+<f70v2.22,@Lz>    <!10:00>otar.am
+<f70v2.23,&Lz>    <!11:00>otar,al
+<f70v2.24,&Lz>    <!00:00>otalar
+<f70v2.25,&Lz>    <!01:30>otalam
+<f70v2.26,&Lz>    <!03:00>dolaram
+<f70v2.27,&Lz>    <!04:00>okaram
+<f70v2.28,&Lz>    <!05:00>oteosal
+<f70v2.29,&Lz>    <!06:30>salols
+<f70v2.30,&Lz>    <!08:00>okaldal
+<f70v2.31,&Lz>    <!09:00>ykolaiin
+<f70v2.32,@Cc>    <!09:00>otal.daly.oteoal.dal,aildy.otaiin.ar.oteey.shal.o.qoteeal.ar.al.otaiin.al.teodaiin.oteeo,cthey.oteeos.oteos.aiin.daim
+# Central star:
+<f70v2.33,@Lz>    otolal
+#
+#

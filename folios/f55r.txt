@@ -1,0 +1,26 @@
+# Voynich Manuscript — Folio 55r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f55r>     <! $Q=G $P=M $F=y $B=2 $I=H $L=B $H=2 $C=2>
+# page 107
+# herbal
+# Currier's language B,  hand 2
+#
+<f55r.1,@P0>      <%>podaiin.shekchy.qofair.okar.yk.[{oh}:ch]epaiin.qokchdy.os.arod
+<f55r.2,+P0>      okair.or.aiin.chody.ykair.y.qokar.okar.ol.ykar.ar.al
+<f55r.3,+P0>      ykaiir.chol.chky.okar.chky.chdy.qokar.okaiin.chckhy.s.aiin
+<f55r.4,+P0>      daiin.or.orol.char.ar.kaiin.okchd.ykar.odaiin.chdolaiin
+<f55r.5,+P0>      y.or.aiin.okal.chol.kchoy.pchtchdy.o[{ck}:ek]aiin.oka[s:r]or.olkam
+<f55r.6,+P0>      tcho,daiin.sho.ke@166;y.kedy.okol.chdy<$>
+#
+<f55r.7,+P0>      <%>tchedar.che[o:a]l,kedy.chody.kshdy.qotchdy.qokchdy.olkardam
+<f55r.8,+P0>      dchykey.char.chek.xar.odas.xaloeees.cpheody.qokeeody
+<f55r.9,+P0>      dain.cheky.dar.chckhy.dal.qoko.lkeedy.dar.kaiin.dy.ka[g:m]
+<f55r.10,+P0>     dair.okal.qokar.or.[o:a]r@193;.o.ar.odaiin.okeey.darchd.ol
+<f55r.11,+P0>     l[{oh}:ch]or.chey.keedy.dy.qokal.oka[m:j].dal,shdy.otal.otaldiin
+<f55r.12,+P0>     oain.ckhy.dl.oiiin.daiin.okaiin.chelal.qokaiin.okain.r
+<f55r.13,+P0>     lchdal.ockhy.daiin.otol.otar.shar,ain<$>
+#
+#

@@ -1,0 +1,83 @@
+# Voynich Manuscript — Folio 89v (part)
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f89v1>    <! $Q=O $P=J $F=y $B=2 $I=P $L=A $H=1>
+# page 186
+# pharmaceutical
+# Currier's language A
+# two rows of plants, at top and bottom of page. 2 paras in between
+#
+<f89v1.1,@Lc>     okoraldy
+<f89v1.2,@Lf>     oto{ikh}y
+<f89v1.3,@Lf>     otchar
+<f89v1.4,@Lf>     darshody
+#
+<f89v1.5,@P0>     <%>koldal.sfal.cfhey.ofcheol.opolsy.daiin.qopol.<!tear>oldaiin.octhody
+<f89v1.6,+P0>     dor.sheey.qokol.cheol.cthody.qockhy.dain.yteey.otar.cthol
+<f89v1.7,+P0>     qokey.daiin.cheey.ctho,dy.qoor.shear.s,ol.chor.chearory
+<f89v1.8,+P0>     shockhey.orarol.cheoky.qoy,chodair.choky.daiin.otarokar
+<f89v1.9,+P0>     to{chh}o.cthor.okol.chekaiin.os.aiin.ol.cheokchey.qokoiiin.du
+<f89v1.10,+P0>    tor.sheor.cheeor.cthey.qokol.daiin.chekal.dals.chear.qotam
+<f89v1.11,+P0>    osheokaiin.s,ain.ol.shodain.qokar.ain.chekal.daiin.dar
+<f89v1.12,+P0>    qokar.odaiin<$>
+#
+<f89v1.13,+P0>    <%>tosheo.fcheody.shekey.or,shos.oiir.cphey.qokeody.cheody.daldy
+<f89v1.14,+P0>    ykeey.ykeey.odal.shoky.okol.chody.okoaiin.dal,chdy.daldaldy
+<f89v1.15,+P0>    dcheo{cy}.daiin.cthol.daiin.daldy.okeor.ytey.keor.cheyty.ochy
+<f89v1.16,+P0>    qokaiin.ykchol.qockhy.okaldy.okal.dal.chodar.okaiin.dalg
+<f89v1.17,+P0>    sal.shol.ykol.daram.sholckhy.dolchey.dalshdy.okeol.dalchy
+<f89v1.18,+P0>    qokol.sheol.qokol.dal.chol,dam.qoeey.saiin.ols.chokaiin
+<f89v1.19,+P0>    sar.a.da[iin:?].ckhy.qotchy.okol.ycheo.cthody.okol.olkaycthy
+<f89v1.20,+P0>    sol,chey.okchol.sair.daiin.okal,choldy<$>
+#
+<f89v1.21,@Lc>    koeeorain
+<f89v1.22,@Lf>    otorshos
+<f89v1.23,@Lf>    opol,olaiin
+<f89v1.24,@Lf>    opaldaiin
+#
+#
+
+<f89v2>    <! $Q=O $P=I $F=y $B=2 $I=P $L=A $H=1>
+# page 185
+# pharmaceutical
+# Currier's language A
+# This is a page-and-a-half (one fold over which the text continues).
+# It has 3 rows of small, complete plants and 3 paras of text
+#
+<f89v2.1,@Lc>     choeesy
+<f89v2.2,@Lf>     okam
+<f89v2.3,@Lf>     darcheor
+<f89v2.4,@Lf>     chokaro
+<f89v2.5,@Lf>     sheol
+<f89v2.6,@Lf>     chokam
+#
+<f89v2.7,@P0>     <%>kosar.sheol.s,aiin.koiin.chtodaiin.pdiin.choty.qofoiin.dy.qopdal.doiir.ofaiin.ol,cfheol,dam
+<f89v2.8,+P0>     dain.ykodaiir.okor.chear.otees.eeckhy.s.aiin.ckhey.otaiin.okar.dain.okol.ol.chor.dar
+<f89v2.9,+P0>     ychey.okeey.qoeol.daiin.chor.chos.cheos.qol,e,eeey.dal.chody.cheor.chey.qoaiin.chody
+<f89v2.10,+P0>    dair.or.cheol.chom.qol.cheo.lcho.l.or.cheo,daiin.chkam<$>
+#
+<f89v2.11,@Lc>    otory
+<f89v2.12,@Lf>    otair.chody
+<f89v2.13,@Lf>    dykaran
+<f89v2.14,@Lf>    opcheedey
+#
+<f89v2.15,@P0>    <%>sor.oairar.sheety.chodor.kory.oeear.eais.sheotain.ytodaiin
+<f89v2.16,+P0>    o,cthos.okaiir.okeos.dar.s.siin.ykeody.dar.okal.dal.dosal.dar.am
+<f89v2.17,+P0>    y,{ch'}eo.qokeeol.chey.sair.dam.chy,for.opodaiin.dam.sa[s:r]y.qodam.yteos.aiin
+<f89v2.18,+P0>    yokor.chor.cthy.daiin.chos.chey.dar.aiin,choeeer.okar.chcthy.darai[?:l]s<$>
+#
+<f89v2.19,+P0>    <%>toar.qokeeody.doef.shey.dair.olsheos.psheoepoain.daiin.qekor.okeor.otol,sheey.daldaiin
+<f89v2.20,+P0>    dol.dair.chey.okaiin.shy.daiin.odor.sheos.aiin.daikeody.qokorar.sheody.qoko.ltcheody.otal
+<f89v2.21,+P0>    dar.qockhy.qokal.okeoy.chockh[:y].daiin.odaiin.ykeody.okols,sheey.keeody.daiin.qokos.okeom
+<f89v2.22,+P0>    ockhody.daiin.ykam.s.chty,chy.cthey.dair,air.chool.loy.dair.cheo,daiin<$>
+#
+# Petersen loci of next labels in curly brackets
+<f89v2.23,@Lc>    <!58a>opaloiiry
+<f89v2.24,@Lf>    <!58b>otaram
+<f89v2.25,@Lf>    <!59a>chtchy
+<f89v2.27,@Lf>    <!60>sada?
+<f89v2.28,@Lf>    <!61>daseky
+#
+#

@@ -1,0 +1,35 @@
+# Voynich Manuscript — Folio 35v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f35v>     <! $Q=E $P=F $F=c $B=3 $I=H $L=A $H=1 $C=1>
+# page 68
+# Currier's language A, hand 1
+# herbal
+# Plant ID: uva quercia (vitis), oak/quercus, gall apple?
+# grape vine?, oak tree (RZ)
+#
+<f35v.1,@P0>      <%>parchor.chocthy.roaiin.ar
+<f35v.2,+P0>      qotchy.o,tchey.kchor.yty
+<f35v.3,+P0>      dchor.choty.chyty.daiin
+<f35v.4,+P0>      ytchy.qotchy.dchy.cthy
+<f35v.5,+P0>      dchokchy.chocthy.chckhor
+<f35v.6,+P0>      shol.tcheey.chkcheeu.chcthaiin
+<f35v.7,+P0>      tcho,tchor.shol.sho.{co},kol.daiin
+<f35v.8,+P0>      oaiin.tchor.cho.chotchy.dchold
+<f35v.9,+P0>      qokchaiin.cho.ksho,l,choiin
+<f35v.10,+P0>     okcheey.chosar.shory
+<f35v.11,+P0>     qotcheeaiin.chodaiin
+<f35v.12,+P0>     dchaiin.d.aiin.d.aiin,dal,s
+<f35v.13,+P0>     ol.char.od.ar.chear
+<f35v.14,+P0>     tcheain.shy.tar.dain
+<f35v.15,+P0>     ykol.cheol.okchy.tch
+<f35v.16,+P0>     ydaiin.okeey.d,aiin
+<f35v.17,+P0>     daiin.dain.chkaly.choly
+<f35v.18,+P0>     daiin.qokeeeb.chokee[o:y].r
+<f35v.19,+P0>     schokey.y,keol.chol.daiin
+<f35v.20,+P0>     sodaiin.shy.dchy.ckhy.dan
+<f35v.21,+P0>     doiin.chor.chor<$>
+#
+#

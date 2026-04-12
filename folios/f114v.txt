@@ -1,0 +1,76 @@
+# Voynich Manuscript — Folio 114v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f114v>    <! $Q=T $P=T $F=x $B=3 $I=S $L=B $H=3>
+# page 231
+# text only / stars
+# Currier's language B
+#
+# Light star, 7 points, tail
+<f114v.1,@P0>     <%>pchdol.dar.chedain.chodalr.fcheey.dchedy.qocphdy.otdady.qotedar.daiin
+<f114v.2,+P0>     dshedal.qoteody.choddy.otol.chedal.otain.chedol.chedain.shedy.qotched.dl
+<f114v.3,+P0>     oeos.qotcheo.odain.qotain.otar.qotchd.dol.qotchedy.choty.ol.lchdaiin.dal
+<f114v.4,+P0>     qokedy.cheocthedy.qoted.qotedol.chedar.qotedy.okeedy.daiin.chedaiin.oky
+<f114v.5,+P0>     chedy.qokeedy.okaly.cheedain.shedy<$>
+#
+# Light star, dotted, 7 points, tail
+<f114v.6,+P0>     <%>tedcheo.cheo.cthedy.qotchedy.qotaiin.opchedy.shedy.qepoepy.chedar.dairy
+<f114v.7,+P0>     ytedshedy.otaiin.cheedar.ch[ee:eo]y.s.aiin.chedky.chedaiin.shod.chokchedy<$>
+#
+# Light star, 7 points, tail
+<f114v.8,+P0>     <%>pchedchdy.qoteedy.qokedain.chdaiin.qokedy.chedain.qoeedy.qotey.qotaiin
+<f114v.9,+P0>     soes.oeeos.aiin.olkeey.keol.qotcheedy.qockhed.skaiin.sheedy.qotal.chedy
+<f114v.10,+P0>    olkees.chedaiin.qotaiin.olchedaiin.chedain.dain.chcthdy<$>
+#
+# Light star, dotted, 7 points, tail
+<f114v.11,+P0>    <%>tchedy.qotaiin.chdy.qotedy.tedaiin.chepched.otol.shedain.pol.otam
+<f114v.12,+P0>    ochedy.choaiin.ch{cty}.chedal.daiin.ytar.otchedy.qotaiin.dain.dar,[y:q]og
+<f114v.13,+P0>    sheedy.qoteeo,s,oiiin.chcthain<$>
+#
+# Light star, 7/8 points, tail
+<f114v.14,+P0>    <%>tsheodar.cheo.ckhor.qopchedy.qopchedy.qokchedy.shody.qotaiin.ofcheds
+<f114v.15,+P0>    ochedain.chedy.okal.chaiin.qokod.qokol.cheedy.qotody.cheol.kchedy.ldy
+<f114v.16,+P0>    ytchedy.qool.chey.ol,aiin.chedar.chdaiin.chdal.qokaiin.choky.chol.dam
+<f114v.17,+P0>    sheoal.chos.oaiir,alchedy.chcphedy.okary<$>
+#
+# Light star, dotted, 7 points, tail
+<f114v.18,+P0>    <%>dorkcheky.cheo,aiin.qotaiin.otody.qokalsheody.choypshedy.qoto.@189;shxam
+<f114v.19,+P0>    o,sh[s:?]odaiin.chotain.qotar<$>
+#
+# Light star, 7 points, tail
+<f114v.20,+P0>    <%>tshedain.qotchody.qokol.shedy.qokchedy.daiin.qofchdar.chdor.chdy.dary
+<f114v.21,+P0>    dair.cheeo.chy.chdaiin.qokedy.otcheodaiin.qokchdy.otedal.dain.aral
+<f114v.22,+P0>    ychedar.shod.qokaiin.qotchey.chockhy.olkedy.otechy.ykedckhy<$>
+#
+# Light star, dotted, 7 points, tail
+<f114v.23,+P0>    <%>pshedy.qopcheos.okaiin.qotchedy.qotchdar.cheeos.olteody.otoydy
+<f114v.24,+P0>    olkaiin.cheotaiin.qoteody.qokod.sheoeed.qodeedy.yteedy.aiin.am
+<f114v.25,+P0>    sor.aiin.otchedy.otaiin.alkain.okeedy<$>
+#
+# Light star, 7 points, tail
+<f114v.26,+P0>    <%>pcheodal.chopcheod.qoto,s.araiin.qota,l,cheo.pchdal.qoeedy.chcthey
+<f114v.27,+P0>    o,sheeo.l,kchee.okeey.qoteor.chokaiin.chdy.qokaiin.chokeey.tainary
+<f114v.28,+P0>    tchedy.shdo.qotched.chees.ar.aiin.chetam<$>
+#
+# Light star, dotted, 7 points, tail
+<f114v.29,+P0>    <%>pchdair.sho.qopchey.otcheed.chedy.qopcheo.r.ocpheody.opchdy,qopairam
+<f114v.30,+P0>    y,cheey.qooeey.qolcheey.qoteey.qotaiin.otal.otaiin.oteeo.teey.rain
+<f114v.31,+P0>    olaiin.cheo.otcheody.lkchedy.okol.okaiin.otaiin.otal.qotar
+<f114v.32,+P0>    y,cheol.oleey.cheoaiin.chetaiin.sheeodain<$>
+#
+# Light star, 7 points, tail
+<f114v.33,+P0>    <%>kaiin.sheey.oaiin.sheol.qoteey.qokeeedy.cheo,ctheey.qokeeo.lkealy
+<f114v.34,+P0>    olkeechy.ol.oaiin.aiin.chocthey.qotedal.octhy.sotey.cheos.air
+<f114v.35,+P0>    yshey.kair.yteeey.qokaiin.chckhy.chodaiin.olkaim<$>
+#
+# Light star, dotted, 8 points, tail
+<f114v.36,+P0>    <%>tshey.oidal.op.shoko.otchey.qopchol.qopaiin.qotar.al,kal.ram
+<f114v.37,+P0>    dcheey.ol.cheodaiiin.qokar.otaiin.otal.o,kaiin.chey.tar.arody
+<f114v.38,+P0>    oteey.okedaiin.otaiin.qotchey.qoteeody.otaiin.okal.dals
+<f114v.39,+P0>    qo,[?:o]eecheedy.o.kecheokeo.oteo,daiin.okaiin.choty.odaiin.otam
+<f114v.40,+P0>    eeo.cheo,y.ot[ee:a]y.qotaiin.cheo,l.oteeey.daiin.oteey.teeedy.dm
+<f114v.41,+P0>    yaiin.o?oy.[o:a]keey.cheody.qokaiin.otain.al.kain.choty<$>
+#
+#

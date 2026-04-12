@@ -1,0 +1,37 @@
+# Voynich Manuscript — Folio 6v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f6v>      <! $Q=A $P=L $F=x $B=3 $I=H $L=A $H=1 $C=1>
+# page 12
+# herbal
+# Currier's language A, hand 1
+# Plant ID: blackgum tree?, arctium? Bidens(sp?)kyptis (O'Neill),
+# (castor oil busk, ricinus?)
+# 21 lines in apparently two paragraphs
+#
+<f6v.1,@P0>       <%>koary,sar.[ch:{oh}]eekar<!funny o, @246;?>.qoor.shor.chapchy.s.chear.char.otchy
+<f6v.2,+P0>       oees.chor.chckhy.qoekchar.chea[s:r].odaiiin.kchey.chor,chaiin
+<f6v.3,+P0>       qoair.ckhy.chol.oechockhy.chekchoy.ckhy.okol<->rychos
+<f6v.4,+P0>       y,shckhy.ytchoy.s.os.y.jajy.dchy.dey.okody<->ytody
+<f6v.5,+P0>       dair.{c'ha},chodam.dam.okor.oty<->doldom<$>
+#
+<f6v.6,+P0>       <%>tchody.shocthol.cho{cthh}y.s
+<f6v.7,+P0>       ychos.ychol.daiin.cthol.dol
+<f6v.8,+P0>       ychor.chor.okchey.qokom
+<f6v.9,+P0>       oeeo,dal.chor.cthom.s
+<f6v.10,+P0>      qokchod.ychear.kchdy
+<f6v.11,+P0>      lor.char.otam.ctho,m,dy
+<f6v.12,+P0>      ytcho[s:r].shy.qokam.cthy
+<f6v.13,+P0>      yodaiin.cthy.s.chor.oees.or
+<f6v.14,+P0>      qokor.chol.cthol.tchalody
+<f6v.15,+P0>      chockhy.s.or.chy.s,ain.ar
+<f6v.16,+P0>      ochy.cthar.cth[a:o]r.cthy
+<f6v.17,+P0>      y,chaies.ckhal.cthodam.dy
+<f6v.18,+P0>      ytchocthol.ches.{ith}or
+<f6v.19,+P0>      ocholy.kchos.chy.dor
+<f6v.20,+P0>      dchor.choldar.okol.daiin
+<f6v.21,+P0>      ycheor.chor.octham<$>
+#
+#

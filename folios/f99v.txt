@@ -1,0 +1,68 @@
+# Voynich Manuscript — Folio 99v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f99v>     <! $Q=S $P=B $F=a $B=1 $I=P $L=A $H=1>
+# page 202
+# phamaceutical
+# B@R p88; faces "capsicum"
+# Currier's language A, hand 4?
+#
+# Top row of labels. Petersen ID in curly brackets.
+<f99v.1,@Lc>      <!95a>okaramy
+<f99v.2,@Lf>      <!95b>otoldy
+<f99v.3,@Lf>      <!96>otor<->chy
+<f99v.4,@Lf>      <!97>oldy
+<f99v.5,@Lf>      <!98>dar<->ary
+<f99v.6,@Lf>      <!99>otaly
+<f99v.7,@Lf>      <!100>olsy
+<f99v.8,@Lf>      <!101>arol
+<f99v.9,@Lf>      <!102>otoky
+#
+<f99v.10,@P0>     <%>sol.cheols.ockhey.qo{ckhh}y.qkoldy.s<->ok.oleees.oteey.dain
+<f99v.11,+P0>     okoiin.choty.qokchol.qokeol.okoldy<->q{kh}oldy.toly.daiin
+<f99v.12,+P0>     qokeo.qokeol.chockhy.otol.daiin.oty<->oto{ck}ey.da.chor,aiin
+<f99v.13,+P0>     okoraiin.okol.shocthy<->qokor.oloiram<$>
+#
+# Second row of labels. Petersen ID in curly brackets.
+<f99v.14,@Lc>     <!103a>okoldody
+<f99v.15,@Lf>     <!103b>oeeesary
+<f99v.16,@Lf>     <!104>daiiinc
+<f99v.17,@Lf>     <!105>sary
+<f99v.18,@Lf>     <!106>saiino
+<f99v.19,@Lf>     <!107>otolsar
+<f99v.20,@Lf>     <!108>osary
+#
+<f99v.21,@P0>     <%>doror.okeeody.opar.okor.eosaiin.otoraiin.shey.ols,aiiin.qoetal
+<f99v.22,+P0>     doiin.otey.o.keeol,s,aiin.okeol.qokeol.ctheol.qokeol.dy.qokaiin
+<f99v.23,+P0>     qokeey.chol.okeoldy.qokol.qokeolo.lchol.okeol.sheodol.qokeechom
+<f99v.24,+P0>     shokeeey.cholshey.okol.qokey.okeodal,oldy<$>
+#
+# Third row of labels. Petersen ID in curly brackets.
+<f99v.25,@Lc>     <!109a>darolaly
+<f99v.26,@Lf>     <!109b>okechy
+<f99v.27,@Lf>     <!110>otal
+<f99v.28,@Lf>     <!110b>chor.olekor
+<f99v.29,@Lf>     <!111>okeodor
+<f99v.30,@Lf>     <!112>olky
+<f99v.31,@Lf>     <!113>doldam
+#
+<f99v.32,@P0>     <%>qokeeoy.chokol.qokeeo.dy.qokeeol.olpchey.daiir.okeedy<->okolol
+<f99v.33,+P0>     dol.okeeol.okeor.okal.okaiin.ckheol.okolaiin.okolaiin.cheoldy
+<f99v.34,+P0>     yoiin,ol.ol.olaiin.qockhey.qokol.olshy.qokeeor.or.aiin.doldam
+<f99v.35,+P0>     ol,okeeey.oqoeeol.cheol.chody.okoiin<$>
+#
+<f99v.36,@Lc>     <!114a>oralas
+#
+<f99v.37,@P0>     <%>{c@132;}eol,so{c@133;h}ey.qokol.olkeol.daiin<->okoly
+<f99v.38,+P0>     ol.cheey.qokeol.okeol.okeol.shokol<->ykey
+<f99v.39,+P0>     dar.shol.okchey.ckhey.qokololal<->okeol
+<f99v.40,+P0>     or.aiin.okeody.okol.odaiin.qoky<->olaldy
+<f99v.41,+P0>     qockhol.oiin.shody.qokol.aiidal<->aiidaiim
+<f99v.42,+P0>     ol,sheol.olkeol.okol.or.oraloly<->ykeol.okal.okaldaly
+<f99v.43,+P0>     ychol,olkeeoldy<$>
+#
+<f99v.44,@Lf>     <!114b>koleearol
+#
+#

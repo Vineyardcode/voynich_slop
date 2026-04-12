@@ -1,0 +1,95 @@
+# Voynich Manuscript — Folio 102v (part)
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f102v1>   <! $Q=S $P=P $F=z $B=1 $I=P $L=A $H=1>
+# page 211
+# pharmaceutical
+# Currier's language A
+# gathering number 19
+# Look at folio 19r from Petersen photocopy
+#
+# Top rows of labels. Petersen ID in curly brackets.
+<f102v1.1,@Lc>    <!234a>keoraiiin
+<f102v1.2,@Lf>    <!234b>okeody
+<f102v1.3,@Lf>    <!235>okeody
+<f102v1.4,@Lf>    <!236>daiisaly
+<f102v1.5,@Lf>    <!237>ypary
+<f102v1.6,@Lf>    <!238>opchyt{cy}
+#
+<f102v1.7,@P0>    <%>poaiin.ockhey.pchol.doiin.shey.shockhsy.sheocthy.qokeody
+<f102v1.8,+P0>    dairn.ol.chey.[cth:ckh]eol.qokeor.os,aiin.cheor.qokey.choky
+<f102v1.9,+P0>    teody.ckheey.qokeol.sheky.qockheor.or.cheo,rchol.qoteor.dar
+<f102v1.10,+P0>   kochor.ol.ydaiin.choraiin.sheey.ykeey.kor,shey.qokey.dy
+<f102v1.11,+P0>   sol,chol.qooiin.qokol.cheol.chey.kolcheey.daiin.cheody.dy
+<f102v1.12,+P0>   y,cheol.cheol.doiir.shekcheor.s,ar.cheor.{@246;kh}ey.pchodaiin
+<f102v1.13,+P0>   toiin.ol.daiin.qkol.cheol.daiin.qokar.oaiin.cheey.[s:r]aiim
+<f102v1.14,+P0>   chor.cheor.ckhey.oteol.a{ikh}eky<$>
+#
+# Second row of labels. Petersen ID in curly brackets.
+<f102v1.15,@Lc>   <!239a>d?indy
+<f102v1.16,@Lf>   <!239b>ypcholdy
+<f102v1.17,@Lf>   <!240>loralody
+<f102v1.18,@Lf>   <!241>opchdard
+#
+<f102v1.19,@P0>   <%>fo[i:e]daiin.dair.or.sheol.okeeol.qoteol<->oro{ikh}ey.olkey
+<f102v1.20,+P0>   soiin.shey.qokeey.qoeeol.qokeody.sheody.qoeteey.okeey.dam
+<f102v1.21,+P0>   qoeeody.ychey.okeody.deody.okody.cheodaiin.cheody.[r:s]am
+<f102v1.22,+P0>   yk[ee:ch]ody.chodaiin.qokeos.cheol.qool.chsey.oteody.okchy
+<f102v1.23,+P0>   ksheody.sho.qokey.sheody.qockhey.olcheor.odain.okchody
+<f102v1.24,+P0>   ysaiin.ckhey.qoor.cheol<$>
+#
+#
+
+<f102v2>   <! $Q=S $P=O $F=z $B=1 $I=P $L=A $H=1>
+# page 210
+# pharmaceutical
+# Currier's language A
+#
+# Top rows of labels. Petersen ID in curly brackets.
+<f102v2.1,@Lc>    <!214a>porshols
+<f102v2.2,+Lc>    <!214b>soaimy
+<f102v2.3,@Lf>    <!214c>oror
+<f102v2.4,@Lf>    <!215>chor
+<f102v2.5,@Lf>    <!216>sachy
+<f102v2.6,@Lf>    <!217>okeo[s:r]
+<f102v2.7,@Lf>    <!218>okol
+<f102v2.8,@Lf>    <!219>otory
+<f102v2.9,@Lf>    <!220>ok?
+<f102v2.10,@Lf>   <!221>okody
+<f102v2.11,@Lf>   <!222>cheor
+<f102v2.12,@Lf>   <!223>okoroeey
+<f102v2.13,@Lf>   <!224>opchy
+<f102v2.14,@Lf>   <!225>sarol
+<f102v2.15,@Lf>   <!226>olrodar
+<f102v2.16,@Lf>   <!227>to[d:?]?
+#
+<f102v2.17,@P0>   <%>podeesho.oteeos.sheor.qo[t:k]eeo,ch,{ckhh}y.shkeey.chekeod
+<f102v2.18,+P0>   ocheos.chyokeor.okeol.okeol.shy,y
+<f102v2.19,+P0>   deeeo.qoeeor.o,eo{ikh}y.cheos.o.l.o,r.o,l.okeeos.ain
+<f102v2.20,+P0>   qokeor.cho.keeol.okeeey.qokeody.chockhey.qokeey.dol.ol.sheeoy.tody.cheoc?
+<f102v2.21,+P0>   ycheey.s.od,eey.okeeor.cheol.os,oiin.oeees.okear.chey.keey.saiin.oteo
+<f102v2.22,+P0>   dain.or.aiin.cheol.s,oiir.chol.sheey.qockhy.ol.keo,r.okeody.okeor.cho?
+<f102v2.23,+P0>   okey.okey.shey.okey.oiees.or,eey<$>
+#
+# Second row of labels. Petersen ID in curly brackets.
+<f102v2.24,@Lc>   <!229a>okolky
+<f102v2.25,@Lf>   <!229>osain
+<f102v2.26,@Lf>   <!230>aiky
+<f102v2.27,@Lf>   <!231>okeeoraiin
+<f102v2.28,@Lf>   <!232>okockhy
+<f102v2.29,@Lf>   <!233>os
+#
+<f102v2.30,@P0>   <%>pyd[ch:?]y.od[i:e]y.pcheady.qoekeey.oteey.qokeod,sheey.opaiin.deear
+<f102v2.31,+P0>   oldeey.ckhy.sheeody.eeos.sheshe<!corr?>.oeeor.ykeear.chekeey.ykory
+<f102v2.32,+P0>   dar.cheor.shoar.okeol.shoy.s.ar.oky.cheeor.ol.daiin.sy
+<f102v2.33,+P0>   qokeor.sho.?keeeos.cheor.o,s,al.chos,aiiin.o,ky.okaraiin
+<f102v2.34,+P0>   sorshey.okeeor.sheockhey.qokeos.okchol.ctheor.okey.sal
+<f102v2.35,+P0>   ychor.sheol.por.sheeor.shekeey.qoky.cheo,teody.qokeol.daiin
+<f102v2.36,+P0>   okeeor.cheey.okeey.sor.eeey.okey.okey.okeey.qokeor
+<f102v2.37,+P0>   tchor,ar.chey.kor.or.cthey.qoeeey.qokeey.okeoroly.sar
+<f102v2.38,+P0>   dar.cheey.ckheey.qokeor.okey.chos.sho.ykeey.okeeo.ra[in:i?]
+<f102v2.39,+P0>   yotaiin.cheor.cheekey.orain<$>
+#
+#

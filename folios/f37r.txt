@@ -1,0 +1,27 @@
+# Voynich Manuscript — Folio 37r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f37r>     <! $Q=E $P=I $F=w $B=4 $I=H $L=A $H=1 $C=1>
+# page 71
+# Currier's language A, hand 1
+# herbal
+# The page seems to have been torn and stiched
+# Plant ID: Baldrian, Valerian, dwarf ceder(?), (+illegible)
+#
+<f37r.1,@P0>      <%>tocphol.shaiin.qotor.ofchor.oty.chory.daiin.otod,[o:a]r
+<f37r.2,+P0>      ykoiin.cthor.okaiin.qo,tchy.ytody.qokaiin.sho.ytaiin
+<f37r.3,+P0>      qo,shy.qokaiin.cthol,dy.ckhor.oky,dy<$>
+#
+<f37r.4,+P0>      <%>pchotchy.daiin.cfholdar.chol.daiin<->yd
+<f37r.5,+P0>      yky.qokchy.qotchor.chkol.otoly
+<f37r.6,+P0>      shor.shol.qokchy.qotomody<->dchol.daiin
+<f37r.7,+P0>      sor.chey.kor.qokor.daiin<$>
+#
+<f37r.8,+P0>      <%>koiin.chorody.qokaiin.{c'hh}ory.otal<->shor.sheor.dar
+<f37r.9,+P0>      ykchody.qotchy.ykaiin.chy.qotordy<->otcho.loldaiin
+<f37r.10,+P0>     qoto.o,kchochor.dchor.chy.shy.daiin<->ychey.kol,daiir
+<f37r.11,+P0>     okchor.daiin.ckhy.dain.daiin<$>
+#
+#

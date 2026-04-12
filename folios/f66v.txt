@@ -1,0 +1,31 @@
+# Voynich Manuscript — Folio 66v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f66v>     <! $Q=H $P=H $F=z $B=1 $I=H $L=B $H=5>
+# page 118
+# herbal
+# Currier's language B
+# gathering mark 8
+# Plant ID: Primula?
+# Has extraneous writing
+# Petersen had some problems with this page, and FSG also on locus 7
+#
+<f66v.1,@P0>      <%>okeodof.sheod.ychoopy.opch.dal.dor,sheefy.ytody.da[l:?]deam
+<f66v.2,+P0>      teodal.t[che:{chh}]dy.dshey.okshedy.okeedy.dcheeky.daldy.qotal.sy
+<f66v.3,+P0>      ytos.s.or.sheeky.okechdy.ok[ee:ch]dal.dar.otal.chody.cheky
+<f66v.4,+P0>      shokeshy.daiin.cheos.chety.dol.chckhy.dal.ko,dal.chekal.dal
+<f66v.5,+P0>      shdy.shedefam.qokedy.chokal.dal<$>
+#
+<f66v.6,+P0>      <%>tchod.sheody.shckhed.chos.chor.sheo.keody.chepar.sheopam
+<f66v.7,+P0>      qokeos.sheody.chekeos.chody.kotody.qotchdy.chckhd.ytchdy
+<f66v.8,+P0>      dchekeedy.cheody.qokchdy.qokol.keedy.cheky.chety.kody<$>
+#
+<f66v.9,+P0>      <%>pody.sheody.chpadar.sheey.fchdly.cheoseesey.kchy.qofchal
+<f66v.10,+P0>     dshal.keedy.qok,[o:y]r.okaiin.dol.kaldaiin.otal.dokal.okag
+<f66v.11,+P0>     yteeod.aiin.shekeod.saiin.ykofar.otaiin.otar.ched[y:o].kar[{c'}:s]
+<f66v.12,+P0>     qekar.okedy.cheky.dal.chekal.chckhy.kal.kal.dar.chk[ch:ee]ody
+<f66v.13,+P0>     ydees.shey.daiin.dalkal<->ykedaiin.shedar.ok[ch:ee]dy.oty<$>
+#
+#

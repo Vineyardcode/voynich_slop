@@ -1,0 +1,25 @@
+# Voynich Manuscript — Folio 26r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f26r>     <! $Q=D $P=C $F=b $B=2 $I=H $L=B $H=2 $C=2>
+# page 49
+# herbal
+# Currier's language B, hand 2
+# Plant ID: Flower like artemisium absinth / wermuth but leaves are not
+# gnaphalium?
+#
+<f26r.1,@P0>      <%>psheoky.odaiir.qoy<->ofshod.chypchey.ypchedy.ain<->chofo,che{ph}dy
+<f26r.2,+P0>      dchey.@138;aiin.adeeody<->ykecthey.chedy.ytedy.dy<->checthedy.ls
+<f26r.3,+P0>      oaiin.shcthy.cthedy.oloy<->ykeedy.olchedy.dal<->y.sheey.s,aiin.s
+<f26r.4,+P0>      qokedy.cheos.ytedy.qokedy<->ytedy.chekedy<->daiin.odam.s,aldy
+<f26r.5,+P0>      saiin.shedy.eedy.eedy.s,chy<->daiin.cthedy<->qokeedy.qokedy.cthey
+<f26r.6,+P0>      rchedy.qokedy<$>
+#
+<f26r.7,+P0>      <%>pcho.qokedy.dar,sheo.ypchseds.s<->aiin<->sha,p,chedyfchy.dalchedy.sar
+<f26r.8,+P0>      daiin.shedy.qokeedy.qoteedar.s<->ok<->ol<->ytedy.qokeedy.qokedy
+<f26r.9,+P0>      tcheoshy.dchdy.okedy.chckhy.s<->dy<->dy<->ykeechy.okeedy.cheky
+<f26r.10,+P0>     shese.aiin.sheos.cheody<->otal<$>
+#
+#

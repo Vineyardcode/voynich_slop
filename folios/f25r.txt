@@ -1,0 +1,20 @@
+# Voynich Manuscript — Folio 25r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f25r>     <! $Q=D $P=A $F=a $B=1 $I=H $L=A $H=1 $C=1>
+# page 47
+# herbal
+# Currier's language A, hand 1
+# Plant ID: too many to list here but mostly nettle- or mint-like
+#
+<f25r.1,@P0>      <%>fcholdy.soshy.daiin.{ck}y.shody.daiin,ocholdy.cpholdy.sy
+<f25r.2,+P0>      otor.chor.chsky.chotchy.shair.qod.sh[a:o]chy.kchy.chkain
+<f25r.3,+P0>      qotchy.qotshy.cheesees.sheear.s.chain.daiin.chain.dan
+<f25r.4,+P0>      dchckhy.shocthy.ytchey.cthor.s.chan.chaiin.qotchain
+<f25r.5,+P0>      qotcheaiin.dchain.cthain.daiin.daiin.cthain.qotaiin
+<f25r.6,+P0>      okal.chotaiin
+<f25r.7,=Pt>      dair.otaiir.otosy<$>
+#
+#

@@ -1,0 +1,51 @@
+# Voynich Manuscript — Folio 101v (part)
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f101v>    <! $Q=S $P=H $F=y $B=2 $I=P $L=A $H=1>
+# page 206
+# pharmaceutical
+# Currier's language A, hand 4?
+# Forms one logical page with f101v1, as can be seen from the
+# subdivision into paragraphs, and the last line which is
+# centered. All normal text loci are transcribed on this page.
+# The creases are badly damaged and all lines are interrupted.
+# Only the labels on f101v1 are transcribed as belonging to that page.
+# Labeled f100v in Brumbaugh.
+#
+# Two rows of labels above normal text
+<f101v.1,@Lf>     [s:r]airaly
+<f101v.2,@Lf>     otaldy
+<f101v.3,@Lf>     otol
+<f101v.4,@Lf>     ytal
+<f101v.5,@Lf>     dokor
+<f101v.6,@Lf>     orar
+<f101v.7,@Lf>     otarar
+<f101v.8,@Lf>     ot[o:a]ly
+<f101v.9,@Lf>     soraly
+#
+<f101v.10,@Lf>    okol
+<f101v.11,@Lf>    arom
+<f101v.12,@Lf>    oraram
+<f101v.13,@Lf>    oraeep
+<f101v.14,@Lf>    dytolg
+<f101v.15,@Lf>    olkor
+<f101v.16,@Lf>    dolary
+<f101v.17,@Lf>    odor
+<f101v.18,@Lf>    olaran
+#
+<f101v.19,@P0>    <%>tolchor.cheopor.or,ody.cphey,r.shee.fol,s,oiin.otsheey.otch???y,kcho,pcholy.chor.or.choror.sy<->dorar<->okoraiin.orolodain
+<f101v.20,+P0>    or.aiin.or.o.or.odam.chor.s.aiin.okor.cheeor.sheeol.qokol.et???ol.qoor.cheey.qykeod.oeeo.r.choy.s<->okeeody<->chodaiin.cthy.okody.dar
+<f101v.21,+P0>    ycheor.o[?:e]o.dain.cheokal.{ykh}ody.cheeods.oraiin.qoeey.cthey.???eocthy.dain.cheod?.dydy<$>
+#
+<f101v.22,+P0>    <%>ksear.lol,keeol.otal.or.ol.aiin.okeod.{ykh}ey.dain.olcheol.???opcheol.cthey.qekeoldy.qocthor.sheody.qo{ckhh}ey.odaiin.shoytolaiin.?sodaiin,dy
+<f101v.23,+P0>    yaiin.ol,olor.daiin.okeey.qok.ykeol.daiin.qockhy.daiin.olch???dar.qokeol.dol.oraiin.oldaiin.keeol@138;,rch.qokeeeor.s,ydy.cheor.okeey.choldy.dar
+<f101v.24,+P0>    teeeol.sheol.qokeor.{ykh}ol.olcho.r.chokey.chor.ctheey.daiin???daiin.cheeody.cheey,keo.cheol.daiiin.deeor.cheedy<$>
+#
+<f101v.25,+P0>    <%>daiin.dair.yteol.chor.qockhol.daiin.ckheey.chey.kchey.da???oiin.okeey.ckheo,l,cheody.kcheol.daiin.etee[o:y]s.ctheody.ctheo.ckhosh[?:e].olchor
+<f101v.26,+P0>    olaiin.okeol.cheo.kol.ches.sheey.qoor.qokeody.cheor.okeo.???oiin.cheey.cthey.ory.ctheey.qokeey.shol.ody.cheol.oralar.shey.qokar,ary
+<f101v.27,+P0>    sal.chol.choly.okeey.dal.qol.shckheol.chol.cthear.keeol.???cheeo.ol,chs.oraiin.qokeeey.soiin.qodaiin.cheol.qokeey.daiin.cheodam
+<f101v.28,+Pc>    teol.cheol.etchey.???cheo,r.cheol.cthol.cholaiin.chol,qkar<$>
+#
+#

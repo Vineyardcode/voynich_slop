@@ -1,0 +1,64 @@
+# Voynich Manuscript — Folio 94v and 95r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f94v>     <! $Q=Q $P=D $F=b $B=2 $I=H $L=B $H=3 $C=5>
+# page 194
+# herbal
+# Currier's language B, hand 5
+#
+<f94v.1,@P0>      <%>tshedy.chedar.char.qokchedy.okal.dar<->opchackhy.oteedan
+<f94v.2,+P0>      ol,teedy.oteey.qekeey.oteey.teedal<->ykeedy.qotarain
+<f94v.3,+P0>      yshedy.chdaiin.otedy.sdal,tamdy<->chdy.qokeey.tam
+<f94v.4,+P0>      dchdy.otar.otchy,kedy.qokchdy.ol<->okchy<$>
+#
+<f94v.5,+P0>      <%>tedain.chedy.qokshd.okchdy.qokeal<->chorchor.tchor,am
+<f94v.6,+P0>      ycheeo.lkeol.otor.opchdy.qotar.aral<->otor.otchy.tody.oty
+<f94v.7,+P0>      toky.shey.qokaiin<$>
+#
+<f94v.8,+P0>      <%>pchedaiin.sheocthy.daiin.cphedy.fchd<->otchy.qotchy.par,ar
+<f94v.9,+P0>      ytar.okedy.okeedy.qokshey.otaiin,y<->ypchdair.ol.s.aiin.oly
+<f94v.10,+P0>     ol,air.cheey.okchaiin.shy.tararain<->otody.qodar.oteey.dar
+<f94v.11,+P0>     todaiin.sh{cthh}y.qokar.chetaiin.chdy<->ykol.qoky.or,eedy.oky
+<f94v.12,+P0>     daiin.chcthy.chdy.chckhy.okaiin<$>
+#
+#
+
+<f95r1>    <! $Q=Q $P=F $F=y $B=2 $I=H $L=B $H=3 $C=5>
+# page 195
+# herbal
+# Currier's language B, hand 5
+#
+<f95r1.1,@P0>     <%>kshdor.chepchdy.ofaiin.ol.oldaiin.opshol.qokaiin.oty.odain
+<f95r1.2,+P0>     ol.chdy.chdy.qokaiin.shdy.qokaiin.chdy,kol,chdy.qoty.oky,dan
+<f95r1.3,+P0>     teodaiin.oekeey.qokees.ody.chekaiin.chekaiin.chky.chaiin
+<f95r1.4,+P0>     ycheey,ky.olkain.chey,kain.cholky.chedy.qokaiin.chy.kaiin.ly
+<f95r1.5,+P0>     atar.chedy.todaiin.qoky.shdaly<$>
+#
+<f95r1.6,+P0>     <%>tchdor.or.chekchdy.qokar.chcthy.qotchdy,lshedy.qoky.qofain.dy
+<f95r1.7,+P0>     ykchedy.sheky.chekar.chdain.chdaiin.okar.chetchdy.chdy.chkam
+<f95r1.8,+P0>     olkor.chdaiin.cholkaiin.qokeedy.qoky.chey.lchedy.chedy.alod
+<f95r1.9,+P0>     tchdy.tchor.chol.tar.chdy.okol.ykoldy.olkeedy.qotaiin.or
+<f95r1.10,+P0>    daiin.chckhy.okaiin.chckhy.daiin.ykedy.ep[?:a]iin.okaraiin.ls
+<f95r1.11,+P0>    ykaiin.or.chdy.chekain.ol,dar.ykar.olkeey.ldar.chekal<$>
+#
+#
+
+<f95r2>    <! $Q=Q $P=G $F=y $B=2 $I=H $L=B $H=3 $C=5>
+# page 196
+# herbal
+# Currier's language B, hand 5
+#
+<f95r2.1,@P0>     <%>kshedy.or.chdy.dalfchy.qodaiin.chckhyfchy.daraiin.dalal
+<f95r2.2,+P0>     daiin.shody.chkain.chol.chckhy.otain.oty.oteedy.kar,okam
+<f95r2.3,+P0>     todaiin.chor.chckhy.qokol.chkar.ol.otaiin.ofar.okain.aram
+<f95r2.4,+P0>     daiin.shody.tor.or.okain.chckhey<$>
+#
+<f95r2.5,+P0>     <%>tshod.qokal.ody.chcfhol.okal.chedy.dalshdy.qopchdy.kary
+<f95r2.6,+P0>     y,olkor.ol.shol.qotar.chdy.chdy.qokar.okar.qokar.odaly
+<f95r2.7,+P0>     dshedy.otal.qokal.dol.or.eeedy.okeedy.okedyted.otam
+<f95r2.8,+P0>     tedykaiin.y,cheol.okal.chedy.shdy.qokchdy.otar.chctham
+<f95r2.9,+P0>     poiin.okar.qokol.shsdy.okar.chdaiin.olky<$>
+#
+#

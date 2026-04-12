@@ -1,0 +1,110 @@
+# Voynich Manuscript — Folio 67v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f67v1>    <! $Q=I $P=F $F=a $B=1 $I=A $H=4>
+# page 123
+# astronomical
+# General description of page:
+# Large outer circle, divided into 12 sectors, here identified as
+# L0 loci. There may have been more than 12 but any
+# additional ones are outside the visible part of this page.
+# Inside are 17 lines of text radiating outward from the central
+# Sun face, which is smiling. There are  39 stars, 3 of which are blue, the
+# rest being yellow.
+# 1st label starts at 10 o'clock
+#
+# Scattered loci, really on circle:
+<f67v1.1,@L0>     damamm<!long tail m>
+<f67v1.2,&L0>     dairkal
+<f67v1.3,&L0>     okal.ary
+<f67v1.4,&L0>     dar.echkalal
+<f67v1.5,&L0>     okol.aldy
+<f67v1.6,&L0>     dchesykchy
+<f67v1.7,&L0>     ykeodar
+<f67v1.8,&L0>     deeeoskol
+<f67v1.9,&L0>     ockhosam
+<f67v1.10,&L0>    kochardy
+<f67v1.11,&L0>    ochodare
+<f67v1.12,&L0>    ols,aiiny
+# Radiating from central Sun, going clockwise, starting at 09:30
+<f67v1.13,@Ro>    otorkeol.orsheey.dary
+<f67v1.14,@Ro>    okechey.cheody.cheky
+<f67v1.15,@Ro>    otechodor.odcheey
+<f67v1.16,@Ro>    chockhey.chockhy
+<f67v1.17,@Ro>    yteeey.keeochy.dair.ockey
+<f67v1.18,@Ro>    keechey.chy.koldy
+<f67v1.19,@Ro>    pchodaiin.otch.oekeey.dy
+<f67v1.20,@Ro>    dcheeos.qokeeeody.eeis.olcheeg
+<f67v1.21,@Ro>    ykeeo.cheo.daiin.ypcheg.oty
+<f67v1.22,@Ro>    opcheey.chso.cheey.chedaly
+<f67v1.23,@Ro>    ykeeey.qokeey.olokeey.s
+<f67v1.24,@Ro>    osheey.keeody.cheedals
+<f67v1.25,@Ro>    okar.shey.qokche[o:a]r.daiiin
+<f67v1.26,@Ro>    oeees.ote[ch:ee]y.o,keey
+<f67v1.27,@Ro>    okeeodaiin.saii.dairal
+<f67v1.28,@Ro>    oksheeody.or.aral
+<f67v1.29,@Ro>    olar.aroky
+#
+#
+
+<f67v2>    <! $Q=I $P=E $F=a $B=1 $I=C $H=4>
+# page 122
+# cosmological
+# Roe, 6th September 1993
+# Machine-translated from transcription in Bennett notation dated April 1990
+# This is plate XX in Newbold, and plate IV in Manly31. Newbold's folio number
+# scheme has this as 67r.
+# This is the folio Newbold claimed showed an annular eclipse. See also John
+# Manley's 1931 article in Speculum: "Furthermore, I invite the reader to
+# examine carefully Plate IV and say whether it bears any resemblance whatever
+# to an annular eclipse."
+# General description of page:
+# There is a large circle centered on the page. Outside this circle, in the
+# NE, SE, SW and NW corners, are four smaller circles. In the center of the
+# large circle is a square, within which is inscribed another circle, within
+# which is a star.
+# From the square, lines radiate out in the N, S, E and W directions. Lines
+# come in towards the square from the perimeter of the large circle in the NE,
+# NW, SE and SW direction. Each of these eight lines are terminated with a
+# branching broccoli-like structure.
+# The small circles in the corners contain between one and four human faces,
+# joined by lines.
+# There is a "sentence'' of Voynich text above, below, to the left and the
+# right of the large circle. The bottom left small circle contains a "word''
+# of Voynich text.
+#
+# Labels in upper left and right circles
+<f67v2.1,@La>     otchdy
+<f67v2.2,@La>     otararain
+# Above large circle
+<f67v2.3,@Pb>     <%>tol.or.ain.am.otoly.sair.[g:m]
+<f67v2.4,+Pb>     daiin.[t:k]aedaiin.ar.okor<!corr?><$>
+# To the right of large circle
+<f67v2.5,@Pb>     <%>okeey.keoy.salal
+<f67v2.6,+Pb>     ykaralam.olalade.odam<$>
+# Below large circle
+<f67v2.7,@Pb>     <%>taol.daig.sakar.dam
+<f67v2.8,+Pb>     solair.cphey.solal.daly<$>
+# To the left of large circle
+<f67v2.9,@Pb>     <%>okeal.o?ol.ar.okaldam
+<f67v2.10,+Pb>    koain.opal.ol.of[o:y]lain.oar<$>
+# Radiating texts.
+# Text alternates between outside in and inside out
+<f67v2.11,@Ro>    dcheeor.ochepalain
+<f67v2.12,@Ri>    oeolales.ai[s:r]ar
+<f67v2.13,@Ro>    okydseog.oeepoaly
+<f67v2.14,@Ri>    o?r.ykaly.char
+<f67v2.15,@Ro>    o.chekais.okolaim
+<f67v2.16,@Ri>    okar.alet.olkao
+<f67v2.17,@Ro>    qokoaiin.ocfhhy
+<f67v2.18,@Ri>    okeeey.oekchdy
+# Words near square counted as astro labels
+<f67v2.19,@La>    soaiin.dalam
+<f67v2.20,+La>    sary.okora[l:n]
+# Labels in lower left and right circles
+<f67v2.21,@La>    oko???
+<f67v2.22,@La>    okchos,am
+#
+#

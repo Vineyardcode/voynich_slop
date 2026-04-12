@@ -1,0 +1,34 @@
+# Voynich Manuscript — Folio 34r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f34r>     <! $Q=E $P=C $F=b $B=2 $I=H $L=B $H=2 $C=2>
+# page 65
+# Currier's language B, hand 2
+# herbal
+# Publ: Krauss 30(top), B@R p91; "Sunflowers''
+# Plant ID: smaller scabiosa
+#
+<f34r.1,@P0>      <%>pcheoepchy.olar.yl<->yfody.okedody.shod.ololdy.dar.ytey
+<f34r.2,+P0>      ytar.sheody.o,lam<->octhedy.otedy.chdain.oltey.kchy,ty
+<f34r.3,+P0>      qotedy.chyty.chdaly<->dar.chd.otedy.qotol.okedy.dody.ody.kam
+# After this line the texts left and right of the rightmost plant are not well
+# aligned vertically. Their number is the same, but the ones on the right align
+# well with lines on the left one below the expected.
+<f34r.4,+P0>      ytedy.daiin.chey.aiin<->shy.chckhy<~>oltchedy.otedy.dam.checthy
+#
+<f34r.5,+P0>      qoteedy.shedy.shedy.ol<->okes.ar<~>ykeed,l.chedy.otey.okaiin
+<f34r.6,+P0>      oteol.chekey.chetey.oll<->chesy<~>daiin.cheky.fas.aiir.a[m:d]g
+<f34r.7,+P0>      qokedy.dal.chdy<->olchy<->ykch[y:?]<~>ykedy.qokchdy.s.as.oldam
+<f34r.8,+P0>      {ch'}otchy.qoky<->olk<->checkhy<~>ys,air.air.chodar.ta[m:g]
+<f34r.9,+P0>      ykchdy.qod<->ar<->ch{ct}<->a[{ikh}:ckh]y<~>or.lchey.todaly.okaiin.dardy<$>
+#
+<f34r.10,+P0>     <%>tcheo.olchckhy.oly<->otchdy.chefalchhs
+<f34r.11,+P0>     qokeey.sh.kaldaiin<->cheky.cthdaly<->otchedy.chty.s,aiin
+<f34r.12,+P0>     char.aiin.okor,ar.tol<->qokar.chckhy.chdal.ked.qokar.ar.daiin.dam
+<f34r.13,+P0>     ykeo.lor.ochey.oly<->okaly.kechdy.qokchdy.chor.ar.aiiin.daly
+<f34r.14,+P0>     or.ar.y,kar.ol,al.oky<->chody.qokal,chedy.chcthedy.cheky.daram
+<f34r.15,+P0>     sair.chekar.cheky.shek<->cholchedy.qokedy.yk,cheolchcthy<$>
+#
+#

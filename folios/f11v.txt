@@ -1,0 +1,23 @@
+# Voynich Manuscript — Folio 11v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f11v>     <! $Q=B $P=F $F=c $B=3 $I=H $L=A $H=1 $C=1>
+# page 22
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Leonotus or Leonarus
+# G. Turner's pineapple
+#
+<f11v.1,@P0>      <%>poldchody.shcphy.shordy.qoty<->shol.cphar.dan,y
+<f11v.2,+P0>      shol.dy.chckhy.shcthy.daiin.dam<->ykchy.dain.dchy
+<f11v.3,+P0>      otchor.dy.kchy.tchy.[@152;:d]ar.qokchd<->oky.choldy,dy
+<f11v.4,+P0>      qokchor.cholol{cr}.chyky.dchy.qoky<->ctho.tchey.tu
+<f11v.5,*L0>      dd
+<f11v.6,=P0>      soydy.qoteey.qot.chor.dy.ddy<->cthor.shy,arg
+<f11v.7,+P0>      ycheor.ksho.dor.cthey.s,chold<$>
+#
+# Folio 12 is missing. Its stub is still visible.
+#
+#

@@ -1,0 +1,28 @@
+# Voynich Manuscript — Folio 9v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f9v>      <! $Q=B $P=B $F=a $B=1 $I=H $L=A $H=1 $C=1 $X=C>
+# page 18
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Herba Trinitatis, Freyschamkraut(sp?) (O'Neill)
+# Viola Tricoloris, Jacca sive Flos Trinitatis
+# RZ: Viola allright but all upside down
+#
+<f9v.1,@P0>       <%>fochor.oporody.opy.shor.daiin.qopchypcho.qofol.shol.cfhol.daiin
+<f9v.2,+P0>       dchor.qoaiin.chkaiin.cthor.chol.chor.cphol.dy<->oty.qokaiin.dy
+<f9v.3,+P0>       ykey.chor.ykaiin.daiin.cthy.otaiin.oky<->oeees.daiin
+<f9v.4,+P0>       ytey,tch,y.kaiin.cthor.otol.oty.toldy<$>
+#
+<f9v.5,+P0>       <%>pchor.ypcheey.qotor.ypchy.olcfholy.t[o:e]<->ar<->chty.daiiin
+<f9v.6,+P0>       odol.choy.ksheody.chody<->da[in:iin]<->otchy.cthod<->yko
+<f9v.7,+P0>       qo.chol.chol.{ct}chy.daiin<->otal<->dor<->daim
+<f9v.8,+P0>       soiin.daiin.qokcho.rokyd<->daly
+<f9v.9,+P0>       daiin.chy.tor.chyty.dary<->ytoldy
+<f9v.10,+P0>      oty.kchol.chol.chy.kyty
+<f9v.11,+P0>      ychor.chshoty.oky,kaiin
+<f9v.12,+P0>      chkaiin.ckhy.chor<$>
+#
+#

@@ -1,0 +1,23 @@
+# Voynich Manuscript — Folio 36r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f36r>     <! $Q=E $P=G $F=d $B=4 $I=H $L=A $H=1 $C=1>
+# page 69
+# Currier's language A, hand 1
+# herbal
+# Plant ID: Geranium (SDC = [RZ])
+#
+<f36r.1,@P0>      <%>pcha@151;dan.qorain.chcfhal.soiin.cphor.shaiin.cthy.dair
+<f36r.2,+P0>      oral.shor.ytaiin.qotaiin.qooldy.chty.chol,dy.tor
+<f36r.3,+P0>      qotchy.tchy.daiin.@152;aiin.dolsain<$>
+#
+<f36r.4,+P0>      <%>podaiir.cphy.qoypchol.som<->{c'y}<->chy.dchy.fchom,dar
+<f36r.5,+P0>      daiin.qor.chol.ctholy.s<->o<->r<->chy.sy<->chytaroiin
+<f36r.6,+P0>      okaiin.cthor.y,kaiiin.s<->dain.an<->dan
+<f36r.7,+P0>      qotol.cthol.okol,dy.okchy<->ytorory<->sold
+<f36r.8,+P0>      ytchor.cthol.chaiin.yd
+<f36r.9,+P0>      ytodaly.daiin.otaro<$>
+#
+#

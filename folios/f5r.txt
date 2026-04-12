@@ -1,0 +1,22 @@
+# Voynich Manuscript — Folio 5r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f5r>      <! $Q=A $P=I $F=w $B=4 $I=H $L=A $H=1 $C=1>
+# page 9
+# herbal
+# Currier's language A, hand 1
+# Plant ID: [Herba] Paris, Indian Cucumber?
+# Two paragraphs
+#
+<f5r.1,@P0>       <%>kchody.fchoy.chkoy.oaiin.oar,olsy.chody.dkshy,dy
+<f5r.2,+P0>       ochey.okey.qokaiin.sho.ckhoy.cthey.chey.ok[a:y]{@131;o}s.otol
+<f5r.3,+P0>       qoaiin.otan,chy.daiin.oteeeb.chocthy.otchy.qotchody
+<f5r.4,+P0>       otain.sheody.chan.s.cheor.chocthy<$>
+#
+<f5r.5,+P0>       <%>tchy.shody.qoaiin.cholols.sho.qotcheo.daiin.shodaiin
+<f5r.6,+P0>       sho.cheor,chey.qoeeey.qoykeeey.qoeor.cthy.shotshy.dy
+<f5r.7,+P0>       qotoeey.keey.cheo,kchy.shody<$>
+#
+#

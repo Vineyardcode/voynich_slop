@@ -1,0 +1,47 @@
+# Voynich Manuscript — Folio 78v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f78v>     <! $Q=M $P=H $F=d $B=4 $I=B $L=B $H=2 $C=2>
+# page 154
+# biological
+# Currier's language B, hand 2
+# 9 ladies in an odd-shaped bathtub
+# B@R p88
+#
+<f78v.1,@P0>      <%>@177;ykedy.olfchedy.qokedy.spchy.chedy.rol.dor.ofchedy.qokedy
+<f78v.2,+P0>      olshedy.qokedy.rshedy.cthdy.otedy.kedy.dal,dal.dol.oty.dal
+<f78v.3,+P0>      qokedy.chety.qolshedy.okedy.dol,eesolchey.qotedy.ol,dam
+<f78v.4,+P0>      ol,chy.lshdy.lcheckhy.ol.keedy.lcheckhey.l,olkedykain,ol
+<f78v.5,+P0>      qor.olkeey.olkain.ol.chsey.ol.cheeky.dar.okal.dal.olchedy
+<f78v.6,+P0>      ety.okeey.or.{ch'}eey.ykeey.lchey.qokain.okedy.qokedy,qol
+<f78v.7,+P0>      otor.y,shedy.otedy.shedy.qokeedy.qokedy.otar.otedy
+<f78v.8,+P0>      qokedy.otedy.qokain.oteedy.qokeedy.dar.okedy.dkedy.dain
+<f78v.9,+P0>      y,cheolk,o,lkeedy.qokedy.ol,chedol.okeedy.qotedy.rorarol
+<f78v.10,+P0>     dshedy.qokedy.or,shedy.pchedy.qoke[@166;:ee]dy.okedy.opchedy
+<f78v.11,+P0>     qol.chedy.qol.okeey.ykal.ol.chdy.qokain.chcthy.daiin
+<f78v.12,+P0>     sheor.ol.qokaiin.shckhy.otaly.qolsheey.qokal,sain
+<f78v.13,+P0>     dchokol.chedy.qokedy.qokey.qol.chedy.qokeedy.lchey
+<f78v.14,+P0>     qolkeshdy.qol.shedy.olkedy.okol,chedy.qokain.dal
+<f78v.15,+P0>     cheey.qolchedy.qokey.or.cheef.chckhey.tedy.qokedy.ls
+<f78v.16,+P0>     lshey.r,shedy.d,qokedy.okey.lchedy.qokdy.daiin.oly
+<f78v.17,+P0>     qol.sheedy.qol.lcheol.lchdy.dchdy.da.qar.olkal.dy
+<f78v.18,+P0>     chedy.shckhy.qokedy.dal.lshckhy.qol,qol.oteedy.qor
+<f78v.19,+P0>     lchedy.ol.chedar.shedy.lor.shedaldy.orain<$>
+#
+<f78v.20,+P0>     <%>qofcheol.opchedy.qokain.op,chedy,lchey.cphar.ol.okalor
+<f78v.21,+P0>     chedy.lshedy.olshedy.otaiin.ol.qokar.shedy.yteedy
+<f78v.22,+P0>     [o:y]kol.shey.ol.shedy.okal.okchey.okeol.ol,chedy.qol
+<f78v.23,+P0>     qol.chedy.okeshy.qoteedy.okeedy.ol,shedy.qokedy,dy
+<f78v.24,+P0>     ytaiin.shedy.ol.sheedy.olshdy.shey.kshdy.shol.kedy
+<f78v.25,+P0>     teeol.olkeshey.qolcheol.ol.or.sheckhedy<-><!next line intruding>or.ol.sham
+<f78v.26,+P0>     qokaiin.or.sheedy.otain.ol.shedy.sol.fchedy.otaldy
+<f78v.27,+P0>     lol.kar.shr.r.ol.ols.sheey.ol.chedy.oltar.olkaiin
+<f78v.28,+P0>     olkain.shey.qokey.okar.ol.oteedy.chcthy.los.aiin,d
+<f78v.29,+P0>     lchedy.otchey.qol.chedy.lr.al.s.aiiin.ol.shedy.ary
+<f78v.30,+P0>     sal.shol.sain.sheety.or.oiiin.okal.oltal.qokar.ary
+<f78v.31,+P0>     sor,ar,or.dchor.otaiin.otain.ytedy.olshdy.sholkal
+<f78v.32,+P0>     lol.cheor.sheol.dy.qokar.otalor<$>
+#
+#

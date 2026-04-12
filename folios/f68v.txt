@@ -1,0 +1,95 @@
+# Voynich Manuscript — Folio 68v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f68v1>    <! $Q=I $P=N $F=z $B=1 $I=A $H=4>
+# page 130
+# astronomical
+# General description of page:
+# Two rings of text, counted outside inwards.
+# Plus radial short texts
+#
+<f68v1.1,@Cc>     <!10:30>shes.ol.keey.shes.chteey.sheely.shes.yee[g:j].shokeolls.ees.aiir.ol.cho.aiin.ykeeykeey.ches.chotey.y,keey.shes.aiin.okeyteey.cthody.ches[o:y]kcho,teody.chockhy.otol.okeody.cheos.chkorchy.dy.dy.shety.oteey.dair.chotedy.chey.dal.daiin.dokeey
+#
+<f68v1.2,@Cc>     <!10:00 cf ThP>chear.s.oteey.dain.dycheckhy.oteeos.oteol.okeo[r:s].okeeody.sho.ykeod.oteeol.okeeos.or.chos.or.o{cko}.aiin.chol.ykeey.sheo.s.cheoekeey.cheodaiir.cheekchey.chkeody.okchy.teeos.[sh:e'e].cheo,eky.okey.d?leed.s.aly.oteotey.otechs.opain
+#
+# Radiating texts, starting point cf. ThP
+<f68v1.3,@Ro>     dair.apeeety.dy
+<f68v1.4,@Ro>     sair.aroy[s:r]er
+<f68v1.5,@Ro>     oteeor.ara[n:?]y
+<f68v1.6,@Ro>     okechdaral
+<f68v1.7,@Ro>     otol.ches.otaly
+<f68v1.8,@Ro>     okeey.chek<!k on top of e>.chekeys
+<f68v1.9,@Ro>     dar.shes.shokey
+<f68v1.10,@Ro>    oteodain.sam
+#
+#
+
+<f68v2>    <! $Q=I $P=M $F=z $B=1 $I=A $H=4>
+# page 129
+# astronomical
+# Brumbaugh p41, called f.68r by him.
+#
+<f68v2.1,@P0>     <%>teeody.shcthey.psheody.shocthy.ykeody.shdy.shot.ytchy
+<f68v2.2,+P0>     dchaiin.shey.dcheedy.qokeey.shckeey.dal.dy.sheetey.daldy
+<f68v2.3,+P0>     qoeeey.shekeey.shkeey.s.alchey.cthy.shteody.qoteeody.dam
+<f68v2.4,+P0>     okeey.sheoy.keol.ycheety.okeody.shey.qokey.chol.chekody
+<f68v2.5,+P0>     scheos.seekey.okey.chody<->okeos.cheo.sal,ar.oallchdm<$>
+#
+# Circumference
+<f68v2.6,@Cc>     <!10:30>okeadaiin.ykeeody.shsdy.shyokeey.dalches.oko[s:r].cheky.otees.oteydy.okechoy.yteody.chetedy.cheda[d:m]y.[@150;:ch]eectheey.otychdy.oteey.cpheeo,dy.otey.[ch:ee]key.daiin.chey.da[iir:iis].oteeys.sar.o[ckhee:{ck}eee]y.dor,chy.okchy.qokeechy.dal.chy.chokeeey.sary
+#
+# Radiating text, clockwise, starting at 00:30
+<f68v2.7,@Ro>     otey.dalar
+<f68v2.8,@Ro>     otosey<!star><->sary
+<f68v2.9,@Ro>     yshesas.ar.shy
+<f68v2.10,@Ro>    socths.chety
+<f68v2.11,@Ro>    oteoys<!star><->orasaly
+<f68v2.12,@Ro>    yteody.chetey
+<f68v2.13,@Ro>    oteeos.alamchy
+<f68v2.14,@Ro>    otchdy<!star><->chetal
+<f68v2.15,@Ro>    adairchdy.aiin
+<f68v2.16,@Ro>    dchedal.daiin
+<f68v2.17,@Ro>    ykeeepol<!star><->ypchy
+<f68v2.18,@Ro>    choteey.dary
+#
+#
+
+<f68v3>    <! $Q=I $P=L $F=z $B=1 $I=C $H=4>
+# page 128
+# cosmological
+# The 'Spiral Nebula'
+# Way p140
+# Newbold XIII, XXI, XXII, who calls it f.68r
+#
+<f68v3.1,@P0>     <%>tchedy.chepchy.daiidy.shol.kcheoly.choteol.shol.s.chey.shodaiin.chetshedy.otsho.qooto.seeey
+<f68v3.2,+P0>     sshey.kcheol.sheey.qety.sheey.otchol.chal,sheey.daiin.sheody.qokol.aiir.chor.cheoty.oty
+<f68v3.3,+P0>     sho.chokar.sor.chor.cheky.daiin.dar.aiiin<->ytey.tol.cheeetchol.sam
+<f68v3.4,+P0>     dcheey.qo{ckhh}y.chydy<$>
+#
+# Outer Circle, starting at the marker
+<f68v3.5,@Cc>     <!08:30>oky.otol.ees.choty.cheda[s:r].otchdy.s.ar.oekaiin.oteol.dar.cheo.dais.qoeeo,kaiin.okchey.dal.cheky.ykos.[y:q]akeg.s.ol.ay.ykoees.yty.dy.dy.chody.otol.ol,ees.oty.dar.qotay.otoy.chey.kodar.dar.sheody.shees.daiin.oteeoaly.oteeosol.ol.okol.olsey.tol.cheol.okeey.choekcheey.okchy.qokchshy.dchol.chshek
+#
+# Spiralling lines, transcribed as radiating. Clock position indicated is that
+# of point at outer circle. 4 are long (up to central circe) and 4 are short
+<f68v3.6,@Ri>     ocheal.qoeey.keody.cheoky.okeey.chody.dy.ote?m
+<f68v3.7,@Ri>     r.al.chdail.schekol.okeody
+<f68v3.8,@Ri>     okeol.cheody.qoekeey.ocheky.eeody.okchdy.oko.okos
+<f68v3.9,@Ri>     shoekechy.sheky.okolchey.okol[m:k]om
+<f68v3.10,@Ri>    qokeody.okeey.chekchy.chckhy.okal,ody.chedy
+<f68v3.11,@Ri>    ycheeo.key.qokal.okeeg
+<f68v3.12,@Ri>    ochey.chekchy.dkeeeg.cheekey.teokechey.saiir
+<f68v3.13,@Ri>    ydaiil.ol.chek.okchyd
+#
+# Inner circle
+<f68v3.14,@Cc>    <!09:00>okosy.okchy.okol.choekey.okeoeeey.ol.yko[?n:in].otairo[s:r].orol.orkeeey.olkeeoly.ykeeol
+#
+# Inside circle. Top left and top right as L0 label, bottom as 3-line blocked paragraph
+<f68v3.15,@L0>    otodol
+<f68v3.16,=L0>    opcholdg
+<f68v3.17,@Pb>    <%>roar.ykeol.<!space>darol.daly
+<f68v3.18,+Pb>    solaiin.{ckhh}y.olekeey.dy
+<f68v3.19,+Pb>    ykeol.ctheepoey.dar<$>
+#
+#

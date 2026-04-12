@@ -1,0 +1,27 @@
+# Voynich Manuscript — Folio 18r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f18r>     <! $Q=C $P=C $F=b $B=2 $I=H $L=A $H=1 $C=1>
+# page 33
+# herbal
+# Currier's language A, hand 1
+#
+<f18r.1,@P0>      <%>pdrairdy.darod{cf}.yoar.ykchol.dar.om.chckhy<->octhor.dal
+<f18r.2,+P0>      otshol.qokchol.chykchy.okchal.daiin.dy<->chol.dain
+<f18r.3,+P0>      qokchor.chor.{c@139;h}{@246;k}ey.or,chey.qokchol.dy<->ytcharg
+<f18r.4,+P0>      chor.[cth:{ith}]or.okeor.ykchol.okain<$>
+#
+<f18r.5,+P0>      <%>tchor.shor.cthaiin.cthol.chlol.chom
+<f18r.6,+P0>      ychy.kchor.dair.ytol.chcthy.dar.dar.dal
+<f18r.7,+P0>      oshor.shaiin.cthy.sholdy.doldy<->doldaiin
+<f18r.8,+P0>      qokchor.ckhol.olody.okal,dy<->dary
+<f18r.9,+P0>      chol.chcthal.okshal.chykald
+<f18r.10,+P0>     dar.shor.qokchol.ol.ydaiin
+<f18r.11,+P0>     sotchaiin.chokchy.chckhol.chor.g
+<f18r.12,+P0>     ychair.cthol.daiin.qokchy.cthy
+<f18r.13,+P0>     or.shaiin.cth[a:o]r.cthal.okal.dar
+<f18r.14,+Pc>     ychekch,y.kchaiin<$>
+#
+#

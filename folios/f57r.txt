@@ -1,0 +1,24 @@
+# Voynich Manuscript — Folio 57r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f57r>     <! $Q=H $P=A $F=a $B=1 $I=H $L=B $H=5 $C=2>
+# page 111
+# herbal
+# Currier's language B,  hand 2
+#
+<f57r.1,@P0>      <%>poeeockhey.odain.cheop.sheody.shocfhey.dy.sheep.sheody.[e:y]odam
+<f57r.2,+P0>      daiir.air.chety.cheo,ckhy.chockhy.cheotey.sh,kchey.s.odaiin.shey
+<f57r.3,+P0>      qokeeody.cheooky.qokeody.sheey.okeody.cheody.cheeody.cheekeody
+<f57r.4,+P0>      dchos.cheocthy.cheody.qot[ee:ch]ody.octhody.okeeody.chteody.cheody,s
+<f57r.5,+P0>      qok[ch:ee]o.daiin.cheeodam<$>
+#
+<f57r.6,+P0>      <%>tcheodal.okam.chckhey.okchdy.doctho.opchey.dy.kedaiin.oforam
+<f57r.7,+P0>      daii[s:r].sheedy.qokeedy.chetey<->oteeod.shekey.tedy.okaldg
+<f57r.8,+P0>      tair.sheedy.ochedy.{ckhhh}dy<->okchy.chedy.dal.qokedam
+<f57r.9,+P0>      [a:o]dair.sheeo,ckhy.sar.al.daii[d:j]y<->dcheckhey.daiin.chedy.cthedy
+<f57r.10,+P0>     qoetchey.kedy.shedaiin<->s,cheos.ykeos.q{cthh}y.tcfhy
+<f57r.11,+P0>     dshedy.{ct}echy.cphedam<$>
+#
+#

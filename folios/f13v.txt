@@ -1,0 +1,24 @@
+# Voynich Manuscript — Folio 13v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f13v>     <! $Q=B $P=J $F=w $B=4 $I=H $L=A $H=1 $C=1>
+# page 24
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Crassulatea Fetthenne(sp?)
+#
+<f13v.1,@P0>      <%>koair.chtoiin.otchy.kchod.otol.otchy.octhos
+<f13v.2,+P0>      oko.qokol.chodal.otchol.cphol.choty
+<f13v.3,+P0>      qokchy.qokod.chy.otchy.cthody
+<f13v.4,+P0>      o,l,s.chey.okos.oa[iin:in].okshy.qo{cky}
+<f13v.5,+P0>      qoky.daiin<$>
+#
+<f13v.6,+P0>      <%>foldaiin.olcphy.shol.dy<->oty.shor.qotyd<->dairod
+<f13v.7,+P0>      dain.okal.chy.qokchory<->dchy.kok[y:a]daiin<->shon
+<f13v.8,+P0>      otchy.daiin.y,dain.ykol<->okchy.o,kald<->d,y,taiin
+<f13v.9,+P0>      tchtod.otal.cthor.ytal<->y.cho,tal<->sho.qocthy
+<f13v.10,+P0>     y,ol.chy.kchey.kchor.dal<$>
+#
+#

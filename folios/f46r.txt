@@ -1,0 +1,32 @@
+# Voynich Manuscript — Folio 46r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f46r>     <! $Q=F $P=K $F=x $B=3 $I=H $L=B $H=2 $C=2>
+# page 89
+# herbal
+# Curriers language B, hand 2
+# Plant (root) ID: Asclepias, (+unreadable)
+#
+<f46r.1,@P0>      <%>pcheocphy.qotedy.chety.dy.chepchx.yfcheky.o[s:r]aiin.shee.qoteol.daiin.shee.dy.daly
+<f46r.2,+P0>      sodaiin.sheeoly.qoor.sheo,teoly.chckhy.daiin.sh[{ck}:ek].sheet.shedy.xo[r:s].aiin.sheckhy
+<f46r.3,+P0>      daiin.shor.ykal.che[{kh}:{th}]y.daiin.she.dalshedy.qokol.s.aiin.shee.ykar.daiin
+<f46r.4,+P0>      tshedar.chol.kaldy.chckhy.qokaldy.chekal.chckhy.sheky.sheky.dalo{cthh}y
+<f46r.5,+P0>      okeedy.shekeey.ykey.shedy.chdy.shky.qotsheod.ytedy.ytey.che[o:a]r<$>
+#
+<f46r.6,+P0>      <%>tedy.d[y:o]tedy.shee.keedy.ypchedy.chdalor.sheedy.odo[s:r],aiin.opchedy.dykedy.chdam
+<f46r.7,+P0>      xol.shol.qokaiin.ytchdy.qokchdy.s,ar.chdy.cthy.otedy.chedy.qokar.chcthy.m
+<f46r.8,+P0>      dsheol.chy.chckhy.shy.shdy.chky.chody.cthdy.s.cheos.chey<$>
+#
+<f46r.9,+P0>      <%>tshdy.shdy.fchedy.dyfchdy.shol.kees,ytaly.fchdy.dy.karal.shky.yty.dardam
+<f46r.10,+P0>     tchey.shy.chkal.chd.qokdy.shdy.adoldy.olaiir.sheol<$>
+#
+<f46r.11,+P0>     <%>pchdair.shd.shep,daiin.shdy.o{ifh}edy.qopchdy.ldy.shear.opdarshdy.s.@136;yfchedy
+<f46r.12,+P0>     techy.daiin.sheockhy.choky.r.aiin.ches.shey.kar.sheckhy.chdy.chckham
+<f46r.13,+P0>     ar,akaiin.shol.okeey.chol.dar.ols.lain.y<$>
+#
+<f46r.14,+P0>     <%>otchealkar.sholkshy.qokar.cheol.okal.dam.chdam.qokam
+<f46r.15,+P0>     qokar.shol,kal.[a:o]lkeody<$>
+#
+#

@@ -1,0 +1,37 @@
+# Voynich Manuscript — Folio 3r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f3r>      <! $Q=A $P=E $F=c $B=3 $I=H $L=A $H=1 $C=1>
+# page 5
+# herbal
+# Currier's language A, hand 1
+# Plant ID: crassulatea (Cretan Dittany)
+# 20 normal lines of text
+#
+<f3r.1,@P0>       <%>tsheos.qopal.chol.cthol.daimg
+<f3r.2,+P0>       ycheor.chor.dam.qotcham.cham
+<f3r.3,+P0>       ochor.qocheor.chol.daiin.cthy
+<f3r.4,+P0>       schey.chor.chal.chag.cham.cho
+<f3r.5,+P0>       qokol.chololy.s.cham.cthol
+<f3r.6,+P0>       ychtaiin.chor.cthom.otaldam
+<f3r.7,+P0>       otchol.qodaiin.chom.shom.damo
+<f3r.8,+P0>       ysheor.chor.chol.oky.dago
+<f3r.9,+P0>       sho.vor.sheoldam.otchody.ol
+<f3r.10,+P0>      ydar.cholcthom<$>
+#
+<f3r.11,+P0>      <%>pcheol.shol.sols.sheol.shey
+<f3r.12,+P0>      okadaiin.qokchor.qo,schodam.octhy
+<f3r.13,+P0>      qokeey.qot,shey.qokody.qokshey.cheody
+<f3r.14,+P0>      chor.qodair.okeey.qokeey<$>
+#
+<f3r.15,+P0>      <%>tsheoarom.shor.or.chor.olchsy.chom.otchom<->oporar
+<f3r.16,+P0>      oteol.chol.s.cheol.ekshy.qokeom.qokol.daiin<->soleeg
+<f3r.17,+P0>      soeom.okeom.yteody.qokeeodal.sam<$>
+#
+<f3r.18,+P0>      <%>pcheoldom.shodaiin.qopchor.qopol.opchol,qoty<->otolom
+<f3r.19,+P0>      otchor.ol,cheor.qoeor.dair.qoteol.qosaiin<->chor.cthy
+<f3r.20,+P0>      ycheor.chol.odaiin.chol.s.aiin.okol,or.am<$>
+#
+#

@@ -1,0 +1,23 @@
+# Voynich Manuscript — Folio 28v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f28v>     <! $Q=D $P=H $F=d $B=4 $I=H $L=A $H=1 $C=1>
+# page 54
+# herbal
+# Currier's language A, hand 1
+#
+<f28v.1,@P0>      <%>kshol.qooiiin.shor.pshoiiin.shepchy.qoty.dy.shory
+<f28v.2,+P0>      ykcholy.qoty.chy,dy.qokchol.chor.tchy.qokchody.cheor.o
+<f28v.3,+P0>      chor.chol.chy.choiin<$>
+#
+<f28v.4,+P0>      <%>tshoiin.cheor.chor.o.chty.qotol.sheol.shor.daiin.qoty
+<f28v.5,+P0>      otol.chol.daiin.chkaiin.shoiin.qotchey.qotshey.daiiin
+<f28v.6,+Pr>      daiin.chkaiin<$>
+#
+<f28v.7,*P0>      <%>pchol.oiir.chol.tsho.daiin.sho<->t{co}<->chy.chtshy.dair,am
+<f28v.8,+P0>      okain.chan.chain.cthor.dain<->yk<->chy<->daiin.cthol
+<f28v.9,+P0>      sor.chear.chl.[{c'}:s].choly.dar<$>
+#
+#

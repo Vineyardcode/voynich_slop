@@ -1,0 +1,147 @@
+# Voynich Manuscript — Folio 72v (part)
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f72v1>    <! $Q=K $P=J $F=z $B=1 $I=Z $H=4 $X=M>
+# page 144
+# Libra
+# Three circular bands, locus indications C1 to C3 (outer
+# to inner). C2 start point suggested by ThP ignored and vertical
+# stripe used instead.
+# Two rings of labelled nymphs, 30 in total
+# counting inner to outer (cf. Petersen). Clock position
+# for labels is that of nymph.
+# Has gathering mark 11.
+#
+<f72v1.1,@Cc>     <!09:30>oteos.alar.otar.air.chpaly.oteody.okchesal.otear.alshey.oleealy.sh?tey.oteos.alal.dals,alchol.ytolaiin.ydaiin.chotar.y,tal.oto.shoty.otey.okchedaly.chdar,y.s,ar,otedy.otorar.shedy.opsheytey.opairaly.choshydy.otar.cheedy.otaraiin.cheeky.okolar.ychey.otechety
+# Outer band of labels
+<f72v1.2,@Lz>     <!08:45>oeeoty
+<f72v1.3,&Lz>     <!09:30>octhy
+<f72v1.4,&Lz>     <!10:00>oteoly
+<f72v1.5,&Lz>     <!10:30>okeoly
+<f72v1.6,&Lz>     <!11:00>oeees
+<f72v1.7,&Lz>     <!11:30>o{cfh'h}y
+<f72v1.8,&Lz>     <!01:45>oees
+<f72v1.9,&Lz>     <!01:00>okeeoly
+<f72v1.10,&Lz>    <!01:30>odal
+<f72v1.11,&Lz>    <!02:00>aiinod
+<f72v1.12,&Lz>    <!02:45>od[?:ch]dy
+<f72v1.13,&Lz>    <!03:15>oteod
+<f72v1.14,&Lz>    <!03:45>yteod
+<f72v1.15,&Lz>    <!04:30>ok[?:ch]ody
+<f72v1.16,&Lz>    <!05:00>okal
+<f72v1.17,&Lz>    <!05:30>ytaly
+<f72v1.18,&Lz>    <!06:00>oeeeos
+<f72v1.19,&Lz>    <!06:30>oteofy
+<f72v1.20,&Lz>    <!07:30>cheoepy
+<f72v1.21,&Lz>    <!08:00>ykeedy
+<f72v1.22,@Cc>    <!08:30>otar,ar.otol,topar.oteolaiin.ofa[r:s]al.otshedy.ofalar.alshdy.chpar,aiin.okaly.oka?<!hole>.yaly.opcheolfy.opar.cheo{ck}ey.otolopaiin.shaldy.chepchy.otey.tea[n:r]
+# Inner band of labels
+<f72v1.23,@Lz>    <!08:45>oeeoly
+<f72v1.24,&Lz>    <!10:00>okydy
+<f72v1.25,&Lz>    <!11:30>okeey
+<f72v1.26,&Lz>    <!00:00>oiiny
+<f72v1.27,&Lz>    <!01:00>oeey
+<f72v1.28,&Lz>    <!03:00>okedy
+<f72v1.29,&Lz>    <!04:30>ypaim
+<f72v1.30,&Lz>    <!05:30>okalair
+<f72v1.31,&Lz>    <!06:30>oeeody
+<f72v1.32,&Lz>    <!07:30>okeol
+<f72v1.33,@Cc>    <!09:30>otalal.dalal.ykeols.oteo,r,aiin.yotoam.oteey.saiin.oteeos,am
+#
+#
+
+<f72v2>    <! $Q=K $P=I $F=z $B=1 $I=Z $H=4 $X=M>
+# page 143
+# Virgo
+# Three circular bands, locus indications C1 to C3 (outer
+# to inner). Two rings of labelled nymphs, 30 in total
+# counting inner to outer (cf. Petersen). Clock position
+# for labels is that of nymph.
+#
+# Added from v101: y.o becomes y.che??.o after ar?k?aly
+<f72v2.1,@Cc>     <!09:30>otos,chs.oty.oteos.oty.chotey.dchy.chopchy.otychal.ctheo,l,shey.tchol,s.choraiin.cheka{iph}y.oteeos,aly.okeedy.cheockhy.ar?k?aly.che??.okedl.okedy.sheos.okeeor.cheey.okeey.teey.cheeey.okeolol.sheeoeky.oekeeo,r,aiin.olalka[in:ir].okolsaiin
+# Outer band of labels
+<f72v2.2,@Lz>     <!10:00>oeedey
+<f72v2.3,&Lz>     <!11:00>oeeodaiin
+<f72v2.4,&Lz>     <!11:45>okeoram
+<f72v2.5,&Lz>     <!00:30>air,aim
+<f72v2.6,&Lz>     <!01:00>oshesy
+<f72v2.7,&Lz>     <!02:00>oke[a:o]ry
+<f72v2.8,&Lz>     <!02:30>cheoetey
+<f72v2.9,&Lz>     <!03:00>cheol[d:?]y
+<f72v2.10,&Lz>    <!04:00>sheoeky
+<f72v2.11,&Lz>    <!04:30>oteodar
+<f72v2.12,&Lz>    <!05:30>ofchdysd
+<f72v2.13,&Lz>    <!06:00>oteoyd
+<f72v2.14,&Lz>    <!06:30>yteody
+<f72v2.15,&Lz>    <!07:00>okeody
+<f72v2.16,&Lz>    <!08:00>okeoldy
+<f72v2.17,&Lz>    <!08:30>ykeeor
+<f72v2.18,&Lz>    <!09:00>opaiina[m:r]
+<f72v2.19,&Lz>    <!09:30>cheoldy
+<f72v2.20,@Cc>    <!10:00>oteesody.otey.oteeos.sheoty.yteeg.dchsaiin.shol.okeees.air,am,shey.qokeodal.oteotey.oteoldy.oteal,chedy.chotalal.okal,cheol.sar,aiin.cheokealy.sardy.otol.chekar.alteol.oltar,ar
+# Inner band of labels
+<f72v2.21,@Lz>    <!10:30>okaiin[:y]
+<f72v2.22,&Lz>    <!11:30>ockhol
+<f72v2.23,&Lz>    <!00:30>oeedy
+<f72v2.24,&Lz>    <!01:00>opalg<!nymph has no star>
+<f72v2.25,&Lz>    <!02:00>okeeom
+<f72v2.26,&Lz>    <!03:00>olkar
+<f72v2.27,&Lz>    <!04:00>oeedaly<!nymph stands on barrel>
+<f72v2.28,&Lz>    <!05:00>cheosy
+<f72v2.29,&Lz>    <!06:30>ofcheay
+<f72v2.30,&Lz>    <!07:30>yteedy
+<f72v2.31,&Lz>    <!08:30>o[n:r]aiin
+<f72v2.32,&Lz>    <!09:30>okeorar
+<f72v2.33,@Cc>    <!09:00>otaiin.otshedy.chokeedy.otes,al,al,ar.chetolain.sheodaly.sheokey.okealy.rary
+#
+#
+
+<f72v3>    <! $Q=K $P=H $F=z $B=1 $I=Z $H=4 $X=M>
+# page 142
+# Leo
+# Three circular bands, locus indications C1 to C3 (outer
+# to inner). Two rings of labelled nymphs, 30 in total
+# counting inner to outer (cf. Petersen). Clock position
+# for labels is that of nymph.
+#
+<f72v3.1,@Cc>     <!09:00>soees,otchs.otedar.oteody.oteodal.oteos.oteokchd?.oteody.sheokeey.sheody.shedykeal.ckhodys.okoleeolar.okeey.shedy.otey,sho.shol.teody.okolshey.ykeed?y.y.okechdy.olaiin.shokeedy.chol.choepchey.teey,teody.ches.okechedy.otechol.cheor.cheey.daiin.oyteeedar.???.shecthy.otycheedy.oteeoly.chokary
+# Outer band of labels
+<f72v3.2,@Lz>     <!10:00>ocham
+<f72v3.3,&Lz>     <!11:00>orchey
+<f72v3.4,&Lz>     <!11:30>okam
+<f72v3.5,&Lz>     <!00:00>okey
+<f72v3.6,&Lz>     <!00:30>otcheody
+<f72v3.7,&Lz>     <!01:00>okyeeshy
+<f72v3.8,&Lz>     <!01:30>[{c'y}:??]ofaiin
+<f72v3.9,&Lz>     <!02:00>okaly
+<f72v3.10,&Lz>    <!02:45>ot[o:a]ly
+<f72v3.11,&Lz>    <!03:30>ofalals
+<f72v3.12,&Lz>    <!04:00>sheeos.o{cfhh}y
+<f72v3.13,&Lz>    <!05:00>daiin,chepy
+<f72v3.14,&Lz>    <!06:00>oteey.deeal
+<f72v3.15,&Lz>    <!07:00>chealpy
+<f72v3.16,&Lz>    <!07:30>okeeol
+<f72v3.17,&Lz>    <!08:30>okaly
+<f72v3.18,&Lz>    <!09:00>okaldy
+<f72v3.19,&Lz>    <!09:30>okeolyd
+# in the following locus, add six characters (STA) from v101: .chlyiintee
+<f72v3.20,@Cc>    <!09:00>ototeey.r.chlyiintee.or.oteey.oteeody.cheokey.okeoekol.oteor.aiin.yoleeedy.okeos,alyshy.okeey.okeeey.okeedaly.cholainy.okedy.chees,y.okeeol.chey.otey.oldy.chdy,del.okeeoloky.oty.aiin.chas.oteey.okea???
+# Inner band of labels
+<f72v3.21,@Lz>    <!10:30>choleey
+<f72v3.22,&Lz>    <!11:30>oky
+<f72v3.23,&Lz>    <!00:30>ch{cthh}y
+<f72v3.24,&Lz>    <!01:00>laly
+<f72v3.25,&Lz>    <!02:00>oeedy
+<f72v3.26,&Lz>    <!03:00>odairan
+<f72v3.27,&Lz>    <!04:00>okary
+<f72v3.28,&Lz>    <!05:00>oeesaiin
+<f72v3.29,&Lz>    <!06:30>oteesed
+<f72v3.30,&Lz>    <!07:30>opal
+<f72v3.31,&Lz>    <!08:30>otaly
+<f72v3.32,&Lz>    <!09:30>otaly,yty
+<f72v3.33,@Cc>    <!08:45>okesee[s:r],ar,chkeeol.okeolaiin.chalal.ykeeodarar.oleeody,shedy.solar.aldy.oteor.cheor
+#
+#

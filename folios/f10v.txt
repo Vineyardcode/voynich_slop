@@ -1,0 +1,21 @@
+# Voynich Manuscript — Folio 10v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f10v>     <! $Q=B $P=D $F=b $B=2 $I=H $L=A $H=1 $C=1>
+# page 20
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Hellebore? orientalis
+#
+<f10v.1,@P0>      <%>paiin,daiin.sheo.pcheey.qoty.daiin.cthor.otydy.sain
+<f10v.2,+P0>      dain.daiin.ckhy.chcthor.choiin.qot.chodaiin.cthy.daiin
+<f10v.3,+P0>      dsho.ytey.kchol.ol,ty.chol.dy<$>
+#
+<f10v.4,+P0>      <%>qotchytor.shoiin.daiin.qotchey.sh{cthh}y.ytor.dain
+<f10v.5,+P0>      sho,ykeey.daiin.qotchy.qotor.chol.daiin.qokchy,ky
+<f10v.6,+P0>      shoiin.chor.shcthy.qoty.qotoiin.qokol.chor,aiin
+<f10v.7,+P0>      qokol.chy,ky.chol,cheky.daiin.dain.chckhan<$>
+#
+#

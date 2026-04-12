@@ -1,0 +1,22 @@
+# Voynich Manuscript — Folio 41v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f41v>     <! $Q=F $P=B $F=a $B=1 $I=H $L=B $H=5 $C=2>
+# page 80
+# herbal
+# Currier's language B, hand 2
+# Plant ID: <unreadable>, Fern, Maidenhair fern??? Tansy?
+# Plain carrot or variety (RZ)
+#
+<f41v.1,@Lp>      keer[e:o]dal
+<f41v.2,+P0>      <%>pcheody.qofcheepy.ofchdy.cfhekchdy<->ypchedy.chepchefy.shdchdy.qotal.dar
+<f41v.3,+P0>      dshedy.tchey.s,aiin.shekey.okedy.okaly<->daiin.okedy.ykeeody.choy.keoy.dam
+<f41v.4,+P0>      qoke[o:d]dy.okey.qokeody.oleeol.lkedy<->lkeeody.qokeedy.okeey.qokol.sheols
+<f41v.5,+P0>      ycheos.olchey.daiin.or.chol[a:o]laiin<->oteedy.qoteol.oteodar.orain
+<f41v.6,+P0>      tadaiin.ol.cheos.yteedy.okal.[o:a]ld<->oteol.qokal.or.oteody
+<f41v.7,+P0>      ykeey.okey.ykeeol.ckhdy.chdal<->ykeo,aiin.okeody.oly
+<f41v.8,+P0>      daiin.olkeeo.lkol,chedy.okeey<$>
+#
+#

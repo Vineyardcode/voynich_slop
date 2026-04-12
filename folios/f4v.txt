@@ -1,0 +1,29 @@
+# Voynich Manuscript — Folio 4v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f4v>      <! $Q=A $P=H $F=d $B=4 $I=H $L=A $H=1 $C=1>
+# page 8
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Convulvula Ipomea? (climbing plant)
+# Two paragraphs, top one split by plant
+#
+<f4v.1,@P0>       <%>pchooiin.ksheo.kchoy.chopchy.dolds<->dlod
+<f4v.2,+P0>       ol.chey.chy.cthy.shkchor.sheo.cheory<->choldy
+<f4v.3,+P0>       sho.sho.chaiin.shaiin.daiin.qodaiin<->o,aram
+<f4v.4,+P0>       qok[sh:ch]y.qocthy.choteol.daiin.cthey<->choaiin
+<f4v.5,+P0>       shor.sheey.{cto}.otoiin.shey.qotchoiin<->chodain
+<f4v.6,+P0>       ytchoy.shokchy.cphody<$>
+#
+<f4v.7,+P0>       <%>torchy.sheeor.chor.chokch[y:e].cphydy
+<f4v.8,+P0>       oleeeb.chor.cthol.sho.otor.cthory
+<f4v.9,+P0>       qooko,iiin,cheog.chcthy.shoky.daiin
+<f4v.10,+P0>      otaiin.sheo.okeody.chol,chokeody
+<f4v.11,+P0>      sho.kcheor.shody.shtaiin.qotol,daiin
+<f4v.12,+P0>      qokey.sho.okeol.s,keey.shar,char,ody
+<f4v.13,+P0>      shody.s.cheor.chokody.shodaiin.qoty
+<f4v.14,+P0>      ochody.chy,key.chtody<$>
+#
+#

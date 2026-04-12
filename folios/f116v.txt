@@ -1,0 +1,17 @@
+# Voynich Manuscript — Folio 116v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f116v>    <! $Q=T $P=X $F=z $B=1 $I=T $H=3 $X=V>
+# page 235
+# has "key-like" sequence
+# has extraneous writing mixed with voynich script
+# eva in < >, approximately:
+# p*clabc* nomon nucor*v
+#
+# + nuchicon oladab<yd> + multo<d> + tc + c<h>vc + porta<d> + n +
+# fix + marix + mocix + vix + ahra + maria +
+<f116v.1,@Lx>     oror.sheey<!valsch vbren so nim gaf mich o>
+#
+# end of file

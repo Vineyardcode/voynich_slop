@@ -1,0 +1,51 @@
+# Voynich Manuscript — Folio 73r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f73r>     <! $Q=L $P=A $F=a $B=1 $I=Z $H=4 $X=M>
+# page 145
+# Scorpius
+# Three circular bands, locus indications C1 to C3 (outer
+# to inner). Two full rings of labelled nymphs and one short
+# third section, 30 in total counting inner to outer (cf.
+# Petersen). Clock position for labels is that of nymph.
+#
+# Top four nymphs with labels
+<f73r.1,@Lz>      <!11:15>otaly
+<f73r.2,&Lz>      <!11:45>chockhy
+<f73r.3,&Lz>      <!00:30>otedy
+<f73r.4,&Lz>      <!01:00>yteeody
+<f73r.5,@Cc>      <!11:00>ypolcheey.salchedal.chepchey.daraly.oteos,air,ar.oteosdal.chot[oe:ee]y.soteees,alshey.[{oh}:ch]es.al,chees.che[o:a]ly.jeiii?.choteey.cheteey.cheteeeos,aiin.chetchody.chedar.ar.cheteey.ote{co}s,ar.airalor.shetee.yteey.cheody.ykeydam.oteos.alar.alcheky
+# Outer full circle of labels
+<f73r.6,@Lz>      <!11:00>otaly
+<f73r.7,&Lz>      <!11:30>okeody
+<f73r.8,&Lz>      <!00:00>oteedyl
+<f73r.9,&Lz>      <!00:30>[y:o]keedy
+<f73r.10,&Lz>     <!01:00>okeey
+<f73r.11,&Lz>     <!02:00>okeedy
+<f73r.12,&Lz>     <!02:30>ykeeory
+<f73r.13,&Lz>     <!03:30>oteeosy
+<f73r.14,&Lz>     <!04:30>shekal
+<f73r.15,&Lz>     <!05:30>oteedyy
+<f73r.16,&Lz>     <!06:30>oked[a:o]l
+<f73r.17,&Lz>     <!07:00>chdy
+<f73r.18,&Lz>     <!08:00>dalshey
+<f73r.19,&Lz>     <!08:45>opaiin
+<f73r.20,&Lz>     <!09:30>okeos
+<f73r.21,&Lz>     <!10:00>otey
+<f73r.22,@Cc>     <!10:30>oteey.dar.al.opaiin.olalaiin.s.air,am.chopchedy.chdar.oram.otareees.olteey.okees.otar,chey.oteas,ochor.oparchey.daiin.qocheey.s,cheey.dal.cheesy
+# Inner full circle of labels
+<f73r.23,@Lz>     <!11:30>okary
+<f73r.24,&Lz>     <!01:00>okeeody
+<f73r.25,&Lz>     <!02:00>oyteedy
+<f73r.26,&Lz>     <!03:00>oky
+<f73r.27,&Lz>     <!04:30>chefy
+<f73r.28,&Lz>     <!06:00>otal
+<f73r.29,&Lz>     <!07:00>chek
+<f73r.30,&Lz>     <!08:30>ar
+<f73r.31,&Lz>     <!09:30>kar
+<f73r.32,&Lz>     <!10:30>okeeos
+<f73r.33,@Cc>     <!10:00>osaiin.chedain.oteey.chedaly.okechs.chepcheesaly.oteodal
+#
+#

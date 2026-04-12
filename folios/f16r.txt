@@ -1,0 +1,28 @@
+# Voynich Manuscript — Folio 16r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f16r>     <! $Q=B $P=O $F=z $B=1 $I=H $L=A $H=1 $C=1>
+# page 29
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Canabis, Hemp, Ampfer(?)
+#
+<f16r.1,@P0>      <%>pocheody.qopchey.sykaiin.opchy,dor.ychy<->daiin.dy<->chor.orom
+<f16r.2,+P0>      ychykchy.otey<!corr?>.kol.shor.ody.otody.qoy<->oeesordy
+<f16r.3,+P0>      ydor.sheal.okchy.qoy,koiin.choky.ykair
+<f16r.4,+Pc>      dainod.ychealod<$>
+#
+<f16r.5,*P0>      <%>tchor.chor.chs.y,kch.shocthy.opchy.ty,ky
+<f16r.6,+P0>      oshaiin.dyky.oeees.deeeod.aiin.d,toaiin
+<f16r.7,+P0>      daiin.dalchy.dyky.schy.s,aiin.doal.qoky
+<f16r.8,+P0>      shotchy.ydain.yky.shody.otol.daiin
+<f16r.9,+P0>      saiin.ytaiin<$>
+#
+<f16r.10,+P0>     <%>toror.dal[y:o],dal.opchy,fchol.ypcho{cfy}.okal
+<f16r.11,+P0>     sokchy.qokol.choty.okchy.cthy.chy,kchy
+<f16r.12,+P0>     dy,cho,kchy.shcthy.shtshy.sho.tchokyd
+<f16r.13,+P0>     qok[{oh}:ch]or.dl.dy.shey<$>
+#
+#

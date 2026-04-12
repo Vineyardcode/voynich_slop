@@ -1,0 +1,74 @@
+# Voynich Manuscript — Folio 76r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f76r>     <! $Q=M $P=C $F=b $B=2 $I=T $L=B $H=2 $C=2 $X=S>
+# page 149
+# text only
+# reversed in Brumbaugh p114
+# Currier's language B, hand 2
+# has 'key-like' sequence, here transcribed as L0 labels
+# at approximately the right place reading: sdqsolkrs
+#
+<f76r.1,@P0>      <%>potchokor.chcfhdy.opshdy.qolp.chcphy.chcphdy.opshey.qofshy.opchdy.sain.as,y
+<f76r.2,+P0>      dshedy.qotddyar.cthar.chep.dain.okain.qokeor.shedy.qol.ain.sheals,qokeey
+<f76r.3,+P0>      yshey.qokeey.qokey.qokeed.okedy.shky.qotedy.otedy.shol,qoty.ol,chedy.aiiny
+<f76r.4,*L0>      s
+<f76r.5,=P0>      qokedy.qokeey.or,or.or.chkorol.otey.qokedy.lkedy.chdy.qokchdy.qokal.chdam
+<f76r.6,+P0>      solchedy.qokeedy.qopchedy.qokeeo.rol.shedy.qokedy.sheey.okees.al.al.chedain.dar
+<f76r.7,*L0>      d
+<f76r.8,=P0>      qoaiin.ches.okeedal.qoked.qokeey.shedy.chey.lkeedy.okey.dar.aiin.chekain.oldy
+<f76r.9,+P0>      shed.al,shckhy.[r:s],ain.chcphedy.ain.olkeey.lkar.ain.otchy.lkain.chedy.dar.daly
+<f76r.10,*L0>     q
+<f76r.11,=P0>     qotedshedy.qorain.oteedy.chedy.ol.chdy.raiiin.chekain.dain.chckhy,sal.oty
+<f76r.12,+P0>     solshedy.qool.qctheed.shdy.qa.ol.keey.dain.saiin.s.ar.shedy.qokeor,okeedy
+<f76r.13,+P0>     qokeedy.checthy.chckhey.okal.okaiin.sheckhey.okeedy.otey.dal.y,kal.chedy,sar
+<f76r.14,*L0>     s
+<f76r.15,=P0>     chorshedy.qoked.okees,al.ar.aiin.ar,ain.chckheed,lchedy.shedy.qolair.chedy
+<f76r.16,+P0>     qotes.chedy.shckhy.qokeey.okeey.kain.checkhy.qokeedy.qotey.qotain.chekair
+<f76r.17,+P0>     chey.chckh.shey.qeeey.chol.lkain.shedy.qokeedy.okain.chedy.okeed.qokaloro
+<f76r.18,*L0>     o
+<f76r.19,=P0>     dcheedy.qolchey.qokeey.qokeey.chedy.qokar.shedy.shedy.lshedy.qolchedy.otedyl
+<f76r.20,+P0>     dshedy.qo.chedy.lchedy.qokey.qolchey.qotain.chckhy.shckhy.lchar.okar.alchdy
+<f76r.21,+P0>     qokch[s:?]dy.okeey,lchedy.qo.olain.ot.shedy.qotaly.dar.sain.shedy.oleeed
+<f76r.22,*L0>     l
+<f76r.23,=P0>     sheedy.qokedy.chedy.chedy.qokain.chckhy.olchy.l,ain.shedy.olaiin.chedy,qokey
+<f76r.24,+P0>     dalshedy.qol,sheedy.qokaldy.chepy.dain.alolor.olain.chedy.shecthy.qokey.lor
+<f76r.25,+P0>     qoloin.chey.qokeey.lchedy.chckhy.chey,ky.chey.qolal.lklchey.lchedy.chey.llaiir,y
+<f76r.26,+P0>     shedal.shey.qokey.qolchedy.qolain.ain.chey.qokaiin.okain.cheedy.lchey,l,oly.dy
+<f76r.27,*L0>     k
+<f76r.28,=P0>     soin.sheey.chear.ol,aiin.chodaiin.qokaiin.chey.qokalchey.dal,chdy.dal.ytal
+<f76r.29,+P0>     qokar.shedy.shedy.qokar.shedy.qokain.dar.shey.lshcthy.okar.okain.y,laiin,y
+<f76r.30,+P0>     darchey.cheolchey.shcthy.chedy.qo.qokey.dalaiin.sheeky.qokain.olky.sain.chy
+<f76r.31,*L0>     r
+<f76r.32,=P0>     che[o:a],r.ain.okaiin.dain.chey.dalshedy.qokaiin.che[o:a]l.shy.chedy.rain.chedy.shy
+<f76r.33,+P0>     qokedy.lkey.kal.shedy.qopchey.qo,l,pchedy.okchy.chckhy.shey.lol.r,ol.sheey.dar
+<f76r.34,+P0>     cheor.shey.qoolkal,shedy.shedy.shey.shedy.ollchy.shlches.shcthy.sain.oly
+<f76r.35,+P0>     sain.shedy.lshey.qokal.chcthy.okeolor.cheol.otar.chedy.qol.chcthy.chckhy
+<f76r.36,+P0>     qok[a:o]l.shedy.sheol.cheol.alshy.chol,chdy.talor.ol,alor.chol.okeor,ar,o.oly
+<f76r.37,*L0>     s
+<f76r.38,=P0>     oteey.lchey.chey.olsheol.qokal.chal<$>
+#
+<f76r.39,+P0>     <%>polalchdy.pshedy.opchedy.qokas.yksheol.qokeedy.oty,lshed.chpsheedy.ytal
+<f76r.40,+P0>     qolchey.shckhy.qokey.lchy.opchey.dain.shdy.qokedar.olchdy.sor.oty.dy.lchedy
+<f76r.41,+P0>     sain.ar.okedy.lcheey.qokey.shckhy.otedy.qokal.shey,qoky.dain.chedy.qokchd[y:a]l
+<f76r.42,+P0>     dain.chey.lsh.daiin.chey.lchedy.qol[a:o]in.qotal.shedy.dy.shecthy.otalam
+<f76r.43,+P0>     sor.shey.qokey.qokar.sheeoldy.chol.oly.chaly.lol.chdy<$>
+#
+<f76r.44,+P0>     <%>poleedaran.shckhy.qoty.ykar.alol.lkaiin.ol,shedy.otain.okar.opar.kolpy
+<f76r.45,+P0>     y,shedy.qo.or.okain.shey.qokaiin.okeedy.qochy.as.[o:a]in.sheey.chckhy
+<f76r.46,+P0>     dain.shear.okedy.otedy.okedy.lchedy.chedy.okar.chedy.otarain
+<f76r.47,+P0>     dain.chckhy.[o:a]r,aiin.sheey.qockhey.olchdar.sheey.otedy.olain.oky
+<f76r.48,+P0>     saiin.shckhy.lkeedy.qoky.okain.ytain.oteedy.okedor.shedy.qokal
+<f76r.49,+P0>     saiin.olaiin.oky.shol.sain.oky.l,kar.chedy.lkar.al.loral
+<f76r.50,+P0>     [p:f]chedy.@174;.sal.dol.shdy.olkedy.qokaiin.otal.rory<$>
+#
+<f76r.51,+P0>     <%>qkor.shedy.shey.keedy.sal.raiin.opchdy.dar,chedy.qopchedy.ro[r:s]ol
+<f76r.52,+P0>     olsheed.qokedy.qokeedy.qokedy.lkedy.lsheedy.okar.shedy.otain
+<f76r.53,+P0>     saiin.qol.shedy.ol.chedor.chal.shed.qoteedy.dshdy.okal.chedyl
+<f76r.54,+P0>     dal,or,chedy.qolaiin.okedal.olchedy.chdol.olchedy.choly.aiin,y
+<f76r.55,+P0>     sain.sheey.or.ar.al.solshey.okeedy.ldaiin.checkhey.okedalor
+<f76r.56,+P0>     qokaiin.ol.shedy.qokeey.or.shdy<$>
+#
+#

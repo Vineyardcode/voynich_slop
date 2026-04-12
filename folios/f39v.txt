@@ -1,0 +1,28 @@
+# Voynich Manuscript — Folio 39v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f39v>     <! $Q=E $P=N $F=y $B=2 $I=H $L=B $H=2 $C=2>
+# page 76
+# Currier's language B, hand 2
+# herbal
+# Plant ID: Primulaceon(?) (ag arthritis)
+#
+<f39v.1,@P0>      <%>pdair.chdy.fdykain.or.air.sheykaiiin.ofchy.kar.or.aiin.dolky.o[sh:{i'h}]dy
+<f39v.2,+P0>      sor.shy.kar.chol.qoty.kchdy.olky.dar.chdy.ykar.olkedaiin.ody.dy
+<f39v.3,+P0>      daiin.chor.okain.okaii,fchody.saiin.or,aiin.qokaiin.ytodaiin.okam
+<f39v.4,+P0>      y,okeey.chody.cheor.aiin.okody.chodal.ykedy.qokedy.dal,o,[d:?],aiin.shky
+<f39v.5,+P0>      ytedykor.or.sheky.kain.otar.or.aiin.okaiin.ckhol.ol.kor.oto,r.ofchy
+<f39v.6,+P0>      lkedy.okchey.shor.qoykam.cho,ckh{cfhh}y.or.aly.shody<$>
+#
+<f39v.7,+P0>      <%>pardy.shedy.qokar.sheedy.oraly<->olaiir.okar.ar
+<f39v.8,+P0>      o{ek}ar.aiin.olkaiin.olky.dar.ald<->shek.chek.qokchy.dar.ain
+<f39v.9,+P0>      tar.aiin.dal.ar.ain.cheor.ydam<->shody.okal.shd,y.kshy.or
+<f39v.10,+P0>     dar.ar.ykar.or.yky.chdy.fchor<->qokain.ar.sheedy.olchef
+<f39v.11,+P0>     sarol.chedy.shekam.q[o:e]kar.chl<->ykeedy.chckhy.dalor.dy
+<f39v.12,+P0>     paiin.alaiin.otal,chd.okar.am<->okar.cheodal.ockhy
+<f39v.13,+P0>     dain.ockhedy.otedy.okedy<->lchdy.okaiin.daiiin,y
+<f39v.14,+P0>     tar,aiin.okaiin.cholody<$>
+#
+#

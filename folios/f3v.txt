@@ -1,0 +1,29 @@
+# Voynich Manuscript — Folio 3v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f3v>      <! $Q=A $P=F $F=c $B=3 $I=H $L=A $H=1 $C=1>
+# page 6
+# Currier's language A, hand 1
+# herbal
+# Two paragraphs of text, left of plant picture
+# Same root as f100v [1,1] (Petersen
+#
+<f3v.1,@P0>       <%>koaiin.cphor.qotoy.sha.ckhol.ykoaiin.s.oly
+<f3v.2,+P0>       daiidy.qoteeol.okeeor.okor.olytol.dol,dar
+<f3v.3,+P0>       okom.chol.shol.seees.chom.cheeykam.okai
+<f3v.4,+P0>       qodar.ees.eey.kcheol.okal.do.r.chear,een
+<f3v.5,+P0>       ychear.otchal.cho,r.char.ckh[a:y]
+<f3v.6,+P0>       or.cheor.kor.chodaly.chom<$>
+#
+<f3v.7,+P0>       <%>tchor.otcham.chor.cfham.s
+<f3v.8,+P0>       ykchy.kchom.chor.chckhol.oka
+<f3v.9,+P0>       ytcheear.okeol.cthodoaly.chor.cthy
+<f3v.10,+P0>      ochos.daiin.qokshol.daiim.chol.okary
+<f3v.11,+P0>      sho.shockho.ckhy.tchor.chodaiin.chom
+<f3v.12,+P0>      osh.chodair.ytchy.tchor.kcham.s
+<f3v.13,+P0>      shar.shkaiin.qokchy.yty.cthal.chky
+<f3v.14,+P0>      dain.sheam.y,keam<$>
+#
+#

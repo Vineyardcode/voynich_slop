@@ -1,0 +1,21 @@
+# Voynich Manuscript — Folio 52r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f52r>     <! $Q=G $P=G $F=d $B=4 $I=H $L=A $H=1 $C=1>
+# page 101
+# herbal
+# Currier's language A,  hand 1
+# Plant ID: (unreadable)
+#
+<f52r.1,@P0>      <%>tdokchcfhy.ycphko.ytair.shar.qofy,daiin.ypchy.otchol.dar.yty
+<f52r.2,+P0>      oty.shor.ykoldy.qoky.koldal.oteees.dals<->otar,dl
+<f52r.3,+P0>      tchotshey.qoty.okchol.tchody.qotam.oky<->ytoldy
+<f52r.4,+P0>      l,shopchy.qoky.qotchy.oty.dar.oty.dam<->ychcthod
+<f52r.5,+P0>      oky.chor.okchal.okchar.shor.tol.ykair<->ytchdam
+<f52r.6,+P0>      daiin.shedaiin.qodal.dy.[ch:ee]okam.otchordy<->okchol.do
+<f52r.7,+P0>      qok[{ch'}:{cs}]y.qockhom.dals.shodaim.tcham.dody<->ykeey.dai[g:m:d].a[m:@175;]
+<f52r.8,+P0>      or,cheey.dor.shey.kom.s.cheey.dch[o:a]m.daiin<$>
+#
+#

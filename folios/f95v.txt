@@ -1,0 +1,45 @@
+# Voynich Manuscript — Folio 95v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f95v1>    <! $Q=Q $P=J $F=y $B=2 $I=H $L=B $H=3 $C=5>
+# page 198
+# herbal
+# Currier's language B, hand 5
+# Plant ID: Wermut, Artemisium Absynthum
+#
+<f95v1.1,@P0>     <%>{c@132;h}olteedy,{c@133;h}oepaiin.oekshy.qofchdaiin.shoyfar.okshy.okain.ar.alfshed
+<f95v1.2,+P0>     okshy.tshor.qoksh.qokain.otar.oty.qokedy.otal.ytchdy.qokar.am
+<f95v1.3,+P0>     tchody.qokaiin.y,char.okain.sheody.chedy.chcthykedy.ety.dain.al
+<f95v1.4,+P0>     tchedy.qokal.oty.shekshey.otaldy.okshey.ytshedy.okarar.yty.chdy
+<f95v1.5,+P0>     otal.shedy.odaiin.chey<$>
+#
+<f95v1.6,+P0>     <%>tshdal.qokshy.dchdy.shedy.dkshey.chefar.otchdy.ol.shedar.chdam
+<f95v1.7,+P0>     dshey,kain.qokar.olkar.<!next line intrudes>chy.tar.otar.chdy.kchdy.dolkain.otardy
+<f95v1.8,+P0>     dchody.sheos.qodaiin.fchodaiin.chtal.dar.okedy.okchedy<$>
+#
+<f95v1.9,+P0>     <%>tshey,taiin.ol,k,shol,kshed.qokeeod.raiin.qokeey.qoko.skchdy
+<f95v1.10,+P0>    sain.sheyk.chody.k.chedain.chedaiin.otain.daiin<$>
+#
+<f95v1.11,+P0>    <%>pshedar.shedy.kshedy.qotches.or,aiin.shekaiin.otain.tshes.qokain
+<f95v1.12,+P0>    shotshey.s,aiin.ody.olkchdy.qotaiin.shcthy.dolkchy.tchdaiin.dal
+<f95v1.13,+P0>    lshee.qodain.okaiin.otody.chcthy<$>
+#
+#
+
+<f95v2>    <! $Q=Q $P=I $F=y $B=2 $I=H $L=B $H=3 $C=5>
+# page 197
+# herbal
+# Currier's language B, hand 5
+# Plant ID: Banberry? Actaea Waxberry
+#
+<f95v2.1,@P0>     <%>tchody,podar.shody.qofaiin.ofchdy.otedy.qotedaiin.shor.olsain
+<f95v2.2,+P0>     sol.shedy.qotchey.alor.chdyty.olor.ok[a:o]dy.chody.qotaiin.y.kaipy
+<f95v2.3,+P0>     archytaiin.shekoiin.okar.or.aiin.chckhy.okal.otain.okalody
+<f95v2.4,+P0>     daiin.<!next line intrudes>olkain.qokan.shar.shekydy.dain.alkain<->okalaiin.s
+<f95v2.5,+P0>     tar.fcheey.shos.aiin.okar.olkaiin.otalain<->okaiin,ar
+<f95v2.6,+P0>     dain.ykaly.chals<->shedain.olaiin.y<->okain.ldy
+<f95v2.7,+P0>     qokeey.dar.chdykain<->ytasal.otain<$>
+#
+#

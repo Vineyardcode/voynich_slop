@@ -1,0 +1,24 @@
+# Voynich Manuscript — Folio 30v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f30v>     <! $Q=D $P=L $F=x $B=3 $I=H $L=A $H=1 $C=1>
+# page 58
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Boragine
+#
+<f30v.1,@P0>      <%>{c@132;h}s{c@133;h}ain.shosaiin.chocthey.sho.chepchy.shor.sheaiin
+<f30v.2,+P0>      qotchor.chy.she.kchor.chory.keor,ol.chy.daiin.ctholdy
+<f30v.3,+P0>      chotchol.daiin.cthol.doiin.daiin.chokeor.dal.chto[{ith}:cth]y
+<f30v.4,+P0>      otchey.daiin.chor.checkhy.qotchod.daiin
+<f30v.5,+P0>      dain.choty.chkol.ytor.cheoldy
+<f30v.6,+P0>      qokeeor.chokol.chokeody.dair,y
+<f30v.7,+P0>      ch[a:o]kchy.sho,kcho,tcho.ctho.sos
+<f30v.8,+P0>      oyshy.cheotol.cphoaiin.cphey
+<f30v.9,+P0>      qotchor.chor.sheey.cheolsos
+<f30v.10,+P0>     sho.sheoldy.otcheor.daiin
+<f30v.11,+P0>     sol.chokcheey.daiin.kchydy<$>
+#
+#

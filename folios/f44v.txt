@@ -1,0 +1,27 @@
+# Voynich Manuscript — Folio 44v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f44v>     <! $Q=F $P=H $F=d $B=4 $I=H $L=A $H=1 $C=1>
+# page 86
+# herbal
+# Curriers language A, hand 1
+#
+<f44v.1,@P0>      <%>tsho.qotshy.cthol.d.chor.otol.shol.tol.qotshol.otoldy
+<f44v.2,+P0>      yolkol.cheol.qokchain.daly.otchol.daiin.shol.qotor.ar
+<f44v.3,+P0>      tol.okchor.shcthy.otol.daiin.cthy.cthy<$>
+#
+<f44v.4,+P0>      <%>yokalod.shaiin.shor.shorody.shky.sho.y,tchy.opchod.opy
+<f44v.5,+P0>      oain.shol.cthy.cphaiin.ykchor.otchy.qoty.ytchear.cthain
+<f44v.6,+P0>      tol.dair.ytaiin.dol,y.kchain.oty,keey.otchol.ytaiin,dy
+<f44v.7,+P0>      ok[y:o],tchaiin.cthol.dy.cheol.ololy<$>
+#
+<f44v.8,+P0>      <%>tsheody.cthaiin.odaiin.shol.shey.cthy<->ykoda<->ol
+<f44v.9,+P0>      dshor.cthees.l,o,lkeees.ckhy.chcthy.lo
+<f44v.10,+P0>     lsho.qokchy.tshy.cphaiin.cthal.kal
+<f44v.11,+P0>     okal.chol.chol.choky.okaiin.cthy.otal
+<f44v.12,+P0>     ychey.teol.chaiin.chcthy.ctho.cthol
+<f44v.13,+P0>     lchor.shol.dairl<$>
+#
+#

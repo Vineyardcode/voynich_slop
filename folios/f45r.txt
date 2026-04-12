@@ -1,0 +1,25 @@
+# Voynich Manuscript — Folio 45r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f45r>     <! $Q=F $P=I $F=w $B=4 $I=H $L=A $H=1 $C=1>
+# page 87
+# herbal
+# Curriers language A, hand 1
+#
+<f45r.1,@P0>      <%>pykydal.sha{ikh}y.oty.shey.qop.char.opchal.ypchor.ofchar
+<f45r.2,+P0>      shor.cthy.qoky.qokol.qokaiin.chol.chol.ykaiin.dar.om
+<f45r.3,+P0>      qo.chcthy.kchol.daiin.qoaiin.cthy.chaiin.ykeey.cthom
+<f45r.4,+P0>      lor.y.kaiin.ykeol.ykeol.cham<$>
+#
+<f45r.5,+P0>      <%>kol,sho.pchor.kchey.ty.opchaldy.otshy.qokchy.dol,daiin
+<f45r.6,+P0>      otchar.okchar.daiin.ytchody.tcholol.otar.dal.dary
+<f45r.7,+P0>      lchar.qor.y.kar.dar<$>
+#
+<f45r.8,+P0>      <%>tchol.cthy.qodaiin.cthy.dain.{@246;thh}ey.otydal.daiin.[g:d]
+<f45r.9,+P0>      @201;or.or.chain.dain.ykolody.ytaiin.qotchol.kol.dy
+<f45r.10,+P0>     okaiin.shar.yky.oky.kair.daldy.dalor.cheol.dal
+<f45r.11,+P0>     l.okaiin.okcho.laldan.daldaiin<$>
+#
+#

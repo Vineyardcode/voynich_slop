@@ -1,0 +1,38 @@
+# Voynich Manuscript — Folio 37v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f37v>     <! $Q=E $P=J $F=w $B=4 $I=H $L=A $H=1 $C=1>
+# page 72
+# Currier's language A, hand 1
+# herbal
+# Same plant as f102r1[3,1] ? (Stolfi)
+#
+<f37v.1,@P0>      <%>[t:k]shody.qocthy.qotoldy.chopdain.sol
+<f37v.2,+P0>      dor.chol.cthor.orchochor.daiin
+<f37v.3,+P0>      qokchon.shy.chon.daiin.dy
+<f37v.4,+P0>      dshor.dytory.dshor.daiin
+<f37v.5,+P0>      dchor.qotol.ykchon.dain
+<f37v.6,+P0>      yokor.ytchor.saiin.oty
+<f37v.7,+P0>      qotchor.daiin<$>
+#
+<f37v.8,+P0>      <%>qotor.choiin.chetchy.daiin
+<f37v.9,+P0>      dor.chor.sho.daiiin.daiin
+<f37v.10,+P0>     soiin.{ch'}ey.o,koiin.chey.tom
+<f37v.11,+P0>     qotoiin.choror.cthol.daiin
+<f37v.12,+P0>     chor,sh[y:o]ly.sheaiin.do.tody
+<f37v.13,+P0>     sotoiiin<$>
+#
+<f37v.14,+P0>     <%>todain.cphaiin.cphorods
+<f37v.15,+P0>     soiiin.cheoky.daiin.dain
+<f37v.16,+P0>     qotor.daiin.chotaiin
+<f37v.17,+P0>     sokchor.qokoiiin.ykeeols
+<f37v.18,+P0>     oyteey.daiin.daiinody
+<f37v.19,+P0>     daiin.qkaiin.qotal.daiin
+<f37v.20,+P0>     y,cho{ckah}y.ykol,daiin,s
+<f37v.21,+P0>     oshctho.do.daiin.cthols
+<f37v.22,+P0>     qotol.ytoiin.cho{cthh}y
+<f37v.23,+P0>     yto.chol.daiin<$>
+#
+#

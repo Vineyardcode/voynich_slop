@@ -1,0 +1,62 @@
+# Voynich Manuscript — Folio 58v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f58v>     <! $Q=H $P=D $F=b $B=2 $I=S $L=A $H=3>
+# page 114
+# text only
+# Currier's language A
+#
+# General description of page:
+# Plain text in four(?) paragraphs
+#
+# Six-pointed star with tail at start of this paragraph
+<f58v.1,@P0>      <%>tol.shokchy.opaiin.opaiin.chofaly.ypar.ypal.opal.opaldaiin
+<f58v.2,+P0>      dair.or.{ch'h}aiin.tair.y.qotalody.s,aiin.okeody.qotair.ar.alor.orky
+<f58v.3,+P0>      todal.qotain.sho{@246;k@191;@191;h}y<!corr?>.qokeol.okey.qokalchal.daly.ar.aim
+<f58v.4,+P0>      or,aiin.okair,y.dair,al.qokal.qokaiin.qokaly.okar.olkaly.okal
+<f58v.5,+P0>      faiir.ofas,ar.qotaiin.sholy.qotaiin.yqokaly.okal.qokaly.okaly
+<f58v.6,+P0>      qokair.ar.aly.sho[r:s].daiin.choly.dal.ykaiin.org.fchey.okaly.oky
+<f58v.7,+P0>      y.daiin.qokeey.qokar.lchedy.qokalor.sheols.oteor.aiin.cheky
+<f58v.8,+P0>      taiin.ckhey.daldy.qokair.alar.ytal,aiin.otaiin.ykaiin.ykaly.dam
+<f58v.9,+P0>      salal.qolaiin.chockhey.tcholy.qokaiin.qokaiinos.orcheey.olaly
+<f58v.10,+P0>     ykair.shey.key.ctholy.qotalom.qokals.qokaiin.okal.okaldy.ory
+<f58v.11,+P0>     tchol,shol.tor.qokair.or.y,ykaiin.dory.okaiir.chodaiin.otals
+# The last three words of above line seem to have been scribbled in afterwards
+<f58v.12,+P0>     oreeey.cheekey.cheal.qokey.chedal.dy.tolair.opchey.poaly.cfhy
+<f58v.13,+P0>     qoeear.alkeain.ytal.chos.alor.okal.chcthy.tal,{ckh'h}y.kar
+<f58v.14,+P0>     shar.air.alo[r:s].chol.oeear.sho.qotal.chol.tal,ar.tar.aropam
+<f58v.15,+P0>     qot,oiin.okal.aral.s.air.qoal.talchos.okal.cho.ytam.dam
+<f58v.16,+P0>     ykam.qokair.okaly.qokal.chaly.cheockhey.olaly.taldar,al
+<f58v.17,+P0>     daiin.alal.dal.qok[a:?]r.otal.chodol.qokeal.cheol.chos.okeeam
+<f58v.18,+P0>     taiin.chal.sheal.qockhy.dar.aiin.ockhey.qokeey.qoaiin.aral
+<f58v.19,+P0>     okain.chokal.sheoldy.qokor.olkam.cheol.dar.chokeey.okalchy
+<f58v.20,+P0>     tolain.ar.ykeain.qokeey.otal.chol.okal.ar.{chh}ty.chkalarol
+<f58v.21,+P0>     olain.olalor.odaiin.qetair.otal.qokal.da[ir:in].oi[?:sh]y.otam
+<f58v.22,+Pc>     okar.sheey.shekealy<$>
+#
+<f58v.23,*P0>     <%>pchshy.sheoltey.shopalchedy.sheolkeal.qokar.aldaiin.qokalar.dal
+<f58v.24,+P0>     qokal.daiin.qokal.cham.qokalcheal.okor,air.ain,ar,als.okam.daly
+<f58v.25,+P0>     qotain.okeor.sheey.qokeol.okeoly.qokaly.qokair,or,tas.ykal
+<f58v.26,+P0>     ykaly.qokal,ol.al.qokeos.okal.ar.okos.al.shekar.qokair,alam
+<f58v.27,+P0>     qokar.s.aiin.al.y.qokchedy.qo[e:?]kaly.odaiin.qokar.char,alaiinom
+<f58v.28,+P0>     ycheockhy.okey.okal.otaly.okaldy.okeor.sheey<$>
+#
+<f58v.29,+P0>     <%>polal.keeo.o,leeckhey.dalar.ykeeody.choar.ckhar.yfair,alam
+<f58v.30,+P0>     daiin.sheo{ikh}y.ykey.sheky.qokal.qokeey.okain.okar.ol,dam
+<f58v.31,+P0>     tcheor.chor.kar.okal.qokeey.qokal.shol.qokain.ar.oetalchg
+<f58v.32,+P0>     psheey.qoty.qokar.qokey.ky.ykar.cheal.otal.kol,olchedy
+<f58v.33,+P0>     qoa[ir:is].chol,ar.chey<$>
+# Above line seems to have been scribbled in afterwards
+#
+<f58v.34,+P0>     <%>tol,sheo.keo,ar.qofcheal.dar.a{iph}ey.opchal.shockhy.okaly
+<f58v.35,+P0>     daiin.otain.okain.chey.okeey.qokeeos.olar.sheo.daly.dalychs
+<f58v.36,+P0>     tcheody.oke[o:y]r.ockhy.qokal.okal,shokey.qokeey.dalar
+<f58v.37,+P0>     olkeey.okar.ar.choky.otair.otol.chokey.cheeky.dalar
+<f58v.38,+P0>     ykeeody.qokar.qoky.keey.qokol.okal.okor.cheky.sydy
+<f58v.39,+P0>     oshar.qokain.okam.shear.ch[er:?].sarols<$>
+#
+# folios 59-64 are missing
+#
+#

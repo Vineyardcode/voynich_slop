@@ -1,0 +1,28 @@
+# Voynich Manuscript — Folio 32v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f32v>     <! $Q=D $P=P $F=z $B=1 $I=H $L=A $H=1 $C=1>
+# page 62
+# herbal
+# Currier's language A, hand 1
+# gathering mark 4
+# Plant ID: Campanula Ranunculus (Holm), Archangelica, Glockenblume,
+# Halskraut, Convolvulus erectus?
+# Same plant as f102r2[1,2] ? (FSG, Stolfi)
+#
+<f32v.1,@P0>      <%>kcheodaiin.chol,kechy.qotaiin.daiioam<->o,chofchody
+<f32v.2,+P0>      daiin.odar.chy.daiin.chey.tch[y:o].l,dy<->dain.teor
+<f32v.3,+P0>      shor.daiin.chckhy.dsho.dain.daiin.s<->shokey.ka
+<f32v.4,+P0>      or,chr.chor.dor,chaiin.qotcho,r,chy<->dch[o:a].daiin
+<f32v.5,+P0>      chokchy.daiin.shy.chor.qo.kaiin.dain<->dchol.dosg
+<f32v.6,+P0>      o,kchan.chol,shal.dchcthy<$>
+#
+<f32v.7,+P0>      <%>ksho.cpho[s:r].she.sheaiin.otshcho.r.dain<->shckhy.s.odan
+<f32v.8,+P0>      otchol.daiin.daiin.ctho,daiin.qotaiin<->otchy.d<->shan
+<f32v.9,+P0>      qotchy.cfhy.skey.chocthy.daiin.cthaiin<->daiin
+<f32v.10,+P0>     sho.keol.chor.chol.daiin.cpho,l.cthol.da<->ar
+<f32v.11,+P0>     ol.sho.chy<$>
+#
+#

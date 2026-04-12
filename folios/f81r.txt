@@ -1,0 +1,46 @@
+# Voynich Manuscript — Folio 81r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f81r>     <! $Q=M $P=M $F=w $B=4 $I=B $L=B $H=2 $C=2>
+# page 159
+# biological
+# Brumbaugh p9, Harper's; "hot tubs''
+# Currier's  language  B, hand 2
+# Right margin of text is irregular; missing picture?
+#
+<f81r.1,@P0>      <%>polchoy.qokedy.shol.opchedy.olpchedy.ofshdy.oly
+<f81r.2,+P0>      dchey.lshl.alched.qokol.chol.otar,chedy.oky
+<f81r.3,+P0>      qotey.l,chees.olkal.ol,chedy.okar.shedy
+<f81r.4,+P0>      dchedy.qokain.ol.ol.chcthy.ykeedy,al
+<f81r.5,+P0>      qol.cheol.okeey.ol.ol.olaiin.ol.or,ain
+<f81r.6,+P0>      sar.ol,eses.oteey.shor.qokeey.ol
+<f81r.7,+P0>      dshees.okain.chcthy.otey.okain
+<f81r.8,+P0>      pchedy.qokeey.oty.qotey.oteey.oly
+<f81r.9,+P0>      qoteesy.qotedy.qokeedy.chcphey
+<f81r.10,+P0>     chol.dain.otedy.cheey.qotain.ly
+<f81r.11,+P0>     olsheol.olkedy.sheckhedy.oltedy
+<f81r.12,+P0>     ychedy.tedy.ol.sheedy.qokeey.loly
+<f81r.13,+P0>     dchol.shedy.qotedy.qol.chedy.chetyry
+<f81r.14,+P0>     qokechedy.qolsheedy.or,ain.arol.oeeedy
+<f81r.15,+P0>     sain.ol.cheedy.qokeedy.otedy<$>
+#
+<f81r.16,+P0>     <%>polchdy.qopchol.qokor.olpchedy.opol.oraisy
+<f81r.17,+P0>     y,checthy.okeedy.shey.qokedy.ol.ochedar
+<f81r.18,+P0>     osheedy.shedy.ol.shedy.okeedy.oror
+<f81r.19,+P0>     qokedy.sheedy.chedy.qoteedy.olam
+<f81r.20,+P0>     qopchedy.qol.chedy.qokeey.odaiin.rain.daly
+<f81r.21,+P0>     dshedy.qokal.olkeey.oteey.olshey.otey,lol
+<f81r.22,+P0>     qotal.chedy.qol.ol.daiin.ol,chedar.ol.oly
+<f81r.23,+P0>     [ch:sh]ey.okain.sheckhy.soiin.chey.lchey
+<f81r.24,+P0>     par,ody.shecphy.cheol.qotaldar.otedy.oly
+<f81r.25,+P0>     sar.shedy.qol,otain.okair.okal.chedy.dy
+<f81r.26,+P0>     pchedy.qokey.oteol.qol.sheor.shedy.qcthdys
+<f81r.27,+P0>     sol.chedy.qokedy.olkedy.dol.qokchedy
+<f81r.28,+P0>     qokesdy.chedy.qokar.chey.taiin.otey.lchl
+<f81r.29,+P0>     y,sheedy.shy.chey.l,chcthy.ytar.olkaiin.ol
+<f81r.30,+P0>     l.shedy.qokedy.sor.olkar.ol,kaiin.olkshdy
+<f81r.31,+P0>     sol,shedy.ol.lchedy.shedy.shy.olkedy.ches.ar.or.oraiiin<$>
+#
+#

@@ -1,0 +1,40 @@
+# Voynich Manuscript — Folio 42r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f42r>     <! $Q=F $P=C $F=b $B=2 $I=H $L=A $H=1 $C=1>
+# page 81
+# herbal
+# Currier's language A, hand 1
+# Has two plants.
+# Plant ID: Tropical Arum sagittarium visicating,
+# crelpius(sp?) ranunculus, arum sagittarii
+#
+<f42r.1,@P0>      <%>{c@155;h}o.ofaiin.ctha{ih}{c@196;h}y.otcheey.pchear
+<f42r.2,+P0>      solkaiin.char.cheky.otshaiin.daiir[y:a]
+<f42r.3,+P0>      toshy.chtshar.chotar.chain.dal
+<f42r.4,+P0>      shor.chetar.chotai[s:r].dar.cthaiin
+<f42r.5,+P0>      qokar.chockhy.chotor.chy.kary
+<f42r.6,+Pc>      dorain.[{ih}:ch]ar<$>
+#
+<f42r.7,+P0>      <%>pcho.chy.kshaiin.shotaiin.cham.shan
+<f42r.8,+P0>      yshol.chees.cthol.shor.shol.ety.char,y
+<f42r.9,+P0>      qotch[a:o]r.otchol.ctho.kchodan.chkchory
+<f42r.10,+P0>     choty.dol.ksheo.cthor.otol.cthol.chol<->shol,dain
+<f42r.11,+P0>     qotor.cho.chody.daiin.shol.ctheey.dar<->chy.daiidy
+<f42r.12,+P0>     dcheey.chol.shol.chokaiin.choeky.d{cky}<->dain.dal
+<f42r.13,+P0>     qopor.shol.shot.shol.shol.daiin.dain.s<->cheam
+<f42r.14,+P0>     sho,kshey.choty.chdain.chodaiin.daiin<->dam
+<f42r.15,+Pr>     pchody.otshey.dodaiin<$>
+#
+<f42r.16,+P0>     <%>pydaiin.sheor.shaiin.tsh.olchy.sholy
+<f42r.17,+P0>     shotol,shol.chety.daiin.chokchy.chkaiin
+<f42r.18,+P0>     qody.cthochy.otaiin.shy.kshes.chorain
+<f42r.19,+P0>     otchoty.daiin.chot,sho.{ck@191;h}y<!corr?>,{cty},s.os
+<f42r.20,+P0>     shol.chol.shoky.okol.sho.chol.shol.chal
+<f42r.21,+P0>     shol.chol.chol.shol.{ct}oiin.{c'o}s.odan
+<f42r.22,+P0>     kchaiin.chos.ckhaiin.choro,r.chaiin
+<f42r.23,+Pr>     okchol,shol.kolschees<$>
+#
+#

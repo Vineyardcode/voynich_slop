@@ -1,0 +1,25 @@
+# Voynich Manuscript — Folio 40r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f40r>     <! $Q=E $P=O $F=z $B=1 $I=H $L=B $H=2 $C=2>
+# page 77
+# Currier's language B, hand 2
+# herbal
+# Plant ID: Primulaceon
+#
+<f40r.1,@P0>      <%>pchey.k,eodar.aldydy<->qoky.okal.shdy.olkedy.opches.ar.ordaiin
+<f40r.2,+P0>      qokar.okar.okedy.dar<->ykchey.kaiin.ok[a:o]s,chedy.okar.a,ralos
+<f40r.3,+P0>      shy.qokal.chdy.chckhd<->otor.aiir.o,ky.okolchy.qokar.okam
+<f40r.4,+P0>      or.aiin.chekody.dar<->qokol.okaiin.okar.oky.okoldy.ol
+<f40r.5,+P0>      lokar.qokar.okar<->okol.ol.chedy.qokchd.ar.ar.or.da[g:m]
+<f40r.6,+P0>      tor.or.ar.shok.or.am<->o,lshedy.qokam.chdy.kar.oraiin
+<f40r.7,+P0>      yaiin.chekaiin.oky<->ycheey<$>
+#
+<f40r.8,+P0>      <%>ksheo.keeey.dar.ai[g:m]<->kcheo.cfhdy.or,ain.chefal.daiin.dg
+<f40r.9,+P0>      taiin.ol.olaiin.or<->dain.okaiin.okaiin.okaiin.daram
+<f40r.10,+P0>     saiin.olcheey.chdy<->ychey.ka@154;ar.oky.ykedy.okair.ody
+<f40r.11,+P0>     toar.ykaiin.ory.dal<$>
+#
+#

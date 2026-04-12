@@ -1,0 +1,20 @@
+# Voynich Manuscript — Folio 5v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f5v>      <! $Q=A $P=J $F=w $B=4 $I=H $L=A $H=1 $C=1>
+# page 10
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Paretaria Urtica (O'Neill)
+# Only one paragraph of text
+#
+<f5v.1,@P0>       <%>k,o,cheor.chor.ytchey.pshod.chols.chodaiin.ytoiiin.daiin
+<f5v.2,+P0>       dchol.{c'y}.chol.otaiin.dain.cthor.chots.ychopordg
+<f5v.3,+P0>       qotcho.ytor.daiin.daiin.otchor.daiin.q'o.darchor.do
+<f5v.4,+P0>       qotor.shees.otol.ykoiin.shol,daiin.cthor.okch,y,taiin
+<f5v.5,+P0>       shokeeol.chor.cheotol.otchol.daiin.dal.chol,chotaiin
+<f5v.6,+P0>       otol.chol.dairodg<$>
+#
+#

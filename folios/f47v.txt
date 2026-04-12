@@ -1,0 +1,29 @@
+# Voynich Manuscript — Folio 47v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f47v>     <! $Q=F $P=N $F=y $B=2 $I=H $L=A $H=1 $C=1>
+# page 92
+# herbal
+# Curriers language A, hand 1
+# Plant ID: Toronicum Pardalianchus (Holm) [Gemswurtz]
+# Same plant as f102r2[1,1] (Petersen)
+#
+<f47v.1,@P0>      <%>psheot.cheor.cholsho.chopchy.sal<->sary
+<f47v.2,+P0>      dsheey.shy.cphy.otchey.daiidy.chory<->daiiy
+<f47v.3,+P0>      shol.char.oteol.dor.otchol.chkchy<->daiin
+<f47v.4,+P0>      qotol.sheey.kol.sho.keechy.qoty<->cthy
+<f47v.5,+P0>      dsholy.shees.chor.ody.shy.sy<->sary
+<f47v.6,+P0>      chody.cheor.saiin.dochod<->chol<$>
+#
+<f47v.7,+P0>      <%>pchodaiin.dair.dcthy
+<f47v.8,+P0>      daiin.cheotar.chodaly.sal
+<f47v.9,+P0>      qotcheey.chety.chol.chol.dain
+<f47v.10,+P0>     chotcho,ltchey.[o:y].tcho,tchy.dy<->chol.chody.dar
+<f47v.11,+P0>     ot[ee:a:ei]y.cho.chdy.chy.key.chyky<->dchy.daiin.chy
+<f47v.12,+P0>     ch[y:o].cho,keesy.chy.chy.cheky<->chochy.daiin
+<f47v.13,+P0>     dshy.daiin.chdlety.chaiin<->dcheey.otald
+<f47v.14,+P0>     chol.{ct}chey<$>
+#
+#

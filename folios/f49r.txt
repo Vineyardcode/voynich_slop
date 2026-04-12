@@ -1,0 +1,37 @@
+# Voynich Manuscript — Folio 49r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f49r>     <! $Q=G $P=A $F=a $B=1 $I=H $L=A $H=1 $C=1>
+# herbal
+# page 95
+# Curriers language A, hand 1
+# Brumbaugh p4, Harper's 'potato'
+# Plant ID: Tamus communis (Holm), Scamonia
+#
+<f49r.1,@P0>      <%>pychol.dy.[sh:ch]or.shol.shtchy.shorpchor.opchor.shor,kchy
+<f49r.2,+P0>      qotor.sho.chotchy.choshy.qopchar.q'o.dor.daiin
+<f49r.3,+P0>      dsho<->dchor.dchor.daiin.dor.cheoraiin<$>
+#
+<f49r.4,+P0>      <%>ksh[o:a].qodain.chotshy.dodar
+<f49r.5,+P0>      chor.sheor.chey.teey.qotan
+<f49r.6,+P0>      ol,or,sh{e'e}es.sheoty.choldaiin
+<f49r.7,+P0>      qokeor.cheey.qokchy.qotody
+<f49r.8,+P0>      chot,chor.chy.cheet.qolsor
+<f49r.9,+P0>      oykeeey.chey.kshey.choroiin
+<f49r.10,+P0>     sho.r.choiin.shor.shor,shy
+<f49r.11,+P0>     chotcheol.dchol<$>
+#
+<f49r.12,+P0>     <%>podaiin.cheo.kcho.daiin.chcthy
+<f49r.13,+P0>     {c'o}d.chol,y.tcheol.daiin.cthodd
+<f49r.14,+P0>     q'o.shoqoky.shor.sheor.otol.daiin
+<f49r.15,+P0>     ochol.chol.chody.dchodaiin.da'iin
+<f49r.16,+P0>     q'ocho.cheey.dchey.qotchody
+<f49r.17,+P0>     olol,ol.chey.chey.kchy.qotchol.chosory
+<f49r.18,+P0>     sheor.cheol.od.cho.dcheeey.qot,chotchy
+<f49r.19,+P0>     dcheo.r.cheey.keolchey.chokchol.chokan
+<f49r.20,+P0>     qotcho.chods.cho.cho[ch:sh]y.chs.oriin
+<f49r.21,+P0>     odch[o:y].chor.ety.shol<$>
+#
+#

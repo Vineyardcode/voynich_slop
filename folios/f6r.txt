@@ -1,0 +1,28 @@
+# Voynich Manuscript — Folio 6r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f6r>      <! $Q=A $P=K $F=x $B=3 $I=H $L=A $H=1 $C=1>
+# page 11
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Asclepiades, but with wrong leaves (of Pediculum)
+# One paragraph with 14 lines, plant cutting through
+#
+<f6r.1,@P0>       <%>foar.y.shol.cholor.cphol.chor.ch{ck}<->chopchol.otcham
+<f6r.2,+P0>       daiin.chckhy.chor.chor.kar.cthy<->cthor.chotols
+<f6r.3,+P0>       foeear.kshor.choky.os.cheoeees<->ykeor.ytaiin.dam
+<f6r.4,+P0>       dar.cho,s.sheor.cho{ith}y.otcham<->yaiir.chy
+<f6r.5,+P0>       t[a:o]r.okoiin.shees.ytaly.cthaiin<->odam
+<f6r.6,+P0>       or.al.daiin.ckham.okom.cthaiin<->ydaiin
+<f6r.7,+P0>       daiin.qodaiin.cho.s.chol.okaiin.s
+<f6r.8,+P0>       ychol.ckhor.pchar.sheo.ckhaiin
+<f6r.9,+P0>       dar.sheol.skaiiodar.otaiin.chory
+<f6r.10,+P0>      tchor.ctheod.chy.shor.od,she.od
+<f6r.11,+P0>      ychar.olchaj.ol.chokaiin
+<f6r.12,+P0>      or.shol.cthom.chor.cthy
+<f6r.13,+P0>      qocthol.[y:q]odaiin.cthy
+<f6r.14,+P0>      ysho.taiin.y,kaiim<$>
+#
+#

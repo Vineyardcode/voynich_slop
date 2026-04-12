@@ -1,0 +1,37 @@
+# Voynich Manuscript — Folio 17v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f17v>     <! $Q=C $P=B $F=a $B=1 $I=H $L=A $H=1 $C=1>
+# page 32
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Tamus communis, Polygonum dumetorum(sp?), Smilax,
+# trachaia leaves (Dioscorides fol/25r)
+#
+<f17v.1,@P0>      <%>pchodol.chor.pchy.opydaiin.odal,dy
+<f17v.2,+P0>      ycheey.keeor.cthodal.okol.odaiin.okal
+<f17v.3,+P0>      oldaig.odaiin.okal.oldaiin.chockhol.olol
+<f17v.4,+P0>      kchor.fchol.cphol.olcheol.ok[eee:eeee]y
+<f17v.5,+P0>      ychol.chol.dolcheey.tchol.dar.ckhy
+<f17v.6,+P0>      oekor.or.okaiin.or.otaiin,d
+<f17v.7,+P0>      sor.chkeey.poiis.cheor.os.s.aiin
+<f17v.8,+P0>      qokeey.kchar.ol.dy.choldaiin.sy
+<f17v.9,+P0>      ycheol.shol.kchol.choltaiin.ol
+<f17v.10,+P0>     oytor.okeor.okar.okol.daiir,a[r:m]
+<f17v.11,+P0>     qokcheo.qokoiir.ctheol.chol
+<f17v.12,+P0>     oy.choy.keaiin.chckhey.ol.chor
+<f17v.13,+P0>     ykeor.chol.chol.cthol.chkor.sheol
+<f17v.14,+P0>     olo.r.okeeol.chodaiin.okeol.tchory
+<f17v.15,+P0>     ychor.cthy.che'eky.cheo.otor.oteol
+<f17v.16,+P0>     okcheol.chol.okeol.cthol.otcheolom
+<f17v.17,+P0>     qoain.[s:e']ar.she.dol.qopchaiin.cthor
+<f17v.18,+P0>     otor.cheeor.ol.chol.dor.chr.or,eees
+<f17v.19,+P0>     dain.chey.qoaiin.cthor.cholchom
+<f17v.20,+P0>     ykeey.okeey.cheor.chol.sho.odaiin
+<f17v.21,+P0>     oal.sheor.sholor.or.shecthy.cpheor.daiin
+<f17v.22,+P0>     qokeee.dar.chey.keeor.cheeol.ctheey.cthy
+<f17v.23,+P0>     chkeey.okeor.sh[a:o]r.okeom<$>
+#
+#

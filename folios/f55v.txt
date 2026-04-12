@@ -1,0 +1,27 @@
+# Voynich Manuscript — Folio 55v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f55v>     <! $Q=G $P=N $F=y $B=2 $I=H $L=B $H=2 $C=2>
+# page 108
+# herbal
+# Currier's language B,  hand 2
+# Plant ID: Elephant's ear?
+#
+<f55v.1,@P0>      <%>kcheedchdy.oedain.chckhy<->otoldaiin.dodyd
+<f55v.2,+P0>      oeeed.yteey.okeedy.qoaiin<->okeody.ykee[s:r]an
+<f55v.3,+P0>      qokeeey.os.ain.qool.al,chedy<->[s:?]ar,aiin.ol.kar,am
+<f55v.4,+P0>      okar.chckhdy.che[o:a]dy.keeyfar,al<->ochedy.qokain.ody
+<f55v.5,+P0>      qokaiin.chaiin.ykain.ykan.ody<->daiin.chedy.talam
+<f55v.6,+P0>      ykaiin.daiin.ykair.cheky.daiiny<$>
+#
+# Next line badly legible
+<f55v.7,+P0>      <%>okchd.yk[a:?]in.[sh:ch]eokey.or.ain<->[ch:?].kchdy.pchal.ar,aldy.dary
+<f55v.8,+P0>      tar.chedy.qokaiin.okar.qol<->otar,cho@194;ar.talody.okar,y
+<f55v.9,+P0>      ykaky.qokchy.okal.chey.or<->or,aiin.okaiin.ykain.otaky
+<f55v.10,+P0>     oaiin.ol.s.aiin.okaiin.oky<->ytaiin.otar.y,kal.ykar.ol
+<f55v.11,+P0>     ykaiin.cheoar.cheeky.oldy<->aiin.okal.oltchy.or,y.orain
+<f55v.12,+P0>     daiin.[a:o]r.cheky.olkeechy.sl<->ar.aiin.daiin.otam<$>
+#
+#

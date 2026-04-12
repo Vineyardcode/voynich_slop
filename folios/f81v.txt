@@ -1,0 +1,43 @@
+# Voynich Manuscript — Folio 81v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f81v>     <! $Q=M $P=N $F=w $B=4 $I=B $L=B $H=2 $C=2>
+# page 160
+# biological
+# Currier's language B, hand 2
+# 16 ladies in an odd-shaped bathtub
+#
+<f81v.1,@P0>      <%>par.shey.keedy.shekal.dal.dar.ol,pchedy.shek,dain.ofalsheky
+<f81v.2,+P0>      qokedy.okaiin.kair.okal.sar.ol.kain.olkain.al.ol.rol.dl
+<f81v.3,+P0>      saiin.daiin.olkeedy.okedy.dykain.shek.chdy.dalal.oldy
+<f81v.4,+P0>      qokaiin.okain.cheeky.dy.ol,kaiin.dain.dy.daiin.chcthy
+<f81v.5,+P0>      okaiin.daiin.otain.chckhy.okeedy.qoky.kar.daiin.okar
+<f81v.6,+P0>      qokain.okaiin.ol,chedy.cheol.lky.l.s.aiin.okain.daldy
+<f81v.7,+P0>      olor,ol.sheckhal.daiin.qokeedal.daiin.chckhy.schedy.qol
+<f81v.8,+P0>      ykol.or,shedy.sheedy.qolkeedy.daiin.dkain.cphedy.oldy
+<f81v.9,+P0>      yar,olchey,kaiin.okeey.daiin.olor.checkhy.daiidy<$>
+#
+<f81v.10,+P0>     <%>polshy.[a:o]shyteed.qop.okeedy.otedy.okshedy.qoty.dairam
+<f81v.11,+P0>     [y:?]shey.qokeey.okeey.oky.ykeey.qoky.oky.lky.olchy.ky.dsholyd
+<f81v.12,+P0>     qol.ol.chdy.shedy.qokedy.ytedy.chetedy.lkedey.ytedy
+<f81v.13,+P0>     ykeshey.dch[s:]ed<!s above e>,ytedy.ytedy.dar.ykeda{iph}y.qoty.ykedy.okal
+<f81v.14,+P0>     dshedy.ykeedy.sheeky.daiin.okedy.qokeed.qokedy.lchpchdy
+<f81v.15,+P0>     qokal.chedy.ol.sheey.salshcthdy.qofchedy.r.chedy.ltary
+<f81v.16,+P0>     lor.shedy.qoeedy.ol.chy.rshdy.lshedy.dar.chdy.pchdy
+<f81v.17,+P0>     sshkchdy.chedy.ol.shedy.qolchedy.qokain.{ch'}ckhy.dl.ral
+<f81v.18,+P0>     qokchdy.chey.ol.cheky.ol.shedy.qokedy.qokedy.chckhy.qoky
+<f81v.19,+P0>     solkeey.ol.shedy.qokar.shckhy.d{ch'}edy.qokar.qokal.dol,chy
+<f81v.20,+P0>     qocthey.chekal.chedy.qokedy.lshety.qoldy.ltedy.qotain
+<f81v.21,+P0>     lsho.qokey.lshedy.lshedy.chedy.qolky.lchedal.qol.otar
+<f81v.22,+P0>     qokal.qol.oiin.cheey.dal.lchedy.chedy.salchtedytar
+<f81v.23,+P0>     shol.qe[t:k]chy.ykaiin.olkain.shedy.qoky.dchedy.rol.olcthdy
+<f81v.24,+P0>     ytey.okchedy.qokal.okeey.qol.cheedy.sal.teol.dchdy.ly
+<f81v.25,+P0>     oshedy.qotedy.sh[o:a]l.chedy.y,shchey.ol,chey.qol,chedy,tchd.oky
+<f81v.26,+P0>     [?:q]ol.checholtar.oiin.okedy.dal.shey.olkeol.olkeedy.okeol
+<f81v.27,+P0>     dsheol.oiiin.olkeedy.tedy.cheky.shckhedy.chal<$>
+#
+<f81v.28,@Lt>     otain.olkal
+#
+#

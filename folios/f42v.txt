@@ -1,0 +1,30 @@
+# Voynich Manuscript — Folio 42v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f42v>     <! $Q=F $P=D $F=b $B=2 $I=H $L=A $H=1 $C=1>
+# page 82
+# herbal
+# Currier's language A, hand 1
+# Plant ID: ranunculacea helleboria(?) (Mrs Voynich)
+#
+<f42v.1,@P0>      <%>@156;cho.{cto}.sheey.qocho.taiin.shols<->chol.chor.dain
+<f42v.2,+P0>      dshey.tchey.y.kchey.chtchy.{c@245;h}y.dan<->dain.otol.daiin
+<f42v.3,+P0>      sho.chotody.chotol.oky.chol.chol<->dl.chcthy.otoy
+<f42v.4,+P0>      qotchy.chkchy.sar.dy<->odaiil<->ykchy.o,kol,dg
+<f42v.5,+P0>      chokeeo,r.chey.chetan<->s,ary<->okol.chetaiin
+<f42v.6,+P0>      okeokear.cheotchar<->sy<->saiin.cthar,d,am
+<f42v.7,+P0>      chok.sheo,key.keeeyd<->chekeesshy
+<f42v.8,+P0>      sodal.saiin<$>
+#
+<f42v.9,+P0>      <%>posheor.sho.char.chekchey.qokod<->sho.cpheo.rchy
+<f42v.10,+P0>     schor.okchey.chy.shol.olor.cheaiin<->{ct}chy.tcheeb,d
+<f42v.11,+P0>     qo.aiin.qokeey.kchol.cheal.o,t,eold<->shey.teaiin,d
+<f42v.12,+P0>     ch[o:a]tcheey.chol.ol.chaiin.oteeaiin<->chkchy.taiin,y
+<f42v.13,+P0>     sho.chey.teor.shey.che{cthh}y.daiin<->chokeey.daiin
+<f42v.14,+P0>     qoteey.chy.kchy.cthy.{cts}ees.choly<->sarar.aral
+<f42v.15,+P0>     chokey.chol.okey
+<f42v.16,=Pt>     okor.odeey<$>
+#
+#

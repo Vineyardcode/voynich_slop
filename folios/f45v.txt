@@ -1,0 +1,26 @@
+# Voynich Manuscript — Folio 45v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f45v>     <! $Q=F $P=J $F=w $B=4 $I=H $L=A $H=1 $C=1>
+# page 88
+# herbal
+# Curriers language A, hand 1
+# Plant ID: Sentellaria, Veronica? carnedris(sp), Ehrenpreis?,
+# beatrum phula inal(sp)
+#
+<f45v.1,@P0>      <%>ko[r:s]ary.chko.kol,chey.fsholom.shor.ykchy.dod.opchaiin.olald
+<f45v.2,+P0>      okol.chor.daiin.cthy.okchol.chom.okolo[r:n].dy<->okchol.s
+<f45v.3,+P0>      qokchy.l,or.cheol.qot[o:a]l.qotol,chy.ky.cthod<->ykar,yd
+<f45v.4,+P0>      okchy.qockhy.dain.dail.dair.shy<$>
+#
+<f45v.5,+P0>      <%>qotol.choiin.okchar.dar.oty<->shoto.dol,py<->otytam
+<f45v.6,+P0>      ?s,aiin.cphor.qok{cy}.tod<->ytchdy.dy<->dy.cheg
+<f45v.7,+P0>      tchtcho,kchol.dshy.o,tyol<->ytchom
+<f45v.8,+P0>      yksheor.odal.sho.dy.pchom<->otor.oa[iir:iin]
+<f45v.9,+P0>      ychor.cthy.chol.qokom.sy<->sa,ykchom
+<f45v.10,+P0>     dshor.otshy.oky.tsholol<->ytchord
+<f45v.11,+P0>     or,chor.ytchy.doiin.dcholdy<$>
+#
+#

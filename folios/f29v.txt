@@ -1,0 +1,26 @@
+# Voynich Manuscript — Folio 29v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f29v>     <! $Q=D $P=J $F=w $B=4 $I=H $L=A $H=1 $C=1>
+# page 56
+# herbal
+# Currier's language A, hand 1
+#
+<f29v.1,@P0>      <%>kooiin.shor.chetchy.ol,ls.shytchy.cthy,shy<->cho.shy.daiin
+<f29v.2,+P0>      qotcheaiin.s.chol.chol.cthy.chey.cthold<->ytchor.dary
+<f29v.3,+P0>      chol.chol.kor.shey.odaiin.qotchy.taiin<->s.she.otey.sy
+<f29v.4,+P0>      ysho.otshy.okaiin.cthy.oltchy.{cto}s<->shot.sho.okaiin<$>
+#
+<f29v.5,+P0>      <%>tochon.chain.shan.shoty<->chshy<->shy
+<f29v.6,+P0>      dchor.chol.chaiin.shaiin.cthod<->dar<->chs<->shody
+<f29v.7,+P0>      qotcho.kchor.daiin.ykaiin.dy<->shdy<->chocthy.sheky
+<f29v.8,+P0>      otol.shotchor.cholody.dain<->ch[{cti}:cth]<->chy.cthody.dol
+<f29v.9,+P0>      sho.chokor.chor.chy.ydaiin.cho<->ykeeb<->oaiin<$>
+#
+<f29v.10,+P0>     <%>qokoiin.okaiin.cho<->[{cti}:cth]<->chyd<->chykar
+<f29v.11,+P0>     daiin.chteo[r:s].octhy<->dar<->chyt<->otody
+<f29v.12,+P0>     qekeochor.otchey.s,y<$>
+#
+#

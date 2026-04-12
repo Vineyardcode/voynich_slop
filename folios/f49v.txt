@@ -1,0 +1,70 @@
+# Voynich Manuscript — Folio 49v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f49v>     <! $Q=G $P=B $F=a $B=1 $I=H $L=A $H=1 $C=1 $X=S>
+# page 96
+# herbal
+# Currier's language A,  hand 1
+# has a 'key-like' sequence
+# Plant ID: Lunaria. Cyclamen (Holm)
+# In the left margin there is a vertical sequence 1 2 3 4 5 aligned with
+# the 1st paragraph, starting from line 2.
+#
+<f49v.1,@L0>      f
+<f49v.2,=P0>      <%>kshor.shol.cphokchol.ch{cfhh}y
+<f49v.3,*L0>      o
+<f49v.4,=P0>      qokchy.qokchod.sho.ckhy
+<f49v.5,*L0>      r
+<f49v.6,=P0>      chotchy.chcthy.cthey.koddy
+<f49v.7,*L0>      y
+<f49v.8,=P0>      okeodsho.chotshol.dam
+<f49v.9,*L0>      e
+<f49v.10,=P0>     shol.shodaiin.qotchar
+<f49v.11,*L0>     @140;
+<f49v.12,=P0>     qot[ch:ee]y.chokchy.choky
+<f49v.13,*L0>     k
+<f49v.14,=P0>     chotchy.chodaiin.dan
+<f49v.15,*L0>     s
+<f49v.16,=P0>     qoteees.cheo.daiin,dol
+<f49v.17,*L0>     p
+<f49v.18,=P0>     ochor.sheeod.ksheo,dl
+<f49v.19,*L0>     o
+<f49v.20,=P0>     q'oksho,daiin.shckhy,dar
+<f49v.21,*L0>     @192;
+<f49v.22,=P0>     dchol.cthol.daiin.choky
+<f49v.23,*L0>     y
+<f49v.24,=P0>     ochokeey.ckhey.daiin.dain.chokag
+<f49v.25,*L0>     e
+<f49v.26,=P0>     qokeol,chokeeody.otol.kcho,s.chol.daiin<$>
+#
+<f49v.27,*L0>     @140;
+<f49v.28,=P0>     <%>fchochor.shol.tchol.opcheodal.dchsy<->chotchy
+<f49v.29,*L0>     @164;
+<f49v.30,=P0>     dcho.d.chol.chokchodaiin.chokchy.tchol<->okchokol
+<f49v.31,*L0>     p
+<f49v.32,=P0>     tchotchey.chokeeodol.rcheey.otchodar<->dcho.dchog
+<f49v.33,*L0>     o
+<f49v.34,=P0>     shocho.oaiin.sheo.choty<$>
+#
+<f49v.35,*L0>     @192;
+<f49v.36,=P0>     <%>qotcho.cheol.chol,s.cho,chcthey.dcheol<->chotchody
+<f49v.37,*L0>     y
+<f49v.38,=P0>     chokeo.sho.cheor.cheokchet.chor.daiin,dy<->daiin.qok[g:d]
+<f49v.39,*L0>     e
+<f49v.40,=P0>     oaiin.chy.daiin.chol.chaiin.kshardy<->chokchy
+<f49v.41,*L0>     @140;
+<f49v.42,=P0>     qokeaiin.cheo.chor.choteey.kcheol.dain<->cho.dai[s:r]in
+<f49v.43,*L0>     d
+<f49v.44,=P0>     chokaiin.cho.dls.chariin.daiin.chain.dy<->chetcho.dy
+<f49v.45,*L0>     y
+<f49v.46,=P0>     oaiin.cheky.@243;.cho.rchseesy.kchor.sol<->chctho.s
+<f49v.47,*L0>     e
+<f49v.48,=P0>     qotcheol.chey.chor.chokaly.chor,dal<->chaiin,d
+<f49v.49,*L0>     k
+<f49v.50,=P0>     chol.chor.ches.chkalchy.chokeeoky<->chokoran
+<f49v.51,*L0>     y
+<f49v.52,=P0>     ykchokeo.r.cheey.daiin<$>
+#
+#

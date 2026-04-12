@@ -1,0 +1,24 @@
+# Voynich Manuscript — Folio 50v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f50v>     <! $Q=G $P=D $F=b $B=2 $I=H $L=B $H=2 $C=2>
+# page 98
+# herbal
+# Currier's language B,  hand 2
+# Plant ID: Umbellifera? (O'Neill), (coxcomb?)
+#
+<f50v.1,@P0>      <%>tchy.do.ldar.shotchdy.qokchdy.opchedy.qokol.shor.ofar,fardam
+<f50v.2,+P0>      tchodain.oeeey.okaiin.shedy.qokaly.chdy.oky.keody.cheey.okain
+<f50v.3,+P0>      pochedy.qokody.checkhy.shckhy.dalol.ykeeey.qokedy.okain.okal
+<f50v.4,+P0>      dar.qoain.olaiin.ol[s:r].aiin.o,l.okeedy.okchdy.otar.chckhey.or
+<f50v.5,+P0>      y,chy.tair.chckhy.qekaiin.qodaiin.olcheky.chedy.chkedy.okedyd
+<f50v.6,+P0>      daiin.kedair.okal.chody.qokedy.okar.okchey.okedy.ota[r:s].chkeey
+<f50v.7,+P0>      tedaiin.odaiin.or.okaiin.ykor.daiin.choky.qotchdy.k[{cy}:ey].dairam
+<f50v.8,+P0>      ykar.okair.otor.qokedy.ykchol.kar.chckhy.olkaiin.okain.qo'd<!corr?>
+<f50v.9,+P0>      ytsheod.ain.sheshy.echedy.kchdy<->otaiin.okaiin.[o:a]ky
+<f50v.10,+P0>     dchedy.okaiin.olchdy.oloeedy<->ykeeod,ar.aro[o:a]d
+<f50v.11,+P0>     lchey.kar.ykchy.kchdy<$>
+#
+#

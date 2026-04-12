@@ -1,0 +1,88 @@
+# Voynich Manuscript — Folio 111r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f111r>    <! $Q=T $P=M $F=u $B=6 $I=S $L=B $H=3>
+# page 224
+# text only / stars
+# Currier's language B
+#
+# Light star, dotted, 7 points, tail
+<f111r.1,@P0>     <%>kcholchdar.shar.aiip.chepchedy.chetalshy.sheek.shear.shey.ror.am.shey
+<f111r.2,+P0>     daiin,sheeky.okeey.okeey.qaal.shedy.okeey.oteey.shedy.chcthy.lcheol.oteeam
+<f111r.3,+P0>     dsheedy.lkeedy.chckhy.lchedy.qokeey.qokear.chal.qokeear.cheokedy.sal.lokam
+<f111r.4,+P0>     saiin.oteedy.qokeey.daiin.okedal.chedy.qokedy.l,shedy.ch{ct}chy.okeey.lor.ar.am
+<f111r.5,+P0>     saiin.sheekshy.ol,shedy.chokchey.lkey.otain<$>
+#
+# Light star, 8 points, tail
+<f111r.6,+P0>     <%>dain.shedy.qoky.chedy.qok.shed.olchedy.qokeedy.teedy.chdy.keedy.qotchedy.dary
+<f111r.7,+P0>     sshedy.qokeey.checthey.oteedy.lchedy.chol.sheeol.qokeody.raiin,otedy.otar,aiin,om
+# Light star, dotted, 8 points, tail
+<f111r.8,+P0>     daiin.o.chedain.daiin.cheedy.qokeey.qokedy.ch{ckhh}y.otshedy.lkeeol.lkeey.qotchdy
+<f111r.9,+P0>     ycheeodain.okeeo.olchedy.lchedy.qokeey.okeeedy.okain.chedy.chedyteey.dal.lam
+# Light star, 8 points, tail
+<f111r.10,+P0>    ykeedaiin.shekain.shedy.qokear.ochey.reeey.qokeey.olaiiin.chedy.lkeeody.oraiin.oty
+<f111r.11,+P0>    dshey.lkeedy.lkeedy.cheedy.oteedaiin.sheedy.ar.a{ikh}y.shkaiin.chey.daiin.daram
+<f111r.12,+P0>    dsheeo.qokeedy.otchedey.lshey.lkeedy.oteey.qokeedy.oteolair.ar.shedam.cheam
+# Light star, dotted, 8 points, tail
+<f111r.13,+P0>    qosheo.lchdy.lshedy.olkeeedy.lr.al.chr.or,dain.shey.arain.chey.teey.cheodaiin
+<f111r.14,+P0>    dchedar.oteey.lchey.ykeeeos.aiin.shear.oteedy.tedam.oteey.pchedey.chedy.lchedy
+<f111r.15,+P0>    sheeodar.aiin.sheey.shey.oteody.oteedy.chey.daiin.oteol.otedar.tar.pchdam
+<f111r.16,+P0>    dchedshey.qokeedy.okeodain.shet.sheota[?:im].oteal,tey.lkeey.sheedy.shtar.keedy
+# Light star, 8 points, tail
+<f111r.17,+P0>    otes.lchey.lshedy.qoteedy.olcheody.qokeey.chey.kal.chekeedy.oteed.keedy.otam
+<f111r.18,+P0>    daiin.shecthey.oteody.qochey.qokeey.chey.teey.qokeedy.qokeedy.cheol.lokeedy.lched
+<f111r.19,+P0>    saiin.okeeol.qokeedy.lchey.lcheoekam.oaiin.cheky.qokeeodar.checthdy.qoted,l.loty
+# Light star, dotted, 9 points, tail
+<f111r.20,+P0>    qokeey.qokeey.l[ch:a]edy.checthy.chedey.cheol.teedy.okeedy.qokeedy.okeey.cho,ol.l,kai@175;
+<f111r.21,+P0>    daiin.okar.ain.teey.oteey.ox,o,r,shey.chey,ky,deedy.cheo.dain.sheet.ar.al,l.cheotydy
+<f111r.22,+P0>    ssheo,l,keedy.dal.tched.checkhey.okey.qo,ain.qo,chedy.qokeor.okeey.keo,cthedy.qokey
+# Light star, 8 points, tail
+<f111r.23,+P0>    dshey.sheeckhy.qokeshey.keeshody.qokeey.qokedy.okain.shekal.okechedy.qokechedy
+<f111r.24,+P0>    sain.chckhey.cheos.lchal.lkechey.okeey.lkechedy.oteodain.char.lky.lchr.ainai@175;
+<f111r.25,+P0>    so,sheor.okeedy.oteeey.qokeey.qokeeo,s.chedar.alal.o{ikh}y.oxar.aiin.odaiin.chody
+# Light star, dotted, 8 points, tail
+<f111r.26,+P0>    soaiin.shecthy.oteodaiin.chedy.otedar.air,ykeey.shedain.l.chedy.qokeedy.qoteedaiin
+<f111r.27,+P0>    dar.sheod.qokeey.qokeody.otey.lkeedy.chl.lkeey.daiin.chedar.chedyteedain.olkal
+<f111r.28,+P0>    qokeeol.shedy.qokeod.cheokeey.sheokar.shekeey.qotees.al,dain.chedy.qotain.alam
+# Light star, 8 points, tail
+<f111r.29,+P0>    salkeedy.lkeedy.chckhy.rky.chey.okeeo.chr.al.ar.qokeedy.qokedy.qoteedy.qod
+<f111r.30,+P0>    qockhedy.qokeechy.qotchey.chtar.ar.chkeey.lkar.aiin.chedy.qokeey.q[o:?]irain
+<f111r.31,+P0>    sheotchedy.shedain.shkeyqokeaiin.shkeody.qokeey.qokeedy.chkal.checthy
+# Light star, dotted, 8 points, tail
+<f111r.32,+P0>    dsheeoteey.qokeeo.l,keey.tear.qoteey.qotain.cho,lkeeedy.lchechdy.qokechy
+<f111r.33,+P0>    qoeeeo.[s:d].ain.ar.ol,keey.lkair.cheda.chkal.keeodal.eees.chody.qokeedy,dl
+# Light star, 8 points, tail
+<f111r.34,+P0>    teo.olkeeo.al.lkeeey.olain.ar.akeom.qokain.al.qokeeod.lkedlkey.teedar
+<f111r.35,+P0>    y,chedl.ar,aiin.aiy.dam<$>
+#
+# Light star, dotted, 7 points, tail
+<f111r.36,+P0>    <%>polal.shedal.pchedy.qofchedy.pykeor.cheefy.qopchey.opchedal.lfchedy,pchal
+<f111r.37,+P0>    dain.chol.l,cheeol,keeol.lkeeedy.qokeey.l.keedy.l,kedy.okeal.kain.chckhy.ltedy
+<f111r.38,+P0>    dched.daiin.al.okeey.kechedy.chcthedy.chedain.otedy.qokeedy,key.l.ltain
+# Light star, 8 points, tail
+<f111r.39,+P0>    saiin.chckhedy.okain.oteain.shok.qokechdy.okechedy.chedy.qokeey.cheamar
+<f111r.40,+P0>    saiin.al,keey.okedain.otedy.qokeokedy.qokeedy.oteeolkeey.okeeo,l,lainal
+<f111r.41,+P0>    ycheey.raiin.cheody.qokechy.qokeey.okedy.lchedy.qokeeal.daiin.otaral
+<f111r.42,+P0>    qokeol.qok[a:ee]l.qokeeol.cho,lkedy.l.chedy.chedy.chedyteokain.chedy.l,kag,am
+<f111r.43,+P0>    okeedy.lkeedy.lkedar.okeedy.chedy<$>
+#
+# Light star, dotted, 7 points, tail
+<f111r.44,+P0>    <%>pchedar.oteeol.lkeedain.okeam.sheo.teolkedain.shal.keey.lteeal.cheal.oty
+<f111r.45,+P0>    oain.ain.keeey.teed.checkhed.iir.okeey.lkeeey.okeeo,lkeey.lkeey.lkeedy.qoky
+<f111r.46,+P0>    y.cheeo.lkeey.oteed.lkeedy.okeeshey.chey.lkar.al.olchal.or.aiin.che[o:?]m
+<f111r.47,+P0>    sheedy.qokeey.sheey.qoteedy.qeear.al.chedy.okeey.chedy<$>
+#
+# Light star, 7 points, tail
+<f111r.48,+P0>    <%>poeokeey.lkeedy.tedain.shecthy.qokeedy.chckhy.lfchy.cheal.chepcham.daim
+<f111r.49,+P0>    dcheey.keeey.qockhey.qokeey.lchedy,keeor.okeey.lkeedy.lkeey.qokaiin.ol
+<f111r.50,+P0>    okeey.l.chedy.cheekain.qokeeokain.chckhy.cheal,k[ee:ei]l.qokain.chckhal.lkal<$>
+#
+# Light star, dotted, 8 points, tail
+<f111r.51,+P0>    <%>polkeeo,shey.cheokeain.chl,kar.r.aiin.char.?ain.al.lkeedy.qokal.okchy
+<f111r.52,+P0>    dair,al.qokeey.qokaiin.sheal.qokeain.shckhy.sain.chckhy.char.aiin.alom
+<f111r.53,+P0>    yshe.aiin.okshdy.shkeey,kain.chaiin.alolshey.qokaiin.chcthydain
+<f111r.54,+P0>    tair.chckhaiin.dair.qokal.otain.okal<$>
+#
+#

@@ -1,0 +1,30 @@
+# Voynich Manuscript — Folio 17r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f17r>     <! $Q=C $P=A $F=a $B=1 $I=H $L=A $H=1 $C=1 $X=O>
+# page 31
+# herbal
+# Currier's language A, hand 1
+# has extraneous writing on top of page
+# mull*av alhor lucz hev vellome o ***....
+#
+<f17r.1,@P0>      <%>fshody.daram.ydar,chog.opydy.ypod.chop.otchy.dody.oldckhy
+<f17r.2,+P0>      ydair.choky.okshy.qodar.ckhody.dor.otchol.qodcthy.ods
+<f17r.3,+P0>      chol.or.chy.qodam.okor.chor.okchom<$>
+#
+<f17r.4,+P0>      <%>tcho@154;.shol.qokol.qor.olaiin.opydg<->som.ypchy.ypaim
+<f17r.5,+P0>      ychekchy.cthy.chor.shor.cphor.cphaldy<->dair.cthey.qody
+<f17r.6,+P0>      tsho.qof,cho.qokcheor.cheteg<$>
+#
+<f17r.7,+P0>      <%>ksheo.qokchy.choldshy.zepchy<->d{c'a}<->opchordy
+<f17r.8,+P0>      dchchy.dychear.schar.ykchy
+<f17r.9,+P0>      soy.chckho.o.da[s:r].chypcham
+<f17r.10,+P0>     dar.chear.dcheor.[s:?]ain.y.mol
+<f17r.11,+P0>     otchol.cthar.okaiin.chol.daiiin
+<f17r.12,+P0>     ychod,y.chotom<$>
+#
+<f17r.13,@Lx>     oteeeon.oiil
+#
+#

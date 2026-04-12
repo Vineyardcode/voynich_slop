@@ -1,0 +1,48 @@
+# Voynich Manuscript — Folio 90v (part)
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f90v1>    <! $Q=O $P=P $F=z $B=1 $I=H $L=A $H=1>
+# page 190
+# herbal
+# Currier's language A
+# Same plant as f100r[1,3] ? (Stolfi)
+# gathering  mark 15
+#
+<f90v1.1,@P0>     <%>pcheor.chodar.oleees.chepy.shol<->shckheo<->otol.shey<->cheo,r.cheokeey
+<f90v1.2,+P0>     tshor.olsheod.qodaiin.qokeor.sy<->oraiin<->ykeeol<->octheody.{cthhh}y
+<f90v1.3,+P0>     daiin.shody.cfheos.qockhy.chol,ol<->sals<->sol<->yteey.or.cheey,tey
+<f90v1.4,+P0>     kos.sheor.chockhor.qekeody.cheody<->sy<->s<->olcheey.{cthh}y.qoky
+<f90v1.5,+P0>     dcheey.keey.keeey.cthey.yty<->okeeody<->sy<->olcheey.sh.qokeys
+<f90v1.6,+P0>     shctheo,ror,sheol,ol.kaiin<$>
+#
+<f90v1.7,+P0>     <%>ksheodal.sheody.qocheot[o:y]<->shokol.qokeshs<->yteody.poda{i@182;h}ey
+<f90v1.8,+P0>     daiin.okeeey.cheo.qotecheor.cthodaim.s<->cheol.chor.okeam
+<f90v1.9,+P0>     sheor.ol.qokeeoky.okeeol.okeeodaiin.ytol<->sor.a[s:r]iin.aiin
+<f90v1.10,+P0>    ykeeor.cheos.q{kh}ey.cheos.oteol.okechod<->oeey.keeos.aiiin
+<f90v1.11,+P0>    deeocthey.keeeol.sheol.{c't}sheol.daiin<$>
+#
+#
+# folios  91-92 missing
+#
+#
+
+<f90v2>    <! $Q=O $P=O $F=z $B=1 $I=H $L=A $H=1>
+# page 189
+# herbal
+# Currier's language A
+# Plant ID: Xerantrium? Leaves of Osmuda regalis
+# Same plant as f100r[1,3] ? (Stolfi)
+#
+<f90v2.1,@P0>     <%>{c@181;h}da{i@133;h}y.qocfhey.opolraiin.ofchedal.s?<->shese.shodaiin.shea[s:r]
+<f90v2.2,+P0>     podchey.ctheod.{ikh}eeos.cheey.ykeey.s.o[is:?]<->qokchas.s,oin.sam
+<f90v2.3,+P0>     saiin.sheom.sheey.keeos.ol.cheeor.chy<->shy.tchody.okeeo[m:g]
+<f90v2.4,+P0>     tchos.oteey.saiin.okeeey<$>
+#
+<f90v2.5,+P0>     <%>tcheody.cpheal.qoar.cheol.chos,olols<->dshcheal.sheol.qodar
+<f90v2.6,+P0>     sal.sheol.shey.qokeey.qokeol.cheody.s<->ykeeol,dar,chody.y
+<f90v2.7,+P0>     shey.s.shee[y:a]l.sheol.sheody.tol.sheo{cty}<->oteey.chodar.chog
+<f90v2.8,+P0>     teeas.qkeody.qokchy.oteeol.daiin<$>
+#
+#

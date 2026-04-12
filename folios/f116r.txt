@@ -1,0 +1,79 @@
+# Voynich Manuscript — Folio 116r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f116r>    <! $Q=T $P=W $F=z $B=1 $I=S $L=B $H=3>
+# page 234
+# Currier's language B
+# text only / stars
+#
+# Light star, 7 points
+<f116r.1,@P0>     <%>kchdpy.shey.qokain.otalsh[?:e]dy.qoteey.shear.ain.or,llory.{i'h}earamom
+<f116r.2,+P0>     shain.cheor.ain.okeey.okeey.shy.lar.ar.aiiin.oky.char.ar.okain.ykanam
+<f116r.3,+P0>     dain.chl.lshey.cthy.lshedy.oteor.shey.qo.saly<$>
+#
+# Light star, dotted, 7 points
+<f116r.4,+P0>     <%>padar.shey.osheeky.qol.laiin.chckhy.okam.chedy.oteedy.qotar.aralar.y
+<f116r.5,+P0>     dain.sheed.qokchdy.otal.chedy.lkain.oteedy.otor.aiin.oty.lol.rol.oly
+<f116r.6,+P0>     sain.ol.lchedy.chedy.otey.chedy.{yko}lain.otedy.oteey<$>
+#
+# Light star, 7 points
+<f116r.7,+P0>     <%>pcholchdy,teody.otey.qo.qokain.qoteey.tokain.otedy.totol.rotydy
+<f116r.8,+P0>     dar.yteedy.chedy.qokeey.qokain.qotody.oteedar.otedy.ldy.lchedy
+<f116r.9,+P0>     qokeey.lchey.qokeedy.qokain.okeeylkaiin<$>
+#
+# Light star, dotted, 6/7 points
+<f116r.10,+P0>    <%>chd?in.checkhy.dar.shedy.qokeedy.shdy.rain.sheedy.cphol.r,teol.chcpham
+<f116r.11,+P0>    ol.aiin.shed.qoteedy.okeolshy.qotain.okedy.chedy.olchedy.olkain.als
+<f116r.12,+P0>    qo?in.ar.cholches.okain.dain.cheey.okeey.otain.olchdy.otal,d[a:?]in.olam
+# Light star, 7? points
+<f116r.13,+P0>    sar,ain.tey.chetain.sht{ch'}ey.okey.chedy.qoteedy.qokain.shety.okeedam
+<f116r.14,+P0>    sain.cheychear.ain.chl,l.s.oleedy<$>
+#
+# Light star, dotted, 7 points
+<f116r.15,+P0>    <%>pchoetal.otedal.otal.oteedy.olr.daiin.okeedy.qoky.dar.al.keedy.shdy
+<f116r.16,+P0>    dar.chedy.sheedy.otal.al.lchedy.shcthy.qotey.dain.otar.otarar.opam
+<f116r.17,+P0>    dain.chey.qokeey.okeey.lain.okeey.qol.chedy<$>
+#
+# Light star, 8 points
+<f116r.18,+P0>    <%>pchar[a:o]lor.qokey.r.ain.otedy.opain.lor.oiin.otain.otar.oteeedy.ches.ar,y
+<f116r.19,+P0>    porchey.sheedy.qotain.chetar.qotar.ar.arody.chcthy.rain.otey.ot,y.dain
+<f116r.20,+P0>    chol.keedy.ol.cheey.raiin.y.chedy.otar.o,kal.okain.olar.otedy.qoty.sf?m
+# Light star, dotted, 7 points
+<f116r.21,+P0>    sairol.sheey.qokain.chal.qol.chl.l,rain.okain.shckhy.dtal.orchcthdy.lty
+<f116r.22,+P0>    dol.shedy.shekchy.qokain.chedy.otar.okalain.shcthy.oteey.dar.chedy.lg
+<f116r.23,+P0>    dain.cheeteey.lkar.shedy.qokal.shedy.qoteedy.ches.ain.ain.aly.salo.lm
+# Light star, 8 points
+<f116r.24,+P0>    qokedy.okain.chcthy.oty.shedy.qokeey.chalkeey.okey.kedy.chey.lag
+<f116r.25,+P0>    chol.sheky.shedy.qokeey.qokeedy.shckhy.qokain.otal,ches.oin,ain,al,om
+<f116r.26,+P0>    ytchey.qokaiin.chckhol.shechol.qotey.ol.cheedy.otain.okedy.qotam
+# Light star, dotted, 7 points
+<f116r.27,+P0>    daiin.chey.qokey.lshedy.orain.chckhy.lkain.chy,pshedy.lshedy.qoky.ram
+<f116r.28,+P0>    cheol.lchey.lkeey.sheal.lshalshy.qotalshy.cthedy.l,ky.chedy.oteedy.lched
+<f116r.29,+P0>    cthan.cheey.lkeeal.lshey.chl,l.lkain.chear.aiin.chl.l.keedy.raraiin.ory
+<f116r.30,+P0>    saraiin.shey.qokain.chcthy.okar.air,ollaiin.okaly<$>
+#
+<f116r.31,+P0>    <%>pchall[a:o]rar.al.ckhal.rain.alolfchy.rpchey.shfy.ches.ar.opchekan,dlr
+<f116r.32,+P0>    olkeey.rain,shey.qor.aiin.shey.ol.lchedy.rshey.qokeedy.chtain.oly
+<f116r.33,+P0>    soraiin.ykeey.arain.sheeky.qokain.sheey.qol.cheds.ar.r.[?:a]rsheg
+<f116r.34,+P0>    qokain.ar.raiin.shek.okain.y,r,shey.qolchey.okaiin.shckhy.qokam
+<f116r.35,+P0>    shedy.qokeey.qokain.qokeey.lchey.olkey.raiin.cthar.shckhy.qorar
+<f116r.36,+P0>    qokeey.rain.shey.okeey.lkain.l.dain.chey.sheckhy.q{cthh}y.qokl.ain
+<f116r.37,+P0>    pairain.sheek,l,y.oiin.cheey.lkeey.olkeey.lchey.qoky.lshedy.cheam.sham
+<f116r.38,+P0>    daiin.qokeey.lshey.qokaiin.chkar.shey.okaiin.chedy.qokeedy.raiin.shy
+<f116r.39,+P0>    qokain.chey.olr.ain.shey.qokain.o,l,keey,keeey.lkeal.or.al.lom
+<f116r.40,+P0>    dsheey.shey.qokey.shey.qokain.shckhy.chery.ol,chedy.l,chey,lchy
+<f116r.41,+P0>    dlar.shar.shar.r.ain.sheain.okain.shey.qokchy.chckhy.orain
+<f116r.42,+P0>    qo.qokain.sheckhy.qokain.shekain.shkain.shedy.shey.qokan.cham
+<f116r.43,+P0>    [a:o]s???.ar.al.shear.teey.chcphy.rain.cphan.ydar.oty.shey.qokam
+<f116r.44,+P0>    s[?:o].o[k:?]eedy.qokain.shckhy.ol.lcheor.chky.raiin.chey.qol.okam
+<f116r.45,+P0>    odain.sh??y.qoka[r:s].oleey.chy<$>
+#
+<f116r.46,+P0>    <%>oqokaiin.al.shey.qokar.okaral.okeysh{cphh}y.oteey.ookar.okydy
+<f116r.47,+P0>    osain.shky.qorain.chckhey.qokey.lkechy.okeey.okal.chedkaly
+<f116r.48,+P0>    sykar.ain.olkeey.dainchey.qokar.chey.dain.y.otan.otain.oly
+<f116r.49,+P0>    sysor,shey.qokey.okeolan.chey.qol.or.cheey.qor.arom.ol.lkan
+<f116r.50,+P0>    sodal.ch,al.chcthy.chckhy.qol,ain,ary<$>
+#
+#

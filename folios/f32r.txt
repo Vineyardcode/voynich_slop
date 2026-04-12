@@ -1,0 +1,34 @@
+# Voynich Manuscript — Folio 32r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f32r>     <! $Q=D $P=O $F=z $B=1 $I=H $L=A $H=1 $C=1 $X=C>
+# page 61
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Mentastrum/Ros*(illegible)muentz (O'Neill),
+# brunella vulgaris
+#
+<f32r.1,@P0>      <%>fchaiin.shykeody.daiiody.dain<->sho.tchy.oty.qopy
+<f32r.2,+P0>      okor.okchor.sheor.ckhy.dal<->dshodar.qotchol
+<f32r.3,+P0>      qokchor.chor.cthol.chol.dol<->dcheodain.daiin
+<f32r.4,+P0>      schor.dsh[o:a]r.ytsho.dain<->daiin.choddal
+<f32r.5,+P0>      qotchy.qokchy.daiin<$>
+#
+<f32r.6,+P0>      <%>fcho.tcheychedy
+<f32r.7,+P0>      otol.dol.ol,dair
+<f32r.8,+P0>      qo,ar.daiin.dam
+<f32r.9,+P0>      dytchor.dary
+<f32r.10,+P0>     dchor.ctho,daiin
+<f32r.11,+P0>     shos.chckhol.n
+<f32r.12,+P0>     shodaiin.@150;tol
+<f32r.13,+P0>     otcho,rol.dain.daiin.cthy
+<f32r.14,+P0>     schey.qot,shey.daiin.cths
+<f32r.15,+P0>     qokchy.qotol.doiir.ol
+<f32r.16,+P0>     otchol.chey.soty
+<f32r.17,+P0>     chokeol.dchoty
+<f32r.18,+P0>     doiin.sho,shy
+<f32r.19,+P0>     dol.dchol.dan<$>
+#
+#

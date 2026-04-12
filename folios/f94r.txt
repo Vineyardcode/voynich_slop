@@ -1,0 +1,22 @@
+# Voynich Manuscript — Folio 94r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f94r>     <! $Q=Q $P=C $F=b $B=2 $I=H $L=B $H=3 $C=5>
+# page 193
+# herbal
+# Currier's language B, hand 5
+# Plant ID: Botriculum (Lunaria? Mondform?}
+#
+<f94r.1,@P0>      <%>tchedy.opaiir.chedaiin.dsheedy.qopchedal.keodaiin.otalaiin.oar
+<f94r.2,+P0>      dor.cheody.okaiin.odor.okal.okair.oky.daiir.qotar.okar.olaiin
+<f94r.3,+P0>      todal.cholky.qokal.shdy.qoky.otody.qokolchey.qokair.opary
+<f94r.4,+P0>      shor.olkeedy.ol,kchdy.cheedy.kalchdy.chedaiin.or.chol,kar,am
+<f94r.5,+P0>      daiin.chekar.olkaiin.olkeody.ykaiin.otain.dar.okeed[y:o].ykaro
+<f94r.6,+P0>      saiin.choky.qotchdy.otaly.chedy.dal.dy.chckhaiin.chk.qof
+<f94r.7,+P0>      pchedar.oraiin.cheor.kas.or.als<->o,xo{ckhh}y.olkain.am
+<f94r.8,+P0>      yty.qokaiin.ykal.chdy.qoky<->osain.chykaidy.dam
+<f94r.9,+Pc>      otar,chdy.dytchdy<$>
+#
+#

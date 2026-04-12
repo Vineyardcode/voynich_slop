@@ -1,0 +1,84 @@
+# Voynich Manuscript — Folio 103v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f103v>    <! $Q=T $P=B $F=a $B=1 $I=S $L=B $H=3 $C=X>
+# page 213
+# text only / stars
+# Currier's language B, hand X
+#
+# Light star, dotted, 7 points
+<f103v.1,@P0>     <%>pol,dar.olfchey.qoky.dy.qokeey.qokeey.daiin.okeedaky.qote[iir:ar].shedy.dal
+<f103v.2,+P0>     daiin.shey.qokal.shedy.qokeedy.qoteor.shey.qoty.chckhy.qotain.cha[l:?]r
+<f103v.3,+P0>     qo[k:t].or.chedy.qokey.dar.chcthy.char.qoty.shdy.okeedy.qokeey.qokain
+<f103v.4,+P0>     y,cheey.qokeey.okeey.lkees,ol.qoteedy.ykeedy<$>
+#
+# Lightish star, 7 points
+<f103v.5,+P0>     <%>pcheor.olkeey.cheky.qokshdy.qokaiin.okechdy.qopchdy.qotedy.qokaiin.oly
+<f103v.6,+P0>     dain.shey.qokeedy.cheol.qoeeor.lshor.qoky.shedy.qokaiin.chedy.qokam
+<f103v.7,+P0>     daiin.shey.chol.chey.oteey.lkeeor.okaiin.shedy.shedy.qokaiin.ol.chedydy
+<f103v.8,+P0>     sain.shey.olsheey.dair.chekoal.okeey<$>
+#
+# Light star, dotted, 7 points
+<f103v.9,+P0>     <%>pchal,shal.shorchdy.okeor.okaiin.shedy.pchedy.qotchedy.qotar.ol.lkar
+<f103v.10,+P0>    or.cheey.qokeeshy.o[k:t]eey.loiin.o{ith}y.otedy.lor.aiin.sheor.qotain.olldy
+<f103v.11,+P0>    qokeedy.olkeeshy.qoky.qokal,shed<$>
+#
+# Light star, 7 points
+<f103v.12,+P0>    <%>sal.sheal.shedy.okeedy.qokeey.l,ol,shedy.pchor,pchedy.pol.sheedy.opalam
+<f103v.13,+P0>    dain.{ch'}eey.olshy.otey.olshedy.qotshdy.okeey.lr,ain.okan.olshey<$>
+#
+# Light star, dotted, 7 points
+<f103v.14,+P0>    <%>teeol.sheol.sho.qokeedy.shedy.qokey.oshedy.oteedy.qokain.otar,aiin.otam
+<f103v.15,+P0>    tchedal.shey.lcheey.lchdy.ch,ar.olchey.lcheody.tedy.otain.otain.ota[?:l]y
+<f103v.16,+P0>    daiin.sheekchy.okeeshy.qol.shedy.otain.ol,kedy<$>
+#
+# Light star, 7 points
+<f103v.17,+P0>    <%>qokeedy.chedy.qoteey.oteedy.lkedy.shedy.qokal.ol,char.otal.opchedy
+<f103v.18,+P0>    yshear.ol.oqaiin.chckhey.lchedy.chedy.olaiin.oteedy.qokeedal.larorol
+<f103v.19,+P0>    daiin.chey.lkeey.chalkar.cheeey,l,chealainor<$>
+#
+# Light star, dotted, 7 points
+<f103v.20,+P0>    <%>pol.char.otar.okaiin.sha{ikh}y.oteal.okain.qotal.shedy.qokeey.lolain
+# Light star, 6 points
+<f103v.21,+P0>    tokain.shal.qokeed.oteedy.sheoky.sha{ikhh}y.tar.teor.otam,oll
+<f103v.22,+P0>    olshey.qokshy.qotalsheey.[o:a]loiin.oleeedy.qokain.shedy.qokey
+<f103v.23,+P0>    ycheody.l.ar.cheey.or,aiiin.oteey.otal.otear.[o:a]r.ar.keey.qoty
+<f103v.24,+P0>    ykeey.lchey.qokeey.ror.aiin.olan.otan.otain.otain.ar,y,kain
+<f103v.25,+P0>    sain.olkeeey.qokan.oteedy.qotain.otal.oty.opar.aram.oteeam
+<f103v.26,+P0>    yteey.qokeey.sheety.oteey.lshedy.oteaiin<$>
+#
+# Light star, dotted, 6 points
+<f103v.27,+P0>    <%>fcheody.arar.okeey.okeey.lchedy.oteal.lpar.otedy.qotar.otaryly
+<f103v.28,+P0>    daiin.checkhy.ykeey.shckhy.otealshey.okain.chey.oteedy.por,aiin,y
+<f103v.29,+P0>    olcheeey.chey.lkchdy.sho.chcthy.sal,araiin.qokeey<$>
+#
+# Light star, 8 points
+<f103v.30,+P0>    <%>pchear.okain.opchedy.pchol.fchedy.otedy.poly.lchedy.fchedey.rar
+<f103v.31,+P0>    okeey.l.chey.qokeey.o,qokeey.chedy.qekchy.daiin.chckhy.sar.olainy
+<f103v.32,+P0>    qokeeey.chey.qotey.chokaiin.shal.chedy.olkam<$>
+#
+# Light star, dotted, 8 points
+<f103v.33,+P0>    <%>yshey.lkeey.qokain.okey.okaiin.cheody.otey.shdpchy.opchey.oly
+<f103v.34,+P0>    daiin.sheey.ol.chey.qok,shey.qokaiin.checkhy.otedy.lshey.lchdy
+<f103v.35,+P0>    qol,shey.ykeey.okeey.lshey.sheckhy.chtain.oty.okedy.otaly
+<f103v.36,+P0>    saiin.shey.qokeey.oshey.olshedy<$>
+#
+# Light star, 8 points
+<f103v.37,+P0>    <%>olshey.qokain.ol.sh[e:?]y.qokeshe.lsheok.shdy.qcphey.chetydar
+<f103v.38,+P0>    oteey.l.chees.ol.chey.chey.chol,keechy<$>
+#
+# Light star, dotted, 7 points
+<f103v.39,+P0>    <%>polshor.keeolshey.okey.lcharar.shol.okeedar.shes,aiin.oty.lchdy
+<f103v.40,+P0>    yteey.sheal.shey.qoain.ol.keey.qokaiin.shckhy.lchedy.rain
+<f103v.41,+P0>    daiin.shey.l,shey.lshey.qoar.sha[s:r].al.otar.shedy.{ith}y.lchdy.rar
+<f103v.42,+P0>    yshey.sheykain.chey.rar.arol.chsaly<$>
+#
+# Light star, 8 points
+<f103v.43,+P0>    <%>orain.chckhey.qokaiin.shckhy.shtal,opchy.lkeedy.chdy,lchedy
+<f103v.44,+P0>    qkain.shey.ar.ar.oky.rain.chckhy.shedy.qokeory.lteedy.ro
+<f103v.45,+P0>    okey.ol,cheey.lcheey.lkain.shckhy.sheckhy,or,ain.otar.oly
+<f103v.46,+P0>    tain.shol.qokain.chckhy.rorol.chdy.raly.osaiin.chary<$>
+#
+#

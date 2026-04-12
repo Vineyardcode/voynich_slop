@@ -1,0 +1,31 @@
+# Voynich Manuscript — Folio 24v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f24v>     <! $Q=C $P=P $F=z $B=1 $I=H $L=A $H=1 $C=1>
+# page 46
+# herbal
+# Currier's language A, hand 1
+# gathering mark 3
+# Plant ID: (hard to read)
+#
+<f24v.1,@P0>      <%>tchodar.chocfhey.opom.shod.chcphy.opshody.ocphoraiin.o,k,o@146;am
+<f24v.2,+P0>      ydals.ckhor.shy.cho.dch[o:a]r.otol.otaiir<->otchos.okchom.okcho
+<f24v.3,+P0>      octh[y:o]l.odchees.oesearies<!small e>.okam.chcth
+<f24v.4,+P0>      ydal.sh.okol.okaiin.odaiin.dlos
+<f24v.5,+P0>      oeor.oraiin.tchar.oro<$>
+#
+<f24v.6,+P0>      <%>tochol.chor.{cf}arsa,r<!s above last a>
+<f24v.7,+P0>      ycheol.daid.dar.olom
+<f24v.8,+P0>      kochky.chcthy.shol.sain
+<f24v.9,+P0>      ychol.chol.or.chor.om
+<f24v.10,+P0>     okoeor.ctheod.choy.keol
+<f24v.11,+P0>     ydaiin.chear.qodom.okodaiin
+<f24v.12,+P0>     ksho.foar.{ct}o.sho.qok[ch:ee].ok.okchal
+<f24v.13,+P0>     oeeey.cheol.chol.odor.sho.do.otolodal
+<f24v.14,+P0>     do[iir:ar].cheeodam.sho.sho.dy
+<f24v.15,+P0>     dchey.kchod.dch[a:o]l.ochdy
+<f24v.16,+P0>     otchol.odaiim<$>
+#
+#

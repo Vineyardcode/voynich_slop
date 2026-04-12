@@ -1,0 +1,26 @@
+# Voynich Manuscript — Folio 46v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f46v>     <! $Q=F $P=L $F=x $B=3 $I=H $L=B $H=2 $C=2>
+# page 90
+# herbal
+# Curriers language B, hand 2
+# Plant ID: Boragine, Anchusa (has red mark along top of roots)
+#
+<f46v.1,@P0>      <%>pody,lshed.ypdy,shedy.opchedy.ytedy.oepchol.yfchey.tochsy.oka[s:r].ykchdy.daiin
+<f46v.2,+P0>      ytair,aiin.otchdy.okaly.daiin.qokedy.otar.ar.oldy.otedy.saim.okey.tody.daiin
+<f46v.3,+P0>      ytchey.keody.chockhdy.chotal.okalshdy.sh[?:d]y<!funny d>.qokar.oty.qoty.shedy.chedy.dam
+<f46v.4,+P0>      ydaiin.chckhy.chdal.olar.chckhdy.chdody.tar.cham.kedy.daiin.y,kaiir.shckhefy
+<f46v.5,+P0>      lodaiin.shedy.qokedy.chdy.okedy.dykaly.daiin.chedy.okeedy.s,ar,air.cthy
+<f46v.6,+P0>      tor.aiirchar.shedy.olaiin.qotedy.sheedy.qokaldy.qokedy.d[o:a]ir.chody.cthey.m
+<f46v.7,+P0>      dchedy.cheeky.dam,ched.lchedy.chedy
+<f46v.8,=Pt>      okeedchsy.qokeedy.chetedar.or.ai{cky}y
+<f46v.9,+P1>      yteedy.shedy.che{ck}edy.chtedy.daim
+<f46v.10,+P1>     sheol.[a:o]r.chey.okaiin.daim.oty.om
+<f46v.11,+P1>     tolshey.otedy.chocpheod.oty.dam
+<f46v.12,+P1>     dair.aly.chdam.chcthy.chdam
+<f46v.13,+P1>     ykar.chedy<$>
+#
+#

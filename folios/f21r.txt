@@ -1,0 +1,26 @@
+# Voynich Manuscript — Folio 21r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f21r>     <! $Q=C $P=I $F=w $B=4 $I=H $L=A $H=1 $C=1>
+# page 39
+# herbal
+# Currier's language A, hand 1
+#
+<f21r.1,@P0>      <%>pchor.o,eeockhy.o.fychey.ypchey.qopcheody.otaiin.chan
+<f21r.2,+P0>      saiin.chcphy.oky,sheaiin.qotchol.oteos.sheey.cthy.daiin
+<f21r.3,+P0>      qotol,shy.o.l.cheor.chy.qokchey.chey.keey.dy<$>
+#
+<f21r.4,+P0>      <%>pchofychy.daiin.cthain.o,tolosheey.qocthey.tolchory
+<f21r.5,+P0>      ykeey.daiin.chosy.qokoiin.otol.chol.qotcheol.okeoaiin
+<f21r.6,+P0>      dchor.y.kol,y,ky.chol.kol.qokeol.chol,ol.qoteeol.dady
+<f21r.7,+P0>      shoeor.cheor.choke[o:a]dy.cho,cthor.shy<$>
+#
+<f21r.8,+P0>      <%>fcho,kshy.otor.sheol.ocphal.opsheas.cthodaiin.oty
+<f21r.9,+P0>      okaiin.sho.tshaiin.chkaiin.sh,cthey.cthody.cthy.s
+<f21r.10,+P0>     totchy.keor.chy,ky.qotaiin.qotchol.ty.ctheey.otaiin
+<f21r.11,+P0>     shol.chol.shol.tchol.chcthy.otyky.shey.yteol.shody
+<f21r.12,+P0>     ykeey.chor.sheey.ysheol.chor.chol.daiin.chkaiin<$>
+#
+#

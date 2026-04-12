@@ -1,0 +1,31 @@
+# Voynich Manuscript — Folio 31r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f31r>     <! $Q=D $P=M $F=y $B=2 $I=H $L=B $H=2 $C=2>
+# page 59
+# herbal
+# Currier's language B, hand 2
+# Plant ID: Hyrcio[unreadable] Arabum
+#
+<f31r.1,@P0>      <%>keedey.qofchedy.shee,s.aiin.qokee@149;.chepakeo
+<f31r.2,+P0>      dcheey.daiin.okeedy.qokees.s.aiin.shekeey.qef
+<f31r.3,+P0>      qokeey.chey.daiin.qokeey.[s:r]air.chekey.s,aiin.da?
+<f31r.4,+P0>      qotar.chy.dar.lo,r,ar.cheey.keeol,chedy.qokey
+<f31r.5,+P0>      daiin.sheeody.qokeor<$>
+#
+<f31r.6,+P0>      <%>tshokeody.qokedy.qotedy.chep[o:a]s.cheda,[s:r].aiin.dal
+<f31r.7,+P0>      ykeedar.saiin.checkhey.sheol.qokedy.ykeedy.chedy.ldy
+<f31r.8,+P0>      shedy.qokedy.cheol.cheod.qokeody.cheol.checthy
+<f31r.9,+P0>      daiir.sheeo.shcthey.okeol<$>
+#
+<f31r.10,+P0>     <%>tol,shso.okedy.okedy.qokedy.qokeedy.dar.shedshey
+<f31r.11,+P0>     olsheol.qokchy.dal,chey.deey.kchy.keey.okaiiin.ykeey
+<f31r.12,+P0>     qoaiin.yches.okedy.sheey.chedaiin.dar
+<f31r.13,+P0>     olsheor.qoekedy.otedy.ykedy.dals
+<f31r.14,+P0>     saii[s:r].or.chedy.daiin.okeedy
+<f31r.15,+P0>     yshedair.sheol,cheky.okedam
+<f31r.16,+Pc>     oteor.aiicthy<$>
+#
+#

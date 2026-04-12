@@ -1,0 +1,25 @@
+# Voynich Manuscript — Folio 23v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f23v>     <! $Q=C $P=N $F=y $B=2 $I=H $L=A $H=1 $C=1>
+# page 44
+# herbal
+# Currier's language A, hand 1
+#
+<f23v.1,@P0>      <%>podairol.odaiiily.sho,al,dy.opchol.otol.ol.chcphy.qotchar.s
+<f23v.2,+P0>      qot{co}tor.chy.okchaldy.qokchey.dol<->otchol.chal.otchg
+<f23v.3,+P0>      ycho.okaiin.okeol.eees.o,l.daiin.okeeor<->daiin.qotcholg
+<f23v.4,+P0>      okchey.dair.sholol.ol,dal<->otchor,[d:g]ar
+<f23v.5,+P0>      dor,chear.shor.dol.oaldary<$>
+#
+<f23v.6,+P0>      <%>tshol.shor.shkshy.okol.daiin<->otshor.olsar
+<f23v.7,+P0>      otor.oiin.sho.shol.qokol.daiin<->sol.daiin.ylg
+<f23v.8,+P0>      qokaiin.dain.qokor.okal,g.dam<->chor.olol.dam
+<f23v.9,+P0>      otshy.dal.dar.oldar.ar.or<->qoto.l,chees.g
+<f23v.10,+P0>     dor.chy.kshol.chol.ctho[?:l]<->otol.oloiir
+<f23v.11,+P0>     y,okaiin.doroiin.olols.oiin<->ol.cheeb.ols
+<f23v.12,+P0>     ol,aiios.oloro.eeeoly<$>
+#
+#

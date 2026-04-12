@@ -1,0 +1,22 @@
+# Voynich Manuscript — Folio 29r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f29r>     <! $Q=D $P=I $F=w $B=4 $I=H $L=A $H=1 $C=1>
+# page 55
+# herbal
+# Currier's language A, hand 1
+#
+<f29r.1,@P0>      <%>posaiin.she.aiin.chep,oty.chy.qotchy.qoty.cheecthy
+<f29r.2,+P0>      dshe.ykchy.choty.oky.cho,l.chchoty.choky.chy,ty,dy
+<f29r.3,+P0>      qokchy.qoty.kchaiin.shear.cthor<->dchor.choly
+<f29r.4,+P0>      chocthy.qoos.chos<$>
+#
+<f29r.5,+P0>      <%>kcheol.cheor.sheos.sheey.teey.d[a:y]<->shos.o{cty}
+<f29r.6,+P0>      chokshy.shocthy.shor.shor.daiin<->qokaiiin
+<f29r.7,+P0>      qokchy.chol.shokchy.qokaiin.choety<->choty.kaiin
+<f29r.8,+P0>      shor.chor.shosheky.shy.qoty,kody<->daiin.cthy
+<f29r.9,+P0>      qokshe.qor.chey.kor.cheod.ychom<$>
+#
+#

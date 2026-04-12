@@ -1,0 +1,28 @@
+# Voynich Manuscript — Folio 30r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f30r>     <! $Q=D $P=K $F=x $B=3 $I=H $L=A $H=1 $C=1>
+# page 57
+# herbal
+# Currier's language A, hand 1
+# Plant ID: (Holm) Dentaria(?) leaf only. Schippenwurtz?
+# Menanthes trifolia
+#
+<f30r.1,@P0>      <%>okeeesy.chey.shorchey.fcheody.shey.tchy.che[s:r].d.o.shey
+<f30r.2,+P0>      ychody.chey.chkeey.ksho.keeor.cheor.shey.she.keeodol.sy
+<f30r.3,+P0>      chodaiin.cho,ry.chey.doiin.sain.chorain.cheey,keem
+<f30r.4,+P0>      qokechy.qoko.qop.char.soin.chan.qot,chaiin
+<f30r.5,+P0>      choko.qokochy.deeey.dkeeor.cheoldain.chory
+<f30r.6,+P0>      dchorol.sho.chor.cho,ro.raiin.dor.chseeor.dy
+<f30r.7,+P0>      qor.chain.cthorchy<$>
+#
+<f30r.8,+P0>      <%>opchol,ol.chesey.scheo,r,chey.okeal<->dcheo,rchey
+<f30r.9,+P0>      dchey.qochar.chol.keeaiin.chcthey<->chor.cheky
+<f30r.10,+P0>     chokchaiin.dchor.chkchean.qotchy<->chctho.rchody
+<f30r.11,+P0>     qotchor.cheor.chey.cheor.chey.so[eeb:een]<->ydey<->sor.daiin
+<f30r.12,+P0>     dcheey.ckhey.ckhey.daiin.chkeaiin.dar<->chor<->ychdain
+<f30r.13,+P0>     chodaiin.chtchey.chear.shy,keey<$>
+#
+#

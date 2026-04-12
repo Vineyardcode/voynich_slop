@@ -1,0 +1,175 @@
+# Voynich Manuscript — Folio 71v and 72r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f71v>     <! $Q=K $P=B $F=a $B=1 $I=Z $H=4 $X=M>
+# page 138
+# Taurus (light)
+#
+# General description of page:
+# Three concentric rings of text, locus indications C1 to C3 (outer
+# to inner). In the centre is a Taurus feeding from a manger. Below
+# the bull is the word ``May'' in the Roman alphabet. Between the
+# inner ring of text and the middle ring are five
+# human figures, each in a barrel, holding a star, and labelled with a word
+# of Voynich text. One is naked, four are clothed. Between the middle ring
+# and the outer ring are 10 human figures, each in a barrel, holding a star,
+# and labeled with a word of Voynich text. Two are naked, eight are clothed.
+#
+# Newbold calls this folio 79 and he reads the date of the comet 1273.
+# The photograph in Newbold is cropped, so part of ring C1 isn't visible.
+# There is a gap at 10:00 which could be the start instead of ThP's choice
+#
+# Added text from v101: ?chey.otche
+<f71v.1,@Cc>      <!10:30>osheo.parar.oteeodaiin.she.ateey.daiin.oteokeey.dal.al.oteey.teey,dy.otchy.keey.sheeo.ochey.?chey.otcheodal.sheealody.cheol.otar.okam.oteodar.chpchy.{cp}ar.al.aiin.oteoshar.okeodaly.oteey.teeey.oteey.keor.or.arol.cheols.okaikaly
+# Nymph labels, outer ring:
+<f71v.2,@Lz>      <!10:00>char.arom
+<f71v.3,&Lz>      <!11:00>chfaly
+<f71v.4,&Lz>      <!00:00>okolar
+<f71v.5,&Lz>      <!01:00>otchody
+<f71v.6,&Lz>      <!02:00>alcphy
+<f71v.7,&Lz>      <!03:00>otaiin
+<f71v.8,&Lz>      <!04:30>okaraiin
+<f71v.9,&Lz>      <!05:30>otar.ar,aly
+<f71v.10,&Lz>     <!07:00>opalar.am.dan
+<f71v.11,&Lz>     <!09:00>opalor.ar
+<f71v.12,@Cc>     <!11:00>chal.oteeos.al.sheky.okalar,ar,okeo,dar.oty.oto,kaiin.chey.tal.otchr.chtos.cheor.shepchol.otor.sheo.shopcho.ar.aly.okeo.cheey.otal.al.shldy.otaly.okol.sheeor
+# Nymph labels, inner ring:
+<f71v.13,@Lz>     <!10:00>ofa{if}om
+<f71v.14,&Lz>     <!00:00>otalody
+<f71v.15,&Lz>     <!03:00>otalaiin
+<f71v.16,&Lz>     <!05:30>otar.sh[a:o]r
+<f71v.17,&Lz>     <!08:30>sholshdy
+<f71v.18,@Cc>     <!11:30>okeey.okeosar.otaiin.chkeeal.okal.cheekaiin.okaiin.okchor.dar.oteey.kal
+#
+#
+
+<f72r1>    <! $Q=K $P=D $F=z $B=1 $I=Z $H=4 $X=M>
+# page 139
+# Taurus (dark)
+# Three rings of circular text, locus indications C1 to C3 (outer
+# to inner) and fifteen labled nymphs. Inner ring has nymphs in
+# barrels, outer ring has standing nymphs, without barrels.
+#
+<f72r1.1,@Cc>     <!11:00>oteeo.cthey.chlol.cheol.olcheor.al.oteey.chedal.oteedy.okeodaly.chol.chokeol.cheo?ky.okaiir.okeedy.sheoltey.cheor.aiin.ydal.okochey.sho.okalshey.shol.chalaiin.chekeol.kol.otos.ar.aiin.otam.otam.chotam.sal.okeo.dar.ar.a[d:j]al.dar.okeeas.aiin.oteey.okaiin
+# Nymph labels, outer ring
+<f72r1.2,@Lz>     <!09:30>oshod[a:o]dy
+<f72r1.3,&Lz>     <!10:30>chdaiirdainy
+<f72r1.4,&Lz>     <!00:00>oaiin,ar,ary
+<f72r1.5,&Lz>     <!01:00>okalam
+<f72r1.6,&Lz>     <!02:00>ytalshdy
+<f72r1.7,&Lz>     <!03:00>char.alif
+<f72r1.8,&Lz>     <!03:30>otaraldy
+<f72r1.9,&Lz>     <!05:00>otaiin.otain
+<f72r1.10,&Lz>    <!07:00>otalef,ys.ainam
+<f72r1.11,&Lz>    <!08:30>ochol,sharam
+<f72r1.12,@Cc>    <!09:00>oteodar.ytey.otey.shetey.chokshor.okalal.otaiin.sheolaiin.otaiin.chetey.cheolor.oteo,teeody.otar.chokaiin.okaiin.al.alo.cheedy.otear,ar.cheky.chokal.otar.al,o,qokar
+# Nymph labels, inner ring
+<f72r1.13,@Lz>    <!09:00>ofaralar
+<f72r1.14,&Lz>    <!00:00>otchoshy
+<f72r1.15,&Lz>    <!02:00>otchdal
+<f72r1.16,&Lz>    <!04:00>okeey.ary
+<f72r1.17,&Lz>    <!07:00>otainy
+<f72r1.18,@Cc>    <!11:30>okeeols.aroly.okees.alaiin.okeor.chol.o.oteos.aiin.chal.otaiin.[a:o]tchor.chckhy
+#
+#
+
+<f72r2>    <! $Q=K $P=E $F=z $B=1 $I=Z $H=4 $X=M>
+# page 140
+# Gemini
+# Three rings of circular text, locus indications C1 to C3 (outer
+# to inner) and thirty labled nymphs. Inside inner ring the
+# emblem of Gemini: two persons holding each other's hands.
+# Inside two rings: full circles with labeled nymphs. Five more
+# of them are found on top of the outer ring.
+# Three nymphs (outer complete ring) are standing on top of
+# barrels similar to those of the previous pages.
+#
+# Top row of nymphs
+<f72r2.1,@Lz>     <!10:30>ofchdamy
+<f72r2.2,&Lz>     <!11:00>oklairdy
+<f72r2.3,&Lz>     <!00:00>okaram
+<f72r2.4,&Lz>     <!00:30>okairy
+<f72r2.5,&Lz>     <!01:00>okealar
+<f72r2.6,@Cc>     <!10:00>oteos.aiin.okeo,daiin.okeey.cheo.keodal.chol.okeol.ol{ckhh}y.oteeykeey.tey.okalaiin.okalchal,chey.al.<!long gap>o.keey.daiin.otar.al.chotaiin.otchey.qoeeeo,s.[ckh:?]al.chekaiin.otaiin.chy.d.r.aiin.al.y.{chh}o.chekaiin.okedal.qokeodal.saiin.otois.otees
+# Nymph labels, second ring:
+<f72r2.7,@Lz>     <!10:00>otaraldy
+<f72r2.8,&Lz>     <!11:00>okalar
+<f72r2.9,&Lz>     <!11:45>okal
+<f72r2.10,&Lz>    <!00:15>okaly
+<f72r2.11,&Lz>    <!01:00>okal
+<f72r2.12,&Lz>    <!02:00>okeey.ary
+<f72r2.13,&Lz>    <!03:00>oteeary
+<f72r2.14,&Lz>    <!04:00>otair,dy
+<f72r2.15,&Lz>    <!05:00>okaircham
+<f72r2.16,&Lz>    <!06:00>okeal
+<f72r2.17,&Lz>    <!06:30>otar{cr}
+<f72r2.18,&Lz>    <!07:30>okaly
+<f72r2.19,&Lz>    <!08:00>orary
+# There is a nymph without a name here. Consequently, the
+# label numbers are now one less than Petersen's nymph numbers
+<f72r2.20,&Lz>    <!09:00>okyd
+<f72r2.21,&Lz>    <!09:30>otolam
+<f72r2.22,@Cc>    <!10:00>oteey.tey.teodal.chokaly.ol.cheol.ol.aiin.oteo,daiin.shokal.otey.otaiin.otaly,dal.okaly.dalchdy.{ch'}eteeey.okal.shey.qoteeody.sheycthy.chotal,chas.otoees.aiin
+# Nymph labels, inner ring:
+<f72r2.23,@Lz>    <!10:30>otal
+<f72r2.24,&Lz>    <!11:30>ralal
+<f72r2.25,&Lz>    <!00:30>okam
+<f72r2.26,&Lz>    <!02:00>otalshy
+<f72r2.27,&Lz>    <!03:30>okaldy
+<f72r2.28,&Lz>    <!05:00>chosar
+<f72r2.29,&Lz>    <!06:30>otam
+<f72r2.30,&Lz>    <!08:00>ainaly
+<f72r2.31,&Lz>    <!09:00>okarcham
+<f72r2.32,@Cc>    <!09:30>otoar.air,aloy.oka[iin:ii?].otees.chs.chchs,ar.aly.taly.dar.otchey.okaiin.olaiin.@211;y
+#
+#
+
+<f72r3>    <! $Q=K $P=F $F=z $B=1 $I=Z $H=4 $X=M>
+# page 141
+# Cancer
+# Four circular bands, locus indications C1 to C4 (outer
+# to inner). Three rings of labelled nymphs, 30 in total
+# counting inner to outer (cf. Petersen). Clock position
+# for labels is that of nymph.
+# Part of the start of C1 could be missing
+<f72r3.1,@Cc>     <!10:00 after wide gap>okeey.chekoy.oteo.ykeey.chedaiin.okeeol.cheeor.chocthar.ar.oteody.oteedy.okeolaiin.oteey.okarar.???.???teo.sheol.al.alaiiin.okeos.alaiin.okor.o,keodar.okee.s,ar,aiin.chekackhy.chokees.oteedy.chekar.okar,choly.ches,os.oiin.okeeey.cheey.ches.okeody.chealdy.shocthy.choteey.sheoly.{oh}eol.sheey.chorain
+# Outer band of labels
+<f72r3.2,@Lz>     <!10:30>olkalaiin
+<f72r3.3,&Lz>     <!11:00>olalsy
+<f72r3.4,&Lz>     <!00:00>oraiinam
+<f72r3.5,&Lz>     <!01:00>osarsheeeo
+<f72r3.6,&Lz>     <!02:00>oto@192;aiin
+<f72r3.7,&Lz>     <!02:30>opoiiin[o:?]in.al,[ch:a]es
+<f72r3.8,&Lz>     <!04:00>ypaiin.alaly
+<f72r3.9,&Lz>     <!05:00>oteey,daiin
+<f72r3.10,&Lz>    <!06:30>oeeodaiin
+<f72r3.11,&Lz>    <!07:00>ofsholdy
+<f72r3.12,&Lz>    <!07:00>opoeey.okaiin
+<f72r3.13,&Lz>    <!10:00>ykolairol
+<f72r3.14,@Cc>    <!09:00>otochedy.otey.o,koey.sheedy.oteodar.ykeolol.y,air.oteos.cheo,l,aiin.ykeeoly.otaiin.shear.oiiin.oral.o,tealy.cheokeor.oteody.o{ck}es.otees,chteos,doteey.sosor.oteol.shol.cheeg.okeody.{ch'}eol.shey.sheysy.shoteey.cheor.yoeteey.okeeol.chy.okeeo.ykoly
+# Middle band of labels
+<f72r3.15,@Lz>    <!11:00>oralkam
+<f72r3.16,&Lz>    <!00:00>ytairal
+<f72r3.17,&Lz>    <!01:00>oeee[s:r]aiin
+<f72r3.18,&Lz>    <!01:30>ory
+<f72r3.19,&Lz>    <!02:30>ochey,fydy
+<f72r3.20,&Lz>    <!03:30>of???.o.eeesaly
+<f72r3.21,&Lz>    <!05:00>ykaraiin.airal
+<f72r3.22,&Lz>    <!06:30>okalar
+<f72r3.23,&Lz>    <!08:00>orara
+<f72r3.24,&Lz>    <!09:00>olaiin.ola{ikh}y
+<f72r3.25,&Lz>    <!10:00>olfsheoral
+<f72r3.26,@Cc>    <!09:00>oteey.[a:?]rary.eee[r:s],che@212;shees.opcholalaiin.oteeor.am.sheal.o[k:t]aipchy.oteees,ar.am.olaiin.otedar.olol.choty.oteol.sheshdy.chedy.chedy.dy.shes.eedy.sheol.shy,ckhol
+# Inner band of labels
+<f72r3.27,@Lz>    <!10:30>opalal
+<f72r3.28,&Lz>    <!00:00>yfary
+<f72r3.29,&Lz>    <!01:30>oraiiral
+<f72r3.30,&Lz>    <!03:00>ytoar.shar
+<f72r3.31,&Lz>    <!06:00>octho
+<f72r3.32,&Lz>    <!07:30>aral
+<f72r3.33,&Lz>    <!09:00>oletal
+<f72r3.34,@Cc>    <!09:00>okeos.aiin,olaiin.oraiin.octheolarl.okeeody.oteos.aiin,koly
+#
+#

@@ -1,0 +1,24 @@
+# Voynich Manuscript — Folio 7v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f7v>      <! $Q=A $P=N $F=y $B=2 $I=H $L=A $H=1 $C=1>
+# page 14
+# herbal
+# Currier's language A, hand 1
+# Plant ID: polygonum persicaria, potentilla silvestris, oculus christi
+# 9 lines, two paragraphs, plant intrudes in bottom paragraph
+#
+<f7v.1,@P0>       <%>polyshy.shey.tchody.qopchy.otshol.dy.daiin.tshodody
+<f7v.2,+P0>       chochy.cthy.daiin.qoky.ch{cphh}y.daiin.cthol.cthy.cthd
+<f7v.3,+P0>       qokchy.dykchy.chkeey.kshy.ky.ty.dor.cheey.o,l,cheol,dy
+<f7v.4,+P0>       choteeeb.oeear.choschy.dain.sho.kshy.shol.deees.dol
+<f7v.5,+P0>       dchodaiin.qotchy.cheey.tcheey<$>
+#
+<f7v.6,+P0>       <%>kchor.sheod.sheodaiin.sho,daiin.oksho,lshol.dair.qos
+<f7v.7,+P0>       okshodeeeb.chorcheor,odaiin.shotch[o:?]<->dol.dol.dor.aiin
+<f7v.8,+P0>       qoteeeo.r.cho,cheeody.qotchey.tey<->o,kcho,r.daiin
+<f7v.9,+P0>       sho.keeo.daiir.chokchy.dor.deol.dy<->dol,daiin<$>
+#
+#

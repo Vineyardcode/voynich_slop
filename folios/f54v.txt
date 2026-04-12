@@ -1,0 +1,29 @@
+# Voynich Manuscript — Folio 54v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f54v>     <! $Q=G $P=L $F=x $B=3 $I=H $L=A $H=1 $C=1>
+# page 106
+# herbal
+# Currier's language A,  hand 1
+# not found in FSG item 1609
+#
+<f54v.1,@P0>      <%>pcheodar.chpal.oloiin.ckhey<!bar interrupted>.dar.qokeey.cpheeain.s,al
+<f54v.2,+P0>      dcheain.cphaiin.s.ar.cheor.qodaiin.cthaildy.ypchal
+<f54v.3,+P0>      yair.ykar.oky.cham.chody.ykoldam.cheol,am
+<f54v.4,+P0>      dar,chor.cheky.chol.okaiin.chody.chol,dy
+<f54v.5,+P0>      o[d:?]aiin.ytaiin.qodaim.qokar.chy.s.am
+<f54v.6,+P0>      tol.cheol.shocthy.qodaiin.k[ee:ch]ody
+<f54v.7,+P0>      daiin.sheody.qoctheol.s.aiin.qotchy
+<f54v.8,+P0>      daiino,d,aim.qokaiin.yteal.okal.om
+<f54v.9,+P0>      ydaiin.qockhey.qodal.ytam.okal,dy
+<f54v.10,+P0>     kol.{ck}aiin.chckhy.qokal.dal.qocthy
+<f54v.11,+P0>     oaiin.qockhy.qokam
+<f54v.12,+P0>     tol.chol.cthol.s
+<f54v.13,+P0>     y,chol.okal.yckhey
+<f54v.14,+P0>     tar.cphey.tam.aldam
+<f54v.15,+P0>     or.alchy.ytal.dol.chodoldy
+<f54v.16,+P0>     daiin.chol.oldaiin<$>
+#
+#

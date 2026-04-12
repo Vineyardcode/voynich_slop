@@ -1,0 +1,38 @@
+# Voynich Manuscript — Folio 8r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f8r>      <! $Q=A $P=O $F=z $B=1 $I=H $L=A $H=1 $C=1>
+# page 15
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Praenanthes (O'Neill), Atriplex hastata (spinach?)(Voynich)
+# Hedera Helix (RZ)
+# last word(s) in each paragraph flushed to the right (signatures?)
+#
+<f8r.1,@P0>       <%>pshol.chor.otshal.chopy<->cph[o:a]l.chody.shy.cfhodar.shor
+<f8r.2,+P0>       tchty.sh,kcheals.sho<->okche.do.dchy.dain.al
+<f8r.3,+P0>       chodar.shy.sy<->chodaiin.shokchy.chor.dy
+<f8r.4,+P0>       qotor.chor.chor.sheey<->dchol.shesed.chof.chy.dam
+<f8r.5,+P0>       okchey.do.r.cheeey.dy.ky<->scho.chky.{ck}ooaiin.ch[y:a],taiin
+<f8r.6,+P0>       tosh.{ck}cheey.koltoldy<->shy.choety.cheeody.sol
+<f8r.7,+P0>       choto.kchoan.choor.dain
+<f8r.8,=Pt>       dcho.dain<$>
+#
+<f8r.9,*P0>       <%>tchoep.sho.pcheey.pchey<->ofchey.dsheey.sholdaiin.shor
+<f8r.10,+P0>      daiin.cheey.teeodan.dy<->cheocthy.oksheo.dol.dairg
+<f8r.11,+P0>      shol.cheodaiin.daiin.do<->y,tchody.chot.choty.otariin
+<f8r.12,+P0>      qo,chodaiin.shotokody<->chotol
+<f8r.13,=Pt>      okokchodg<$>
+#
+<f8r.14,*P0>      <%>{c@132;h}o.{c@196;h}ey.shol.chofydy<->sho.chey.kshey.lody.cholal
+<f8r.15,+P0>      dchey.ckhol.chol.chey.kc{cs}<->chy.{cto}daiin.dol.daiiir[{ih}:ch]y.ckhy
+<f8r.16,+P0>      ychey.kch[e:o]kchy.chsey,kchy<->scheaiin.cthai{ih}ar.cthy.dar
+<f8r.17,+P0>      chol.dchy.qokar.chl<->aiin.chean.{ck}y.char.chaiin
+<f8r.18,+P0>      okar.cfhaiin.chaiin.{cl}<->daiin.chor.cha.rchealcham
+<f8r.19,+P0>      sair.cheain.cphol.dar<->shol.kaiin.shol.kaiin.dai,kam
+<f8r.20,+P0>      or.cho,kesey.shey.o.kal<->chal
+<f8r.21,=Pt>      schol.saim<$>
+#
+#

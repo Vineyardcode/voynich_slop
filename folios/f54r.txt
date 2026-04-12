@@ -1,0 +1,26 @@
+# Voynich Manuscript — Folio 54r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f54r>     <! $Q=G $P=K $F=x $B=3 $I=H $L=A $H=1 $C=1>
+# page 105
+# herbal
+# Currier's language A,  hand 1
+# Plant ID: Thistle, leaves of boneset
+#
+<f54r.1,@P0>      <%>podaiin.shodal.qopchol.cfhe[o:a]dy<->opcheol.chocphy
+<f54r.2,+P0>      ytodaiin.otchey.otchey.qockhodal<->sockhody.sar
+<f54r.3,+P0>      daiir.cthody.ot[a:o]l.[e:o]kchody.ol.s.or.y<->ytchey.dam
+<f54r.4,+P0>      tor.ockhol.shokchy.kol,chom.[s:r]<->chey<->ctheot[o:a]l
+<f54r.5,+P0>      sar.sh.okeodain.chokey<$>
+#
+<f54r.6,+P0>      <%>korar[e:i].ckhos.shofom.cher.chom.kcheor<->she.qkchol.dam
+<f54r.7,+P0>      dor.s.sheey.ksheody.sho.or.cheey.chety<->sol.de[sh:?].dam.dam
+<f54r.8,+P0>      t[o:a]shey.kodl.ckho.dar.sheekal.s.aiin<->okeam.etchal
+<f54r.9,+P0>      oaiin.or.ol.sal.qokor.chor.ckhol.s<->s,sho.chol.daiin
+<f54r.10,+P0>     tor.ol.dol.or.chol.chol.ckhol.okol.oky<->ytchor.ol,koldy
+<f54r.11,+P0>     daiin.okor.or.ol.ckhol.chor.cho@165;.dam<->or.sho.chol.dom
+<f54r.12,+P0>     yor.shodal.o.aiin.al.dol.choek,air,o,ldam<$>
+#
+#

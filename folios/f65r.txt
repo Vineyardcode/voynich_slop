@@ -1,0 +1,14 @@
+# Voynich Manuscript — Folio 65r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f65r>     <! $Q=H $P=E $F=y $B=2 $I=H $H=3>
+# page 115
+# herbal
+# Plant with only two or three words next to it,
+# treated as a label.
+#
+<f65r.1,@Lp>      otaim,dam.alam
+#
+#

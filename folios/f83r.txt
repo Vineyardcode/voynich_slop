@@ -1,0 +1,76 @@
+# Voynich Manuscript — Folio 83r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f83r>     <! $Q=M $P=Q $F=y $B=2 $I=B $L=B $H=2 $C=2>
+# page 163
+# biological
+# Currier's  language B, hand 2
+#
+<f83r.1,@P0>      <%>tchedy.lpchedy.op{ch'}edy.chepol.pchedar.shedy.qopchedy
+<f83r.2,+P0>      sol.cheey.qokaiin.shol.lchs.shey.qoteedy.rches.ar.chedy.dor
+<f83r.3,+P0>      olkeedy.qotal.chkeedy.chey.daiin.chey.lchedy.qokaiin.qotal.dar
+<f83r.4,+P0>      qokshedy.chedy.qokedy.chkedy.daiin.shetar.shedy.qekaiin.chedy
+<f83r.5,+P0>      d{ch'}eey.qotaiin.checkhy.qoty.che[g:d].shedy.qokeey.rchedy.qoteedy.lo
+<f83r.6,+P0>      schedy.chedchy.qokal.olchedy.qokaiin.chedy.qokeedy.lchedy.qoky
+<f83r.7,+P0>      solshed.lsheedy.qeeedy.qoky.o,qol.rsheedy.qokedy.qoteedy.qoteedy
+<f83r.8,+P0>      pchedal.otedy.shecthedchy.qoky.chedy.chary<$>
+#
+<f83r.9,+P0>      <%>pchor.checphedy.qokedy.lsheedy.qokchdy.r.shedkedy.qopshdy,qopy
+<f83r.10,+P0>     olkeey.rchs.cheeb.ols.aiin.skal.dain.cthal,s,aiin.chky.lal.sam
+<f83r.11,+P0>     sor.shedy.qokaiin.chkain.shcthey.qokedy.okair.sheedy.lchedy.lo
+<f83r.12,+P0>     qockhol.sheckhy.otal.qokeal.sheckhdy.{ck}al.okedy.qokedy.qokal
+<f83r.13,+P0>     salcheol.tar.shedy.s,altedy.sair.qokedy.q{cphh}edy.lchcphedy.ldar
+<f83r.14,+P0>     qokchedy.qokeedy.shedy.qokshedy.dal.lchedy.qokaiin.shcthy.dal.sy
+<f83r.15,+P0>     saiin.shedal.shecthy.chey,tal.shcthy.dalchdy.qotchedy.lchedy
+<f83r.16,+P0>     tchedy.qokchdy.cheedar.chldaiin.chedy.qokain.checthy.chealror
+<f83r.17,+P0>     dche[o:?]kedy.lkeed.shckhey.ytaiin.shechy.schety<$>
+#
+<f83r.18,+P0>     <%>pdalshdy.shocphedy.otor.shedy.opshedy.otshdy.qokedol.shdy.soldy
+<f83r.19,+P0>     sar.shedaiin.ockhey.sain.ched.shedy.qetal.dal.shedy.shey.lchedy
+<f83r.20,+P0>     solkeedy.qoteedy.qokeey.qokedy.sol.cheeety.qokedy.qoky.saiin
+<f83r.21,+P0>     solkeedy.qokedy.otedy.sol,chedy.lkedy.qokchedy.qokedy.chckhdy.sar
+<f83r.22,+P0>     schedair.otchedy.qokeedy.chedain.chedy.qotedaiin.otaiin.otedy.ldy
+<f83r.23,+P0>     tchedy.qotedy.qokal.shedy.qokedy.shecthedy.shecthy.otor.chedy
+<f83r.24,+P0>     soiiin.checthy.chety.otaiin.olsaly.shedy<$>
+#
+<f83r.25,@P1>     <%>qokeedy.qolchey.qokeey.qokedy.chedy.otal
+<f83r.26,+P1>     otchey.qokeey.qoky.tol.shedy.qokylddy
+<f83r.27,+P1>     dain.chedy.qokeedy.shckhedy.shckhedy
+<f83r.28,+P1>     saiin.cheeky.sheey.qokedy.shedy.oldy
+<f83r.29,+P1>     salche'dy.cheey.qody.kesd.oldy
+<f83r.30,+P1>     s,okeedy.qokeedy.qoky.saii@208;<$>
+#
+<f83r.31,+P1>     <%>techedy.qotchedy.okeedy,ldy
+<f83r.32,+P1>     [?:s]cheol.qokchedy.lchedy.qokey
+<f83r.33,+P1>     sy.s,aiin.sheekchy.qokey.sain
+<f83r.34,+P1>     shky.lchedy.dolshed.qokchy
+<f83r.35,+P1>     saiin.cheky.okeeol.okain.chdy
+<f83r.36,+P1>     so[r:s],aiin.shy.shey.lshedy,qoky
+<f83r.37,+P1>     sol.lkedy.lchedy.qokol.shedy
+<f83r.38,+P1>     or.chey.qockhey.dairydy
+<f83r.39,+P1>     qokain.shey.kain.chckhal
+<f83r.40,+P1>     solchedy.olchedy.chedaiin
+<f83r.41,+P1>     solkey.lchedy.qolkain.dal
+<f83r.42,+P1>     sol.ol.chcthdy.l.chedy.lchdy
+<f83r.43,+P1>     daiin.sheol.chedy.qotal.sar
+<f83r.44,+P1>     skar.shedy<$>
+#
+# Writing below tubes
+<f83r.45,@Lt>     chtorol
+<f83r.46,=Lt>     olsaiin
+#
+<f83r.47,@Pb>     <%>otchdy.qokchdy.shedal
+<f83r.48,+Pb>     dal.cheol.lol.chdal.aiin
+<f83r.49,+Pb>     sol.daiiin.chedy<$>
+#
+<f83r.50,@Lt>     sasoldal
+<f83r.51,+Lt>     darolsy
+#
+<f83r.52,@Pb>     <%>solkeey.qekey.raly.ol
+<f83r.53,+Pb>     solchkal.cheol.qotar.ol
+<f83r.54,+Pb>     daiin.ol.dain.chey.ldalor
+<f83r.55,+Pb>     sol.rtain.cthal<$>
+#
+#

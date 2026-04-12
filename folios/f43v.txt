@@ -1,0 +1,31 @@
+# Voynich Manuscript — Folio 43v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f43v>     <! $Q=F $P=F $F=c $B=3 $I=H $L=B $H=2 $C=2>
+# page 84
+# herbal
+# Currier's language B, hand 2
+# Two plants. Polygonum biatorta (sp?). Lunaria (RCAZ)?
+#
+<f43v.1,@P0>      <%>pdsairy.dalteoshy.d[o:a]ly.sheet.or.arodl.lkeo.r.araiin.otedy.opolde
+<f43v.2,+P0>      shedy.octhy.otedy.chedy.dar.ches{kh}y.okeody.oky.okaldy.kchdy.okar
+<f43v.3,+P0>      tody.teedy.qot.chocthy.chky.oky.chdy.okedy.ykaiin.chey.ody.dary
+<f43v.4,+P0>      d{ch'h}ey,ykeedy.chees.ain.shy.qocthedy.chey.qokar.checkhy.okam
+<f43v.5,+P0>      qokchedy.oralody.otedol.chcthdy.chtey<$>
+#
+<f43v.6,+P0>      <%>tolkchdy.okedy.qoked[a:o]l.shedy.okedal.shedy.pchdol.otey.dalorain
+<f43v.7,+P0>      ytshedy.ykeody.oykeedy.chedy.tedy.chcthy.otam.ot.ytaiin.otas
+<f43v.8,+P0>      shetcheodchs.ochedy.oteody.chedy.chody.daiin.sheody.ykar.chef
+<f43v.9,+P0>      yt[ch:ee]dy.olos.aiin.ockhy<$>
+#
+<f43v.10,+P0>     <%>tarchor.ar.aldar.chdy.daldar.chepy.yteedy.s,ypchey,pchedy.yfor
+<f43v.11,+P0>     ysheey.or,air.yteey.cheody.ar.sheo.qody.chckhy.chdy.choty.she{cthy}
+<f43v.12,+P0>     yshee.kedy.dar.chey.qotedy.etaiin.chedy.cthey.oteol.or,aiin.odain
+<f43v.13,+P0>     dshedy.tedy.ckhedy.chekcheey.dy,keody.otedy.cheetam.okedar.amam
+<f43v.14,+P0>     dykeedain.chedy.okeedy.chedal.olkey.cheky.cho[a:y]l,chedy.oteorom
+<f43v.15,+P0>     oteod.qolkeey.kaldy.chy.darod[y:?].qokeey.kol.dary.taros
+<f43v.16,+P0>     ol.eees.aiin.oloaiin.oteos.qoky.chey<$>
+#
+#

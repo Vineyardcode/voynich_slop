@@ -1,0 +1,24 @@
+# Voynich Manuscript — Folio 20v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f20v>     <! $Q=C $P=H $F=d $B=4 $I=H $L=A $H=1 $C=1>
+# page 38
+# herbal
+# Currier's language A, hand 1
+#
+<f20v.1,@P0>      <%>faiis,ar.okoy.shy,pofochey.opchy.qopy.choldy.opydy.cphy
+<f20v.2,+P0>      sos.ykoiin.cheol.chol.choiin.checthy.otol.chol.chodaiin.oty
+<f20v.3,+P0>      okchy.sho,kchol.shol.chcthy.qoty.chy.tolshy.qotchy
+<f20v.4,+P0>      sho.or.aiin.shol.daiin<$>
+#
+<f20v.5,+P0>      <%>tshol.folchol.otor.shol.shor.fshodchy.otchy.chcphy.dy
+<f20v.6,+P0>      doiiin.chockhy.da[n:r].cheo{ikh}y.shos.cheos.char.[{ith}:cth]aiin
+<f20v.7,+P0>      shocthy.sho.cthy.daiin.sheoy.tey.s<->soaiin
+<f20v.8,+P0>      shain.choraly.sho.ar.chy.daiin.d.s
+<f20v.9,+P0>      ykchy.keody.cho.cthy.chol.shd.qoty.d@244;
+<f20v.10,+P0>     shokaiin.chocthy.chol.daiin.chy.chor.ety
+<f20v.11,+P0>     okoiin.chey.{@200;ph}ol.chory<$>
+#
+#

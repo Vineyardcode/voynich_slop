@@ -1,0 +1,28 @@
+# Voynich Manuscript — Folio 20r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f20r>     <! $Q=C $P=G $F=d $B=4 $I=H $L=A $H=1 $C=1 $X=C>
+# page 37
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Moss Polytrichum (O'Neill), cranberry
+#
+<f20r.1,@P0>      <%>kdchody.chopy.cheey.qotchol.qotoeey.dchor.chaiin
+<f20r.2,+P0>      chod,ey.cthey.chotol.odaiir.qotchy.cthody.chodchy
+<f20r.3,+P0>      qoteey.cho,chodaiin.sho.qochy.chey.tcheodal.daral
+<f20r.4,+P0>      ochol.ol.teey.ot[o:a]lchey<$>
+#
+<f20r.5,+P0>      <%>pchocthy.chokoaiin.{cp}y.cheeeb.opchey.shosaiin.@243;
+<f20r.6,+P0>      choees.okchor.qotol.cheey.daiin.chy.choiin.daiin
+<f20r.7,+P0>      ocho,lshod.daiin.choteol.chol.dol.shol.otaiin
+<f20r.8,+P0>      schodain.cheo.r.cheody<$>
+#
+<f20r.9,+P0>      <%>fchodees.shody.qotchey.qokchey.qocphy.chokoldy
+<f20r.10,+P0>     ochoaiin.chor.sody.pchodaiin.chetody.choky.dchy.toy
+<f20r.11,+P0>     dchod.qoteeody.ytchy.qo,tshey.dchaiin.chol,ody
+<f20r.12,+P0>     shoiin.cheody.otchey.otchy.tchy.qoteey.daiin.dar
+<f20r.13,+P0>     ochaiin.chor.chor,cheey.tchey<$>
+#
+#

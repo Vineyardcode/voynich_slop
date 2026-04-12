@@ -1,0 +1,28 @@
+# Voynich Manuscript — Folio 4r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f4r>      <! $Q=A $P=G $F=d $B=4 $I=H $L=A $H=1 $C=1 $X=C>
+# page 7
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Hypericum; Centaurium Erythaea (O'Neill)
+# Two paragraphs of text, flower cuts through top one
+#
+<f4r.1,@P0>       <%>kodalchy.chpady.sheol.ol,sheey.qotey<->doiin.chor.ytoy
+<f4r.2,+P0>       dchor.shol.shol.cthol.shtchy.chaiin.@163;s<->choraiin.chom
+<f4r.3,+P0>       otchol.chol.chy.chaiin.qotaiin<->daiin.shain
+<f4r.4,+P0>       qotchol,chy.yty.daiin.okaiin.cthy<$>
+#
+<f4r.5,+P0>       <%>pydaiin.qotchy.dy,tydy
+<f4r.6,+P0>       chor.shytchy.dytcheey
+<f4r.7,+P0>       qotaiin.cthol.daiin.cthom
+<f4r.8,+P0>       shor.shol.shol.cthy.cpholdy
+<f4r.9,+P0>       daiin.ckhochy.tchy.kor,aiin
+<f4r.10,+P0>      odal.shor.shyshol.cphaiin
+<f4r.11,+P0>      qotchoiin.she[o:a]r.qoty
+<f4r.12,+P0>      soiin.chaiin.chaiin
+<f4r.13,+P0>      daiin.cthey<$>
+#
+#

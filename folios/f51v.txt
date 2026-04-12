@@ -1,0 +1,26 @@
+# Voynich Manuscript — Folio 51v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f51v>     <! $Q=G $P=F $F=c $B=3 $I=H $L=A $H=1 $C=1>
+# page 100
+# herbal
+# Currier's language A,  hand 1
+# Plant ID: Cow's tongue, Licopsis, Sedum Majus (Hauswurtz)
+#
+<f51v.1,@P0>      <%>poshody.qokodar.shodaiin.qotal<->dscheey.saiin,dy
+<f51v.2,+P0>      dshody.ckhody.qokol.dykaiin.chy<->qokey.daiin.cthy
+<f51v.3,+P0>      tchody.cthy.chckhey.qod.ytchody<->dchol.saiin.ytam
+<f51v.4,+P0>      otaiin.qodal.yt[o:a]l.cheodar.s,ody<->oteo,daiin.shokog
+<f51v.5,+P0>      todaiin.yt[a:o]dy.qokol.shodol.qockhy<->ykol.otaiin.dar.y
+<f51v.6,+P0>      okor.ctheody.qocphy.qok[a:o]l.qotaiin<->otyk[o:a]l.chol,daiin
+<f51v.7,+P0>      qotol.chodaiin.qokcheody.cho,r.chod<->ycthol.s.olcheety
+<f51v.8,+P0>      olkeeody.qokal.qodaiin.{ykh}or.[{ofa}:{yfa}:?]l
+<f51v.9,+P0>      daiin.ckhol.shain.kcholol
+<f51v.10,+P0>     ykeol.sheo.qok[o:a]dy.fold
+<f51v.11,+P0>     ycheoky.sheey.ykeey.chey
+<f51v.12,+P0>     ochockhy.daiin.cho,ckhey
+<f51v.13,+P0>     daiin.cheol.cheodain<$>
+#
+#

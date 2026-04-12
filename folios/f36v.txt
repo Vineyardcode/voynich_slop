@@ -1,0 +1,28 @@
+# Voynich Manuscript — Folio 36v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f36v>     <! $Q=E $P=H $F=d $B=4 $I=H $L=A $H=1 $C=1>
+# page 70
+# Currier's language A, hand 1
+# herbal
+# Plant ID: Indian hemp
+#
+<f36v.1,@P0>      <%>pchar,asy.qoforom.shoaiin.tchey.ch[{ckoh}:{ckhh}]y.otaiin.cphar.daiin
+<f36v.2,+P0>      qotor.chol.daiin.otaiin.qotor.ytar.ochor.chety.ckh[o:a]r.dom
+<f36v.3,+P0>      dchytchy.ytor,s<->otaiin.qopchor.otar.otchaiin.s
+<f36v.4,+P0>      qotchor.y,ky,ty,dy<->daiin.cthor<$>
+#
+<f36v.5,+P1>      <%>tchor.ckhoiin.daiin.cphchar
+<f36v.6,+P1>      daiin.cthor.daiin.dal.dys
+<f36v.7,+P1>      qoky.keol.okchor.o,s,ch[y:a],shan
+<f36v.8,+P1>      ykshy.ytchy.dol.y,tydy.yky
+<f36v.9,+P1>      okaiin.y,kcholqod.chory
+<f36v.10,+P1>     ykchotchy.daiin.daiild
+<f36v.11,+P1>     oty.chcthy.ytoryd
+<f36v.12,+P1>     ytol.kchy.oty,chd
+<f36v.13,+P1>     oky.she.cthol.oty
+<f36v.14,+P1>     soiin.chtain<$>
+#
+#

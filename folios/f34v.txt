@@ -1,0 +1,25 @@
+# Voynich Manuscript — Folio 34v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f34v>     <! $Q=E $P=D $F=b $B=2 $I=H $L=B $H=2 $C=2>
+# page 66
+# Currier's language B, hand 2
+# herbal
+# Plant ID: libanotus umbilifera
+#
+<f34v.1,@P0>      <%>k[e':s]chdy.chdy.chefchy.shdy.qopchdy.shdydy.chdalchdy.ypchdy.chcthdy.spaiin
+<f34v.2,+P0>      tol.qokchy.dychedy.okchy.chckhdy.chdaiin.ckhy.loees.ykar.aiin.oldam
+<f34v.3,+P0>      ytal.shor.chdal.olchdy.char.or.ol.kedaiiin.chcthy.okchdy.chckhy.dasam
+<f34v.4,+P0>      tchdaiin.chekal.shedy.qokedar.chdaiin.oldar.qoldar.chedy.daiin.otam
+<f34v.5,+P0>      lshaiir.or,air.shedy.chechey.dykey.kair.chedy.qokar.chekaly.ch[a:o]lky<$>
+#
+<f34v.6,+P0>      <%>pchedar.shear.qokchdy.qokees.cheol.ypchdaiin.chedy.lr,ar.chedain
+<f34v.7,+P0>      olchdaiin.chedy.chey,keedy.chy.kedy.dy.qokedy.okey.s,a[ir:is].chkain.otain
+<f34v.8,+P0>      ysheos.otar.ar.choraiin.cheky.olchdaiin.or.oldar.chdar.oka[m:g]
+<f34v.9,+P0>      lsheody.cphy.qokeey.keedy.kchdy.chedy.qokedy.chdy.kal,shs.oldaiin
+<f34v.10,+P0>     daiin.chdy.tedy.kchdy.okeedy.checkhy.chdy.kain.chear.or.okedy.okam
+<f34v.11,+P0>     yshos.ody.s.aiin.okey.okal,shedy<$>
+#
+#

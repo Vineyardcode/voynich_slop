@@ -1,0 +1,112 @@
+# Voynich Manuscript — Folio 101v (part) and 102r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f101v>    <! $Q=S $P=H $F=y $B=2 $I=P $L=A $H=1>
+# page 206
+# pharmaceutical
+# Currier's language A, hand 4?
+# Forms one logical page with f101v1, as can be seen from the
+# subdivision into paragraphs, and the last line which is
+# centered. All normal text loci are transcribed on this page.
+# The creases are badly damaged and all lines are interrupted.
+# Only the labels on f101v1 are transcribed as belonging to that page.
+# Labeled f100v in Brumbaugh.
+#
+# Two rows of labels above normal text
+<f101v.1,@Lf>     [s:r]airaly
+<f101v.2,@Lf>     otaldy
+<f101v.3,@Lf>     otol
+<f101v.4,@Lf>     ytal
+<f101v.5,@Lf>     dokor
+<f101v.6,@Lf>     orar
+<f101v.7,@Lf>     otarar
+<f101v.8,@Lf>     ot[o:a]ly
+<f101v.9,@Lf>     soraly
+#
+<f101v.10,@Lf>    okol
+<f101v.11,@Lf>    arom
+<f101v.12,@Lf>    oraram
+<f101v.13,@Lf>    oraeep
+<f101v.14,@Lf>    dytolg
+<f101v.15,@Lf>    olkor
+<f101v.16,@Lf>    dolary
+<f101v.17,@Lf>    odor
+<f101v.18,@Lf>    olaran
+#
+<f101v.19,@P0>    <%>tolchor.cheopor.or,ody.cphey,r.shee.fol,s,oiin.otsheey.otch???y,kcho,pcholy.chor.or.choror.sy<->dorar<->okoraiin.orolodain
+<f101v.20,+P0>    or.aiin.or.o.or.odam.chor.s.aiin.okor.cheeor.sheeol.qokol.et???ol.qoor.cheey.qykeod.oeeo.r.choy.s<->okeeody<->chodaiin.cthy.okody.dar
+<f101v.21,+P0>    ycheor.o[?:e]o.dain.cheokal.{ykh}ody.cheeods.oraiin.qoeey.cthey.???eocthy.dain.cheod?.dydy<$>
+#
+<f101v.22,+P0>    <%>ksear.lol,keeol.otal.or.ol.aiin.okeod.{ykh}ey.dain.olcheol.???opcheol.cthey.qekeoldy.qocthor.sheody.qo{ckhh}ey.odaiin.shoytolaiin.?sodaiin,dy
+<f101v.23,+P0>    yaiin.ol,olor.daiin.okeey.qok.ykeol.daiin.qockhy.daiin.olch???dar.qokeol.dol.oraiin.oldaiin.keeol@138;,rch.qokeeeor.s,ydy.cheor.okeey.choldy.dar
+<f101v.24,+P0>    teeeol.sheol.qokeor.{ykh}ol.olcho.r.chokey.chor.ctheey.daiin???daiin.cheeody.cheey,keo.cheol.daiiin.deeor.cheedy<$>
+#
+<f101v.25,+P0>    <%>daiin.dair.yteol.chor.qockhol.daiin.ckheey.chey.kchey.da???oiin.okeey.ckheo,l,cheody.kcheol.daiin.etee[o:y]s.ctheody.ctheo.ckhosh[?:e].olchor
+<f101v.26,+P0>    olaiin.okeol.cheo.kol.ches.sheey.qoor.qokeody.cheor.okeo.???oiin.cheey.cthey.ory.ctheey.qokeey.shol.ody.cheol.oralar.shey.qokar,ary
+<f101v.27,+P0>    sal.chol.choly.okeey.dal.qol.shckheol.chol.cthear.keeol.???cheeo.ol,chs.oraiin.qokeeey.soiin.qodaiin.cheol.qokeey.daiin.cheodam
+<f101v.28,+Pc>    teol.cheol.etchey.???cheo,r.cheol.cthol.cholaiin.chol,qkar<$>
+#
+#
+
+<f102r1>   <! $Q=S $P=L $F=z $B=1 $I=P $L=A $H=1>
+# page 208
+# pharmaceutical
+# Currier's language A
+#
+<f102r1.1,@Lc>    <!201a>daarod
+<f102r1.2,@Lf>    <!201b>otodeeodor
+<f102r1.3,@P0>    <%>polaiin.shocthy.qoteol.loiiin.oteeor.cpheodar.sholdaiin
+<f102r1.4,+P0>    dsheody.okeeoy.kod[?:a].chkeeody.daraiiin.ctheoly.qokcheololain
+<f102r1.5,+P0>    ytol.sheol.she.olaiin.orain.oraroekeol.chol.ekey.qokol.dain
+<f102r1.6,+P0>    daiin.ykeeol.oldy.okodaiin<$>
+#
+<f102r1.7,@Lc>    <!202a>okolaly
+<f102r1.8,@P0>    <%>pshodaiin.qoorar.chopy<->chofol.daiin.oteol.qoteol.doly
+<f102r1.9,+P0>    daiin.orsheoldy.qokeol<->oteeody.lshodykeodal.qokshdy,sy
+<f102r1.10,+P0>   ycheol.sholdy.chol.chol.ykeeol.dol.doleodaiin.dal.cthedy
+<f102r1.11,+P0>   dcheo.qockhy.sol,sheey.okeody.qokeodol.shockhey.oleeol<$>
+#
+<f102r1.12,@Lc>   <!203a>ddardsh
+<f102r1.13,@P0>   <%>teesody.qoeol.olcheor.qokey.okshey.qokeol.sheofol{ckhh}y
+<f102r1.14,+P0>   doeey.keeol.qokeo.daor.shey.qoteol.okol.chos.s.or.oeeaiin
+<f102r1.15,+P0>   or.chol.daiin.dykeor.sheey.qokeody.dor.os.ykeeykam
+<f102r1.16,+P0>   ddor.chordam<->soraiin.ykeey,dy.okeol.doeoear<->s.aral.dor
+<f102r1.17,+P0>   ydar,arody<->oldaiin.sody.chockhy,oly<$>
+#
+#
+
+<f102r2>   <! $Q=S $P=M $F=z $B=1 $I=P $L=A $H=1>
+# page 209
+# pharmaceutical
+# Currier's language A
+#
+<f102r2.1,@Lc>    kodaiig
+<f102r2.2,@P0>    <%>lsais.azg.cheey.cfhey.por,aiin.chefol,y
+<f102r2.3,+P0>    ycheor.olaiin.olsho.qokol.olaiin.oldam
+<f102r2.4,+P0>    daiin.ckheeol.oldor.okol.cheodor.sor.airam
+<f102r2.5,+P0>    tor.sheo.or.chey.qoor.yteor.chol.choky
+<f102r2.6,+P0>    daiin.okody.qokeody.okeol.dor.chckhy.oteod.s,orsy<$>
+#
+<f102r2.7,@Lc>    ok[?:o]rolda
+<f102r2.8,@P0>    <%>kolor.olaiin.opor.shey.opolkod.odain.sheo.qoeol.shey
+<f102r2.9,+P0>    dor.oiin.okeody.qokeol.sheoy.qo[o:d]chey.ckheol.sheey.skeekyd
+<f102r2.10,+P0>   shockhy.qockhey.sol.eeey.dol.cheol.doaiin.qkeeey.cthey
+<f102r2.11,+P0>   kockhas.okor.ykeey.okeey.qokeey.dol.ol.sheody.okey.da,l,{cthhh}y
+<f102r2.12,+P0>   ytchy.o,l,ockhy.okeey.cheody.saiin.dol.ockhy.okeady<$>
+#
+# Bottom jar has three words above each other
+<f102r2.13,@Lc>   loeekadag<!top word>
+<f102r2.14,+Lc>   oshea??l<!middle word>
+<f102r2.15,+Lc>   so???dch<!bottom word>
+#
+<f102r2.16,@P0>   <%>{c@132;h}ol.d{c@133;h}ody.cthol,soeees.ykeody.qokeey.qotchy.soefchocphy
+<f102r2.17,+P0>   ykeockhey.okey.qokeeo.ckhey.qokey.desey.qyoeey.dol.chkey.choky
+<f102r2.18,+P0>   otol.shey.qockhey.dol.shey.dol.sheey.qokol.daiin.oky.oky
+<f102r2.19,+P0>   qokeod.okeal.okeo,l.y,cheo.ckhey.q{kh}ody.qokey.ody.keeody.chody
+<f102r2.20,+P0>   ykeey.keeol.cheos.ydeeal.cheody.ykeea,d,o,lchey<$>
+<f102r2.21,@Lf>   <!212>koldarod
+<f102r2.22,@Lf>   <!213>odalydary
+#
+#

@@ -1,0 +1,26 @@
+# Voynich Manuscript — Folio 48v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f48v>     <! $Q=F $P=P $F=z $B=1 $I=H $L=B $H=5 $C=2>
+# page 94
+# herbal
+# Curriers language B, hand 2
+# gathering mark 6
+# Same plant as f89v[1,4] ? (Stolfi)
+#
+<f48v.1,@P0>      <%>pcheodchy.dshedy.fchedy.los.aiin.ykeeedy.shey.ypchedy.teedy.chdy.ypair,y.chedyty
+<f48v.2,+P0>      chey.tedy.otchody.ykeedy.otar,yotedy.cthdy<->okain.chety.choolkeey
+<f48v.3,+P0>      alchey.kor.y.keody.olkeeey.chody.chedy.daly<->okeeor.aiin.otar,air,am
+<f48v.4,+P0>      dchedy,tchddy.otsh.okeey.ty.otar.alchdy<->yteedy.oteed.y,kedy.m
+<f48v.5,+P0>      lkeey.qocthedy.taiin.shed.qokar.otedy.dy<->dain.tolkain.otam
+<f48v.6,+P0>      shdy.qokain.okar.otar.or.otees.ol.or.ain<->otal.ok.y,tar.chedy.am<$>
+#
+<f48v.7,+P0>      <%>pchedar.chey<->ypchedy.otedy.shef,eeedy.al<->shedy.otedy.fcheodal.cpheeg
+<f48v.8,+P0>      oteody.chkey<->okedy.chckhedy.ykedy.oldy<->otoly.chey.kaly.tokar.otam
+<f48v.9,+P0>      tor.shody.okal<->otchedy.cheky.oly.loldy.lol<->otchdy.otoldy.ytam.otedy
+<f48v.10,+P0>     tol.chedy.ytedy<->ykeol.chdy.chdor.chtol.chdy<->ytchedal.cthey.okar,ar.ary
+<f48v.11,+P0>     ykeedal.chckhy<->ykal.y,tam.or.cheedls.[s:d]ary<$>
+#
+#

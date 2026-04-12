@@ -1,0 +1,22 @@
+# Voynich Manuscript — Folio 48r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f48r>     <! $Q=F $P=O $F=z $B=1 $I=H $L=B $H=5 $C=2>
+# page 93
+# herbal
+# Curriers language B, hand 2
+# Same plant as f89v2[3,4] ? (Stolfi)
+#
+<f48r.1,@P0>      <%>pshdaiin.ypchdy.opchey.{c@162;h}y.dal.sheodaiin.sheokeol.ykeeody.olaiin.opaldy
+<f48r.2,+P0>      daiin.yteeol.cheody.kechodshey.qotedy.chtaiin.otchdy.tedain.okain.ckhy
+<f48r.3,+P0>      sheody.she.teoteey.oteodaiin.ody.qoteo.l.kedy.dol,odal.qotar.opchety.ldy
+<f48r.4,+P0>      tolkeol,dain.otaiin.ykeedy.chet.ytedy,tedy.qokdy.tshdy.chetedy.ctheety.r
+<f48r.5,+P0>      yteey.teol.okeody.cheockhy.olsheey.qoekaiin.octhey.cholkar.aiin.cthar.od
+<f48r.6,+P0>      alshey.lkeedy.ytchedy.qokedy.lotal.qotol.otal,ched.o,key.ykeey.da[l:?]dy
+<f48r.7,+P0>      tocthy.qokeol.yteedy.lolkeol.otolches.al.ar.ykeeodam.okedy.okam
+<f48r.8,+Pr>      otchdain.shol.oteol.oteoly.ykeey.dam,dr
+<f48r.9,+Pc>      yteched.ar.olkey.okeoam<$>
+#
+#

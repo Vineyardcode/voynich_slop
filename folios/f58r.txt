@@ -1,0 +1,62 @@
+# Voynich Manuscript — Folio 58r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f58r>     <! $Q=H $P=C $F=b $B=2 $I=S $L=A $H=3>
+# page 113
+# text only
+# Currier's language A
+# has one star near each paragraph
+# I suspect a key-like sequence in the last paragraph
+#
+# Six-pointed star at start of this paragraph
+#
+<f58r.1,@P0>      <%>kor,cholfy.shofchy.otoralchy.chofchol.sholy.otaly.dal,m
+<f58r.2,+P0>      dshodal.or.ckhy.olchear.char.tal.ytal.ytar.olchokal
+<f58r.3,+P0>      ykechod.dalaldam.ytam.choty.otchy.otaly.shoty.s
+<f58r.4,+P0>      dshor.sholar.aiin,shalom.shaly.dalchy.oteom.dal.sholala@210;
+<f58r.5,+P0>      qor.dchair,am.otar.otar.char.ar.al.char.ar,ary.ytalar.cham
+<f58r.6,+P0>      torchey.otaiin.chary.oteor,y.otal.dalchor.ykeey.choltam
+<f58r.7,+P0>      saiin.cholkeey.dal.shom.sholteol.ytalody.otey.cheoly.o.tchy
+<f58r.8,+P0>      toleeshal.oleeam.dalor.chy.oteodchy.yteochy.otey,kal,dy.alam
+<f58r.9,+P0>      sholaiin.cheey.yteodaiin.qoar.aiin.arary.sheey.daiin.e,alam
+<f58r.10,+P0>     tal.ar.am.shar.chepchey.otar.aldy.otal,cheam.qokaiin.ote.[s:r]y
+<f58r.11,+P0>     qocphody.qokalam.chairal.qo{ct}aiin.otalal.dalor.orar
+<f58r.12,+P0>     shoar,ar.choldal.otalchal.dal.choldy.okalys.airaldy.shar
+<f58r.13,+P0>     ytar.sheear.cheoldy.ykeol.cheal.cheody.chal.chaiin.ol.oly
+<f58r.14,+P0>     sharam.okair.chekaiin.ytchaly.dalchal.ykal.okalal.oly.chal
+<f58r.15,+P0>     daiir.shal.qopaim.cholaly.dy.shedy<!rare 'ed' in A language><$>
+#
+# Seven-pointed star at start of this paragraph
+<f58r.16,+P0>     <%>typchey.ar.air.ytashy.qotyshey.pchdy.dshaly.pydaly.choky,opy
+<f58r.17,+P0>     ysholshy.qotoly.daiin.ykal.dalchdy.qoky.dal.ytchody.s.olar,aly
+<f58r.18,+P0>     darar.shol.cholraly.cholaiin.odaiin.chaly.dalar.aiin.okal.otal
+<f58r.19,+P0>     todal.qotey.chaly.dal.qokaldy.otary.okalal.{ch'}ees.chal.[o:a]chaly
+<f58r.20,+P0>     ysheockhy.olchey.oleesey.alaiin.olkeal.daldy.otalar.ar.aroda[i:?]m
+<f58r.21,+P0>     tcheos.ycheor.sheain.okey.qotaily.daiin.chy.cholkor.olkeol.oty
+<f58r.22,+P0>     dcholy.ytar.chol.dal.qoaiir.chalolky.osal.chotam.chal.olsee[g:m]
+<f58r.23,+P0>     shol.[a:o]leedy.chotar.okeal.sheody.qokalchar.otal.choky.sar
+<f58r.24,+P0>     tazain.oteeos.okeal.ar.otalor.cheoekar.cheky.otaka[s:r]
+<f58r.25,+P0>     oar.cheekey.oteeoaly.otar.alkar.or,aldar<$>
+#
+# Eight-pointed star at start of this paragraph
+# Most lines in para seem to have extra first char
+<f58r.26,+P0>     <%>kshar.shoky.opcheear.ofadain.opsheolaiin.opydaiin.podaiir
+<f58r.27,+P0>     yteor.oty.chaltar.ar.sheeetchy.tal,al,chear.chear.chor,ar,am
+<f58r.28,+P0>     yshealkair.odalaly.dalal.chy.s,air.shokar.olaldy.okalody
+<f58r.29,+P0>     odalar.cheor.sar.alol,daly.cheom.chor,ar,aldam.chal.cheal.[r:s],omy
+<f58r.30,+P0>     ytor.ar.alom.qokalor.chdy.dair.chody.cheol.okolchy.otaldy
+<f58r.31,+P0>     odshchol.taiin.okal,or.chol,ol,ekar.otarchol.chol.kam.qokal
+<f58r.32,+P0>     oqotaly.qokaiin.chtaldy.qoky.dar.al.chol,taly.qokaldy
+<f58r.33,+P0>     scho{cthh}y.dalols.qokalos.cheor.oekeody.qokaly.qokar.dy
+<f58r.34,+P0>     yssheol.chokey.dalol.shokalol.qokaly.kaldy.ytaipom
+<f58r.35,+P0>     dto[s:r].sheol.qokor.sharal.ckhol.shol,ar.aiin.sheoctham
+<f58r.36,+P0>     skaiin.shokal.chockhy.qoky.chcthy.ykeeshy.shoekar
+<f58r.37,+P0>     opolkeor.olchocfhy.cphol.chykaldy.cholols.chkaiin,olfcham
+<f58r.38,+P0>     s,ysheos.okaly.cheos.otey.ykar.ls.aiin.okaiin.ytolkal
+<f58r.39,+P0>     dtshol.dytal.okar,olol.sheol.qockhy.qokaly.salol.dalam
+<f58r.40,+P0>     y[r:?]oleeey.ar,airaly.pchody.tshaly.alols.ykaly.kar.aram
+<f58r.41,+P0>     dchol.chokal.saiin.dal.okal,s,alchey<$>
+#
+#

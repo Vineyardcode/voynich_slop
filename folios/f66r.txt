@@ -1,0 +1,118 @@
+# Voynich Manuscript — Folio 66r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f66r>     <! $Q=H $P=G $F=z $B=1 $I=T $L=B $H=5 $X=O>
+# page 117
+# text only
+# Currier's language B
+# has 'key-like' sequence
+# has non-Voynich writing
+# Brumbaugh Yale Lib Gaz p352
+# Roe, 3 Sept 93
+# Normal text in paragraphs with, to the left, single characters
+# (not exactly one per line) and left of that occasional single words.
+# The text layout of Mike Roe is not used here.
+# Text near the 'dead body' is Lx label, and all other characters
+# and words L0 labels (1-15 for the words, 16-40 for the characters)
+#
+# R In the bottom left hand corner, there is a picture of a woman lying down
+# R (dead?). To the left of the woman are two circles and a cylinder. Above
+# R her are four words in Voynich text. To the far left are four words in
+# R a different hand and a different alphabet.
+# R
+# R In the bottom right hand corner there is a symbol that looks like a number 2
+# R on its side.
+#
+<f66r.1,@L0>      rary
+<f66r.2,+L0>      [r:s]als
+<f66r.3,+L0>      qo[r:n]
+<f66r.4,+L0>      dary
+<f66r.5,+L0>      ykeol
+<f66r.6,+L0>      saly
+<f66r.7,+L0>      salf
+<f66r.8,+L0>      fary
+<f66r.9,+L0>      qotesy
+<f66r.10,+L0>     ykaly
+<f66r.11,+L0>     doly
+<f66r.12,+L0>     saiin
+<f66r.13,+L0>     qokal
+<f66r.14,+L0>     qolsa
+<f66r.15,+L0>     raral
+# Now individual characters in next column
+<f66r.16,@L0>     y
+<f66r.17,+L0>     o
+<f66r.18,+L0>     s
+<f66r.19,+L0>     sh
+<f66r.20,+L0>     y
+<f66r.21,+L0>     d
+<f66r.22,+L0>     o
+<f66r.23,+L0>     f
+<f66r.24,+L0>     @169;
+<f66r.25,+L0>     x
+<f66r.26,+L0>     air
+<f66r.27,+L0>     d
+<f66r.28,+L0>     sh
+<f66r.29,+L0>     y
+<f66r.30,+L0>     f
+<f66r.31,+L0>     f
+<f66r.32,+L0>     y
+<f66r.33,+L0>     o
+<f66r.34,+L0>     d
+<f66r.35,+L0>     s
+<f66r.36,+L0>     f
+<f66r.37,+L0>     c<!cf f57v seq.>
+<f66r.38,+L0>     @172;<!cf f57v?>
+<f66r.39,+L0>     x
+<f66r.40,+L0>     t
+<f66r.41,+L0>     o
+<f66r.42,+L0>     @195;
+<f66r.43,+L0>     l
+<f66r.44,+L0>     r
+<f66r.45,+L0>     t
+<f66r.46,+L0>     o
+<f66r.47,+L0>     x
+<f66r.48,+L0>     p
+<f66r.49,+L0>     d
+# Now normal text in paragraphs
+<f66r.50,@P0>     <%>pdaiin.oteedy.opchedy.chap.chefchy.shddy.ypches.cholpchd.okedals
+<f66r.51,+P0>     sair.shekey.qokeedar.okal.okedy.qokeedy.qokal.okedy.qokshd
+<f66r.52,+P0>     ykshedy.chady.cthdy.qokees.cheeo.okcho,dy.chekeey.chedy.chckhy
+<f66r.53,+P0>     shdy.qotedy.chdy.chedy.qotedal.chcpheor.ykady.dar.qotey,k[o:a]l,ar
+<f66r.54,+P0>     qokeeody.qokeody.qokeody.qokar.sheky.qokeeody.okedy.kodary
+<f66r.55,+P0>     ykeeody.choekeey.okeody.chekeody.qokeey.dyky.chctho.rotaiin
+<f66r.56,+P0>     dsheol.okaiin.sheodaiin<$>
+#
+<f66r.57,+P0>     <%>tocpheey.dol.kchody.qokeody.qokshy.qopaiin.dairykodas.okyd
+<f66r.58,+P0>     dsholdaiir.dalky.shky.qoky.shekair.choty.dar.okeey.shdy.ykol
+<f66r.59,+P0>     qo,cheky.shcthy.dalalshedy.cheta,r,sheod.shokaiir.ch{ckhh}y.da[r:s]d
+<f66r.60,+P0>     shor.sheodal.sholdy.qokchedy.qopchy.qoty,chedaiir.chees,kardy
+<f66r.61,+P0>     qokchey.qokaiir.cheky.daly.daiin.dal,shedy.chedy.lkar.ol.okedy
+<f66r.62,+P0>     ol.cheeky.daiir.chky.axor.akar,{i'h},y.daiin<$>
+#
+<f66r.63,+P0>     <%>pchof.sholfordaiin.qotar.otalor.fchedy[r:s].chedy.dar.odair.ofaram
+<f66r.64,+P0>     dalcheeeky.sheol.dairody.chekchy.shed.ykesho.l.lor.sheor,che[a:o]l
+<f66r.65,+P0>     dor.shedy.okar.shedy.kcheody.chxar.daly.fchdar.cheor,aly.[r:s]y
+<f66r.66,+P0>     shor.shckheody.dal,shedy.qokor,al,shes<$>
+#
+<f66r.67,+P0>     <%>psheody.cfhol.shofol.okeody.qokaldy.ytarody.shedy.shedy.dair
+<f66r.68,+P0>     sair,ol.daiin.daiin.dal.dol.cheody.dair,aly.dairal.dolarshy,dor
+<f66r.69,+P0>     tosheo.qokaldy.oky.ol.kcheeky.qoky.dary.okees.oly<$>
+#
+<f66r.70,+P0>     <%>todeeey.keody.chdy.keody.shedy.shekeefy.chdy.sheol.shol.kedy.daly
+<f66r.71,+P0>     saiir.cheol.kal.sheody.chcthedy.dal.shol.qokeody.chody.kechody
+<f66r.72,+P0>     sshedy.oteedy.ykeeody.sheocthy.ol,ld,lshedy.chokeey.chekey.chey
+<f66r.73,+P0>     ysheeod.qoteeod.qotol,qoky.chckhedy.shey.dcheol.cheky.cheo,dor
+<f66r.74,+P0>     ydaiin.shedy.otchedy.oteochey.tolchedy.lsheody.qoky,daiin.otam
+<f66r.75,+P0>     tcheo.sheor.oteody.lpchees,ol,ar.alkey.otey.ltsholy.shecthy.r,ol
+<f66r.76,+P0>     daiin.sheol.qocthedy.qokedy.lchey.qokaly.shcthy.qotal.otchdy
+<f66r.77,+P0>     qokey.ar.olkeol.qokal.cheoky.ykchdy.chody.sheody.qoky.ldy
+<f66r.78,+P0>     dor.aiin.sheeol.lshedy.lchedy.cheedy.shekol.dalol.lodaiin
+<f66r.79,+P0>     sheol.oteey,ldaiin.okalchedy.pchedy.kody.qotchedy.cphedy
+<f66r.80,+P0>     daiin.shey.qoteoly.raiin.sheedy.shcthy.lkeol.qokol.dkar
+<f66r.81,+P0>     lchey.lkeedy.chety.shekaly.shckhar<$>
+# text above female figure
+<f66r.82,@Lx>     otcheo,daiin.chty.ykees,cheg
+#
+#

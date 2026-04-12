@@ -1,0 +1,139 @@
+# Voynich Manuscript — Folio 88v and 89r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f88v>     <! $Q=O $P=D $F=b $B=2 $I=P $L=A $H=1 $C=4>
+# page 182
+# pharmaceutical
+# Currier's language A, hand 4
+# L This is another recipes page. Three rows of recipes with two paras between them
+#
+<f88v.1,@Lc>      okalyd
+<f88v.2,@Lf>      cheocthy
+<f88v.3,@Lf>      cpheor
+<f88v.4,@Lf>      otar.arody
+<f88v.5,@Lf>      otokol
+#
+<f88v.6,@P0>      <%>teodal.lkeo,cheor.roshckhy.sorshy<->aiin.cheokal.saldaiin
+<f88v.7,+P0>      dshor.shor.qokeody.qokeo,lchey.chkeor.qokeey.daiin.qokeom
+<f88v.8,+P0>      qoaiin.cheoy.olcheody.qoekeol.cho.chckhy.qoeey.key.cheokam
+<f88v.9,+P0>      choeey.keeod,y.s,aiin.chody.okearcheol.archeey.sairal
+<f88v.10,+P0>     dar.cheorol.chekol,daraly<$>
+#
+<f88v.11,@Lc>     otoram
+<f88v.12,@Lf>     otor[a:y]
+<f88v.13,@Lf>     cheosdy
+<f88v.14,@Lf>     okaiin
+#
+<f88v.15,@P0>     <%>kosholdy.qotody.opykey.oldaiin.qoteody.yfolaiin.oraiin
+<f88v.16,+P0>     ysheod.sheo.sheody.qokeody.qoky.chees.cheody.qokeody.dal
+<f88v.17,+P0>     qokeey.qokeody.chor.oteody.qockhol.okol.cheedy.qokody
+<f88v.18,+P0>     ykeeor.chockhy.otol.cheeol.cheody.qotody.soteol.ch[o:e]tam
+<f88v.19,+P0>     odaiin.sheo,ol.qokeey.olaiin.cheody.chocthey.oteody,dy
+<f88v.20,+P0>     [s:]qokeodaiin<!corr?>.cheody.oteol.cheockhy.chody<$>
+#
+<f88v.21,+P0>     <%>toair{ch'}y.oteeody.cpheody.ykchey.dam.cheor.chaly,korain
+<f88v.22,+P0>     dairodain.ykeodain.dain.shedy.qoteo.lchdy.qokeo,r,ain
+<f88v.23,+P0>     tol,keeodaiin.qoky.sheol.daiin.chees.aiin.chokar.daim[d:g]
+<f88v.24,+P0>     daiin.sheor.sheedy.daiin.sho{ikh}y.qokeody.do{ikh}y.dair
+<f88v.25,+P0>     ykeey.sheor.tos.checkhy.dain.cheos.cheockhy.saldy
+<f88v.26,+P0>     saiin.choky.cheor.shy<$>
+#
+<f88v.27,@Lc>     daramdal
+<f88v.28,@Lf>     otydary
+<f88v.29,@Lf>     otdordy
+<f88v.30,@Lf>     dararda[?:]
+#
+#
+
+<f89r1>    <! $Q=O $P=F $F=y $B=2 $I=P $L=A $H=1>
+# page 183
+# pharmaceutical
+# Currier's  language A
+#
+<f89r1.1,@Lc>     okchshy
+<f89r1.2,@Lf>     qkol
+<f89r1.3,@Lf>     oldam
+<f89r1.4,@Lf>     otoldy
+<f89r1.5,@Lf>     ararchodaiin
+#
+<f89r1.6,@P0>     <%>qoar,shar.qopcholy.qokod.chepy,dar.sheey.okor,sheeos.oldain
+<f89r1.7,+P0>     dshody.qocthy.chockhy.dal.chedy.qokeody.daldaiin.chodaiin.dal
+<f89r1.8,+P0>     qokeol.chol.qodaiin.chol.cheody.qokechy.daiin.ctheody.dam
+<f89r1.9,+P0>     yshor.s<->oiiin.daiin.qokeey.daiin.ckhol.qokain.cheamy
+<f89r1.10,+P0>    tdain.s<->chol.cheoky.cheody.qokar.dal.chor.{ckhh}y.daiin<$>
+#
+<f89r1.11,@Lc>    ykyd
+<f89r1.12,@Lf>    chol,ches
+<f89r1.13,@Lf>    otorain
+<f89r1.14,@Lf>    okaiin,dan
+#
+<f89r1.15,@P0>    <%>tcheol.qoeair.sheol.qocphey.saiin.cheocphey.dal,darolg
+<f89r1.16,+P0>    om,sheey.qokey,l.daiin.dalchom.ch{ckhhh}y.chol.cheos.aiin.dy
+<f89r1.17,+P0>    qeaiin.cheyl.seey.qotey.qokeeol.daiin.{ykh}edy.daiin.dam
+<f89r1.18,+P0>    dals,al.dal.cheody.dainaldy.al,daldal<$>
+#
+<f89r1.19,+P0>    <%>pshol.sheo.qoa{ith}y.cheocphy.s,sheyr.qokair,ydam.daly
+<f89r1.20,+P0>    daim.cheom.qoa{ith}y.air.cheody.ldain.dal.chom.chtaii@197;
+<f89r1.21,+P0>    taiin.dam.shoety.dal.qokchy.ykchdy.otcham.ol.sshr,aiin
+<f89r1.22,+P0>    ycheeo,r.sheol.qockhedy.yty.sheody.qotol.chead,chey.dal
+<f89r1.23,+P0>    dain.oteos.cheody.cheodain.daiin.chodaiin<$>
+#
+<f89r1.24,@Lc>    ykocfhy
+<f89r1.25,@Lf>    saldam
+<f89r1.26,@Lf>    [s:r]ydarary
+<f89r1.27,@Lf>    yd{cpo}dy
+#
+#
+
+<f89r2>    <! $Q=O $P=G $F=y $B=2 $I=P $L=A $H=1>
+# page 184
+# pharmaceutical
+# Currier's language A
+# this is a page-and-a-half (one fold over which the text continues).
+# It has 4 rows of small, complete plants and 3 paras
+#
+<f89r2.1,@Lc>     odory
+<f89r2.2,@Lf>     doly
+<f89r2.3,@Lf>     opchosam
+<f89r2.4,@Lf>     saloiinsheol
+<f89r2.5,@Lf>     opcheor
+#
+<f89r2.6,@P0>     <%>qokcheody.cheodal.dair.cholkeedy.qokedy.cheal.cheo.dal.qoaii[s:r].shey.cpheeedol.deey.qockhey.chaldy.daim
+<f89r2.7,+P0>     chos,aiin.cheodal.daiin.chy.chedain.dolchsyckheol.daiin.chody.cheedy.tchodol.chor.choldy.chos.dol.okcheeg
+<f89r2.8,+P0>     tol.daiin.daiin.daiinody.qokeey.cheoldy.qody.cheor.sain.daiin.oky.cheody.cheoky<$>
+#
+<f89r2.9,@Lc>     otold[:y]
+<f89r2.10,@Lf>    okol.shol.dy
+<f89r2.11,@Lf>    opchoroiin
+#
+<f89r2.12,@P0>    <%>porachol.[y:q]ody.qoteol.oldaiin.otol.sheor.shor.oldaiin.otchol.cheol.<!gap>otolpchy.dar,cho.lkeopol.oeeor.or
+<f89r2.13,+P0>    daiin.olkey.okeol.okey.<!tear>okeeol.qoor.ol.chor.cheky.chol.daiin.chol.cheol.koldam.olcheol.dol,cheol
+<f89r2.14,+P0>    tos.ol.chor.ydaiin.chey.s.oiiin.chckhy.qokeol.okey.okeey.keey.{ca}eky.qokol.okeey.dal.cheeody.oeckhy
+<f89r2.15,+P0>    ycheo,keeo,ckho.saiin.okeo.daiin.ockhy.s,ockhey.saiin.chchky<$>
+#
+<f89r2.16,@Lc>    korainy
+<f89r2.17,@Lf>    sodar
+<f89r2.18,@Lf>    cheys
+<f89r2.19,@Lf>    cheody
+<f89r2.20,@Lf>    oporain
+<f89r2.21,@Lf>    okshdchos
+#
+# the following para may or may not be split.
+<f89r2.22,@P0>    <%>kolches.sheol.qokeoefy.sheey.opcheor.opcheol.shody.sholdy.<!gap>qokal.chey.oldy.sheodal.ytoldy
+<f89r2.23,+P0>    daiin.cheok,o,keol,daiin.dal.dair.qokeey.okeol.daiin.ykeody.<!gap>okeeey.as.cheey.okeol.cheo.cheky
+<f89r2.24,+P0>    yokeeol.cheol.qokeey.qokeol.chey.cheokor.okeey,ky.daiin.<!gap>qokeol,cheey.qokeey.saiin.oteos
+<f89r2.25,+P0>    daiin.dal.sheol.s.aiin.qocheey.daiiin.qokeeyl.qokeody.chol,cheol.<!gap>ykeo.qo.qol.cheo.loiiin.doigom
+<f89r2.26,+P0>    scheor.sy.sorcheey.dol.cheor.cheey.keey.qokeey.daiin.ycheary.<!gap>okeey.keeokechy.cthey.daiin.dy
+<f89r2.27,+P0>    qokol.cheor.okoiin.okeoy.qoeey.cheor.cheey.qokeol.cheal.s.aiin.<!gap and vertical jump>ocheol.soiiin.dair.chey.daiin
+<f89r2.28,+P0>    o,r,ain.ar.ain.ol,daiin.qoaiin.ol.chkaiin.daiin.okar.dair,y?dair<$>
+#
+<f89r2.29,@Lc>    okain
+<f89r2.30,+Lc>    yorain
+<f89r2.31,@Lf>    ofakal
+<f89r2.32,@Lf>    otalsy<!faint>
+<f89r2.33,@Lf>    ytarem
+<f89r2.34,@Lf>    otolarol
+#
+#

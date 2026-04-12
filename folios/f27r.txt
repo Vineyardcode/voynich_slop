@@ -1,0 +1,27 @@
+# Voynich Manuscript — Folio 27r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f27r>     <! $Q=D $P=E $F=c $B=3 $I=H $L=A $H=1 $C=1>
+# page 51
+# herbal
+# Currier's language A, hand 1
+# Plant ID: (small one:) Asarium Europeum (Haselwurz)
+#
+<f27r.1,@P0>      <%>ksor.shey.shoteo.chforaiin.shy<->shod.chary
+<f27r.2,+P0>      dy.{co}ain.shol.dain.dar.shokyd<->dchol.cthey,ds
+<f27r.3,+P0>      chol.shy.keol.chol.chy.shol.chy<->daiin.chey.dam
+<f27r.4,+P0>      qokey.chor.char.chy.dchy.keey<->chos.cthody
+<f27r.5,+P0>      dor.chees.ctho,shy.{c@148;h}ar,y<->daiin.dair
+<f27r.6,+P0>      chy.t,chols.chor.chol{oh}aiin<!corr?><->shy.kchal,dy<$>
+#
+<f27r.7,+P0>      <%>kchey.chey.kcheol.pch[o:y].schey.ly<->chals.cham
+<f27r.8,+P0>      ytchy.chy.t,chol.dy.t,chey.dain<->chol.dal
+<f27r.9,+P0>      dchey.keeod.shotchey.chol.oty<->chy,tolg
+<f27r.10,+P0>     qotchey.shes.s.y.chy.tchey.dy
+<f27r.11,+P0>     chol.daiiin.chees.chos.{ct}ey.dan
+<f27r.12,+P0>     dain.cheokeey.chey.cthey.otal
+<f27r.13,+Pc>     o[t:k]chodeey<$>
+#
+#

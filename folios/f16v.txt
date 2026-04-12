@@ -1,0 +1,27 @@
+# Voynich Manuscript — Folio 16v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f16v>     <! $Q=B $P=P $F=z $B=1 $I=H $L=A $H=1 $C=1>
+# page 30
+# herbal
+# Currier's language A, hand 1
+# gathering  mark 2: 29
+#
+<f16v.1,@P0>      <%>pchroiin.otchor.chpchol.chpchey.s,pcho{ct}y
+<f16v.2,+P0>      ytchor.y.ky,chokchy.qokchocthor.shory
+<f16v.3,+P0>      ykchy.dy.choy.qoty.chy,kchy.koshet
+<f16v.4,+P0>      dchol.chcthody.cphod.chotol.dal
+<f16v.5,+P0>      ytchy.chyty.chor.chol.ytchy.dan
+<f16v.6,+P0>      sor.ch,k[a:o]r.oty.chkar.chol.dairin<$>
+#
+<f16v.7,+P0>      <%>pchocthy.chypchy.qotchy.ch{cfhh}y.sy
+<f16v.8,+P0>      daiin.chol.y.daiin.chcthy.qot,char.chor.sholo
+<f16v.9,+P0>      dshy.okaiin.okaiin.chol.chor.cthor.ty.chody
+<f16v.10,+P0>     qokchy.chy,dy.ykchy.chckhy.otain.cthor.[cth:{ith}]y
+<f16v.11,+P0>     okytaiin.chkchy.saiin
+<f16v.12,+P0>     daiin.yky.otor.chody
+<f16v.13,+P0>     sokar.oaorar<$>
+#
+#

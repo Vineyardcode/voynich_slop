@@ -1,0 +1,53 @@
+# Voynich Manuscript — Folio 88r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f88r>     <! $Q=O $P=C $F=b $B=2 $I=P $L=A $H=1 $C=4>
+# page 181
+# pharmaceutical
+# Washington Post, 5 Aug 62 (Sunday)
+# Currier's  language A, hand 4
+# 3 rows of labelled roots, with paragraphs under each...
+#
+# top row of plants
+<f88r.1,@Lc>      otorchety
+<f88r.2,@Lf>      osal
+<f88r.3,@Lf>      orald
+<f88r.4,@Lf>      oldar
+<f88r.5,@Lf>      otoky
+<f88r.6,@Lf>      otaly
+#
+<f88r.7,@P0>      <%>dorsheoy.ctheol.qockhey.dory.sheor.sholfchor.dal.chcthol
+<f88r.8,+P0>      [r:s]al,sheom.keol,chear.shekor.qokor.daiin.sar.s,aiin.oky.sam
+<f88r.9,+P0>      oain.or.om.otam.okeom.cheeor.qokeody.dar.or.om.cheody
+<f88r.10,+P0>     qokeol.cheol.saiin.cheos.cheol.doleeey.or.cheom.cheo[j:m]am
+<f88r.11,+P0>     yokeody.cheom.qoor.cheeb.ykeor.shy.sam<$>
+#
+# middle row of plants
+<f88r.12,@Lc>     otaldy
+<f88r.13,@Lf>     oram
+<f88r.14,@Lf>     dary
+<f88r.15,@Lf>     okol
+<f88r.16,@Lf>     sorory
+<f88r.17,@Lf>     otyda
+#
+<f88r.18,@P0>     <%>koa{iphh}y.cphol.orchor.pcheoly.otchol.oldy.salsaly
+<f88r.19,+P0>     dchey.chokol.daiin.qoekol.qoekol.qockhol.okol.cheol
+<f88r.20,+P0>     dsheol.qokeey.s.chy.s,aiin.chor.oteor.aiin.chosals
+<f88r.21,+P0>     teol.chor.olsheody.qokeol.sho{ikh}y.ol.sheeol.sheoldg
+<f88r.22,+P0>     ychey.okaiin.chol.cheor.ol.chorcholsal<$>
+#
+# bottom row of plants
+<f88r.23,@Lc>     ofyskydal
+<f88r.24,@Lf>     otor,am
+<f88r.25,@Lf>     ofaldo
+#
+<f88r.26,@P0>     <%>poeear.sheoky.olkeey.cthol.poldy.s<->okoldy
+<f88r.27,+P0>     qokol.chol.qokol.qokol.chol.cheey.or.aiin.oldal
+<f88r.28,+P0>     ykar.cheol.chol.chey.ckhey.s,or.shear.ar,alsy
+<f88r.29,+P0>     kor,chey.qokol.cheol.chody.qokol.kchor.chol,dal
+<f88r.30,+P0>     ykeeey.cheor.cheotey.cheol.qokeor.chetchy.ofal
+<f88r.31,+P0>     dar.chear.chol.dol.qoekeor.cheom<$>
+#
+#

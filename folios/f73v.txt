@@ -1,0 +1,54 @@
+# Voynich Manuscript — Folio 73v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f73v>     <! $Q=L $P=B $F=a $B=1 $I=Z $H=4 $X=M>
+# page 146
+# Sagittarius
+# Three circular bands, locus indications C1 to C3 (outer
+# to inner). Two full rings of labelled nymphs and one short
+# third section, 30 in total counting inner to outer (cf.
+# Petersen). Clock position for labels is that of nymph.
+# Note: Layout same as for Scorpius.
+#
+# Top four nymphs with labels
+<f73v.1,@Lz>      <!11:00>okol
+<f73v.2,&Lz>      <!11:45>oteody
+<f73v.3,&Lz>      <!00:30>oteedy
+<f73v.4,&Lz>      <!01:00>eeeody
+<f73v.5,@Cc>      <!09:30>otoar.ykeody.okodeey.qopchey.opaiin.qoteedy.dpy.otedy,shedy.qokeody.cheor,al.okegal.oteody.shedy.otesalod.air,chy.ykeesaly.y.keoly,dys.opchey.dy.toly.chfaikchy.ytedar.eeey.qokeey.oty.yteedy.choldy.qokalaiin.ykaipy.orary
+# Outer full circle of labels
+<f73v.6,@Lz>      <!10:00>okeody
+<f73v.7,&Lz>      <!10:30>sheol
+<f73v.8,&Lz>      <!11:30>odees
+<f73v.9,&Lz>      <!00:00>ee[r:n]y
+<f73v.10,&Lz>     <!01:00>okeor
+<f73v.11,&Lz>     <!01:30>ofals
+<f73v.12,&Lz>     <!02:00>ykeody
+<f73v.13,&Lz>     <!03:00>oteody
+<f73v.14,&Lz>     <!03:30>ypaiin
+<f73v.15,&Lz>     <!04:00>yfaiin,y
+<f73v.16,&Lz>     <!05:00>ofcheesy
+<f73v.17,&Lz>     <!06:00>oraiiny
+<f73v.18,&Lz>     <!07:00>ykeeody
+<f73v.19,&Lz>     <!07:30>okeos
+<f73v.20,&Lz>     <!08:30>ykeear
+<f73v.21,&Lz>     <!09:00>qokeoly
+<f73v.22,@Cc>     <!10:00>oteoto[s:r].alshy.oteolain.chokeedam.otody.qoty.shedy.chdy.tchol.oteody.cheytey.choty.o[k:t]ey,dy.okecholy.otey.chodaiin.chey.okeedy.saly.ar.daly
+# Inner full circle of labels
+<f73v.23,@Lz>     <!09:30>otedy
+<f73v.24,&Lz>     <!11:00>eeed
+<f73v.25,&Lz>     <!01:00>oky
+<f73v.26,&Lz>     <!02:00>oia?
+<f73v.27,&Lz>     <!02:30>okal
+<f73v.28,&Lz>     <!03:30>ykey
+<f73v.29,&Lz>     <!05:00>ykeee
+<f73v.30,&Lz>     <!06:00>okeod
+<f73v.31,&Lz>     <!07:30>ykey
+<f73v.32,&Lz>     <!08:30>ypal
+<f73v.33,@Cc>     <!09:30>otedchor.alar.olkcho.otolam.o,kees,char,y.ytaly.alaly.otaram
+#
+# folio 74 missing
+#
+#

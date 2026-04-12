@@ -1,0 +1,35 @@
+# Voynich Manuscript — Folio 90r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f90r1>    <! $Q=O $P=L $F=z $B=1 $I=H $L=A $H=1>
+# page 187
+# herbal
+# Currier's language A
+#
+<f90r1.1,@P0>     <%>poleeol.qokeol.qokchod.choly.ctho[g:m]
+<f90r1.2,+P0>     yshol.tor.sheor.qotchor.qoky.darala
+<f90r1.3,+P0>     dair.shkeea.s.sary.okar.ykorshy.lkaldy
+<f90r1.4,+P0>     talchor.chodaiin.chocfhor.qokchor.chockhy<->okchod.qofchol
+<f90r1.5,+P0>     ytor.ckhy.lpychol.sho.ol.okachey.[r:s].sheom.kchol.dchy.dasady
+<f90r1.6,+P0>     tol.otchol.shorydar.qokeos.okeoschso.chol,ytod.qokeos.dolshy
+<f90r1.7,+P0>     dar.chos.qocthy.qokcha.shko.qokol.oteey.chofy.ykeody.qokod
+<f90r1.8,+P0>     kor.sheol.qodar.oko.ykeey.qokeey.qodar.qokeed.s.choky
+<f90r1.9,+Pr>     ykodar.qoekchy.shokol.okam<$>
+#
+#
+
+<f90r2>    <! $Q=O $P=M $F=z $B=1 $I=H $L=A $H=1>
+# page 188
+# herbal
+# Currier's language A
+#
+<f90r2.1,@P0>     <%>toealchs.shakol.sheo.qoekeey<->soeeol.qoteody
+<f90r2.2,+P0>     saiin.ckheo.saiin.qockhey.s.ykeeody<->s,cheey.chos.ckhs
+<f90r2.3,+P0>     dsheeos.qokeod.qokeo.chol.ol.okal<->saiin.ctheo,s,ar
+<f90r2.4,+P0>     al.s.oin.cheo.ro.sokeey.qokeeas<->al.aral.oy[r:s]
+<f90r2.5,+P0>     ychor.ckhor.qoeeor.okaiin.dom<->olcheo.rodaiin
+<f90r2.6,+P0>     daiin.qokor.okoiin.daiin<$>
+#
+#

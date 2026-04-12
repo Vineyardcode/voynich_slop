@@ -1,0 +1,31 @@
+# Voynich Manuscript — Folio 96v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f96v>     <! $Q=Q $P=L $F=z $B=1 $I=H $L=A $H=1 $C=4>
+# page 200
+# herbal
+# Currier's language A, hand 4
+# gathering mark 17
+# Plant ID:  Smilax tracheia, or Chenopodium
+# Same plant as f99r[4,1] ? (GL)
+#
+<f96v.1,@P0>      <%>psheessheeor.qoepsheody.odar.ocpheeo<->opar.ysar.osoj
+<f96v.2,+P0>      ytear.yteor.olcheey.dteodoiin<->saro<->qoches,y,cheom
+<f96v.3,+P0>      dcheoteos.cpheos.sor.chcthory<->cth<->ytchey.daiin
+<f96v.4,+P0>      dsheos.sheey.teocthey.{ct}eeodody
+<f96v.5,+P0>      tockhy.cthey.ckheeody.ar.eeeykey
+<f96v.6,+P0>      yteeody.teodar.alchey.sy
+<f96v.7,+P0>      sheodal.chorary{cto}l
+<f96v.8,+P0>      ycheey.ckheal.daiins
+<f96v.9,+P0>      oeol.ckheor.cheoraiin
+<f96v.10,+P0>     ctheor.oral.char.ckhey
+<f96v.11,+P0>     sar.os.checkhey.so{cthh}
+<f96v.12,+P0>     sosar.cheekeo.dain
+<f96v.13,+P0>     soysar.cheor<$>
+#
+#
+# folios 97-98 missing
+#
+#

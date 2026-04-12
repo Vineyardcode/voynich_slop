@@ -1,0 +1,23 @@
+# Voynich Manuscript — Folio 65v
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f65v>     <! $Q=H $P=F $F=y $B=2 $I=H $H=3>
+# page 116
+# herbal
+# appears as Plate II in Newbold facing p44.
+# It features a plant with many roots, branches and flowers; the main stem
+# separates the lines of text into two columns, which are well-registered
+# across the stem.
+# Transcribed 7 Dec 91 by Gillogly, 9 dec 91 by Reeds, 13 Dec 91 Gillogly
+#
+<f65v.1,@P0>      <%>cphy.fchecfhy.dy<->dchepain.shety.qopy.fol.chpdy
+<f65v.2,+P0>      daiin.sheek.l,ody<->yteo.qop[s:r].air.cheot[ee:ch]y.dal[o:a]m
+<f65v.3,+P0>      ytal.cheot.shky.y<->[s:?]as.cheody<$>
+#
+<f65v.4,+P0>      <%>toeedy.otar.shedy<->yteey.sheody.qok[es:?]d.yfchey
+<f65v.5,+P0>      dshedy.okeody.qokd<->shckhy.choky.chokeody.okey,dy
+<f65v.6,+P0>      qo.ytchey.sh,{ckhh}cphy<->ykchedy.chedy.shckhdy<$>
+#
+#

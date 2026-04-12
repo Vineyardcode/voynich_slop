@@ -1,0 +1,28 @@
+# Voynich Manuscript — Folio 51r
+# EVA transcription (ZL IVTFF v3b)
+# Source: voynich.nu — René Zandbergen
+# Alphabet: EVA (European Voynich Alphabet)
+
+<f51r>     <! $Q=G $P=E $F=c $B=3 $I=H $L=A $H=1 $C=1>
+# page 99
+# herbal
+# Currier's language A,  hand 1
+# Plant ID: Mandrake (Manley)
+#
+<f51r.1,@P0>      <%>tsholdchy.qotchy.opchear.ypchedy
+<f51r.2,+P0>      dcheodaiin.ckheody.ckhody.chody
+<f51r.3,+P0>      ydchody.ckhey.oty.ckhe[o:a]dar.qoky
+<f51r.4,+P0>      daiin.{ct}[e:i]s.okol.cheody.ckhy.cheeey
+<f51r.5,+P0>      tcheody.qodaiin.okeey.qockhey.taiin
+<f51r.6,+P0>      ycho,daiin.chokaiin.ykchodaiin.ykald
+<f51r.7,+P0>      ychos,ar.eeckhy.kcho.qokchy.qotal
+<f51r.8,+P0>      oshol.odaiin.[ckhe:{ckhh}]y.ckheody.qokey.otydy
+<f51r.9,+P0>      tol.daiin.daim.qchodal.dal.qody.qoetam
+<f51r.10,+P0>     ykchol.d[o:a]r.shey.qokeol.kchey.shol.okam
+<f51r.11,+P0>     tchodaiin.[{oph}:cph]eody.qokol.ot[e:i]odaiin.kol,ota[g:m]
+<f51r.12,+P0>     yoees.ckheey.kol.cheeal.okeor.qockhey.pchodal
+<f51r.13,+P0>     oaiin.ckhol.yk[i:?]eol.otchey.cpheo,daiin.ykeoldy
+<f51r.14,+P0>     daii{ith}y.qodaiin.kaiiidal<->cphodal<->[s:r].al.dam
+<f51r.15,+P0>     qokol.cheor.ckhal.s.or.aldy<->otal<$>
+#
+#
