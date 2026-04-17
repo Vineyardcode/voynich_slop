@@ -1,0 +1,331 @@
+==============================================================================
+PHASE 73: KLARET HYPOTHESIS — Versified Bilingual Glossary Tests
+==============================================================================
+
+Loading VMS folio data...
+  VMS: 5,426 lines, 38,732 words, 8,276 unique types
+
+Loading English control text...
+  Downloading English KJV Bible from Gutenberg...
+  English: 5,426 lines, 57,065 words
+
+Generating synthetic Klaret-like bilingual glossary...
+  Klaret synthetic: 5,426 lines, 48,942 words
+
+Creating shuffled VMS baselines...
+  Done.
+
+──────────────────────────────────────────────────────────────────────────────
+TEST SUITE ON: Voynich Manuscript
+──────────────────────────────────────────────────────────────────────────────
+
+  [VMS] Even/Odd Word Divergence:
+    Even-position words: 20,874
+    Odd-position words:  17,858
+    JSD (char distributions): 0.000603
+    Mean length (even): 5.300
+    Mean length (odd):  5.140
+    Length difference:   0.161
+    Vocab overlap (Jaccard): 0.2058
+    Unique even: 5,672, Unique odd: 4,307
+
+  [VMS] Line Parity Bias:
+    Total lines: 5,426
+    Even word-count lines: 2,410 (44.4%)
+    Odd word-count lines:  3,016 (55.6%)
+    Expected if random:    ~50%
+    Mean words/line: 7.14 ± 4.61
+
+  [VMS] Adjacent Pair Coupling:
+    Adjacent pairs: 17,858
+    Non-adjacent pairs: 28,684
+    Length correlation (adjacent):     r = 0.1250
+    Length correlation (non-adjacent): r = 0.0299
+    Shared 2-char prefix (adj):     9.61%
+    Shared 2-char prefix (non-adj): 11.67%
+    Shared 2-char suffix (adj):     15.76%
+    Shared 2-char suffix (non-adj): 15.17%
+
+  [VMS] Character Position-Parity Bias:
+    Unique characters: 25
+    Mean |bias|: 0.001655
+    Chars with |bias| > 1%: 0
+
+  [VMS] Position-Dependent Vocabulary:
+    First words:  TTR = 0.4751, mean_len = 5.620 (n=5,426)
+    Last words:   TTR = 0.4323, mean_len = 4.985 (n=4,622)
+    Middle words: TTR = 0.3479, mean_len = 5.191 (n=28,684)
+
+  [VMS] Boundary Bigram Alternation:
+    Even→Odd boundary bigrams: 17,858 types, 190 unique
+    Odd→Even boundary bigrams: 15,448 types, 183 unique
+    JSD between directions: 0.007031
+    Top Even→Odd: [('yq', 1883), ('yo', 1430), ('yc', 1095), ('no', 913), ('nc', 893)]
+    Top Odd→Even: [('yq', 1788), ('yo', 1312), ('yc', 973), ('no', 784), ('nc', 708)]
+
+──────────────────────────────────────────────────────────────────────────────
+TEST SUITE ON: VMS (within-line shuffled)
+──────────────────────────────────────────────────────────────────────────────
+
+  [VMS-Shuf-Within] Even/Odd Word Divergence:
+    Even-position words: 20,874
+    Odd-position words:  17,858
+    JSD (char distributions): 0.000095
+    Mean length (even): 5.245
+    Mean length (odd):  5.204
+    Length difference:   0.042
+    Vocab overlap (Jaccard): 0.2449
+    Unique even: 5,596, Unique odd: 4,707
+
+  [VMS-Shuf-Within] Line Parity Bias:
+    Total lines: 5,426
+    Even word-count lines: 2,410 (44.4%)
+    Odd word-count lines:  3,016 (55.6%)
+    Expected if random:    ~50%
+    Mean words/line: 7.14 ± 4.61
+
+  [VMS-Shuf-Within] Adjacent Pair Coupling:
+    Adjacent pairs: 17,858
+    Non-adjacent pairs: 28,684
+    Length correlation (adjacent):     r = 0.0564
+    Length correlation (non-adjacent): r = 0.0401
+    Shared 2-char prefix (adj):     10.07%
+    Shared 2-char prefix (non-adj): 10.26%
+    Shared 2-char suffix (adj):     13.81%
+    Shared 2-char suffix (non-adj): 13.78%
+
+  [VMS-Shuf-Within] Character Position-Parity Bias:
+    Unique characters: 25
+    Mean |bias|: 0.000714
+    Chars with |bias| > 1%: 0
+
+  [VMS-Shuf-Within] Position-Dependent Vocabulary:
+    First words:  TTR = 0.4693, mean_len = 5.397 (n=5,426)
+    Last words:   TTR = 0.4065, mean_len = 5.233 (n=4,622)
+    Middle words: TTR = 0.3931, mean_len = 5.193 (n=28,684)
+
+  [VMS-Shuf-Within] Boundary Bigram Alternation:
+    Even→Odd boundary bigrams: 17,858 types, 209 unique
+    Odd→Even boundary bigrams: 15,448 types, 192 unique
+    JSD between directions: 0.006413
+    Top Even→Odd: [('yo', 1568), ('yc', 1269), ('yq', 1210), ('ys', 844), ('no', 706)]
+    Top Odd→Even: [('yo', 1390), ('yq', 1116), ('yc', 1072), ('ys', 723), ('yd', 596)]
+
+──────────────────────────────────────────────────────────────────────────────
+TEST SUITE ON: VMS (globally shuffled)
+──────────────────────────────────────────────────────────────────────────────
+
+  [VMS-Shuf-Global] Even/Odd Word Divergence:
+    Even-position words: 20,874
+    Odd-position words:  17,858
+    JSD (char distributions): 0.000058
+    Mean length (even): 5.225
+    Mean length (odd):  5.227
+    Length difference:   0.002
+    Vocab overlap (Jaccard): 0.2505
+    Unique even: 5,444, Unique odd: 4,905
+
+  [VMS-Shuf-Global] Line Parity Bias:
+    Total lines: 5,426
+    Even word-count lines: 2,410 (44.4%)
+    Odd word-count lines:  3,016 (55.6%)
+    Expected if random:    ~50%
+    Mean words/line: 7.14 ± 4.61
+
+  [VMS-Shuf-Global] Adjacent Pair Coupling:
+    Adjacent pairs: 17,858
+    Non-adjacent pairs: 28,684
+    Length correlation (adjacent):     r = 0.0034
+    Length correlation (non-adjacent): r = 0.0020
+    Shared 2-char prefix (adj):     6.98%
+    Shared 2-char prefix (non-adj): 7.46%
+    Shared 2-char suffix (adj):     9.59%
+    Shared 2-char suffix (non-adj): 9.67%
+
+  [VMS-Shuf-Global] Character Position-Parity Bias:
+    Unique characters: 25
+    Mean |bias|: 0.000481
+    Chars with |bias| > 1%: 0
+
+  [VMS-Shuf-Global] Position-Dependent Vocabulary:
+    First words:  TTR = 0.4037, mean_len = 5.190 (n=5,426)
+    Last words:   TTR = 0.4119, mean_len = 5.268 (n=4,622)
+    Middle words: TTR = 0.4068, mean_len = 5.226 (n=28,684)
+
+  [VMS-Shuf-Global] Boundary Bigram Alternation:
+    Even→Odd boundary bigrams: 17,858 types, 223 unique
+    Odd→Even boundary bigrams: 15,448 types, 198 unique
+    JSD between directions: 0.006571
+    Top Even→Odd: [('yo', 1639), ('yc', 1335), ('yq', 1089), ('ys', 825), ('yd', 699)]
+    Top Odd→Even: [('yo', 1411), ('yc', 1119), ('yq', 921), ('ys', 709), ('yd', 611)]
+
+──────────────────────────────────────────────────────────────────────────────
+TEST SUITE ON: Synthetic Klaret-like Glossary
+──────────────────────────────────────────────────────────────────────────────
+
+  [Klaret-Synth] Even/Odd Word Divergence:
+    Even-position words: 24,471
+    Odd-position words:  24,471
+    JSD (char distributions): 0.060880
+    Mean length (even): 5.019
+    Mean length (odd):  5.003
+    Length difference:   0.017
+    Vocab overlap (Jaccard): 0.0346
+    Unique even: 20,353, Unique odd: 20,423
+
+  [Klaret-Synth] Line Parity Bias:
+    Total lines: 5,426
+    Even word-count lines: 5,426 (100.0%)
+    Odd word-count lines:  0 (0.0%)
+    Expected if random:    ~50%
+    Mean words/line: 9.02 ± 2.22
+
+  [Klaret-Synth] Adjacent Pair Coupling:
+    Adjacent pairs: 24,471
+    Non-adjacent pairs: 38,090
+    Length correlation (adjacent):     r = 0.0026
+    Length correlation (non-adjacent): r = -0.0013
+    Shared 2-char prefix (adj):     0.44%
+    Shared 2-char prefix (non-adj): 0.45%
+    Shared 2-char suffix (adj):     0.38%
+    Shared 2-char suffix (non-adj): 0.39%
+
+  [Klaret-Synth] Character Position-Parity Bias:
+    Unique characters: 26
+    Mean |bias|: 0.011706
+    Chars with |bias| > 1%: 13
+    Top biased chars:
+      'k': bias = +0.0383 (EVEN-favored)
+      't': bias = -0.0316 (ODD-favored)
+      'i': bias = -0.0245 (ODD-favored)
+      'm': bias = -0.0227 (ODD-favored)
+      'q': bias = -0.0201 (ODD-favored)
+      'z': bias = +0.0189 (EVEN-favored)
+      'r': bias = +0.0185 (EVEN-favored)
+      'l': bias = +0.0165 (EVEN-favored)
+      's': bias = +0.0163 (EVEN-favored)
+      'n': bias = +0.0150 (EVEN-favored)
+
+  [Klaret-Synth] Position-Dependent Vocabulary:
+    First words:  TTR = 0.9012, mean_len = 4.947 (n=5,426)
+    Last words:   TTR = 0.9100, mean_len = 5.014 (n=5,426)
+    Middle words: TTR = 0.9110, mean_len = 5.020 (n=38,090)
+
+  [Klaret-Synth] Boundary Bigram Alternation:
+    Even→Odd boundary bigrams: 24,471 types, 549 unique
+    Odd→Even boundary bigrams: 19,045 types, 548 unique
+    JSD between directions: 0.124036
+    Top Even→Odd: [('ea', 295), ('aa', 282), ('ae', 242), ('na', 232), ('ee', 226)]
+    Top Odd→Even: [('aa', 246), ('ae', 225), ('ta', 192), ('ea', 189), ('ia', 180)]
+
+──────────────────────────────────────────────────────────────────────────────
+TEST SUITE ON: English (KJV Bible)
+──────────────────────────────────────────────────────────────────────────────
+
+  [English] Even/Odd Word Divergence:
+    Even-position words: 29,923
+    Odd-position words:  27,142
+    JSD (char distributions): 0.001081
+    Mean length (even): 4.068
+    Mean length (odd):  4.003
+    Length difference:   0.065
+    Vocab overlap (Jaccard): 0.4995
+    Unique even: 2,438, Unique odd: 2,296
+
+  [English] Line Parity Bias:
+    Total lines: 5,426
+    Even word-count lines: 2,645 (48.7%)
+    Odd word-count lines:  2,781 (51.3%)
+    Expected if random:    ~50%
+    Mean words/line: 10.52 ± 3.72
+
+  [English] Adjacent Pair Coupling:
+    Adjacent pairs: 27,142
+    Non-adjacent pairs: 46,431
+    Length correlation (adjacent):     r = -0.1268
+    Length correlation (non-adjacent): r = -0.0248
+    Shared 2-char prefix (adj):     1.29%
+    Shared 2-char prefix (non-adj): 3.01%
+    Shared 2-char suffix (adj):     0.75%
+    Shared 2-char suffix (non-adj): 1.82%
+
+  [English] Character Position-Parity Bias:
+    Unique characters: 26
+    Mean |bias|: 0.002253
+    Chars with |bias| > 1%: 1
+    Top biased chars:
+      'd': bias = +0.0119 (EVEN-favored)
+
+  [English] Position-Dependent Vocabulary:
+    First words:  TTR = 0.2018, mean_len = 4.162 (n=5,426)
+    Last words:   TTR = 0.2260, mean_len = 4.292 (n=5,208)
+    Middle words: TTR = 0.1808, mean_len = 3.994 (n=46,431)
+
+  [English] Boundary Bigram Alternation:
+    Even→Odd boundary bigrams: 27,142 types, 449 unique
+    Odd→Even boundary bigrams: 24,497 types, 453 unique
+    JSD between directions: 0.014533
+    Top Even→Odd: [('dt', 1171), ('et', 697), ('da', 615), ('dh', 605), ('nt', 547)]
+    Top Odd→Even: [('dt', 721), ('et', 591), ('es', 566), ('ea', 510), ('nt', 509)]
+
+==============================================================================
+COMPARATIVE SUMMARY
+==============================================================================
+
+Metric                                              VMS     VMS-Shuf-W     VMS-Shuf-G   Klaret-Synth        English 
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+A. Even/Odd JSD                                0.000603       0.000095       0.000058       0.060880       0.001081 
+A. Even/Odd len diff                             0.1606         0.0418         0.0023         0.0167         0.0653 
+A. Vocab Jaccard (even∩odd)                      0.2058         0.2449         0.2505         0.0346         0.4995 
+B. Even word-count lines %                        44.4%          44.4%          44.4%         100.0%          48.7% 
+B. Mean words/line                                 7.14           7.14           7.14           9.02          10.52 
+C. Adj pair length r                             0.1250         0.0564         0.0034         0.0026        -0.1268 
+C. Non-adj length r                              0.0299         0.0401         0.0020        -0.0013        -0.0248 
+C. Adj shared 2-prefix %                          9.61%         10.07%          6.98%          0.44%          1.29% 
+D. Mean |char parity bias|                     0.001655       0.000714       0.000481       0.011706       0.002253 
+D. Chars with |bias|>1%                               0              0              0             13              1 
+F. TTR first words                               0.4751         0.4693         0.4037         0.9012         0.2018 
+F. TTR middle words                              0.3479         0.3931         0.4068         0.9110         0.1808 
+G. Boundary bigram JSD (E→O vs O→E)            0.007031       0.006413       0.006571       0.124036       0.014533 
+
+==============================================================================
+SCEPTICAL VERDICT
+==============================================================================
+
+  Test A — Even/Odd Divergence:
+    VMS JSD:                 0.000603
+    Shuffled VMS JSD:        0.000095
+    Klaret-synthetic JSD:    0.060880
+    → VMS shows MODERATE alternation signal (>2× shuffled)
+
+  Test B — Line Parity:
+    VMS even-count %: 44.4%
+    → VMS lines favor odd word-counts (5.6% deviation)
+
+  Test C — Pair Coupling:
+    Adjacent r=0.1250, Non-adj r=0.0299
+    → Adjacent pairs show DIFFERENT coupling than non-adjacent
+
+  Test D — Character Parity Bias:
+    VMS strongly biased chars: 0
+    Shuffled VMS:              0
+    Klaret-synthetic:          13
+
+  Test G — Boundary Bigram Asymmetry:
+    VMS:            0.007031
+    Shuffled VMS:   0.006571
+    Klaret-synth:   0.124036
+    → No meaningful asymmetry vs shuffled baseline
+
+==============================================================================
+OVERALL ASSESSMENT
+==============================================================================
+
+  The Klaret hypothesis predicts that VMS words alternate between two
+  'languages' — producing measurable even/odd divergence in character
+  distributions, vocabulary, and boundary bigrams.
+
+  If the VMS shows divergence SIGNIFICANTLY ABOVE the shuffled baseline
+  AND in the same ballpark as the synthetic Klaret text, this supports
+  the bilingual glossary hypothesis. If VMS divergence is at shuffled-
+  noise levels, the hypothesis is not supported by structure.

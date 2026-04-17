@@ -522,6 +522,19 @@ COPTIC_EXPANDED = {
     "arēs": ("Mars", "astro"),
     "zeus": ("Jupiter", "astro"),
     "kronos": ("Saturn", "astro"),
+    # --- Additional Coptic astrological terms (added April 2026) ---
+    "regoulos": ("Regulus (alpha Leonis)", "astro"),
+    "denebola": ("Denebola (beta Leonis)", "astro"),
+    "algieba": ("Algieba (gamma Leonis)", "astro"),
+    "zosma": ("Zosma (delta Leonis)", "astro"),
+    "raselased": ("Ras Elased (epsilon Leonis)", "astro"),
+    "dekanos": ("decan/star-decan", "astro"),
+    "horoskopos": ("horoscope/ascendant", "astro"),
+    "planai": ("wandering stars/planets", "astro"),
+    "sothis": ("Sothis/Sirius", "astro"),
+    "manzel": ("lunar mansion", "astro"),
+    "daraga": ("degree (zodiac)", "astro"),
+    "mazal": ("constellation/zodiac", "astro"),
 }
 
 # ══════════════════════════════════════════════════════════════════════════

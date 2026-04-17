@@ -1,0 +1,296 @@
+==============================================================================
+PHASE 71: NAIBBE CIPHER CALIBRATION & BLIND BREAK TEST
+==============================================================================
+
+CONCEPT: Build a verbose cipher, encode Latin text, run our
+statistical battery, then try to break it blind. This tests
+whether our analysis tools can actually CRACK such a system,
+not just describe it.
+
+Loading VMS baseline...
+VMS: 36259 tokens, 6415 types
+
+Generating Latin pharmacopoeia source text...
+Source: 36259 tokens, 204 types
+
+Building Naibbe-style verbose substitution table...
+Table entries: 25 letters × 3 positions = 75 mappings
+
+Sample mappings:
+  'a': I→'qo', M→'ai', F→'dy'
+  'e': I→'ot', M→'e', F→'ey'
+  'i': I→'ol', M→'ii', F→'iy'
+  's': I→'sh', M→'s', F→'s'
+  't': I→'ct', M→'t', F→'y'
+  'r': I→'r', M→'r', F→'r'
+
+Encoding source text through cipher...
+Cipher: 36259 tokens, 203 types
+Sample: ['cpchlferiitsdy', 'chordiikchm', 'rorsmairiinchs', 'oty', 'cpchgiillchs', 'nchks', 'biibey', 'oty', 'shchraiy', 'biibey']
+
+Computing 8-metric battery on VMS, ciphertext, and source...
+
+==============================================================================
+STATISTICAL BATTERY: VMS vs CIPHER vs SOURCE
+==============================================================================
+Metric                        VMS     Cipher     Source   VMS target
+------------------------------------------------------------------------------
+h2                          2.058      1.917      2.416         ~2.0
+h_ratio                     0.596      0.699      0.829       ~0.641
+zipf_alpha                  0.942      0.516      0.514         ~1.0
+mean_word_len               4.935      8.107      5.516        ~4.01
+hapax_ratio                 0.618      0.000      0.000       ~0.578
+burstiness                  0.236     -0.012     -0.012       ~0.246
+slot_grammar                0.820      0.855      0.656        ~0.91
+------------------------------------------------------------------------------
+n_tokens                    36259      36259      36259
+n_types                      6415        203        204
+
+L2 distance from VMS (z-normalized):
+  Cipher ciphertext:  4.531
+  Source plaintext:   5.113
+  → Cipher is CLOSER to VMS
+
+Beginning blind attack on ciphertext (no table knowledge)...
+
+==============================================================================
+BLIND ATTACK: CIPHERTEXT-ONLY ANALYSIS
+==============================================================================
+
+--- STEP 1: Character frequency analysis ---
+Alphabet size: 20 distinct characters
+Total characters: 293965
+Top 15 characters by frequency:
+  'i':  42905 (14.60%)
+  'h':  28394 ( 9.66%)
+  'c':  23237 ( 7.90%)
+  's':  22084 ( 7.51%)
+  'r':  21395 ( 7.28%)
+  'y':  20873 ( 7.10%)
+  'o':  20707 ( 7.04%)
+  't':  15512 ( 5.28%)
+  'd':  14260 ( 4.85%)
+  'e':  13184 ( 4.48%)
+  'l':  11339 ( 3.86%)
+  'a':  10771 ( 3.66%)
+  'n':  10230 ( 3.48%)
+  'k':   8422 ( 2.86%)
+  'm':   8047 ( 2.74%)
+
+--- STEP 2: Positional distribution (word-initial / medial / final) ---
+
+Characters STRONGLY initial (>3x more initial than medial per-occurrence):
+  'q': initial 91.91% of occurrences
+
+Characters STRONGLY final (>3x more final than medial per-occurrence):
+  'y': final 100.00% of occurrences
+
+--- STEP 3: Bigram contact analysis → vowel/consonant classification ---
+Characters by contact entropy (high → vowel-like, low → consonant-like):
+  'e': combined entropy = 6.645 (succ=3.15, pred=3.49)
+  'r': combined entropy = 6.573 (succ=3.93, pred=2.65)
+  't': combined entropy = 6.280 (succ=3.20, pred=3.08)
+  'l': combined entropy = 6.234 (succ=3.43, pred=2.81)
+  'i': combined entropy = 6.158 (succ=3.29, pred=2.87)
+  'k': combined entropy = 6.140 (succ=3.36, pred=2.78)
+  'n': combined entropy = 5.612 (succ=3.12, pred=2.49)
+  'p': combined entropy = 5.407 (succ=3.18, pred=2.22)
+  'f': combined entropy = 5.296 (succ=2.90, pred=2.39)
+  'o': combined entropy = 5.269 (succ=2.37, pred=2.90)
+  ...
+  'h': combined entropy = 4.842
+  'g': combined entropy = 4.301
+  'm': combined entropy = 4.263
+  'a': combined entropy = 3.449
+  'q': combined entropy = 1.300
+
+--- STEP 4: Word pattern analysis (repeated structures) ---
+Top 20 ciphertext words:
+  'oty': 3690
+  'shchm': 1708
+  'shorntrdy': 954
+  'oltem': 760
+  'hors': 727
+  'otsy': 725
+  'cforliidy': 287
+  'cflors': 287
+  'raidiiks': 273
+  'shorrteks': 255
+  'cprorhiibey': 253
+  'shemen': 249
+  'cpiistdy': 236
+  'cprorforkaiy': 235
+  'chiitiigaiy': 232
+  'biibey': 231
+  'chchndiifiikaiy': 230
+  'olnfriigiidiiaiy': 230
+  'shorqchey': 230
+  'shorlfey': 227
+
+Top 15 word patterns (isomorphism classes):
+  0.1.2: 4403 occurrences, e.g. ['dey', 'oty', 'ren']
+  0.1.2.3.4.5: 2149 occurrences, e.g. ['cflors', 'leprdy', 'olnter']
+  0.1.2.3: 2080 occurrences, e.g. ['dens', 'cper', 'hors']
+  0.1.2.1.3: 1862 occurrences, e.g. ['shchm', 'shchb']
+  0.1.2.3.4: 1161 occurrences, e.g. ['qondy', 'nchks', 'cprol']
+  0.1.2.3.4.5.3.6.7: 954 occurrences, e.g. ['shorntrdy']
+  0.1.2.3.4.5.6.7: 767 occurrences, e.g. ['chaigndy', 'qosthmdy', 'qomairdy']
+  0.1.2.3.4.5.6: 747 occurrences, e.g. ['cportdy', 'graindy', 'qolechm']
+  0.1.2.3.4.5.5.6: 520 occurrences, e.g. ['qoperiiy', 'qochriis', 'cfebriis']
+  0.1.2.3.2.4: 447 occurrences, e.g. ['cterey', 'shemen']
+  0.1.2.2.3.4.5.6: 445 occurrences, e.g. ['cpiistdy', 'chiiskey']
+  0.1.2.1.3.4.5: 415 occurrences, e.g. ['oklkchs', 'qolorey', 'shchper']
+  0.1.2.3.4.5.6.7.8: 360 occurrences, e.g. ['olkterchs', 'chaikerdy']
+  0.1.2.2.3.3.4.5.6: 334 occurrences, e.g. ['qokkiipey', 'qolliichm']
+  0.1.2.3.4.5.5.6.7: 287 occurrences, e.g. ['cforliidy']
+
+--- STEP 5: Attempting to identify verbose glyph-groups ---
+Bigrams with highest observed/expected ratio (candidate verbose units):
+  'qo': O/E = 14.9x (count = 3794)
+  'dy': O/E = 11.0x (count = 9775)
+  'ch': O/E = 8.2x (count = 16063)
+  'hm': O/E = 7.8x (count = 5328)
+  'ai': O/E = 7.8x (count = 10771)
+  'cp': O/E = 7.3x (count = 3516)
+  'or': O/E = 7.0x (count = 9306)
+  'cf': O/E = 6.6x (count = 2529)
+  'pe': O/E = 5.8x (count = 1583)
+  'nt': O/E = 5.2x (count = 2456)
+  'ot': O/E = 4.9x (count = 4705)
+  'sh': O/E = 4.9x (count = 9182)
+  'en': O/E = 4.4x (count = 1768)
+  'nd': O/E = 4.1x (count = 1793)
+  'ol': O/E = 4.0x (count = 2772)
+
+--- STEP 6: Source language inference from statistics ---
+Mean ciphertext word length: 8.11
+If verbose expansion ratio ≈ 1.5x, source mean word length ≈ 5.40
+If verbose expansion ratio ≈ 2.0x, source mean word length ≈ 4.05
+
+Reference mean word lengths:
+  Latin prose: ~5.0–5.5
+  Italian: ~4.5–5.0
+  German: ~5.5–6.0
+  English: ~4.5–5.0
+Inferred verbose expansion ratio (if Latin source): 1.56x
+
+--- STEP 7: Table recovery attempt ---
+Strategy: if initial-position glyphs encode initial plaintext letters,
+match initial-glyph frequencies to known Latin initial-letter frequencies.
+
+Initial single-glyph frequencies (top 10):
+  'c': 26.1%
+  's': 25.3%
+  'o': 19.6%
+  'q': 10.5%
+  'd': 4.0%
+  'h': 3.9%
+  'r': 2.9%
+  'l': 2.7%
+  'b': 2.1%
+  'g': 1.6%
+
+Initial glyph-pair frequencies (top 15):
+  'sh': 25.3%
+  'ot': 13.0%
+  'qo': 10.5%
+  'cp': 9.7%
+  'cf': 7.0%
+  'ch': 6.3%
+  'ol': 4.6%
+  'ct': 3.1%
+  'ho': 2.0%
+  'ok': 2.0%
+  'la': 1.5%
+  'de': 1.4%
+  'di': 1.1%
+  'ra': 1.0%
+  'hc': 0.9%
+
+Frequency-matching hypothesis (single glyph ↔ Latin initial letter):
+  cipher 'c' ↔ Latin 'c'
+  cipher 's' ↔ Latin 's'
+  cipher 'o' ↔ Latin 'p'
+  cipher 'q' ↔ Latin 'a'
+  cipher 'd' ↔ Latin 'e'
+  cipher 'h' ↔ Latin 'd'
+  cipher 'r' ↔ Latin 'i'
+  cipher 'l' ↔ Latin 'r'
+  cipher 'b' ↔ Latin 'm'
+  cipher 'g' ↔ Latin 'f'
+  cipher 'n' ↔ Latin 'n'
+
+==============================================================================
+KNOWN-TABLE VALIDATION & RECOVERY SCORING
+==============================================================================
+
+First 20 cipher words → decoded vs actual:
+  cpchlferiitsdy       → pulweryza       (actual: pulveriza      ) ✗
+  chordiikchm          → modykum         (actual: modicum        ) ✗
+  rorsmairiinchs       → rosmarynus      (actual: rosmarinus     ) ✗
+  oty                  → et              (actual: et             ) ✓
+  cpchgiillchs         → pugyllus        (actual: pugillus       ) ✗
+  nchks                → nux             (actual: nux            ) ✓
+  biibey               → bybe            (actual: bibe           ) ✗
+  oty                  → et              (actual: et             ) ✓
+  shchraiy             → surat           (actual: curat          ) ✗
+  biibey               → bybe            (actual: bibe           ) ✗
+  cporrrchm            → porrum          (actual: porrum         ) ✓
+  shchm                → sum             (actual: cum            ) ✗
+  chaistiiks           → mastyx          (actual: mastix         ) ✗
+  oty                  → et              (actual: et             ) ✓
+  cpchlferiitsdy       → pulweryza       (actual: pulveriza      ) ✗
+  shchm                → sum             (actual: cum            ) ✗
+  olkterchs            → ykterus         (actual: icterus        ) ✗
+  cpchlmol             → pulmo           (actual: pulmo          ) ✓
+  chiitiigaiy          → mytygat         (actual: mitigat        ) ✗
+  cpairchm             → parum           (actual: parum          ) ✓
+
+Decoding accuracy on first 20: 7/20 = 35.0%
+Full corpus decoding accuracy: 10617/36259 = 29.3%
+
+==============================================================================
+GROUND TRUTH CHECK: How well did the blind attack do?
+==============================================================================
+
+Blind frequency-match vs actual initial-position cipher table:
+  'c' → guessed 'c', actual 'f' ✗
+  's' → guessed 's', actual 'c' ✗
+  'o' → guessed 'p', actual 'e' ✗
+  'q' → guessed 'a', actual 'a' ✓
+  'd' → guessed 'e', actual 'd' ✗
+  'h' → guessed 'd', actual 'h' ✗
+  'r' → guessed 'i', actual 'r' ✗
+  'l' → guessed 'r', actual 'l' ✗
+  'b' → guessed 'm', actual 'b' ✗
+  'g' → guessed 'f', actual 'g' ✗
+  'n' → guessed 'n', actual 'n' ✓
+
+Blind initial-glyph matching: 2/11 correct (18%)
+
+==============================================================================
+PHASE 71 CONCLUSIONS
+==============================================================================
+
+Q1: Does a Naibbe-style cipher reproduce VMS statistics?
+    L2 distance cipher→VMS: 4.531
+    L2 distance source→VMS: 5.113
+    → YES, cipher is closer to VMS
+
+Q2: Can we break the cipher blind?
+    Frequency matching accuracy: 18%
+    Known-table decoding accuracy: 29%
+
+Q3: What attack vector works best against verbose ciphers?
+    → Positional analysis (I/M/F separation) is the key lever.
+    → Contact entropy identifies vowel-expansion patterns.
+    → Word-pattern matching finds common short words.
+    → Frequency matching alone is INSUFFICIENT because the
+      verbose expansion changes frequency distributions.
+
+Q4: What's the limiting factor for attacking VMS specifically?
+    → We don't know the EXACT verbose expansion rules.
+    → We don't know if word boundaries are faithfully preserved.
+    → We don't know the source language with certainty.
+    → But: if the cipher is truly Naibbe-type, positional
+      analysis + known-crib testing is the most promising path.

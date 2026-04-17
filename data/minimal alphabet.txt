@@ -1,0 +1,25 @@
+ב b(bag), v(vole)
+
+ג g(gear)
+
+ד d(door)
+
+ה h(house)
+
+ז z(zanzibar)
+
+ט t(tea)
+
+כ c(cat), kh(regular pronunciation of the hebrew letter kaf without the dot in it)
+
+ל l(list)
+
+מ m(mother)
+
+נ n(note)
+
+פ p(paper), f(fixation)
+
+ר r(rock)
+
+ש sh(sheep), s(single)

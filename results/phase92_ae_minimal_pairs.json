@@ -1,0 +1,17 @@
+{
+  "phase": 92,
+  "question": "Is zodiac a/e inverse caused by substitution or vocabulary stratification?",
+  "corpus_ae_pairs": 101,
+  "zodiac_ae_pairs": 0,
+  "cross_hemisphere_aligned": 0,
+  "cross_hemisphere_anti": 0,
+  "spring_word_types": 162,
+  "autumn_word_types": 136,
+  "word_overlap": 17,
+  "shared_frames": 19,
+  "total_frames": 268,
+  "stratification_quotient": 0.8252148997134671,
+  "slot2_r_ae": -0.9994213143174792,
+  "slot2_explains": true,
+  "mechanism": "VOCABULARY_STRATIFICATION"
+}

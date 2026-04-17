@@ -1,0 +1,651 @@
+╔══════════════════════════════════════════════════════════════════╗
+║  PHASE 74 — STAR MARKER PARAGRAPH ANALYSIS                     ║
+╠══════════════════════════════════════════════════════════════════╣
+║  Hypothesis: Different star types mark different "blocks" that  ║
+║  require different reading methods. First words/chars may be    ║
+║  significant structural markers, not content words.            ║
+╚══════════════════════════════════════════════════════════════════╝
+
+Loaded 323 recipe paragraphs with star markers
+Loaded 641 non-recipe pseudo-paragraphs
+
+--- Full paragraph listing ---
+  [  1] f103r    | DARK           | first="pchedal" | 48 words | line: "pchedal shdy ytechypchy otey qoteey qotal..."
+  [  2] f103r    | LIGHT          | first="pocharal" | 32 words | line: "pocharal okedar shedy oteey qokey lkar..."
+  [  3] f103r    | LIGHT          | first="daroal" | 11 words | line: "daroal okey chedy okey rain okechy..."
+  [  4] f103r    | DARK           | first="oteeos" | 47 words | line: "oteeos ar cheal okeey shey lkaiin..."
+  [  5] f103r    | LIGHT          | first="podar" | 29 words | line: "podar sheor qotedy okeey qokar checkhy..."
+  [  6] f103r    | DARK           | first="dshol" | 21 words | line: "dshol sholkar shdaiin cheey rar okeey..."
+  [  7] f103r    | LIGHT          | first="polchedy" | 28 words | line: "polchedy qokeol okain checthy oteeylshedy okain..."
+  [  8] f103r    | LIGHT          | first="pcheam" | 29 words | line: "pcheam sokedy dalkar otal qokal chepy..."
+  [  9] f103r    | DARK           | first="tchoky" | 31 words | line: "tchoky okeal shedy qokal oty opchedy..."
+  [ 10] f103r    | LIGHT          | first="qokechy" | 28 words | line: "qokechy okeey qokeey lkeeody sheey qokeey..."
+  [ 11] f103r    | LIGHT          | first="pcholkchdy" | 28 words | line: "pcholkchdy sheckhy qokey okaiin shedy chpchy..."
+  [ 12] f103r    | DARK           | first="qokeey" | 13 words | line: "qokeey chechy qokey shckhy choldy qokal..."
+  [ 13] f103r    | LIGHT          | first="qokecar" | 18 words | line: "qokecar chain olain chey kain sheol..."
+  [ 14] f103r    | DARKISH        | first="pchedy" | 23 words | line: "pchedy qokeey qokeodair qokshy qokeedy qokchdy..."
+  [ 15] f103r    | LIGHT          | first="qokeey" | 22 words | line: "qokeey sheeol shckhy sheol shodyol aiin..."
+  [ 16] f103r    | LIGHT          | first="tshey" | 15 words | line: "tshey sheol cheolshy chalal tar cheal..."
+  [ 17] f103r    | DARK           | first="odeeey" | 31 words | line: "odeeey qokeey shey sheal otshedy qokeedy..."
+  [ 18] f103r    | LIGHT          | first="polarar" | 35 words | line: "polarar lshedy qotolaiin qokeey qokeey shkchy..."
+  [ 19] f103r    | LIGHT          | first="pchedal" | 25 words | line: "pchedal oteey qol keedy qokeey qoty..."
+  [ 20] f103v    | LIGHT-DOTTED   | first="pol" | 42 words | line: "pol dar olfchey qoky dy qokeey..."
+  [ 21] f103v    | LIGHT          | first="pcheor" | 39 words | line: "pcheor olkeey cheky qokshdy qokaiin okechdy..."
+  [ 22] f103v    | LIGHT-DOTTED   | first="pchal" | 28 words | line: "pchal shal shorchdy okeor okaiin shedy..."
+  [ 23] f103v    | LIGHT          | first="sal" | 22 words | line: "sal sheal shedy okeedy qokeey ol..."
+  [ 24] f103v    | LIGHT-DOTTED   | first="teeol" | 31 words | line: "teeol sheol sho qokeedy shedy qokey..."
+  [ 25] f103v    | LIGHT          | first="qokeedy" | 27 words | line: "qokeedy chedy qoteey oteedy lkedy shedy..."
+  [ 26] f103v    | LIGHT-DOTTED   | first="pol" | 11 words | line: "pol char otar okaiin shaikhy oteal..."
+  [ 27] f103v    | LIGHT          | first="tokain" | 57 words | line: "tokain shal qokeed oteedy sheoky shaikhhy..."
+  [ 28] f103v    | LIGHT-DOTTED   | first="fcheody" | 28 words | line: "fcheody arar okeey okeey lchedy oteal..."
+  [ 29] f103v    | LIGHT          | first="pchear" | 27 words | line: "pchear okain opchedy pchol fchedy otedy..."
+  [ 30] f103v    | LIGHT-DOTTED   | first="yshey" | 36 words | line: "yshey lkeey qokain okey okaiin cheody..."
+  [ 31] f103v    | LIGHT          | first="olshey" | 16 words | line: "olshey qokain ol shey qokeshe lsheok..."
+  [ 32] f103v    | LIGHT-DOTTED   | first="polshor" | 38 words | line: "polshor keeolshey okey lcharar shol okeedar..."
+  [ 33] f103v    | LIGHT          | first="orain" | 40 words | line: "orain chckhey qokaiin shckhy shtal opchy..."
+  [ 34] f104r    | LIGHT          | first="pchdar" | 10 words | line: "pchdar chedy char qopchedy ocphedy qopchedy..."
+  [ 35] f104r    | DARK           | first="ar" | 30 words | line: "ar aiin yteeody cheedaiin cheodar aiin..."
+  [ 36] f104r    | LIGHT          | first="kchdal" | 50 words | line: "kchdal qotaiin qoshedy ol chl ol..."
+  [ 37] f104r    | DARKISH        | first="tol" | 19 words | line: "tol chedal cheockay otyd os air..."
+  [ 38] f104r    | LIGHT          | first="tshdol" | 39 words | line: "tshdol qotchedy qokoeey qoteode lo sar..."
+  [ 39] f104r    | LIGHT          | first="ocheoithey" | 26 words | line: "ocheoithey qoctheody ykeeodey qoepchy opchey qoty..."
+  [ 40] f104r    | DARKISH        | first="toaiin" | 29 words | line: "toaiin chdar otar shd qotar olkchedy..."
+  [ 41] f104r    | LIGHT          | first="tshedar" | 49 words | line: "tshedar chllo rl shed kchedy chokor..."
+  [ 42] f104r    | DARKISH        | first="pchedar" | 32 words | line: "pchedar qokaiin qotaiin dl ral cheodl..."
+  [ 43] f104r    | LIGHT          | first="okeeo" | 40 words | line: "okeeo keeo dain lkeodaiin qokeeo lkeeeey..."
+  [ 44] f104r    | LIGHT-DOTTED   | first="pchol" | 19 words | line: "pchol ksheody qokeshedy qokal chedy qokaiin..."
+  [ 45] f104r    | LIGHT          | first="psheody" | 25 words | line: "psheody qotar chopar qotaly qotsheod qotechy..."
+  [ 46] f104r    | LIGHT-DOTTED   | first="pcholor" | 34 words | line: "pcholor ar aiin alkchdy qotal chol..."
+  [ 47] f104r    | LIGHT          | first="tsheodl" | 29 words | line: "tsheodl qokaiin qokchedy ykchdy pchedy qokeedy..."
+  [ 48] f104v    | LIGHT-DOTTED   | first="pchdoiin" | 50 words | line: "pchdoiin opcheedy orar oltcheey opchedy ol..."
+  [ 49] f104v    | LIGHT          | first="solchd" | 23 words | line: "solchd shol sheol qokchy qoka chedy..."
+  [ 50] f104v    | LIGHT-DOTTED   | first="tchodls" | 35 words | line: "tchodls cheeody cheeool ls air ykeedy..."
+  [ 51] f104v    | LIGHT          | first="ycheedy" | 38 words | line: "ycheedy qocthhy ykchedor cheeky qokchd qotol..."
+  [ 52] f104v    | LIGHT-DOTTED   | first="tolkshey" | 42 words | line: "tolkshey chocthy qokeochy qokchy qotcheo qotcheo..."
+  [ 53] f104v    | LIGHT          | first="pcheor" | 31 words | line: "pcheor chol chpcheor cholkshedy qotol sheedy..."
+  [ 54] f104v    | LIGHT-DOTTED   | first="ytchedy" | 50 words | line: "ytchedy qokchedy qotchy qokchedy qokchd ls..."
+  [ 55] f104v    | LIGHT          | first="pchoror" | 21 words | line: "pchoror shor sheol sheol sheol qokchedy..."
+  [ 56] f104v    | LIGHT-DOTTED   | first="kche" | 32 words | line: "kche shodaiin qokeey cheokcheo lol kaiin..."
+  [ 57] f104v    | LIGHT          | first="pchedy" | 37 words | line: "pchedy kchedy cheocphey or ain cheeos..."
+  [ 58] f104v    | LIGHT-DOTTED   | first="psheodar" | 16 words | line: "psheodar sheedy qotchedar oteedy qotaiin okaifhhy..."
+  [ 59] f104v    | LIGHT          | first="posairy" | 47 words | line: "posairy ytedar chedy shoefcheey kechy sar..."
+  [ 60] f104v    | LIGHT-DOTTED   | first="tchedy" | 37 words | line: "tchedy qotechy otcheeo keedy qoty raiin..."
+  [ 61] f105r    | LIGHT-DOTTED   | first="aiin" | 55 words | line: "aiin dar chcphy qokeey qopaiin ypcheeey..."
+  [ 62] f105r    | LIGHT-DOTTED   | first="par" | 35 words | line: "par arody shedeeey qopchedy qody qoteody..."
+  [ 63] f105r    | LIGHT          | first="sairy" | 37 words | line: "sairy ore daiindy ytam pdar shedy..."
+  [ 64] f105r    | LIGHT-DOTTED   | first="kesoar" | 30 words | line: "kesoar qoeeedy keeody dlls air shckhy..."
+  [ 65] f105r    | LIGHT          | first="lteedy" | 73 words | line: "lteedy okeeddl sheokedy qokedy shol kol..."
+  [ 66] f105r    | LIGHT-DOTTED   | first="pcheor" | 19 words | line: "pcheor ain ckheey okeeey paiin ar..."
+  [ 67] f105r    | LIGHT          | first="pdal" | 18 words | line: "pdal sheey yqopchy airal sheey fchdy..."
+  [ 68] f105r    | LIGHT-DOTTED   | first="pchsed" | 31 words | line: "pchsed sheefy opchey qoteedy qoeey qokeedy..."
+  [ 69] f105r    | LIGHT          | first="kodeey" | 35 words | line: "kodeey lchl shx ar aiijy cpheesy..."
+  [ 70] f105r    | LIGHT-DOTTED   | first="dor" | 38 words | line: "dor ail cheky kar odaiin ykl..."
+  [ 71] f105v    | LIGHT-DOTTED   | first="polairy" | 32 words | line: "polairy oair olpcheey ykaiin olpchedy opchedaiin..."
+  [ 72] f105v    | LIGHT          | first="olkeeol" | 37 words | line: "olkeeol orchsey qokeedy chdor olar ol..."
+  [ 73] f105v    | LIGHT-DOTTED   | first="fodal" | 59 words | line: "fodal kedar olpchesd araiin ksheeol opchedy..."
+  [ 74] f105v    | LIGHT          | first="saiin" | 51 words | line: "saiin opchedy qokchdy otar al kair..."
+  [ 75] f105v    | LIGHT-DOTTED   | first="pchor" | 21 words | line: "pchor chedaiin okaiin cholkal qolkaiin oltchdy..."
+  [ 76] f105v    | LIGHT          | first="porair" | 28 words | line: "porair chopchdy chedain otair otchod aiin..."
+  [ 77] f105v    | LIGHT-DOTTED   | first="tcholkaiin" | 18 words | line: "tcholkaiin odal kl chees aiiin shees..."
+  [ 78] f105v    | LIGHT          | first="kchdaldy" | 40 words | line: "kchdaldy alfo lfcheedy ofoiir opchey fchedy..."
+  [ 79] f105v    | LIGHT-DOTTED   | first="tdol" | 31 words | line: "tdol tor oaldar aiir okokeedy karody..."
+  [ 80] f105v    | LIGHT          | first="poar" | 69 words | line: "poar keeodaiin qoair ar aiphhey qoeedeody..."
+  [ 81] f106r    | LIGHT-DOTTED   | first="pshdar" | 29 words | line: "pshdar shoefy yteedy shal korchy sheky..."
+  [ 82] f106r    | LIGHT          | first="pcheodair" | 39 words | line: "pcheodair okchedy olkeeedy or arojy qopchdy..."
+  [ 83] f106r    | LIGHT-DOTTED   | first="porarchy" | 18 words | line: "porarchy orar ol kaiin shedy oteedy..."
+  [ 84] f106r    | LIGHT          | first="pshoair" | 26 words | line: "pshoair lkeeshedy qokain cheoly qokedy lchedy..."
+  [ 85] f106r    | LIGHT-DOTTED   | first="pcheol" | 19 words | line: "pcheol sheokaiin otey qokeeor sheo aiin..."
+  [ 86] f106r    | LIGHT          | first="podaroar" | 28 words | line: "podaroar oteeo lchor shol tchedy chotar..."
+  [ 87] f106r    | LIGHT-DOTTED   | first="kshed" | 36 words | line: "kshed dsheol qokeedy otol okeedy lkeedar..."
+  [ 88] f106r    | LIGHT          | first="tshodair" | 20 words | line: "tshodair olkeees odain qokeedy opchor aror..."
+  [ 89] f106r    | LIGHT-DOTTED   | first="podshedy" | 22 words | line: "podshedy qokchedy lkechor otchodar cho lky..."
+  [ 90] f106r    | LIGHT          | first="tcheoky" | 51 words | line: "tcheoky lkshedy qokaiin lky raiin chy..."
+  [ 91] f106r    | LIGHT-DOTTED   | first="poral" | 19 words | line: "poral sho keeody qokain chckhy olteeedy..."
+  [ 92] f106r    | LIGHT          | first="tcheorsho" | 14 words | line: "tcheorsho lkshey lpcheo ro lpchey oporaiin..."
+  [ 93] f106r    | LIGHT-DOTTED   | first="psheodalo" | 13 words | line: "psheodalo dar sheodal qotedy qotes aiin..."
+  [ 94] f106r    | LIGHT          | first="pshodaiin" | 38 words | line: "pshodaiin opchy sh teeody shotchey yteey..."
+  [ 95] f106r    | LIGHT-DOTTED   | first="pcheodar" | 54 words | line: "pcheodar shol kain qoteey shotchy qoty..."
+  [ 96] f106v    | LIGHT          | first="fsheda" | 44 words | line: "fsheda looin opaiiral oteodaiin chopchy otair..."
+  [ 97] f106v    | LIGHT-DOTTED   | first="tshoar" | 40 words | line: "tshoar oeey qokain shypchedy opched qopchedy..."
+  [ 98] f106v    | LIGHT          | first="tshodaiin" | 17 words | line: "tshodaiin sholkair orainkar aiin shtchy qopchdy..."
+  [ 99] f106v    | LIGHT-DOTTED   | first="tchdys" | 39 words | line: "tchdys arshedy oteeody kshedy qotchdy qotar..."
+  [100] f106v    | LIGHT          | first="kcheoakar" | 25 words | line: "kcheoakar shedy qofchdy otshedy qokchdy qotshdy..."
+  [101] f106v    | LIGHT-DOTTED   | first="pshodalos" | 18 words | line: "pshodalos qokshdy qokshy opchdy qokshd ar..."
+  [102] f106v    | LIGHT          | first="polchs" | 54 words | line: "polchs lkaiir shokar choefy shor qokor..."
+  [103] f106v    | LIGHT-DOTTED   | first="tar" | 17 words | line: "tar air kshdain okal chdy lchedy..."
+  [104] f106v    | LIGHT          | first="psheody" | 34 words | line: "psheody olkeedy qokor sheos choty qotaiin..."
+  [105] f106v    | LIGHT-DOTTED   | first="polos" | 19 words | line: "polos shdair sheky keedy qoeedy qofchedy..."
+  [106] f106v    | LIGHT          | first="pchodaiin" | 27 words | line: "pchodaiin kcheeor al ky shcthy otos..."
+  [107] f106v    | LIGHT-DOTTED   | first="pyoaly" | 26 words | line: "pyoaly cheo aiir al kcheodar qodaiin..."
+  [108] f106v    | LIGHT          | first="ko" | 21 words | line: "ko sheody qody ches aiin dair..."
+  [109] f106v    | LIGHT-DOTTED   | first="py" | 59 words | line: "py chal shedy qoteedy cheyky okedaiin..."
+  [110] f107r    | LIGHT-DOTTED   | first="pchdlar" | 31 words | line: "pchdlar sheolor ykeeol qokchy otor okeesodar..."
+  [111] f107r    | LIGHT          | first="teeody" | 37 words | line: "teeody chedain qoteey qokar deeoltedy otar..."
+  [112] f107r    | LIGHT-DOTTED   | first="torshor" | 46 words | line: "torshor sheeey oteeol qokeey qokedy lkaiin..."
+  [113] f107r    | LIGHT          | first="polchls" | 29 words | line: "polchls aiin sheky qokaiin opchal shedy..."
+  [114] f107r    | LIGHT-DOTTED   | first="tolshoror" | 13 words | line: "tolshoror olkeedy qotaiin otalar opcheol qeeoy..."
+  [115] f107r    | LIGHT          | first="poalosy" | 24 words | line: "poalosy shey tar aiphy arsheey fol..."
+  [116] f107r    | LIGHT-DOTTED   | first="taror" | 24 words | line: "taror olal okain okaiin qotal shaiin..."
+  [117] f107r    | LIGHT          | first="pal" | 32 words | line: "pal alchky okil cheol kair lkain..."
+  [118] f107r    | LIGHT-DOTTED   | first="pydar" | 24 words | line: "pydar aiirod qokiir otiir ofchedy qofchedy..."
+  [119] f107r    | LIGHT          | first="pair" | 44 words | line: "pair aiiikheedy shalkaiin kairy okaral qokaiin..."
+  [120] f107r    | LIGHT-DOTTED   | first="pairar" | 38 words | line: "pairar al oro lkeey qotal cheotain..."
+  [121] f107r    | LIGHT          | first="poaral" | 37 words | line: "poaral orar ofchey qoteedy qotaiin opchedy..."
+  [122] f107r    | LIGHT-DOTTED   | first="pcholky" | 25 words | line: "pcholky sokeey aiin oteey ykchey paichy..."
+  [123] f107r    | LIGHT          | first="podky" | 27 words | line: "podky chedy qockhy qokeedy qokokil chees..."
+  [124] f107r    | LIGHT-DOTTED   | first="fairal" | 44 words | line: "fairal chkal lky otain ar kalkal..."
+  [125] f107v    | LIGHT-DOTTED   | first="kaisar" | 44 words | line: "kaisar olkeeey otalkchy lkaiin otody qokair..."
+  [126] f107v    | LIGHT          | first="tol" | 26 words | line: "tol sheockhedy qotol chdor otechdy teol..."
+  [127] f107v    | LIGHT-DOTTED   | first="polcheolkain" | 27 words | line: "polcheolkain qokair okeol qokol qokaiin opcheol..."
+  [128] f107v    | LIGHT          | first="tshedy" | 50 words | line: "tshedy okal shedy qokchey chky qokeey..."
+  [129] f107v    | LIGHT-DOTTED   | first="parair" | 37 words | line: "parair okal opchol okal opaiin otedy..."
+  [130] f107v    | LIGHT          | first="palar" | 28 words | line: "palar or air kalkal okaiin chpal..."
+  [131] f107v    | LIGHT-DOTTED   | first="palchar" | 15 words | line: "palchar ar akaiiky char raikchy opchain..."
+  [132] f107v    | LIGHT          | first="kaolkar" | 38 words | line: "kaolkar kolkar okeol qokeor al tody..."
+  [133] f107v    | LIGHT-DOTTED   | first="tolkeeedy" | 28 words | line: "tolkeeedy okeol cheody qokeey qokchedy qotyshey..."
+  [134] f107v    | LIGHT          | first="tay" | 25 words | line: "tay oaiin okeeody okaiin otaiin otchey..."
+  [135] f107v    | LIGHT-DOTTED   | first="polchedy" | 20 words | line: "polchedy olkeey lkey chcthy lkar shedy..."
+  [136] f107v    | LIGHT          | first="poraiin" | 34 words | line: "poraiin kal chedy qolkeey lpcheedy qokol..."
+  [137] f107v    | LIGHT-DOTTED   | first="pokar" | 15 words | line: "pokar ar keey okeeo cheey qokchey..."
+  [138] f107v    | LIGHT          | first="pol" | 62 words | line: "pol keeeo kaiisr qokeey chckhy lkchaly..."
+  [139] f108r    | LIGHT          | first="teodeeor" | 37 words | line: "teodeeor qopchety okeeoly okchdpchy opar yo..."
+  [140] f108r    | LIGHT          | first="tchokedy" | 33 words | line: "tchokedy chey oteey okeey okchecf pchofar..."
+  [141] f108r    | DARK           | first="pochedy" | 34 words | line: "pochedy shy shokeedar al kedal chokchy..."
+  [142] f108r    | LIGHT          | first="teodeey" | 27 words | line: "teodeey ar aiin okeey qetchdy oteeody..."
+  [143] f108r    | LIGHT          | first="polchal" | 27 words | line: "polchal shol qokar shedy pcholy qokal..."
+  [144] f108r    | LIGHT-DOTTED   | first="fcheokair" | 37 words | line: "fcheokair okedaiin chedy qokeed okain chdy..."
+  [145] f108r    | DARK           | first="qolshy" | 25 words | line: "qolshy qoeedy lkealshedy shokal keedy qotedy..."
+  [146] f108r    | LIGHT          | first="folaiin" | 50 words | line: "folaiin qokal lkedy qotedy qoked qotedy..."
+  [147] f108r    | LIGHT          | first="polchedy" | 16 words | line: "polchedy okedy qopchedy okeolkey teedy qotaiin..."
+  [148] f108r    | DARK           | first="keol" | 36 words | line: "keol sheody qokedy qokeedy qokoy qoiiedy..."
+  [149] f108r    | LIGHT          | first="pychory" | 19 words | line: "pychory opchey lkeol chdar shedy qofchdy..."
+  [150] f108r    | DARK           | first="tchedy" | 18 words | line: "tchedy qokey okeey lkeey chedy cheokeey..."
+  [151] f108r    | LIGHT          | first="poro" | 32 words | line: "poro tedo lchdain qokar otedy otarar..."
+  [152] f108r    | LIGHT          | first="okeey" | 26 words | line: "okeey qokeey qokeedy qokeey chedal chedy..."
+  [153] f108r    | LIGHT          | first="dain" | 32 words | line: "dain sheckhy okeey keey lchedy okeey..."
+  [154] f108r    | DARK           | first="pcheedy" | 31 words | line: "pcheedy qokeo okeol keol dain ar..."
+  [155] f108v    | LIGHT-DOTTED   | first="pchedal" | 41 words | line: "pchedal qokeedar otedy qokeedy lky ltal..."
+  [156] f108v    | LIGHT          | first="polaiin" | 20 words | line: "polaiin okedain okal otchedy qokeedy raraiin..."
+  [157] f108v    | LIGHT-DOTTED   | first="pchedaiin" | 55 words | line: "pchedaiin okedy otedal lkedeed okedar okeey..."
+  [158] f108v    | LIGHT          | first="tshedky" | 31 words | line: "tshedky sheckhy akey sheey teeody qokedy..."
+  [159] f108v    | LIGHT-DOTTED   | first="pcheor" | 47 words | line: "pcheor okear sheey qokeey ykeealkey rar..."
+  [160] f108v    | LIGHT          | first="polkeedal" | 34 words | line: "polkeedal sheo kchey lotedaiin otedy opchedaiin..."
+  [161] f108v    | LIGHT-DOTTED   | first="qokeeor" | 34 words | line: "qokeeor okeey qoeey chodaal daiin checthal..."
+  [162] f108v    | LIGHT          | first="sair" | 46 words | line: "sair okeaiin cheol shedy qokeeey dlaiin..."
+  [163] f108v    | LIGHT-DOTTED   | first="polshedaiin" | 44 words | line: "polshedaiin qokeoy keol chokeol qotedy qoteedy..."
+  [164] f108v    | LIGHT-DOTTED   | first="tolshey" | 32 words | line: "tolshey ochey qokeey qotedy choteey qokey..."
+  [165] f108v    | LIGHT          | first="sain" | 34 words | line: "sain sheor sheey sheckhey qokey okey..."
+  [166] f108v    | LIGHT-DOTTED   | first="daiin" | 31 words | line: "daiin sheeal qokeedy qokeedy qokeedy qotey..."
+  [167] f108v    | LIGHT-DOTTED   | first="shodain" | 33 words | line: "shodain cheal shedy rcheetey qokeey cheolkeedy..."
+  [168] f108v    | LIGHT-DOTTED   | first="saiin" | 21 words | line: "saiin sheeain qkain okeey qokalor cheol..."
+  [169] f108v    | LIGHT          | first="dair" | 24 words | line: "dair al checthy qol eeedy chckhey..."
+  [170] f108v    | LIGHT-DOTTED   | first="dsheey" | 39 words | line: "dsheey oteey cheol teedar okeedy qokeedy..."
+  [171] f111r    | LIGHT-DOTTED   | first="kcholchdar" | 54 words | line: "kcholchdar shar aiip chepchedy chetalshy sheek..."
+  [172] f111r    | LIGHT          | first="dain" | 26 words | line: "dain shedy qoky chedy qok shed..."
+  [173] f111r    | LIGHT-DOTTED   | first="daiin" | 22 words | line: "daiin chedain daiin cheedy qokeey qokedy..."
+  [174] f111r    | LIGHT          | first="ykeedaiin" | 35 words | line: "ykeedaiin shekain shedy qokear ochey reeey..."
+  [175] f111r    | LIGHT-DOTTED   | first="qosheo" | 48 words | line: "qosheo lchdy lshedy olkeeedy lr al..."
+  [176] f111r    | LIGHT          | first="otes" | 35 words | line: "otes lchey lshedy qoteedy olcheody qokeey..."
+  [177] f111r    | LIGHT-DOTTED   | first="qokeey" | 44 words | line: "qokeey qokeey lchedy checthy chedey cheol..."
+  [178] f111r    | LIGHT          | first="dshey" | 35 words | line: "dshey sheeckhy qokeshey keeshody qokeey qokedy..."
+  [179] f111r    | LIGHT-DOTTED   | first="soaiin" | 35 words | line: "soaiin shecthy oteodaiin chedy otedar air..."
+  [180] f111r    | LIGHT          | first="salkeedy" | 32 words | line: "salkeedy lkeedy chckhy rky chey okeeo..."
+  [181] f111r    | LIGHT-DOTTED   | first="dsheeoteey" | 23 words | line: "dsheeoteey qokeeo keey tear qoteey qotain..."
+  [182] f111r    | LIGHT          | first="teo" | 17 words | line: "teo olkeeo al lkeeey olain ar..."
+  [183] f111r    | LIGHT-DOTTED   | first="polal" | 33 words | line: "polal shedal pchedy qofchedy pykeor cheefy..."
+  [184] f111r    | LIGHT          | first="saiin" | 46 words | line: "saiin chckhedy okain oteain shok qokechdy..."
+  [185] f111r    | LIGHT-DOTTED   | first="pchedar" | 45 words | line: "pchedar oteeol lkeedain okeam sheo teolkedain..."
+  [186] f111r    | LIGHT          | first="poeokeey" | 31 words | line: "poeokeey lkeedy tedain shecthy qokeedy chckhy..."
+  [187] f111r    | LIGHT-DOTTED   | first="polkeeo" | 38 words | line: "polkeeo shey cheokeain chl kar aiin..."
+  [188] f111v    | LIGHT-DOTTED   | first="koshey" | 33 words | line: "koshey qokal chckheal opcheodair alkain sheokain..."
+  [189] f111v    | LIGHT          | first="daiin" | 23 words | line: "daiin chey chokedair air alo lshedy..."
+  [190] f111v    | LIGHT-DOTTED   | first="okeeo" | 22 words | line: "okeeo okchor oteedy cheal qokeey lkeey..."
+  [191] f111v    | LIGHT          | first="sho" | 36 words | line: "sho otchey cheol kechy chcthey okain..."
+  [192] f111v    | LIGHT-DOTTED   | first="lcheey" | 21 words | line: "lcheey shear aiin sheear otain otedy..."
+  [193] f111v    | LIGHT          | first="sheaiin" | 36 words | line: "sheaiin okaiin shckhy cheol kedy chetar..."
+  [194] f111v    | LIGHT-DOTTED   | first="qokain" | 25 words | line: "qokain sheol qokain shckhey lchedy okar..."
+  [195] f111v    | LIGHT          | first="tais" | 32 words | line: "tais shedy qoeedaiin okain kaiin shey..."
+  [196] f111v    | LIGHT-DOTTED   | first="sair" | 37 words | line: "sair air ain qol rar ain..."
+  [197] f111v    | LIGHT          | first="cheodain" | 14 words | line: "cheodain qokar otain chedy lkain chey..."
+  [198] f111v    | LIGHT-DOTTED   | first="polar" | 28 words | line: "polar ar okshey qokain chey kal..."
+  [199] f111v    | LIGHT          | first="polkiin" | 21 words | line: "polkiin cheopaiin otain shedy pchedy opcheedy..."
+  [200] f111v    | LIGHT-DOTTED   | first="pochey" | 12 words | line: "pochey oteain chekain cheal lain chey..."
+  [201] f111v    | LIGHT          | first="tar" | 21 words | line: "tar chey tain chkar alkar chey..."
+  [202] f111v    | LIGHT-DOTTED   | first="polar" | 32 words | line: "polar okar teody qokain talol tarol..."
+  [203] f111v    | LIGHT          | first="polchey" | 32 words | line: "polchey lkarshar ykain qokain shalky dy..."
+  [204] f111v    | LIGHT-DOTTED   | first="ykeeey" | 46 words | line: "ykeeey lkain chckhy chokain chckhal sheckhedy..."
+  [205] f111v    | LIGHT          | first="pollaiin" | 29 words | line: "pollaiin okain sheal pchedain opchey polshy..."
+  [206] f111v    | LIGHT-DOTTED   | first="psalar" | 42 words | line: "psalar cheey qekal cheykaiin tain chal..."
+  [207] f112r    | LIGHT-DOTTED   | first="folchey" | 31 words | line: "folchey qokeey ykair arally oteedal or..."
+  [208] f112r    | LIGHT          | first="otair" | 42 words | line: "otair kody otody otal okeeey otar..."
+  [209] f112r    | LIGHT-DOTTED   | first="tchedy" | 33 words | line: "tchedy qoteey qeol qokeey otey qokeey..."
+  [210] f112r    | LIGHT          | first="poar" | 37 words | line: "poar alchar octhy otedy qokeedy okedy..."
+  [211] f112r    | LIGHT-DOTTED   | first="polchdy" | 33 words | line: "polchdy otal raiin sheky qeey qokey..."
+  [212] f112r    | LIGHT          | first="qoain" | 33 words | line: "qoain qoiin olcheedy dairiy teedy qopol..."
+  [213] f112r    | LIGHT-DOTTED   | first="pcholkeedy" | 36 words | line: "pcholkeedy okchoiiin aky opchedy kolfchdy opchedy..."
+  [214] f112r    | LIGHT          | first="pair" | 22 words | line: "pair al keolor okaiin otain oteey..."
+  [215] f112r    | LIGHT-DOTTED   | first="sarol" | 34 words | line: "sarol okcheey cphedy shckhey okeeor chedy..."
+  [216] f112r    | LIGHT          | first="pam" | 18 words | line: "pam okaiin olkedy okedy okeey okeedy..."
+  [217] f112r    | LIGHT-DOTTED   | first="polkeedy" | 28 words | line: "polkeedy qopal otedy opal aiin okaiiin..."
+  [218] f112r    | LIGHT          | first="pol" | 38 words | line: "pol ar shedy qokaiin okeedy qotal..."
+  [219] f112v    | LIGHT-DOTTED   | first="keeoal" | 51 words | line: "keeoal chool opal otalair fcheol oteey..."
+  [220] f112v    | LIGHT          | first="pcheokeey" | 29 words | line: "pcheokeey oeeeky qoteedy oees aiin oteor..."
+  [221] f112v    | LIGHT-DOTTED   | first="tchor" | 34 words | line: "tchor aiin odeedy oteeey qokey lody..."
+  [222] f112v    | LIGHT          | first="pchodain" | 45 words | line: "pchodain okeedy qokeedy olkeedy qokain sheey..."
+  [223] f112v    | LIGHT-DOTTED   | first="pchoraiin" | 24 words | line: "pchoraiin ar alchedy olkeedy qokedy qotaiin..."
+  [224] f112v    | LIGHT          | first="ycheol" | 35 words | line: "ycheol keeor olkeeey chedain ol cheedaiin..."
+  [225] f112v    | LIGHT-DOTTED   | first="pchodain" | 28 words | line: "pchodain aiin teeedy qoeey okeedy qokeear..."
+  [226] f112v    | LIGHT          | first="polor" | 15 words | line: "polor sheedy okeedey sal aiin sheedar..."
+  [227] f112v    | LIGHT-DOTTED   | first="tchedor" | 34 words | line: "tchedor shee keedy otedar checphey qopchedy..."
+  [228] f112v    | LIGHT          | first="tchede" | 33 words | line: "tchede okeey lky shedaiiin chdy qokeedy..."
+  [229] f112v    | LIGHT-DOTTED   | first="teodarody" | 23 words | line: "teodarody opcheed okaiin chaiin otam oteedy..."
+  [230] f112v    | LIGHT          | first="poly" | 31 words | line: "poly keedain she kchdy chotshe otechy..."
+  [231] f112v    | LIGHT-DOTTED   | first="ycheey" | 30 words | line: "ycheey chokeey okasal tchdy oteol chcthy..."
+  [232] f113r    | LIGHT          | first="pcheschy" | 29 words | line: "pcheschy ypcheedy fchdy chetar qopchedaiin oteey..."
+  [233] f113r    | LIGHT-DOTTED   | first="kcheeos" | 48 words | line: "kcheeos olkeedy shoaiin cheeody qokchedy chckhody..."
+  [234] f113r    | LIGHT          | first="pchosos" | 22 words | line: "pchosos cheoarkeeol qokeey lkchey qokar chos..."
+  [235] f113r    | LIGHT-DOTTED   | first="pcheody" | 34 words | line: "pcheody qokeody cheoar chy kcheeor ety..."
+  [236] f113r    | LIGHT          | first="polchor" | 26 words | line: "polchor cheody qotedy lkeches keeol lkcheol..."
+  [237] f113r    | LIGHT-DOTTED   | first="pcheoor" | 40 words | line: "pcheoor olkeedy qokeedy shdy qofchedy chcfhor..."
+  [238] f113r    | LIGHT          | first="kshoraiin" | 30 words | line: "kshoraiin qokeeoar shoteol lklcheol qokar chdain..."
+  [239] f113r    | LIGHT-DOTTED   | first="ykeoeshy" | 38 words | line: "ykeoeshy qokaiin chal kiin chckhey lkchey..."
+  [240] f113r    | LIGHT          | first="tchol" | 34 words | line: "tchol chol lsheol shor kcheey raiin..."
+  [241] f113r    | LIGHT-DOTTED   | first="folchear" | 39 words | line: "folchear oteol lshedy lkshedy sheeeky otar..."
+  [242] f113r    | LIGHT          | first="palshsar" | 25 words | line: "palshsar lshdaiin otshsaiin shocfhy qopchear shkair..."
+  [243] f113r    | LIGHT-DOTTED   | first="tshedy" | 17 words | line: "tshedy qokaiin shedar sheocphy okchdy pcheody..."
+  [244] f113r    | LIGHT          | first="pcheockhy" | 33 words | line: "pcheockhy kchey qofsheeey lkeody kcheodaiin por..."
+  [245] f113r    | LIGHT-DOTTED   | first="pcheodaiin" | 27 words | line: "pcheodaiin sholkeechy ar alkar otchedy cheol..."
+  [246] f113r    | LIGHT          | first="tchodairos" | 31 words | line: "tchodairos or chey qotaiin opchey chtaiir..."
+  [247] f113r    | LIGHT-DOTTED   | first="tcho" | 39 words | line: "tcho arorshy qokaiin shey chckhhy sheolkchy..."
+  [248] f113v    | LIGHT-DOTTED   | first="folorarom" | 35 words | line: "folorarom otchey qotar air otair opchedy..."
+  [249] f113v    | LIGHT          | first="fchoctheody" | 28 words | line: "fchoctheody keeodar oteedy rchedy qokechy otcher..."
+  [250] f113v    | LIGHT-DOTTED   | first="fcheshd" | 30 words | line: "fcheshd teody lkeeody oteedy lchealaim shockhol..."
+  [251] f113v    | LIGHT          | first="polaiin" | 31 words | line: "polaiin oteol otedyar aral kedy qokeedy..."
+  [252] f113v    | LIGHT-DOTTED   | first="poraiin" | 53 words | line: "poraiin otar ar okol shedy qokchedy..."
+  [253] f113v    | LIGHT          | first="pychdar" | 29 words | line: "pychdar chckhedy otshedy tcheepchey lky lkches..."
+  [254] f113v    | LIGHT-DOTTED   | first="polaiin" | 40 words | line: "polaiin otar qotain chtol tarol cheol..."
+  [255] f113v    | LIGHT          | first="tokary" | 28 words | line: "tokary lkchey lkeedy otey pcheol qopchey..."
+  [256] f113v    | LIGHT-DOTTED   | first="paiir" | 51 words | line: "paiir oteey kaiin arash opheey cphedy..."
+  [257] f113v    | LIGHT          | first="polsairy" | 24 words | line: "polsairy oteo qokeedy qokaiin okal qofcheol..."
+  [258] f113v    | LIGHT-DOTTED   | first="ofaral" | 17 words | line: "ofaral olkaiin okar okeeedy tshedy qokeedy..."
+  [259] f113v    | LIGHT          | first="pcholky" | 38 words | line: "pcholky otar airol okeedy chokor sheedy..."
+  [260] f113v    | LIGHT-DOTTED   | first="pol" | 30 words | line: "pol keeo dy qoeees aiin or..."
+  [261] f113v    | LIGHT          | first="polaiin" | 16 words | line: "polaiin arol shear okeeeody ls ar..."
+  [262] f113v    | LIGHT-DOTTED   | first="polaiin" | 32 words | line: "polaiin ksheeol lkaiin tair shey qotain..."
+  [263] f114r    | LIGHT-DOTTED   | first="tchedol" | 21 words | line: "tchedol dairor pcheos ytaiin otody yteeed..."
+  [264] f114r    | LIGHT          | first="fdeechdy" | 40 words | line: "fdeechdy opchedaiin ypchedy odaly chedy qop..."
+  [265] f114r    | LIGHT-DOTTED   | first="fchey" | 27 words | line: "fchey dam okchedam qokeedaiin otairar okchedy..."
+  [266] f114r    | LIGHT          | first="dalchy" | 26 words | line: "dalchy kolky qoedaiin dolor shedy qokchdy..."
+  [267] f114r    | LIGHT-DOTTED   | first="solpchd" | 52 words | line: "solpchd oiin chcthdy qodair ol daldy..."
+  [268] f114r    | LIGHT          | first="pairody" | 29 words | line: "pairody shedar qopchdy dchedy dol qopchedy..."
+  [269] f114r    | LIGHT-DOTTED   | first="tchedair" | 33 words | line: "tchedair shodaiin dair kchedy qopchdy chdy..."
+  [270] f114r    | LIGHT          | first="oaiil" | 31 words | line: "oaiil chey qokeedy chedy qoeey qokodaiin..."
+  [271] f114r    | LIGHT-DOTTED   | first="pchedairs" | 45 words | line: "pchedairs oeail chotar qokeedair olkaiin opdaiin..."
+  [272] f114r    | LIGHT          | first="tcheodaiin" | 29 words | line: "tcheodaiin chaiin qokaiin otaiin otalkain otchedain..."
+  [273] f114r    | LIGHT-DOTTED   | first="pcheos" | 43 words | line: "pcheos air oy sheo qokohey sheekas..."
+  [274] f114r    | LIGHT          | first="todaiin" | 28 words | line: "todaiin cheoltchedaiin daiin okar qoeedain qcho..."
+  [275] f114r    | LIGHT-DOTTED   | first="poedair" | 39 words | line: "poedair qotol qodaiin otaiin qotar qotchey..."
+  [276] f114v    | LIGHT          | first="pchdol" | 48 words | line: "pchdol dar chedain chodalr fcheey dchedy..."
+  [277] f114v    | LIGHT-DOTTED   | first="tedcheo" | 19 words | line: "tedcheo cheo cthedy qotchedy qotaiin opchedy..."
+  [278] f114v    | LIGHT          | first="pchedchdy" | 27 words | line: "pchedchdy qoteedy qokedain chdaiin qokedy chedain..."
+  [279] f114v    | LIGHT-DOTTED   | first="tchedy" | 25 words | line: "tchedy qotaiin chdy qotedy tedaiin chepched..."
+  [280] f114v    | LIGHT          | first="tsheodar" | 38 words | line: "tsheodar cheo ckhor qopchedy qopchedy qokchedy..."
+  [281] f114v    | LIGHT-DOTTED   | first="dorkcheky" | 12 words | line: "dorkcheky cheo aiin qotaiin otody qokalsheody..."
+  [282] f114v    | LIGHT          | first="tshedain" | 28 words | line: "tshedain qotchody qokol shedy qokchedy daiin..."
+  [283] f114v    | LIGHT-DOTTED   | first="pshedy" | 23 words | line: "pshedy qopcheos okaiin qotchedy qotchdar cheeos..."
+  [284] f114v    | LIGHT          | first="pcheodal" | 25 words | line: "pcheodal chopcheod qoto araiin qota cheo..."
+  [285] f114v    | LIGHT-DOTTED   | first="pchdair" | 33 words | line: "pchdair sho qopchey otcheed chedy qopcheo..."
+  [286] f114v    | LIGHT          | first="kaiin" | 27 words | line: "kaiin sheey oaiin sheol qoteey qokeeedy..."
+  [287] f114v    | LIGHT-DOTTED   | first="tshey" | 55 words | line: "tshey oidal op shoko otchey qopchol..."
+  [288] f115r    | LIGHT-DOTTED   | first="qopchol" | 31 words | line: "qopchol qochedain otedy cheop ol teeedy..."
+  [289] f115r    | LIGHT          | first="dchedain" | 42 words | line: "dchedain qokeedy olkeechdy chor chey kchor..."
+  [290] f115r    | LIGHT-DOTTED   | first="kcheor" | 23 words | line: "kcheor cheol orair ot chedar lor..."
+  [291] f115r    | LIGHT          | first="tchedy" | 30 words | line: "tchedy kechedy qokchey keedy qokor chedaiin..."
+  [292] f115r    | LIGHT-DOTTED   | first="tchedy" | 62 words | line: "tchedy qoolkeedy qokchedy qotchd lpchedy qotcho..."
+  [293] f115r    | LIGHT-DOTTED   | first="pcheodain" | 32 words | line: "pcheodain qokchey qotchedy darailchedy polchedy chol..."
+  [294] f115r    | LIGHT          | first="psheody" | 44 words | line: "psheody chsho tchdy dar chedy okchdar..."
+  [295] f115r    | LIGHT-DOTTED   | first="ksheoary" | 30 words | line: "ksheoary otchey qoteeo ar aiiin chotchdy..."
+  [296] f115r    | LIGHT          | first="fshedy" | 56 words | line: "fshedy shdalky cheedar qopchedy qopchedyd lksho..."
+  [297] f115r    | LIGHT-DOTTED   | first="posheos" | 20 words | line: "posheos aral chaiin shkchedy otais chsi..."
+  [298] f115r    | LIGHT          | first="sorols" | 27 words | line: "sorols cheos lkshey qokcho raiin chkshy..."
+  [299] f115r    | LIGHT-DOTTED   | first="paiinody" | 15 words | line: "paiinody lkcheo lchy qokchedy qokl sheedy..."
+  [300] f115r    | LIGHT          | first="tcheodl" | 36 words | line: "tcheodl raiin chkar qokol lchdy qorshy..."
+  [301] f115v    | LIGHT-DOTTED   | first="tchedor" | 46 words | line: "tchedor otchedy qotees ytain qoty qotar..."
+  [302] f115v    | LIGHT          | first="pchody" | 20 words | line: "pchody odaiin chcphy qokchdain qotain qokor..."
+  [303] f115v    | LIGHT-DOTTED   | first="tchoros" | 27 words | line: "tchoros sheol qotchs olchees otchdy qotol..."
+  [304] f115v    | LIGHT          | first="tchdor" | 12 words | line: "tchdor shorail chodaiin chkol chkchol qotched..."
+  [305] f115v    | LIGHT-DOTTED   | first="pchdarody" | 48 words | line: "pchdarody pcheed rar tcheody polched lpchdy..."
+  [306] f115v    | LIGHT          | first="pchodain" | 26 words | line: "pchodain chotain choky lchain lpchdain dalchedy..."
+  [307] f115v    | LIGHT-DOTTED   | first="tshedy" | 25 words | line: "tshedy sheolkeedy lkeeshdy cheeo lor eees..."
+  [308] f115v    | LIGHT          | first="pcheo" | 42 words | line: "pcheo cheeody qoteeotchy soin opchees chpcheod..."
+  [309] f115v    | LIGHT-DOTTED   | first="chey" | 26 words | line: "chey lcho lor chedy chol chedy..."
+  [310] f115v    | LIGHT          | first="pchdair" | 24 words | line: "pchdair opchedy qopor iirchal sheey qotain..."
+  [311] f115v    | LIGHT-DOTTED   | first="taiin" | 26 words | line: "taiin sheckeey lchckhy ldar shdar qotchdy..."
+  [312] f115v    | LIGHT          | first="tshar" | 34 words | line: "tshar shor shckhhy olkeeo lkeedol ltchdy..."
+  [313] f115v    | LIGHT-DOTTED   | first="dcheodl" | 43 words | line: "dcheodl sheo kolchey fchedol shedy qotoee..."
+  [314] f116r    | LIGHT          | first="kchdpy" | 31 words | line: "kchdpy shey qokain qoteey shear ain..."
+  [315] f116r    | LIGHT-DOTTED   | first="padar" | 33 words | line: "padar shey osheeky qol laiin chckhy..."
+  [316] f116r    | LIGHT          | first="pcholchdy" | 25 words | line: "pcholchdy teody otey qo qokain qoteey..."
+  [317] f116r    | LIGHT-DOTTED   | first="checkhy" | 32 words | line: "checkhy dar shedy qokeedy shdy rain..."
+  [318] f116r    | LIGHT          | first="sar" | 15 words | line: "sar ain tey chetain okey chedy..."
+  [319] f116r    | LIGHT-DOTTED   | first="pchoetal" | 32 words | line: "pchoetal otedal otal oteedy olr daiin..."
+  [320] f116r    | LIGHT          | first="pcharalor" | 36 words | line: "pcharalor qokey ain otedy opain lor..."
+  [321] f116r    | LIGHT-DOTTED   | first="sairol" | 37 words | line: "sairol sheey qokain chal qol chl..."
+  [322] f116r    | LIGHT          | first="qokedy" | 34 words | line: "qokedy okain chcthy oty shedy qokeey..."
+  [323] f116r    | LIGHT-DOTTED   | first="daiin" | 244 words | line: "daiin chey qokey lshedy orain chckhy..."
+
+════════════════════════════════════════════════════════════════════════
+TEST A — First-Character Concentration
+════════════════════════════════════════════════════════════════════════
+
+Question: How concentrated is the first-character distribution
+in recipe paragraphs? Is the most-common first char unusually
+dominant compared to non-recipe sections?
+
+Recipe section: 323 paragraphs, 12 unique first chars
+  Most common: "p" = 146 (45.2%)
+  Top 3 cover: 71.8%
+  Entropy: 2.554 bits
+  Full distribution: {'p': 146, 't': 66, 'k': 20, 's': 19, 'd': 17, 'f': 14, 'o': 13, 'q': 13, 'y': 8, 'c': 3, 'a': 2, 'l': 2}
+
+Non-recipe VMS: 641 paragraphs, 14 unique first chars
+  Most common: "p" = 193 (30.1%)
+  Top 3 cover: 70.0%
+  Entropy: 2.786 bits
+  Full distribution: {'p': 193, 'o': 135, 't': 121, 'k': 64, 'c': 31, 's': 24, 'd': 21, 'q': 19, 'f': 17, 'y': 12, 'l': 1, 'r': 1, 'a': 1, 'e': 1}
+
+Shuffled baseline (random word from recipe vocabulary as first word):
+  Mean top-1 concentration: 23.0% (±2.1)
+  Mean top-3 concentration: 57.7% (±2.6)
+  Mean entropy: 3.134 (±0.061)
+
+P-value (top-1 ≥ observed): 0.0000
+Anomalous? (>2σ above shuffled): YES
+
+════════════════════════════════════════════════════════════════════════
+TEST B — First-Word Repetition
+════════════════════════════════════════════════════════════════════════
+
+Question: Is the first-word vocabulary of recipe paragraphs
+unusually compressed (fewer unique types than expected)?
+
+Recipe: 323 paragraphs, 275 unique first words, TTR = 0.851
+  Top 15 first words:
+    "tchedy": 6 (1.9%)
+    "pol": 5 (1.5%)
+    "polaiin": 5 (1.5%)
+    "pcheor": 4 (1.2%)
+    "daiin": 4 (1.2%)
+    "pchedal": 3 (0.9%)
+    "polchedy": 3 (0.9%)
+    "qokeey": 3 (0.9%)
+    "psheody": 3 (0.9%)
+    "saiin": 3 (0.9%)
+    "tshedy": 3 (0.9%)
+    "pchodain": 3 (0.9%)
+    "pchedy": 2 (0.6%)
+    "tshey": 2 (0.6%)
+    "tol": 2 (0.6%)
+
+Non-recipe: 641 paragraphs, 491 unique first words, TTR = 0.766
+  Top 10 first words:
+    "pcheol": 5 (0.8%)
+    "pchor": 5 (0.8%)
+    "pol": 5 (0.8%)
+    "tol": 5 (0.8%)
+    "podaiin": 5 (0.8%)
+    "tchedy": 5 (0.8%)
+    "okol": 4 (0.6%)
+    "tshol": 4 (0.6%)
+    "tchol": 4 (0.6%)
+    "tchor": 4 (0.6%)
+
+Shuffled baseline (random word from recipe vocab as first word):
+  Mean TTR: 0.710 (±0.024)
+  P(TTR ≤ observed): 1.0000
+  Significantly compressed? (>2σ below shuffled): NO
+
+First-word vocabulary vs rest-of-paragraph vocabulary:
+  First-word types: 275
+  Rest-of-paragraph types: 2842
+  Overlap: 77
+  Words ONLY appearing as first word: 198
+  First-only words: ['dalchy', 'daroal', 'dchedain', 'dcheodl', 'dorkcheky', 'dsheeoteey', 'dshol', 'fairal', 'fcheody', 'fcheokair', 'fcheshd', 'fchey', 'fchoctheody', 'fdeechdy', 'fodal', 'folaiin', 'folchear', 'folchey', 'folorarom', 'fsheda']
+
+════════════════════════════════════════════════════════════════════════
+TEST C — Star-Type × First-Character Association
+════════════════════════════════════════════════════════════════════════
+
+Question: Does the first character of a paragraph depend on
+its star type? If star types encode different reading methods,
+we might expect different first-char distributions per type.
+
+Cross-tabulation (star_type → first_char counts):
+  DARK (12): {'p': 3, 'o': 2, 't': 2, 'q': 2, 'd': 1, 'a': 1, 'k': 1}
+  DARKISH (4): {'p': 2, 't': 2}
+  LIGHT (159): {'p': 73, 't': 32, 's': 12, 'o': 9, 'k': 9, 'd': 8, 'q': 6, 'f': 5, 'y': 3, 'l': 1, 'c': 1}
+  LIGHT-DOTTED (148): {'p': 68, 't': 30, 'k': 10, 'f': 9, 'd': 8, 's': 7, 'y': 5, 'q': 5, 'o': 2, 'c': 2, 'a': 1, 'l': 1}
+
+Cross-tabulation (star_type → top first words):
+  DARK (12): [('pchedal', 1), ('oteeos', 1), ('dshol', 1), ('tchoky', 1), ('qokeey', 1), ('odeeey', 1), ('ar', 1), ('pochedy', 1)]
+  DARKISH (4): [('pchedy', 1), ('tol', 1), ('toaiin', 1), ('pchedar', 1)]
+  LIGHT (159): [('psheody', 3), ('polaiin', 3), ('polchedy', 2), ('pcheor', 2), ('saiin', 2), ('poar', 2), ('pair', 2), ('pol', 2)]
+  LIGHT-DOTTED (148): [('tchedy', 4), ('pol', 3), ('daiin', 3), ('pcheor', 2), ('polar', 2), ('tchedor', 2), ('tshedy', 2), ('polaiin', 2)]
+
+Pairwise JSD (first-char distributions between star types):
+  DARK vs DARKISH: JSD = 0.385213
+  DARK vs LIGHT: JSD = 0.191552
+  DARK vs LIGHT-DOTTED: JSD = 0.225698
+  DARKISH vs LIGHT: JSD = 0.217842
+  DARKISH vs LIGHT-DOTTED: JSD = 0.216363
+  LIGHT vs LIGHT-DOTTED: JSD = 0.022431
+
+Observed max pairwise JSD: 0.385213
+Shuffled mean max JSD: 0.402219 (±0.138800)
+P-value (shuffled ≥ observed): 0.4795
+Significant association? (p<0.05): NO
+
+════════════════════════════════════════════════════════════════════════
+TEST D — Full Vocabulary Divergence by Star Type
+════════════════════════════════════════════════════════════════════════
+
+Question: Do paragraphs under different star types use
+significantly different word vocabularies?
+
+DARK: 365 words, 218 types
+DARKISH: 103 words, 90 types
+LIGHT: 5013 words, 1856 types
+LIGHT-DOTTED: 5059 words, 1781 types
+
+Pairwise JSD (full word distributions):
+  DARK vs DARKISH: JSD = 0.755396
+  DARK vs LIGHT: JSD = 0.509274
+  DARK vs LIGHT-DOTTED: JSD = 0.505507
+  DARKISH vs LIGHT: JSD = 0.716205
+  DARKISH vs LIGHT-DOTTED: JSD = 0.719566
+  LIGHT vs LIGHT-DOTTED: JSD = 0.289695
+
+Pairwise JSD (character distributions):
+  DARK vs DARKISH: JSD = 0.014454
+  DARK vs LIGHT: JSD = 0.010885
+  DARK vs LIGHT-DOTTED: JSD = 0.011662
+  DARKISH vs LIGHT: JSD = 0.006514
+  DARKISH vs LIGHT-DOTTED: JSD = 0.006521
+  LIGHT vs LIGHT-DOTTED: JSD = 0.000472
+
+Observed max word-JSD: 0.755396
+Shuffled mean max JSD: 0.700544 (±0.042223)
+P(shuffled ≥ observed): 0.0970
+Significant vocabulary divergence? NO
+
+════════════════════════════════════════════════════════════════════════
+TEST E — Paragraph Length by Star Type
+════════════════════════════════════════════════════════════════════════
+
+DARK (12 paras): mean=30.4 words, median=31, range=[13,48]
+DARKISH (4 paras): mean=25.8 words, median=26, range=[19,32]
+LIGHT (159 paras): mean=31.5 words, median=30, range=[10,73]
+LIGHT-DOTTED (148 paras): mean=34.2 words, median=32, range=[11,244]
+
+Mean word length (characters) by star type:
+  DARK: 5.205 chars/word
+  DARKISH: 5.466 chars/word
+  LIGHT: 5.389 chars/word
+  LIGHT-DOTTED: 5.317 chars/word
+
+════════════════════════════════════════════════════════════════════════
+TEST F — Cross-Section First-Character Comparison
+════════════════════════════════════════════════════════════════════════
+
+Question: Is the recipe section first-char distribution
+unusual vs other VMS sections, or is this a VMS-wide pattern?
+
+JSD(recipe first-chars vs non-recipe first-chars): 0.080111
+
+=== Per-LINE first-word analysis (every text line, not just paragraphs) ===
+This tests if the first-word pattern is a paragraph-level effect
+or just reflects the overall word-frequency distribution.
+
+Line-initial first chars (1085 lines):
+  {'s': 177, 'd': 176, 'p': 161, 'y': 153, 'o': 134, 't': 95, 'q': 68, 'c': 56, 'k': 22, 'l': 18}
+Paragraph-initial first chars (323 paragraphs):
+  {'p': 146, 't': 66, 'k': 20, 's': 19, 'd': 17, 'f': 14, 'o': 13, 'q': 13, 'y': 8, 'c': 3}
+
+JSD(line-initial vs para-initial first chars): 0.193879
+(Low JSD → paragraph-initial chars follow same distribution as
+ line-initial chars → first-char pattern NOT paragraph-specific)
+
+Overall first-char distribution (ALL words in recipe section):
+  {'o': 2413, 'q': 1871, 'c': 1813, 's': 984, 'a': 889, 'l': 712, 'd': 477, 'k': 371, 'y': 296, 't': 246}
+
+JSD(paragraph-initial first-char vs all-words first-char): 0.464118
+(Low JSD → paragraph starters reflect general word-initial freq)
+(High JSD → paragraph starters are specifically selected)
+
+════════════════════════════════════════════════════════════════════════
+TEST G — First-Word Functional Role Analysis
+════════════════════════════════════════════════════════════════════════
+
+Question: Do first words share structural properties that
+suggest a functional role (labels, numbering, category markers)?
+
+First-word mean length: 6.41 chars
+All-word mean length: 5.35 chars
+
+First-word 2-char prefixes:
+  "po": 58 (18.0%)
+  "pc": 57 (17.6%)
+  "tc": 26 (8.0%)
+  "ts": 15 (4.6%)
+  "pa": 14 (4.3%)
+  "qo": 13 (4.0%)
+  "sa": 12 (3.7%)
+  "to": 11 (3.4%)
+  "ps": 11 (3.4%)
+  "da": 9 (2.8%)
+
+First-word 2-char suffixes:
+  "in": 52 (16.1%)
+  "dy": 47 (14.6%)
+  "ar": 40 (12.4%)
+  "ey": 28 (8.7%)
+  "or": 23 (7.1%)
+  "ol": 22 (6.8%)
+  "al": 21 (6.5%)
+  "ir": 17 (5.3%)
+  "os": 9 (2.8%)
+  "hy": 8 (2.5%)
+
+All-words 2-char prefix (top 10):
+  "qo": 1831 (17.4%)
+  "ch": 1764 (16.7%)
+  "ot": 798 (7.6%)
+  "sh": 797 (7.6%)
+  "ok": 748 (7.1%)
+  "ai": 392 (3.7%)
+  "ol": 369 (3.5%)
+  "da": 342 (3.2%)
+  "lk": 331 (3.1%)
+  "al": 230 (2.2%)
+
+Prefix enrichment in first words (first-word% / all-word%):
+  "po": first=18.0% all=0.7% ratio=24.9x
+  "pc": first=17.6% all=1.0% ratio=17.7x
+  "tc": first=8.0% all=0.6% ratio=14.4x
+  "ts": first=4.6% all=0.2% ratio=23.3x
+  "pa": first=4.3% all=0.2% ratio=19.0x
+  "qo": first=4.0% all=17.4% ratio=0.2x
+  "sa": first=3.7% all=1.1% ratio=3.2x
+  "to": first=3.4% all=0.2% ratio=15.0x
+  "ps": first=3.4% all=0.1% ratio=27.6x
+  "da": first=2.8% all=3.2% ratio=0.9x
+
+First-word types also appearing in non-first position: 77/275 (28.0%)
+
+Repeated first words spanning multiple star types:
+  "tchedy" (6x): appears under {'LIGHT-DOTTED', 'LIGHT', 'DARK'}
+  "pol" (5x): appears under {'LIGHT-DOTTED', 'LIGHT'}
+  "polaiin" (5x): appears under {'LIGHT-DOTTED', 'LIGHT'}
+  "pcheor" (4x): appears under {'LIGHT-DOTTED', 'LIGHT'}
+  "daiin" (4x): appears under {'LIGHT-DOTTED', 'LIGHT'}
+  "pchedal" (3x): appears under {'LIGHT-DOTTED', 'LIGHT', 'DARK'}
+  "polchedy" (3x): appears under {'LIGHT-DOTTED', 'LIGHT'}
+  "qokeey" (3x): appears under {'LIGHT-DOTTED', 'LIGHT', 'DARK'}
+  "saiin" (3x): appears under {'LIGHT-DOTTED', 'LIGHT'}
+  "tshedy" (3x): appears under {'LIGHT-DOTTED', 'LIGHT'}
+  "pchodain" (3x): appears under {'LIGHT-DOTTED', 'LIGHT'}
+  "pchedy" (2x): appears under {'LIGHT', 'DARKISH'}
+  "tshey" (2x): appears under {'LIGHT-DOTTED', 'LIGHT'}
+  "tol" (2x): appears under {'LIGHT', 'DARKISH'}
+  "pchedar" (2x): appears under {'LIGHT-DOTTED', 'DARKISH'}
+  "okeeo" (2x): appears under {'LIGHT-DOTTED', 'LIGHT'}
+  "tar" (2x): appears under {'LIGHT-DOTTED', 'LIGHT'}
+  "pcholky" (2x): appears under {'LIGHT-DOTTED', 'LIGHT'}
+  "poraiin" (2x): appears under {'LIGHT-DOTTED', 'LIGHT'}
+  "sair" (2x): appears under {'LIGHT-DOTTED', 'LIGHT'}
+  "pchdair" (2x): appears under {'LIGHT-DOTTED', 'LIGHT'}
+
+Repeated first words locked to single star type:
+  "psheody" (3x): always under LIGHT
+  "poar" (2x): always under LIGHT
+  "pair" (2x): always under LIGHT
+  "dain" (2x): always under LIGHT
+  "polar" (2x): always under LIGHT-DOTTED
+  "tchedor" (2x): always under LIGHT-DOTTED
+
+════════════════════════════════════════════════════════════════════════
+TEST H — Alternating Dotted/Plain Pattern
+════════════════════════════════════════════════════════════════════════
+
+Later recipe folios show a nearly perfect alternation between
+LIGHT-DOTTED and LIGHT stars. Does this alternation correlate
+with any textual alternation?
+
+Late folios (f104v+): 276 paragraphs
+Alternation breaks (same star type consecutive): 21/275
+
+DOTTED: 139 paras, PLAIN: 137 paras
+
+Word count (dotted): mean=34.5, median=32
+Word count (plain):  mean=31.8, median=31
+
+Dotted first chars: {'p': 62, 't': 29, 'k': 10, 'd': 8, 'f': 8, 's': 7, 'q': 5, 'y': 4, 'o': 2, 'c': 2, 'a': 1, 'l': 1}
+Plain first chars:  {'p': 64, 't': 28, 's': 11, 'k': 9, 'd': 7, 'o': 5, 'f': 5, 'y': 3, 'q': 3, 'l': 1, 'c': 1}
+JSD(dotted vs plain first-chars): 0.014259
+
+Vocabulary: dotted=1723 types, plain=1698 types
+  Shared: 642, dotted-only: 1081, plain-only: 1056
+JSD(dotted vs plain full vocabulary): 0.301303
+
+════════════════════════════════════════════════════════════════════════
+SUMMARY — Phase 74 Verdicts
+════════════════════════════════════════════════════════════════════════
+
+A. First-char concentration anomalous? YES (top char "p" = 45.2%, p=0.0)
+B. First-word vocabulary compressed? NO (TTR=0.8514, shuffled=0.71, p=1.0)
+C. Star-type ↔ first-char association? NO (max JSD=0.385213, p=0.4795)
+D. Vocabulary divergence by star type? (max word-JSD=0.755396, p=0.097)
+F. Recipe vs non-recipe first-char JSD: 0.080111
+   Line-initial vs para-initial JSD: 0.193879
+   Para-initial vs all-words-initial JSD: 0.464118
+

@@ -1,0 +1,42 @@
+{
+  "vms_metrics": {
+    "label": "VMS",
+    "n_tokens": 36259,
+    "n_types": 6415,
+    "h2": 2.057928460977249,
+    "h_ratio": 0.5964652042578331,
+    "zipf_alpha": 0.9415080134769475,
+    "mean_word_len": 4.935216084282523,
+    "hapax_ratio": 0.6177708495713172,
+    "burstiness": 0.23556770686195475,
+    "slot_grammar": 0.8197206439393939
+  },
+  "cipher_metrics": {
+    "label": "Cipher",
+    "n_tokens": 36259,
+    "n_types": 203,
+    "h2": 1.9172400541697359,
+    "h_ratio": 0.69858068345532,
+    "zipf_alpha": 0.5158956069478501,
+    "mean_word_len": 8.107366446951103,
+    "hapax_ratio": 0.0,
+    "burstiness": -0.011991920138638758,
+    "slot_grammar": 0.8550091797747233
+  },
+  "source_metrics": {
+    "label": "Source (Latin)",
+    "n_tokens": 36259,
+    "n_types": 204,
+    "h2": 2.4164191703480675,
+    "h_ratio": 0.8289754189102604,
+    "zipf_alpha": 0.5141068554975771,
+    "mean_word_len": 5.516064976971235,
+    "hapax_ratio": 0.0,
+    "burstiness": -0.012180140803412143,
+    "slot_grammar": 0.6556707050065684
+  },
+  "l2_cipher_to_vms": 4.531450009031884,
+  "l2_source_to_vms": 5.11347439998364,
+  "blind_match_accuracy": 0.18181818181818182,
+  "known_table_decode_accuracy": 0.29281006095038475
+}

@@ -1,0 +1,586 @@
+╔══════════════════════════════════════════════════════════════════╗
+║  PHASE 72R: REVALIDATION WITH HONEST CONTROLS                  ║
+║  Fixing the strawman comparison — using REAL language text      ║
+╚══════════════════════════════════════════════════════════════════╝
+
+======================================================================
+SELF-CRITICISM OF PHASE 72:
+======================================================================
+
+Phase 72 compared VMS bigram O/E ratios to RANDOM letter sequences and
+declared VMS anomalous (17 bigrams with O/E>5 vs 0 in controls). This was
+a MEANINGLESS comparison. Random text has no structure BY DEFINITION.
+
+Real languages have strong digraph preferences:
+  English: th (O/E ~10-15×), qu (O/E ~20+×), ng (O/E ~8×)
+  Latin:   qu (O/E ~20+×), ae (O/E ~5×), um (O/E ~4×)
+  Italian: ch (O/E ~8×), gh (O/E ~10×), gn (O/E ~6×)
+
+The question is NOT 'is VMS more structured than random noise?'
+The question IS 'is VMS MORE structured than real natural language?'
+
+This revalidation fixes that error.
+
+Loading VMS...
+VMS: 38,732 words, 8,276 types
+Loading real language texts for comparison...
+
+  Trying English (KJV Bible)...
+  English: 38,000 words loaded
+  Trying Latin (Vulgate)...
+  Latin: 38,000 words loaded
+  Trying Italian (Dante)...
+  Italian: 38,000 words loaded
+  Trying German...
+  German: 2,935 words loaded
+  Trying Finnish (Kalevala)...
+  Finnish: 38,000 words loaded
+  Trying Turkish...
+  Turkish: 38,000 words loaded
+
+  Successfully loaded 5 language samples
+
+══════════════════════════════════════════════════════════════════════
+COMPARISON 1: BIGRAM O/E DISTRIBUTIONS
+══════════════════════════════════════════════════════════════════════
+
+                 Language  Alphabet  Bigrams   O/E>3   O/E>5   O/E>8  O/E>10  O/E>15   Max O/E
+-----------------------------------------------------------------------------------------------
+            English (KJV)        26      183      37      16       5       0       0      8.70
+       Finnish (Kalevala)        24      183      16       2       1       1       0     10.60
+          Italian (Dante)        26      176      22       9       4       4       4     60.91
+                    Latin        26      211      34      10       4       2       1     48.70
+                  Turkish        26      215      35      11       2       1       1     44.98
+                      VMS        25       92      26      16       7       3       1     19.16
+
+  English (KJV) — Top 15 bigrams by O/E (count > 100):
+    ck: O/E=8.70 (count=112)
+    nd: O/E=8.52 (count=4,393)
+    up: O/E=8.45 (count=289)
+    ve: O/E=8.15 (count=1,076)
+    jo: O/E=8.00 (count=212)
+    of: O/E=7.84 (count=1,495)
+    th: O/E=7.46 (count=6,819)
+    ll: O/E=6.93 (count=1,064)
+    ou: O/E=6.86 (count=1,281)
+    my: O/E=6.49 (count=349)
+    ja: O/E=6.12 (count=236)
+    wi: O/E=6.03 (count=735)
+    iv: O/E=5.89 (count=316)
+    an: O/E=5.84 (count=4,981)
+    ug: O/E=5.69 (count=239)
+
+  Finnish (Kalevala) — Top 15 bigrams by O/E (count > 100):
+    ng: O/E=10.60 (count=130)
+    jo: O/E=6.46 (count=1,029)
+    yy: O/E=4.18 (count=119)
+    rj: O/E=4.15 (count=270)
+    hy: O/E=4.02 (count=299)
+    yv: O/E=3.80 (count=274)
+    ja: O/E=3.74 (count=1,679)
+    ll: O/E=3.60 (count=3,579)
+    en: O/E=3.40 (count=5,700)
+    mm: O/E=3.34 (count=617)
+    ku: O/E=3.33 (count=2,038)
+    va: O/E=3.27 (count=3,324)
+    ky: O/E=3.20 (count=462)
+    uo: O/E=3.11 (count=1,875)
+    ur: O/E=3.04 (count=750)
+
+  Italian (Dante) — Top 15 bigrams by O/E (count > 100):
+    zz: O/E=60.91 (count=148)
+    qu: O/E=35.07 (count=1,332)
+    ch: O/E=21.46 (count=2,801)
+    bb: O/E=19.86 (count=156)
+    he: O/E=6.97 (count=1,815)
+    nz: O/E=6.93 (count=262)
+    fu: O/E=6.10 (count=376)
+    gg: O/E=6.06 (count=292)
+    mb: O/E=5.82 (count=177)
+    ff: O/E=4.69 (count=102)
+    di: O/E=4.60 (count=2,210)
+    ve: O/E=4.33 (count=1,251)
+    za: O/E=4.01 (count=237)
+    co: O/E=3.55 (count=2,471)
+    nd: O/E=3.49 (count=1,101)
+
+  Latin — Top 15 bigrams by O/E (count > 100):
+    qu: O/E=48.70 (count=115)
+    kk: O/E=14.71 (count=140)
+    bu: O/E=8.67 (count=532)
+    ng: O/E=8.22 (count=1,522)
+    th: O/E=7.43 (count=6,720)
+    by: O/E=6.62 (count=222)
+    of: O/E=6.57 (count=1,555)
+    bl: O/E=5.78 (count=536)
+    nd: O/E=5.63 (count=2,485)
+    ve: O/E=5.45 (count=958)
+    ou: O/E=5.00 (count=1,267)
+    ly: O/E=4.93 (count=379)
+    he: O/E=4.67 (count=5,775)
+    pp: O/E=4.64 (count=156)
+    in: O/E=4.60 (count=3,178)
+
+  Turkish — Top 15 bigrams by O/E (count > 100):
+    qu: O/E=44.98 (count=178)
+    by: O/E=9.11 (count=351)
+    th: O/E=7.67 (count=6,237)
+    ng: O/E=7.17 (count=1,186)
+    of: O/E=6.98 (count=1,977)
+    bu: O/E=6.82 (count=431)
+    ve: O/E=6.82 (count=1,087)
+    nd: O/E=6.58 (count=2,464)
+    ex: O/E=6.58 (count=206)
+    ly: O/E=5.78 (count=499)
+    ll: O/E=5.22 (count=971)
+    ch: O/E=4.91 (count=1,114)
+    wh: O/E=4.81 (count=810)
+    in: O/E=4.75 (count=2,979)
+    ou: O/E=4.70 (count=1,448)
+
+  VMS — Top 15 bigrams by O/E (count > 100):
+    in: O/E=19.16 (count=6,456)
+    am: O/E=12.34 (count=876)
+    ch: O/E=11.09 (count=11,567)
+    qo: O/E=9.19 (count=5,620)
+    ai: O/E=9.04 (count=7,242)
+    sh: O/E=8.63 (count=4,798)
+    pc: O/E=8.26 (count=809)
+    ii: O/E=7.86 (count=5,139)
+    ar: O/E=7.51 (count=3,725)
+    dy: O/E=7.17 (count=7,303)
+    fc: O/E=6.97 (count=201)
+    he: O/E=5.45 (count=8,694)
+    ot: O/E=5.24 (count=4,123)
+    ok: O/E=5.22 (count=6,389)
+    da: O/E=5.16 (count=4,452)
+
+══════════════════════════════════════════════════════════════════════
+COMPARISON 2: POSITIONAL EXCLUSIVITY
+══════════════════════════════════════════════════════════════════════
+
+  English (KJV):
+    Chars analyzed: 25
+    Mean max exclusivity: 62.1%
+    Max exclusivity: 93.3%
+    Chars >90% exclusive: 2/25
+    Chars >80% exclusive: 3/25
+    Chars >70% exclusive: 6/25
+    Most exclusive chars:
+      'v': 93.3% M (I=7% M=93% F=0%, n=1,369)
+      'j': 92.4% I (I=92% M=8% F=0%, n=514)
+      'x': 88.6% M (I=0% M=89% F=11%, n=70)
+      'i': 79.7% M (I=20% M=80% F=1%, n=7,992)
+      'd': 79.1% F (I=11% M=10% F=79%, n=9,258)
+      'w': 74.4% I (I=74% M=16% F=10%, n=3,111)
+      'n': 69.6% M (I=6% M=70% F=24%, n=11,360)
+      'y': 69.2% F (I=18% M=13% F=69%, n=2,707)
+
+  Finnish (Kalevala):
+    Chars analyzed: 23
+    Mean max exclusivity: 69.5%
+    Max exclusivity: 92.6%
+    Chars >90% exclusive: 1/23
+    Chars >80% exclusive: 6/23
+    Chars >70% exclusive: 9/23
+    Most exclusive chars:
+      'u': 92.6% M (I=4% M=93% F=4%, n=12,313)
+      'g': 86.2% M (I=7% M=86% F=7%, n=152)
+      'r': 85.7% M (I=13% M=86% F=1%, n=5,938)
+      'y': 84.8% M (I=11% M=85% F=4%, n=2,906)
+      'l': 83.8% M (I=16% M=84% F=0%, n=17,177)
+      'e': 80.3% M (I=7% M=80% F=13%, n=20,793)
+      'o': 79.9% M (I=12% M=80% F=8%, n=14,540)
+      'h': 79.2% M (I=20% M=79% F=0%, n=7,588)
+
+  Italian (Dante):
+    Chars analyzed: 22
+    Mean max exclusivity: 63.0%
+    Max exclusivity: 96.0%
+    Chars >90% exclusive: 2/22
+    Chars >80% exclusive: 2/22
+    Chars >70% exclusive: 7/22
+    Most exclusive chars:
+      'z': 96.0% M (I=2% M=96% F=2%, n=722)
+      'q': 90.5% I (I=90% M=10% F=0%, n=1,332)
+      't': 79.5% M (I=20% M=79% F=1%, n=9,577)
+      'f': 78.8% I (I=79% M=21% F=0%, n=2,161)
+      'h': 78.1% M (I=5% M=78% F=17%, n=3,107)
+      'u': 76.1% M (I=10% M=76% F=14%, n=6,117)
+      'r': 72.5% M (I=8% M=72% F=20%, n=10,756)
+      'p': 69.2% I (I=69% M=31% F=0%, n=4,653)
+
+  Latin:
+    Chars analyzed: 26
+    Mean max exclusivity: 63.9%
+    Max exclusivity: 86.0%
+    Chars >90% exclusive: 0/26
+    Chars >80% exclusive: 3/26
+    Chars >70% exclusive: 10/26
+    Most exclusive chars:
+      'v': 86.0% M (I=12% M=86% F=2%, n=1,757)
+      'u': 85.0% M (I=10% M=85% F=5%, n=4,536)
+      'z': 84.2% M (I=13% M=84% F=3%, n=76)
+      'i': 79.2% M (I=19% M=79% F=2%, n=12,629)
+      'b': 79.1% I (I=79% M=21% F=0%, n=2,989)
+      'y': 75.0% F (I=13% M=12% F=75%, n=2,480)
+      'w': 73.9% I (I=74% M=16% F=10%, n=3,266)
+      'x': 73.4% M (I=19% M=73% F=8%, n=467)
+
+  Turkish:
+    Chars analyzed: 26
+    Mean max exclusivity: 64.3%
+    Max exclusivity: 89.1%
+    Chars >90% exclusive: 0/26
+    Chars >80% exclusive: 5/26
+    Chars >70% exclusive: 7/26
+    Most exclusive chars:
+      'z': 89.1% M (I=11% M=89% F=0%, n=46)
+      'u': 87.1% M (I=12% M=87% F=1%, n=4,880)
+      'y': 82.4% F (I=9% M=8% F=82%, n=2,975)
+      'x': 81.2% M (I=6% M=81% F=13%, n=304)
+      'v': 81.1% M (I=18% M=81% F=1%, n=1,549)
+      'i': 79.8% M (I=19% M=80% F=1%, n=11,237)
+      'l': 70.5% M (I=15% M=70% F=15%, n=6,409)
+      'b': 69.6% I (I=70% M=30% F=0%, n=2,860)
+
+  VMS:
+    Chars analyzed: 20
+    Mean max exclusivity: 79.0%
+    Max exclusivity: 99.7%
+    Chars >90% exclusive: 7/20
+    Chars >80% exclusive: 11/20
+    Chars >70% exclusive: 13/20
+    Most exclusive chars:
+      'i': 99.7% M (I=0% M=100% F=0%, n=12,791)
+      'h': 99.6% M (I=0% M=100% F=0%, n=18,800)
+      'q': 99.0% I (I=99% M=1% F=0%, n=5,755)
+      'e': 99.0% M (I=1% M=99% F=0%, n=21,254)
+      'n': 97.2% F (I=0% M=3% F=97%, n=6,595)
+      'm': 94.8% F (I=0% M=5% F=95%, n=1,133)
+      'g': 90.8% F (I=1% M=8% F=91%, n=142)
+      'k': 87.9% M (I=11% M=88% F=1%, n=11,520)
+
+══════════════════════════════════════════════════════════════════════
+COMPARISON 3: CONDITIONAL ENTROPY H(next|current)
+══════════════════════════════════════════════════════════════════════
+
+  English (KJV):
+    Mean H(next|c): 2.702 bits
+    Std H(next|c):  0.666 bits
+    Min H(next|c):  1.075 bits ('v')
+    Max H(next|c):  3.841 bits ('e')
+    Range:          2.766 bits
+    H < 2.0: 4/25 chars
+    2.0 ≤ H < 3.0: 11/25 chars
+    H ≥ 3.0: 10/25 chars
+    Full ranking (low → high):
+      'v': 1.075 bits
+      'j': 1.565 bits
+      't': 1.968 bits
+      'k': 1.981 bits
+      'x': 2.043 bits
+      'h': 2.110 bits
+      'y': 2.197 bits
+      'w': 2.460 bits
+      'n': 2.468 bits
+      'z': 2.571 bits
+      'm': 2.581 bits
+      'b': 2.592 bits
+      'c': 2.755 bits
+      'f': 2.780 bits
+      'g': 2.992 bits
+      's': 3.048 bits
+      'd': 3.112 bits
+      'l': 3.115 bits
+      'p': 3.148 bits
+      'r': 3.215 bits
+      'u': 3.227 bits
+      'i': 3.419 bits
+      'a': 3.577 bits
+      'o': 3.722 bits
+      'e': 3.841 bits
+
+  Finnish (Kalevala):
+    Mean H(next|c): 2.933 bits
+    Std H(next|c):  0.579 bits
+    Min H(next|c):  1.724 bits ('j')
+    Max H(next|c):  3.626 bits ('u')
+    Range:          1.902 bits
+    H < 2.0: 2/18 chars
+    2.0 ≤ H < 3.0: 8/18 chars
+    H ≥ 3.0: 8/18 chars
+    Full ranking (low → high):
+      'j': 1.724 bits
+      'v': 1.953 bits
+      'g': 2.050 bits
+      'm': 2.521 bits
+      'p': 2.559 bits
+      't': 2.719 bits
+      'k': 2.789 bits
+      'h': 2.864 bits
+      's': 2.884 bits
+      'l': 2.985 bits
+      'e': 3.198 bits
+      'n': 3.316 bits
+      'o': 3.483 bits
+      'r': 3.483 bits
+      'i': 3.492 bits
+      'a': 3.563 bits
+      'y': 3.593 bits
+      'u': 3.626 bits
+
+  Italian (Dante):
+    Mean H(next|c): 2.699 bits
+    Std H(next|c):  0.833 bits
+    Min H(next|c):  0.000 bits ('q')
+    Max H(next|c):  3.669 bits ('i')
+    Range:          3.669 bits
+    H < 2.0: 2/21 chars
+    2.0 ≤ H < 3.0: 9/21 chars
+    H ≥ 3.0: 10/21 chars
+    Full ranking (low → high):
+      'q': 0.000 bits
+      'h': 1.129 bits
+      'z': 2.115 bits
+      'v': 2.189 bits
+      'd': 2.223 bits
+      'm': 2.580 bits
+      'c': 2.604 bits
+      'p': 2.619 bits
+      'f': 2.682 bits
+      'b': 2.746 bits
+      't': 2.768 bits
+      'l': 3.047 bits
+      'g': 3.107 bits
+      's': 3.153 bits
+      'e': 3.244 bits
+      'o': 3.265 bits
+      'r': 3.322 bits
+      'n': 3.340 bits
+      'u': 3.434 bits
+      'a': 3.446 bits
+      'i': 3.669 bits
+
+  Latin:
+    Mean H(next|c): 2.853 bits
+    Std H(next|c):  0.786 bits
+    Min H(next|c):  0.000 bits ('q')
+    Max H(next|c):  3.704 bits ('e')
+    Range:          3.704 bits
+    H < 2.0: 3/26 chars
+    2.0 ≤ H < 3.0: 8/26 chars
+    H ≥ 3.0: 15/26 chars
+    Full ranking (low → high):
+      'q': 0.000 bits
+      'z': 1.686 bits
+      'v': 1.692 bits
+      'h': 2.143 bits
+      'j': 2.205 bits
+      't': 2.487 bits
+      'y': 2.604 bits
+      'w': 2.671 bits
+      'k': 2.836 bits
+      'm': 2.943 bits
+      'f': 2.957 bits
+      'b': 3.011 bits
+      'x': 3.031 bits
+      'c': 3.096 bits
+      'p': 3.165 bits
+      'g': 3.212 bits
+      'd': 3.243 bits
+      'l': 3.299 bits
+      'n': 3.310 bits
+      's': 3.334 bits
+      'r': 3.354 bits
+      'u': 3.475 bits
+      'i': 3.517 bits
+      'a': 3.554 bits
+      'o': 3.644 bits
+      'e': 3.704 bits
+
+  Turkish:
+    Mean H(next|c): 2.806 bits
+    Std H(next|c):  0.828 bits
+    Min H(next|c):  0.000 bits ('q')
+    Max H(next|c):  3.748 bits ('e')
+    Range:          3.748 bits
+    H < 2.0: 4/25 chars
+    2.0 ≤ H < 3.0: 8/25 chars
+    H ≥ 3.0: 13/25 chars
+    Full ranking (low → high):
+      'q': 0.000 bits
+      'v': 1.468 bits
+      'j': 1.748 bits
+      'k': 1.856 bits
+      'h': 2.085 bits
+      'y': 2.382 bits
+      't': 2.561 bits
+      'm': 2.801 bits
+      'w': 2.825 bits
+      'f': 2.839 bits
+      'b': 2.840 bits
+      'c': 2.931 bits
+      'x': 3.009 bits
+      'd': 3.083 bits
+      'p': 3.167 bits
+      's': 3.258 bits
+      'g': 3.297 bits
+      'n': 3.320 bits
+      'l': 3.336 bits
+      'r': 3.440 bits
+      'i': 3.503 bits
+      'a': 3.541 bits
+      'o': 3.541 bits
+      'u': 3.573 bits
+      'e': 3.748 bits
+
+  VMS:
+    Mean H(next|c): 2.146 bits
+    Std H(next|c):  0.738 bits
+    Min H(next|c):  0.213 bits ('q')
+    Max H(next|c):  3.107 bits ('l')
+    Range:          2.894 bits
+    H < 2.0: 6/18 chars
+    2.0 ≤ H < 3.0: 11/18 chars
+    H ≥ 3.0: 1/18 chars
+    Full ranking (low → high):
+      'q': 0.213 bits
+      'c': 0.931 bits
+      's': 1.324 bits
+      'i': 1.523 bits
+      'd': 1.628 bits
+      'a': 1.941 bits
+      'p': 2.249 bits
+      'h': 2.283 bits
+      'f': 2.301 bits
+      'k': 2.382 bits
+      'r': 2.400 bits
+      'e': 2.576 bits
+      'm': 2.593 bits
+      't': 2.608 bits
+      'n': 2.748 bits
+      'y': 2.865 bits
+      'o': 2.954 bits
+      'l': 3.107 bits
+
+══════════════════════════════════════════════════════════════════════
+COMPARISON 4: BIGRAM POSITIONAL EXCLUSIVITY
+══════════════════════════════════════════════════════════════════════
+
+  English (KJV):
+    Significant bigrams (count>100): 184
+    Position-locked (>75% one pos): 91
+    Fraction locked: 49.5%
+      'io' → MID (100.0%, n=128)
+      'ic' → MID (100.0%, n=282)
+      'iv' → MID (100.0%, n=316)
+      'nc' → MID (100.0%, n=125)
+      'tl' → MID (100.0%, n=150)
+      'hr' → MID (100.0%, n=176)
+      'tt' → MID (100.0%, n=124)
+      'ty' → END (100.0%, n=153)
+      'aa' → MID (100.0%, n=150)
+      'rv' → MID (100.0%, n=128)
+
+  Finnish (Kalevala):
+    Significant bigrams (count>100): 183
+    Position-locked (>75% one pos): 110
+    Fraction locked: 60.1%
+      'je' → MID (100.0%, n=167)
+      'rm' → MID (100.0%, n=209)
+      'nn' → MID (100.0%, n=1,240)
+      'rs' → MID (100.0%, n=184)
+      'mm' → MID (100.0%, n=617)
+      'rk' → MID (100.0%, n=438)
+      'hj' → MID (100.0%, n=243)
+      'nh' → MID (100.0%, n=273)
+      'rj' → MID (100.0%, n=270)
+      'sv' → MID (100.0%, n=122)
+
+  Italian (Dante):
+    Significant bigrams (count>100): 176
+    Position-locked (>75% one pos): 87
+    Fraction locked: 49.4%
+      'rm' → MID (100.0%, n=131)
+      'rn' → MID (100.0%, n=277)
+      'zz' → MID (100.0%, n=148)
+      'rr' → MID (100.0%, n=304)
+      'gg' → MID (100.0%, n=292)
+      'rd' → MID (100.0%, n=230)
+      'ff' → MID (100.0%, n=102)
+      'ls' → MID (100.0%, n=103)
+      'cc' → MID (100.0%, n=632)
+      'lc' → MID (100.0%, n=124)
+
+  Latin:
+    Significant bigrams (count>100): 211
+    Position-locked (>75% one pos): 96
+    Fraction locked: 45.5%
+      'os' → MID (100.0%, n=297)
+      'nc' → MID (100.0%, n=496)
+      'nl' → MID (100.0%, n=103)
+      'uc' → MID (100.0%, n=116)
+      'ik' → MID (100.0%, n=219)
+      'ug' → MID (100.0%, n=208)
+      'kk' → MID (100.0%, n=140)
+      'kh' → MID (100.0%, n=150)
+      'rr' → MID (100.0%, n=154)
+      'hr' → MID (100.0%, n=117)
+
+  Turkish:
+    Significant bigrams (count>100): 216
+    Position-locked (>75% one pos): 101
+    Fraction locked: 46.8%
+      'nl' → MID (100.0%, n=151)
+      'tl' → MID (100.0%, n=199)
+      'rr' → MID (100.0%, n=173)
+      'hr' → MID (100.0%, n=117)
+      'ua' → MID (100.0%, n=120)
+      'uc' → MID (100.0%, n=318)
+      'mm' → MID (100.0%, n=185)
+      'rc' → MID (100.0%, n=191)
+      'pp' → MID (100.0%, n=112)
+      'cc' → MID (100.0%, n=111)
+
+  VMS:
+    Significant bigrams (count>100): 92
+    Position-locked (>75% one pos): 48
+    Fraction locked: 52.2%
+      'hc' → MID (100.0%, n=657)
+      'ht' → MID (100.0%, n=107)
+      'kh' → MID (99.7%, n=990)
+      'ii' → MID (99.7%, n=5,139)
+      'ph' → MID (99.6%, n=238)
+      'he' → MID (99.5%, n=8,694)
+      'th' → MID (99.3%, n=995)
+      'ec' → MID (99.3%, n=414)
+      'hk' → MID (99.1%, n=216)
+      'qo' → START (99.0%, n=5,620)
+
+══════════════════════════════════════════════════════════════════════
+REVALIDATION SUMMARY
+══════════════════════════════════════════════════════════════════════
+
+We now compare VMS against REAL language text, not random noise.
+The previous Phase 72 claims must be re-evaluated:
+
+CLAIM 1: "VMS has 16 bigrams with O/E > 5 — anomalous"
+  → Was this compared to real language? See table above.
+  → If English/Latin/Italian also have 10+ such bigrams, the claim FALLS.
+
+CLAIM 2: "9/28 VMS glyphs have >90% positional exclusivity"
+  → How many chars in English/Latin/Italian have >90%?
+  → If similar numbers, the claim is NOT distinctive.
+
+CLAIM 3: "0.925-bit entropy boundary between unit-starters and others"
+  → English 'q' also has very low H(next) because 'u' almost always follows.
+  → Is VMS's entropy range wider than real language? See data above.
+
+CLAIM 4: "48 position-locked VMS bigrams"
+  → How many in English? Italian? If similar, nothing special about VMS.
+
+The HONEST conclusion depends entirely on what the numbers above show.
+If VMS statistics fall WITHIN the range of natural languages,
+then Phase 72's cipher claims were OVERSTATED.
+

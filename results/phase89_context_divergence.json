@@ -1,0 +1,183 @@
+{
+  "phase": 89,
+  "question": "Cross-position context divergence: same unit or homographs?",
+  "min_context": 5,
+  "min_units": 3,
+  "vms_n_3plus_words": 6972,
+  "vms_suc_IM": {
+    "n_shared_types": 64,
+    "mean_jsd": 0.6525460215810817,
+    "median_jsd": 0.6233455092583788,
+    "weighted_jsd": 0.513433983986459
+  },
+  "vms_pre_MF": {
+    "n_shared_types": 69,
+    "mean_jsd": 0.6116581986232587,
+    "median_jsd": 0.5824159208845171,
+    "weighted_jsd": 0.49610581984513413
+  },
+  "vms_suc_cmi": {
+    "weighted": 0.34661995639604676,
+    "unweighted": 0.5154899364657688,
+    "n_types": 64
+  },
+  "vms_top1_concordance": 0.046875,
+  "vms_top3_concordance": 0.546875,
+  "zscores_vs_char": {
+    "suc_jsd_mean": 6.161455317485034,
+    "suc_jsd_weighted": 3.5114870017298516,
+    "pre_jsd_mean": 3.794421172150122,
+    "pre_jsd_weighted": 5.909453197371667,
+    "cmi": 4.7409402982232205,
+    "top1_concordance": -2.312633139206707
+  },
+  "zscores_vs_syl": {
+    "suc_jsd_mean": -10.646363572126731,
+    "suc_jsd_weighted": -12.808231871796352,
+    "pre_jsd_mean": -7.387530794404339,
+    "pre_jsd_weighted": -9.213450207986098,
+    "cmi": -12.923729565115185,
+    "top1_concordance": 1.1760703774339751
+  },
+  "nl_char_baselines": {
+    "English-Cury": {
+      "suc_jsd_mean": 0.29225736346422065,
+      "suc_jsd_weighted": 0.28608624648669917,
+      "pre_jsd_mean": 0.3259833025641648,
+      "suc_cmi": 0.1728844551819122,
+      "n_shared_suc": 28,
+      "top1_concordance": 0.21428571428571427
+    },
+    "French-Viandier": {
+      "suc_jsd_mean": 0.3388372856173235,
+      "suc_jsd_weighted": 0.34658666297385815,
+      "pre_jsd_mean": 0.4837155877760211,
+      "suc_cmi": 0.15755066162885628,
+      "n_shared_suc": 20,
+      "top1_concordance": 0.25
+    },
+    "German-BvgS": {
+      "suc_jsd_mean": 0.43766745996427486,
+      "suc_jsd_weighted": 0.4259506410542889,
+      "pre_jsd_mean": 0.30721302861683764,
+      "suc_cmi": 0.23972084648973568,
+      "n_shared_suc": 24,
+      "top1_concordance": 0.25
+    },
+    "German-Faust": {
+      "suc_jsd_mean": 0.34914647392055265,
+      "suc_jsd_weighted": 0.3498775550484373,
+      "pre_jsd_mean": 0.2608344608005637,
+      "suc_cmi": 0.1993950158970106,
+      "n_shared_suc": 27,
+      "top1_concordance": 0.4074074074074074
+    },
+    "Italian-Cucina": {
+      "suc_jsd_mean": 0.24800983234127347,
+      "suc_jsd_weighted": 0.24130197227472397,
+      "pre_jsd_mean": 0.43525385123409915,
+      "suc_cmi": 0.11873780809677109,
+      "n_shared_suc": 22,
+      "top1_concordance": 0.13636363636363635
+    },
+    "Latin-Apicius": {
+      "suc_jsd_mean": 0.28332148076910735,
+      "suc_jsd_weighted": 0.2760430959829255,
+      "pre_jsd_mean": 0.29927536654284287,
+      "suc_cmi": 0.1364755985951951,
+      "n_shared_suc": 23,
+      "top1_concordance": 0.13043478260869565
+    },
+    "Latin-Caesar": {
+      "suc_jsd_mean": 0.3130691714842142,
+      "suc_jsd_weighted": 0.3433508205309078,
+      "pre_jsd_mean": 0.3091303585560036,
+      "suc_cmi": 0.19248959178039002,
+      "n_shared_suc": 26,
+      "top1_concordance": 0.3076923076923077
+    },
+    "Latin-Vulgate": {
+      "suc_jsd_mean": 0.33992826197628756,
+      "suc_jsd_weighted": 0.34022782915026323,
+      "pre_jsd_mean": 0.3249016550131241,
+      "suc_cmi": 0.19233553313119536,
+      "n_shared_suc": 26,
+      "top1_concordance": 0.23076923076923078
+    }
+  },
+  "nl_syl_baselines": {
+    "English-Cury": {
+      "suc_jsd_mean": 0.9397041578186136,
+      "suc_jsd_weighted": 0.933797908903209,
+      "pre_jsd_mean": 0.9246138480731422,
+      "suc_cmi": 0.6409552406203834,
+      "n_shared_suc": 68,
+      "top1_concordance": 0.0
+    },
+    "French-Viandier": {
+      "suc_jsd_mean": 0.9948734630597492,
+      "suc_jsd_weighted": 0.9965946278821196,
+      "pre_jsd_mean": 0.9845800844566162,
+      "suc_cmi": 0.6382159008766849,
+      "n_shared_suc": 15,
+      "top1_concordance": 0.0
+    },
+    "German-BvgS": {
+      "suc_jsd_mean": 0.9109666504939161,
+      "suc_jsd_weighted": 0.9217998462628153,
+      "pre_jsd_mean": 0.9425792009928082,
+      "suc_cmi": 0.6403343594993536,
+      "n_shared_suc": 12,
+      "top1_concordance": 0.08333333333333333
+    },
+    "German-Faust": {
+      "suc_jsd_mean": 0.973487930700821,
+      "suc_jsd_weighted": 0.9652420324610796,
+      "pre_jsd_mean": 0.9242296271314187,
+      "suc_cmi": 0.6489046340088326,
+      "n_shared_suc": 44,
+      "top1_concordance": 0.0
+    },
+    "Italian-Cucina": {
+      "suc_jsd_mean": 0.9063772523764774,
+      "suc_jsd_weighted": 0.8744217329095182,
+      "pre_jsd_mean": 0.8321542365380412,
+      "suc_cmi": 0.703214459859169,
+      "n_shared_suc": 63,
+      "top1_concordance": 0.015873015873015872
+    },
+    "Latin-Apicius": {
+      "suc_jsd_mean": 0.9414864561287263,
+      "suc_jsd_weighted": 0.9239574017876123,
+      "pre_jsd_mean": 0.8936696279799375,
+      "suc_cmi": 0.6412877225167527,
+      "n_shared_suc": 66,
+      "top1_concordance": 0.015151515151515152
+    },
+    "Latin-Caesar": {
+      "suc_jsd_mean": 0.953122683030805,
+      "suc_jsd_weighted": 0.9348936208030418,
+      "pre_jsd_mean": 0.931833575357272,
+      "suc_cmi": 0.61636860409568,
+      "n_shared_suc": 81,
+      "top1_concordance": 0.012345679012345678
+    },
+    "Latin-Vulgate": {
+      "suc_jsd_mean": 0.9537337408224396,
+      "suc_jsd_weighted": 0.9323053651138574,
+      "pre_jsd_mean": 0.898742080393426,
+      "suc_cmi": 0.6428751970704194,
+      "n_shared_suc": 75,
+      "top1_concordance": 0.0
+    }
+  },
+  "null_model_suc": {
+    "observed": 0.6525460215810817,
+    "null_mean": 0.42135497766434254,
+    "null_std": 0.009643756847812053,
+    "z": 23.97313075859965
+  },
+  "mean_z_vs_char": 3.634187307958865,
+  "mean_z_vs_syl": -8.633872605665788,
+  "verdict": "CONTEXT_DIVERGENCE_BETWEEN_CHAR_AND_SYL"
+}

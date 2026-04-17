@@ -1,0 +1,271 @@
+{
+  "A": {
+    "recipe_n": 323,
+    "recipe_top_char": "p",
+    "recipe_top_pct": 45.2,
+    "recipe_top3_pct": 71.83,
+    "recipe_entropy": 2.5535,
+    "recipe_first_dist": {
+      "p": 146,
+      "t": 66,
+      "k": 20,
+      "s": 19,
+      "d": 17,
+      "f": 14,
+      "o": 13,
+      "q": 13,
+      "y": 8,
+      "c": 3,
+      "a": 2,
+      "l": 2
+    },
+    "nonrecipe_n": 641,
+    "nonrecipe_top_char": "p",
+    "nonrecipe_top_pct": 30.11,
+    "nonrecipe_top3_pct": 70.05,
+    "nonrecipe_entropy": 2.786,
+    "shuffled_mean_top1": 23.02,
+    "pval_top1": 0.0,
+    "anomalous": "True"
+  },
+  "B": {
+    "recipe_n": 323,
+    "recipe_unique_fw": 275,
+    "recipe_ttr": 0.8514,
+    "nonrecipe_ttr": 0.766,
+    "shuffled_mean_ttr": 0.71,
+    "pval_compressed": 1.0,
+    "compressed": "False",
+    "first_only_words": [
+      "dalchy",
+      "daroal",
+      "dchedain",
+      "dcheodl",
+      "dorkcheky",
+      "dsheeoteey",
+      "dshol",
+      "fairal",
+      "fcheody",
+      "fcheokair",
+      "fcheshd",
+      "fchey",
+      "fchoctheody",
+      "fdeechdy",
+      "fodal",
+      "folaiin",
+      "folchear",
+      "folchey",
+      "folorarom",
+      "fsheda"
+    ],
+    "top_first_words": [
+      [
+        "tchedy",
+        6
+      ],
+      [
+        "pol",
+        5
+      ],
+      [
+        "polaiin",
+        5
+      ],
+      [
+        "pcheor",
+        4
+      ],
+      [
+        "daiin",
+        4
+      ],
+      [
+        "pchedal",
+        3
+      ],
+      [
+        "polchedy",
+        3
+      ],
+      [
+        "qokeey",
+        3
+      ],
+      [
+        "psheody",
+        3
+      ],
+      [
+        "saiin",
+        3
+      ],
+      [
+        "tshedy",
+        3
+      ],
+      [
+        "pchodain",
+        3
+      ],
+      [
+        "pchedy",
+        2
+      ],
+      [
+        "tshey",
+        2
+      ],
+      [
+        "tol",
+        2
+      ]
+    ]
+  },
+  "C": {
+    "pairwise_jsds": {
+      "DARK vs DARKISH": 0.385213,
+      "DARK vs LIGHT": 0.191552,
+      "DARK vs LIGHT-DOTTED": 0.225698,
+      "DARKISH vs LIGHT": 0.217842,
+      "DARKISH vs LIGHT-DOTTED": 0.216363,
+      "LIGHT vs LIGHT-DOTTED": 0.022431
+    },
+    "obs_max_jsd": 0.385213,
+    "shuf_mean_max_jsd": 0.402219,
+    "pval": 0.4795,
+    "associated": "False"
+  },
+  "D": {
+    "word_jsds": {
+      "DARK vs DARKISH": 0.755396,
+      "DARK vs LIGHT": 0.509274,
+      "DARK vs LIGHT-DOTTED": 0.505507,
+      "DARKISH vs LIGHT": 0.716205,
+      "DARKISH vs LIGHT-DOTTED": 0.719566,
+      "LIGHT vs LIGHT-DOTTED": 0.289695
+    },
+    "char_jsds": {
+      "DARK vs DARKISH": 0.014454,
+      "DARK vs LIGHT": 0.010885,
+      "DARK vs LIGHT-DOTTED": 0.011662,
+      "DARKISH vs LIGHT": 0.006514,
+      "DARKISH vs LIGHT-DOTTED": 0.006521,
+      "LIGHT vs LIGHT-DOTTED": 0.000472
+    },
+    "obs_max_word_jsd": 0.755396,
+    "pval": 0.097
+  },
+  "F": {
+    "recipe_vs_nonrecipe_jsd": 0.080111,
+    "line_vs_para_jsd": 0.193879,
+    "para_vs_allwords_jsd": 0.464118
+  },
+  "G": {
+    "fw_mean_len": 6.41,
+    "aw_mean_len": 5.35,
+    "multi_star_words": {
+      "pchedal": [
+        "LIGHT-DOTTED",
+        "LIGHT",
+        "DARK"
+      ],
+      "polchedy": [
+        "LIGHT-DOTTED",
+        "LIGHT"
+      ],
+      "qokeey": [
+        "LIGHT-DOTTED",
+        "LIGHT",
+        "DARK"
+      ],
+      "pchedy": [
+        "LIGHT",
+        "DARKISH"
+      ],
+      "tshey": [
+        "LIGHT-DOTTED",
+        "LIGHT"
+      ],
+      "pol": [
+        "LIGHT-DOTTED",
+        "LIGHT"
+      ],
+      "pcheor": [
+        "LIGHT-DOTTED",
+        "LIGHT"
+      ],
+      "tol": [
+        "LIGHT",
+        "DARKISH"
+      ],
+      "pchedar": [
+        "LIGHT-DOTTED",
+        "DARKISH"
+      ],
+      "okeeo": [
+        "LIGHT-DOTTED",
+        "LIGHT"
+      ],
+      "tchedy": [
+        "LIGHT-DOTTED",
+        "LIGHT",
+        "DARK"
+      ],
+      "saiin": [
+        "LIGHT-DOTTED",
+        "LIGHT"
+      ],
+      "tar": [
+        "LIGHT-DOTTED",
+        "LIGHT"
+      ],
+      "pcholky": [
+        "LIGHT-DOTTED",
+        "LIGHT"
+      ],
+      "tshedy": [
+        "LIGHT-DOTTED",
+        "LIGHT"
+      ],
+      "poraiin": [
+        "LIGHT-DOTTED",
+        "LIGHT"
+      ],
+      "polaiin": [
+        "LIGHT-DOTTED",
+        "LIGHT"
+      ],
+      "sair": [
+        "LIGHT-DOTTED",
+        "LIGHT"
+      ],
+      "daiin": [
+        "LIGHT-DOTTED",
+        "LIGHT"
+      ],
+      "pchodain": [
+        "LIGHT-DOTTED",
+        "LIGHT"
+      ],
+      "pchdair": [
+        "LIGHT-DOTTED",
+        "LIGHT"
+      ]
+    },
+    "single_star_words": {
+      "psheody": "LIGHT",
+      "poar": "LIGHT",
+      "pair": "LIGHT",
+      "dain": "LIGHT",
+      "polar": "LIGHT-DOTTED",
+      "tchedor": "LIGHT-DOTTED"
+    }
+  },
+  "H": {
+    "n_dotted": 139,
+    "n_plain": 137,
+    "alternation_breaks": 21,
+    "dotted_vs_plain_fc_jsd": 0.014259,
+    "dotted_vs_plain_word_jsd": 0.301303
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "stability": {
+    "5": {
+      "random_h": 0.9965244118451105,
+      "freq_h": 0.9976906282872393,
+      "skel_h": 0.928597355333918,
+      "random_types": 5.0,
+      "freq_types": 5.0,
+      "skel_types": 31
+    },
+    "8": {
+      "random_h": 0.9925019707629487,
+      "freq_h": 0.9877794089149894,
+      "skel_h": 0.928597355333918,
+      "random_types": 8.0,
+      "freq_types": 8.0,
+      "skel_types": 31
+    },
+    "10": {
+      "random_h": 0.9901777109164701,
+      "freq_h": 0.9832574882502869,
+      "skel_h": 0.928597355333918,
+      "random_types": 10.0,
+      "freq_types": 10.0,
+      "skel_types": 31
+    },
+    "15": {
+      "random_h": 0.982690813033346,
+      "freq_h": 0.9842693321160257,
+      "skel_h": 0.928597355333918,
+      "random_types": 15.0,
+      "freq_types": 15.0,
+      "skel_types": 31
+    },
+    "20": {
+      "random_h": 0.9759121346772754,
+      "freq_h": 0.9650264314133497,
+      "skel_h": 0.928597355333918,
+      "random_types": 20.0,
+      "freq_types": 20.0,
+      "skel_types": 31
+    },
+    "25": {
+      "random_h": 0.9693191659145872,
+      "freq_h": 0.9565651770861641,
+      "skel_h": 0.928597355333918,
+      "random_types": 25.0,
+      "freq_types": 25.0,
+      "skel_types": 31
+    },
+    "30": {
+      "random_h": 0.9646667115503136,
+      "freq_h": 0.9524031613755404,
+      "skel_h": 0.928597355333918,
+      "random_types": 30.0,
+      "freq_types": 30.0,
+      "skel_types": 31
+    },
+    "40": {
+      "random_h": 0.9541085940670884,
+      "freq_h": 0.9382853827282691,
+      "skel_h": 0.928597355333918,
+      "random_types": 40.0,
+      "freq_types": 40.0,
+      "skel_types": 31
+    },
+    "50": {
+      "random_h": 0.9438970504228468,
+      "freq_h": 0.9191411305462006,
+      "skel_h": 0.928597355333918,
+      "random_types": 50.0,
+      "freq_types": 50.0,
+      "skel_types": 31
+    },
+    "75": {
+      "random_h": 0.9246638623889969,
+      "freq_h": 0.8998324748929039,
+      "skel_h": 0.928597355333918,
+      "random_types": 74.9,
+      "freq_types": 75.0,
+      "skel_types": 31
+    },
+    "100": {
+      "random_h": 0.9104275214760709,
+      "freq_h": 0.8798437770357851,
+      "skel_h": 0.928597355333918,
+      "random_types": 99.6,
+      "freq_types": 100.0,
+      "skel_types": 31
+    },
+    "150": {
+      "random_h": 0.8899432455720804,
+      "freq_h": 0.8554151975226992,
+      "skel_h": 0.928597355333918,
+      "random_types": 145.63333333333333,
+      "freq_types": 150.0,
+      "skel_types": 31
+    },
+    "200": {
+      "random_h": 0.8771319607663256,
+      "freq_h": 0.8403171960881942,
+      "skel_h": 0.928597355333918,
+      "random_types": 185.83333333333334,
+      "freq_types": 200.0,
+      "skel_types": 31
+    },
+    "300": {
+      "random_h": 0.8623535821833536,
+      "freq_h": 0.8262103798853492,
+      "skel_h": 0.928597355333918,
+      "random_types": 247.56666666666666,
+      "freq_types": 300.0,
+      "skel_types": 31
+    },
+    "500": {
+      "random_h": 0.8473719363602666,
+      "freq_h": 0.8182652865493846,
+      "skel_h": 0.928597355333918,
+      "random_types": 324.56666666666666,
+      "freq_types": 500.0,
+      "skel_types": 31
+    }
+  },
+  "baseline_h_ratio": 0.8176291314607953,
+  "h_ratio_range_all_methods": 0.17942534173785474,
+  "method_advantage": "SUBSTANTIAL",
+  "cluster_quality": "GOOD",
+  "within_between_ratio": 0.2877921455493234,
+  "nl_cross_check": {
+    "Latin-Caesar": {
+      "n_types": 5078,
+      "base_h_ratio": 0.5425954333738494
+    },
+    "Italian-Cucina": {
+      "n_types": 1532,
+      "base_h_ratio": 0.595882219228629
+    },
+    "English-Cury": {
+      "n_types": 4339,
+      "base_h_ratio": 0.4792138912646636
+    },
+    "French-Viandier": {
+      "n_types": 1378,
+      "base_h_ratio": 0.43742808287590074
+    }
+  },
+  "verdict": "SUPPORTED"
+}

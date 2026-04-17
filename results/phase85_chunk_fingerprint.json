@@ -1,0 +1,190 @@
+{
+  "vms_chunk": {
+    "n_tokens": 78526,
+    "n_types": 523,
+    "hapax_ratio": 0.19694072657743786,
+    "hapax_count": 103,
+    "ttr": 0.006660214451264549,
+    "h_unigram": 6.287165847684999,
+    "h_cond": 5.140569951392661,
+    "h_ratio": 0.8176291314607953,
+    "zipf_slope": -0.8755383550035969,
+    "heaps_beta": 0.35471364317777343
+  },
+  "vms_char": {
+    "h_char": 3.8475428417189312,
+    "h_cond": 2.2759746847854863,
+    "h_ratio": 0.5915397900465404
+  },
+  "vms_word": {
+    "h_unigram": 10.429623649430726,
+    "h_cond": 4.326475000033124,
+    "h_ratio": 0.4148256107275044,
+    "n_types": 8212,
+    "hapax_ratio": 0.6572089624939114
+  },
+  "nl_syllable": {
+    "Latin-Caesar": {
+      "n_tokens": 280160,
+      "n_types": 5078,
+      "hapax_ratio": 0.31173690429302875,
+      "hapax_count": 1583,
+      "ttr": 0.01812535693889206,
+      "h_unigram": 8.39114187223365,
+      "h_cond": 4.552995260666071,
+      "h_ratio": 0.5425954333738494,
+      "zipf_slope": -0.7458749398992638,
+      "heaps_beta": 0.5067757868639495,
+      "mean_syls_per_word": 1.73263407876509
+    },
+    "Latin-Vulgate": {
+      "n_tokens": 122490,
+      "n_types": 4191,
+      "hapax_ratio": 0.29205440229062274,
+      "hapax_count": 1224,
+      "ttr": 0.03421503796228263,
+      "h_unigram": 8.55127179965643,
+      "h_cond": 4.562130190446043,
+      "h_ratio": 0.533503120626962,
+      "zipf_slope": -0.7296053121688285,
+      "heaps_beta": 0.5614565631762832,
+      "mean_syls_per_word": 1.723487779825808
+    },
+    "Latin-Apicius": {
+      "n_tokens": 56743,
+      "n_types": 2512,
+      "hapax_ratio": 0.35828025477707004,
+      "hapax_count": 900,
+      "ttr": 0.044269777769945194,
+      "h_unigram": 8.598281524257024,
+      "h_cond": 4.266194202605396,
+      "h_ratio": 0.4961682390335594,
+      "zipf_slope": -0.4502492652141736,
+      "heaps_beta": 0.5316476438141958,
+      "mean_syls_per_word": 1.938804797211877
+    },
+    "Italian-Cucina": {
+      "n_tokens": 47348,
+      "n_types": 1532,
+      "hapax_ratio": 0.35052219321148825,
+      "hapax_count": 537,
+      "ttr": 0.03235617132719439,
+      "h_unigram": 7.863794296020433,
+      "h_cond": 4.68589519667009,
+      "h_ratio": 0.595882219228629,
+      "zipf_slope": -0.5182075506654882,
+      "heaps_beta": 0.45346695039389706,
+      "mean_syls_per_word": 1.9431197931628843
+    },
+    "French-Viandier": {
+      "n_tokens": 23025,
+      "n_types": 1378,
+      "hapax_ratio": 0.36429608127721336,
+      "hapax_count": 502,
+      "ttr": 0.05984799131378936,
+      "h_unigram": 8.177736201407349,
+      "h_cond": 3.5771714688464673,
+      "h_ratio": 0.43742808287590074,
+      "zipf_slope": -0.6195987347487902,
+      "heaps_beta": 0.4892478281601939,
+      "mean_syls_per_word": 1.6596986953074317
+    },
+    "English-Cury": {
+      "n_tokens": 70278,
+      "n_types": 4339,
+      "hapax_ratio": 0.38810785895367594,
+      "hapax_count": 1684,
+      "ttr": 0.061740516235521785,
+      "h_unigram": 8.903518414046665,
+      "h_cond": 4.266689705141889,
+      "h_ratio": 0.4792138912646636,
+      "zipf_slope": -0.6233180173122738,
+      "heaps_beta": 0.5926316715568026,
+      "mean_syls_per_word": 1.599553896576839
+    },
+    "German-Faust": {
+      "n_tokens": 47662,
+      "n_types": 4112,
+      "hapax_ratio": 0.45549610894941633,
+      "hapax_count": 1873,
+      "ttr": 0.0862741806890185,
+      "h_unigram": 9.308463950543588,
+      "h_cond": 4.617843988397203,
+      "h_ratio": 0.49609087094627824,
+      "zipf_slope": -0.47732438219434936,
+      "heaps_beta": 0.617598333181791,
+      "mean_syls_per_word": 1.5395200103362512
+    },
+    "German-BvgS": {
+      "n_tokens": 15434,
+      "n_types": 1842,
+      "hapax_ratio": 0.5428881650380022,
+      "hapax_count": 1000,
+      "ttr": 0.11934689646235584,
+      "h_unigram": 8.49906137490578,
+      "h_cond": 3.6130913026341904,
+      "h_ratio": 0.4251165091361921,
+      "zipf_slope": -0.6366262943316612,
+      "heaps_beta": 0.592920799723775,
+      "mean_syls_per_word": 1.5726513144487466
+    }
+  },
+  "nl_char": {
+    "Latin-Caesar": {
+      "h_char": 4.078831841816373,
+      "h_char_cond": 3.2704320723991787,
+      "h_char_ratio": 0.8018060560552062
+    },
+    "Latin-Vulgate": {
+      "h_char": 4.086235715456894,
+      "h_char_cond": 3.29754759727099,
+      "h_char_ratio": 0.8069890791658066
+    },
+    "Latin-Apicius": {
+      "h_char": 4.0416147574948695,
+      "h_char_cond": 3.3194918854120044,
+      "h_char_ratio": 0.82132812862885
+    },
+    "Italian-Cucina": {
+      "h_char": 3.9887584771193167,
+      "h_char_cond": 3.166171894996593,
+      "h_char_ratio": 0.7937737802774171
+    },
+    "French-Viandier": {
+      "h_char": 4.006021491472803,
+      "h_char_cond": 3.0224583367413107,
+      "h_char_ratio": 0.7544788122517315
+    },
+    "English-Cury": {
+      "h_char": 4.145256383940905,
+      "h_char_cond": 3.3948258756286274,
+      "h_char_ratio": 0.8189664428913221
+    },
+    "German-Faust": {
+      "h_char": 4.128551626945127,
+      "h_char_cond": 3.1943648262084974,
+      "h_char_ratio": 0.7737252951762481
+    },
+    "German-BvgS": {
+      "h_char": 4.077287115597425,
+      "h_char_cond": 3.192796752948122,
+      "h_char_ratio": 0.7830689040107731
+    }
+  },
+  "null_shuffled_grammar": {
+    "h_ratio_mean": 0.6777012215819039,
+    "h_ratio_std": 0.019933221688231827,
+    "z_h_ratio": 7.019834127541058,
+    "z_coverage": -1651451774679.0
+  },
+  "null_char_shuffled": {
+    "h_ratio_mean": 0.8716085178284119,
+    "h_ratio_std": 0.0005145495702343891,
+    "z_h_ratio": -104.90609552550538
+  },
+  "coverage_pct": 99.80679386979871,
+  "n_chunk_types": 523,
+  "chunks_per_word": 1.9460732076032812,
+  "ambiguity_pct": 1.4497781963272285,
+  "tests_passed": 3
+}

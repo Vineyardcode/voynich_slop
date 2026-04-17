@@ -1,0 +1,14 @@
+{
+  "task1_coptic_astro_matches": 135,
+  "task1_decan_matches": 75,
+  "task2_e_root_tokens": 5447,
+  "task2_e_root_unique_forms": 603,
+  "task2_e_root_prefix_suffix_combos": 70,
+  "task2_verdict": "PARSING_ARTIFACT",
+  "task3_nymph_decan_matches": 50,
+  "task3_positionally_correct": 13,
+  "task3_random_baseline": 12.0,
+  "task4_f_herbal_rate": 1.71,
+  "task4_f_nonherbal_rate": 0.94,
+  "task4_enrichment_ratio": 1.809
+}

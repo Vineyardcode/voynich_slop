@@ -1,0 +1,153 @@
+{
+  "phase": 90,
+  "question": "Cross-word chunk MI: does glyph-level anomaly persist?",
+  "vms_cross_mi": 0.7819821708645343,
+  "vms_cross_nmi": 0.147258117537692,
+  "vms_within_mi": 1.1659294806078737,
+  "vms_within_nmi": 0.2026856162989649,
+  "vms_ratio": 0.6706942262552936,
+  "vms_cross_h_y_reduction": 12.861729946395469,
+  "vms_cross_n_pairs": 25508,
+  "null_model": {
+    "mi_mean": 0.565871925248962,
+    "mi_std": 0.0048387327641653925,
+    "z_mi": 44.66257099710857,
+    "nmi_mean": 0.10625187204400156,
+    "nmi_std": 0.0008950953793712781,
+    "z_nmi": 45.812151909993695
+  },
+  "zscores_vs_char": {
+    "Cross MI": 16.086496088177658,
+    "Cross NMI": 8.841304321962616,
+    "Within MI": 3.901962132897919,
+    "Ratio (c/w)": 12.506161025711553,
+    "H(Y) red. %": 10.137554494598861
+  },
+  "zscores_vs_syl": {
+    "Cross MI": -2.8500097718439563,
+    "Cross NMI": -2.694884719800612,
+    "Within MI": -7.76738420494679,
+    "Ratio (c/w)": 0.6393515393150763,
+    "H(Y) red. %": -2.8744885635619766
+  },
+  "mean_z_char": 10.29469561266972,
+  "mean_z_syl": -3.109483144167652,
+  "nl_char_baselines": {
+    "English-Cury": {
+      "cross_mi": 0.14650780960791465,
+      "cross_nmi": 0.03915282917360783,
+      "within_mi": 0.8647346985674282,
+      "ratio": 0.16942515415494294,
+      "reduction_pct": 3.40861316079701
+    },
+    "French-Viandier": {
+      "cross_mi": 0.14396640967297536,
+      "cross_nmi": 0.047093517804133136,
+      "within_mi": 0.9161721080704668,
+      "ratio": 0.15713904451444213,
+      "reduction_pct": 3.6635630348547292
+    },
+    "German-BvgS": {
+      "cross_mi": 0.1822418074736225,
+      "cross_nmi": 0.052764604819645476,
+      "within_mi": 0.9853841962401111,
+      "ratio": 0.1849449262216655,
+      "reduction_pct": 4.425970390439416
+    },
+    "German-Faust": {
+      "cross_mi": 0.06949692802329555,
+      "cross_nmi": 0.02010365667295643,
+      "within_mi": 1.0013799396033702,
+      "ratio": 0.06940115861600155,
+      "reduction_pct": 1.6694890970006384
+    },
+    "Italian-Cucina": {
+      "cross_mi": 0.11326839020169466,
+      "cross_nmi": 0.039599023512046805,
+      "within_mi": 0.8127215728906787,
+      "ratio": 0.1393692427762474,
+      "reduction_pct": 2.787876292367737
+    },
+    "Latin-Apicius": {
+      "cross_mi": 0.0952069338266357,
+      "cross_nmi": 0.026959865828082977,
+      "within_mi": 0.7857591254938612,
+      "ratio": 0.1211655464603058,
+      "reduction_pct": 2.393923822370229
+    },
+    "Latin-Caesar": {
+      "cross_mi": 0.07029103033784345,
+      "cross_nmi": 0.019440775551186,
+      "within_mi": 0.8689629330730861,
+      "ratio": 0.08089071197693017,
+      "reduction_pct": 1.7832579628029286
+    },
+    "Latin-Vulgate": {
+      "cross_mi": 0.05690355721965279,
+      "cross_nmi": 0.016024916715056115,
+      "within_mi": 0.8610871637222601,
+      "ratio": 0.06608338809008978,
+      "reduction_pct": 1.4216581390407494
+    }
+  },
+  "nl_syl_baselines": {
+    "English-Cury": {
+      "cross_mi": 3.597035063459046,
+      "cross_nmi": 0.4847902183334988,
+      "within_mi": 5.260164527210378,
+      "ratio": 0.6838255809018697,
+      "reduction_pct": 48.479021833349876
+    },
+    "French-Viandier": {
+      "cross_mi": 2.991734326778694,
+      "cross_nmi": 0.4537997131223452,
+      "within_mi": 5.35395480274391,
+      "ratio": 0.55878961197906,
+      "reduction_pct": 45.379971312234524
+    },
+    "German-BvgS": {
+      "cross_mi": 4.0733798937017465,
+      "cross_nmi": 0.5939279592665523,
+      "within_mi": 5.412848603485015,
+      "ratio": 0.7525390403639105,
+      "reduction_pct": 59.39279592665523
+    },
+    "German-Faust": {
+      "cross_mi": 4.189886269092639,
+      "cross_nmi": 0.5367174944210651,
+      "within_mi": 5.579641437451034,
+      "ratio": 0.7509239287259145,
+      "reduction_pct": 53.6717494421065
+    },
+    "Italian-Cucina": {
+      "cross_mi": 2.0340758402118144,
+      "cross_nmi": 0.30034611494781965,
+      "within_mi": 3.8668585910914075,
+      "ratio": 0.5260279868775092,
+      "reduction_pct": 30.034611494781963
+    },
+    "Latin-Apicius": {
+      "cross_mi": 2.9538424728988204,
+      "cross_nmi": 0.4143002240666764,
+      "within_mi": 4.990270407742395,
+      "ratio": 0.5919203232586233,
+      "reduction_pct": 41.43002240666764
+    },
+    "Latin-Caesar": {
+      "cross_mi": 2.0495617642629504,
+      "cross_nmi": 0.290196759111511,
+      "within_mi": 4.959506334817814,
+      "ratio": 0.41325922902329365,
+      "reduction_pct": 29.019675911151097
+    },
+    "Latin-Vulgate": {
+      "cross_mi": 2.460671432848164,
+      "cross_nmi": 0.3415713433886791,
+      "within_mi": 4.880215317630908,
+      "ratio": 0.5042137022025276,
+      "reduction_pct": 34.15713433886791
+    }
+  },
+  "mi_concentration_top20_pct": 10.006072273566547,
+  "verdict": "CROSS_WORD_MI_BELOW_NL"
+}

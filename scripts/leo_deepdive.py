@@ -1,3 +1,8 @@
+# Helper to ensure ASCII-safe output for all fields
+def ascii_safe(s):
+    if isinstance(s, str):
+        return s.encode('ascii', 'replace').decode()
+    return str(s)
 #!/usr/bin/env python3
 """
 Voynich Manuscript — Phase 16a: Leo Folio Deep-Dive
@@ -74,11 +79,11 @@ def full_decompose(word):
         "original": word,
         "stripped": stripped,
         "collapsed": collapsed,
-        "prefix": prefix or "∅",
+        "prefix": prefix or "-",
         "root": root,
-        "suffix": suffix or "∅",
+        "suffix": suffix or "-",
         "gallows": gal_bases,
-        "determinative": gal_bases[0] if gal_bases else "∅"
+        "determinative": gal_bases[0] if gal_bases else "-"
     }
 
 def consonant_skeleton(word):
@@ -406,24 +411,28 @@ def analysis_1_full_decomposition(leo_data):
     print(f"  Ring text: {len(ring_words)} words")
     
     # Show all nymph label decompositions
-    print(f"\n  ── Nymph Label Decompositions (outer ring = 1-19, inner = 21-32) ──")
+    print(f"\n  -- Nymph Label Decompositions (outer ring = 1-19, inner = 21-32) --")
     for d in nymph_words:
         ring = "OUTER" if d["nymph_num"] and int(d["nymph_num"]) < 20 else "INNER"
-        mark = " ★" if d["root"] == "esed" else ""
+        mark = " *" if d["root"] == "esed" else ""
+        # Replace Unicode empty set with ASCII '-'
+        det = d['determinative'] if d['determinative'] != '-' else '-'
+        pf = d['prefix'] if d['prefix'] != '-' else '-'
+        sf = d['suffix'] if d['suffix'] != '-' else '-'
         print(f"    #{d['nymph_num']:>2s} {d['clock']:>5s} {ring:5s}  "
-              f"{d['original']:20s} → det={d['determinative']:<2s} "
-              f"pf={d['prefix']:<3s} root={d['root']:<10s} "
-              f"sf={d['suffix']}{mark}")
+              f"{d['original']:20s} -> det={det:<2s} "
+              f"pf={pf:<3s} root={d['root']:<10s} "
+              f"sf={sf}{mark}")
     
     # Root frequency in nymphs vs rings
     nymph_roots = Counter(d["root"] for d in nymph_words)
     ring_roots = Counter(d["root"] for d in ring_words)
     
-    print(f"\n  ── Nymph Roots (top 15) ──")
+    print(f"\n  -- Nymph Roots (top 15) --")
     for root, count in nymph_roots.most_common(15):
         print(f"    {root:15s}  {count}")
     
-    print(f"\n  ── Ring Text Roots (top 20) ──")
+    print(f"\n  -- Ring Text Roots (top 20) --")
     for root, count in ring_roots.most_common(20):
         print(f"    {root:15s}  {count}")
     
@@ -431,21 +440,23 @@ def analysis_1_full_decomposition(leo_data):
     nymph_det = Counter(d["determinative"] for d in nymph_words)
     ring_det = Counter(d["determinative"] for d in ring_words)
     
-    print(f"\n  ── Determinative Distribution ──")
+    print(f"\n  -- Determinative Distribution --")
     print(f"    {'Det':<6s} {'Nymph':>8s} {'Ring':>8s}")
-    for det in ['t', 'k', 'f', 'p', '∅']:
-        print(f"    {det:<6s} {nymph_det.get(det, 0):>8d} {ring_det.get(det, 0):>8d}")
+    for det in ['t', 'k', 'f', 'p', '-']:
+        det_label = det if det != '-' else '-'
+        print(f"    {det_label:<6s} {nymph_det.get(det, 0):>8d} {ring_det.get(det, 0):>8d}")
     
     # Suffix distribution
     nymph_suf = Counter(d["suffix"] for d in nymph_words)
     ring_suf = Counter(d["suffix"] for d in ring_words)
     
-    print(f"\n  ── Suffix Distribution ──")
+    print(f"\n  -- Suffix Distribution --")
     print(f"    {'Suffix':<8s} {'Nymph':>8s} {'Ring':>8s}")
     all_suf = sorted(set(list(nymph_suf.keys()) + list(ring_suf.keys())),
                      key=lambda x: -(nymph_suf.get(x, 0) + ring_suf.get(x, 0)))
     for sf in all_suf[:12]:
-        print(f"    {sf:<8s} {nymph_suf.get(sf, 0):>8d} {ring_suf.get(sf, 0):>8d}")
+        sf_label = sf if sf != '-' else '-'
+        print(f"    {sf_label:<8s} {nymph_suf.get(sf, 0):>8d} {ring_suf.get(sf, 0):>8d}")
     
     return decomposed
 
@@ -467,13 +478,13 @@ def analysis_2_anchor_matching(decomposed):
         root_loci[d["root"]].add(d["locus_type"])
     
     print(f"\n  Unique roots on Leo folio: {len(all_roots)}")
-    print(f"  ★ Anchor: esed = asad (Arabic 'lion')")
-    print(f"  → This confirms: Voynich 'e' can map to Arabic 'a' (aleph)")
-    print(f"  → This confirms: Voynich 's' = Arabic 's' (sin)")
-    print(f"  → This confirms: Voynich 'd' = Arabic 'd' (dal)")
+    print(f"  * Anchor: esed = asad (Arabic 'lion')")
+    print(f"  -> This confirms: Voynich 'e' can map to Arabic 'a' (aleph)")
+    print(f"  -> This confirms: Voynich 's' = Arabic 's' (sin)")
+    print(f"  -> This confirms: Voynich 'd' = Arabic 'd' (dal)")
     
     # Test every Leo root against the expanded vocabulary
-    print(f"\n  ── Matching ALL Leo roots against expanded vocabulary ──")
+    print(f"\n  -- Matching ALL Leo roots against expanded vocabulary --")
     
     all_matches = []
     for category, vocab in LEO_VOCABULARY.items():
@@ -506,11 +517,13 @@ def analysis_2_anchor_matching(decomposed):
         if pair in seen_pairs:
             continue
         seen_pairs.add(pair)
+        # Replace non-ASCII characters in meaning with '?'
+        safe_meaning = ''.join(c if ord(c) < 128 else '?' for c in m['meaning'][:40])
         print(f"  {m['score']:>5.2f} {m['type']:<16s} {m['root']:<12s} "
               f"{m['known']:<15s} {m['lang']:<10s} {m['category']:<15s} "
-              f"{m['meaning'][:40]}")
+              f"{safe_meaning}")
     
-    print(f"\n  Total matches (score ≥ 0.6): {len(seen_pairs)}")
+    print(f"\n  Total matches (score >= 0.6): {len(seen_pairs)}")
     
     return all_matches
 
@@ -535,58 +548,58 @@ def analysis_3_phonetic_hypotheses(decomposed):
     # Core phonetic: the ROOT is the meaningful part
     
     # Let's build a phonetic mapping table from ALL confirmed/strong matches
-    print(f"\n  ── Phonetic Correspondence Table ──")
+    print(f"\n  -- Phonetic Correspondence Table --")
     print(f"  (from esed=asad + structural analysis)")
     print()
-    print(f"    EVA    → Proposed Sound Value    Evidence")
+    print(f"    EVA    -> Proposed Sound Value    Evidence")
     print(f"    " + "-" * 60)
-    print(f"    e      → a/ə (short vowel)       esed=asad, e-chains non-structural")
-    print(f"    s      → s                        esed=asad, s+f complement pair")
-    print(f"    d      → d                        esed=asad, d+p complement pair")
-    print(f"    ch     → kh/x/ħ                   ch is most common — guttural?")
-    print(f"    sh     → sh/ʃ                     standard sibilant")
-    print(f"    a      → ā (long vowel)           a vs e = long vs short")
-    print(f"    o      → o/u (back vowel)         o-prefix = locative?")
-    print(f"    r      → r                        standard")
-    print(f"    l      → l                        standard")
-    print(f"    n      → n                        standard (only in iin/aiin)")
-    print(f"    y      → y/i (semivowel/suffix)   y as suffix marker")
-    print(f"    h      → h                        standard aspirate")
-    print(f"    i      → i (always in iin/aiin)   genitive/possessive?")
-    
-    # Test: if ch = kh/ħ, does 'cham' make sense?
-    # cham → khām → Arabic خام (raw/unformed) or Hebrew חם (hot/warm)
-    print(f"\n  ── Testing ch=kh hypothesis with Leo roots ──")
+    print(f"    e      -> a/e (short vowel)       esed=asad, e-chains non-structural")
+    print(f"    s      -> s                        esed=asad, s+f complement pair")
+    print(f"    d      -> d                        esed=asad, d+p complement pair")
+    print(f"    ch     -> kh/x/h                   ch is most common - guttural?")
+    print(f"    sh     -> sh/sh                    standard sibilant")
+    print(f"    a      -> a (long vowel)           a vs e = long vs short")
+    print(f"    o      -> o/u (back vowel)         o-prefix = locative?")
+    print(f"    r      -> r                        standard")
+    print(f"    l      -> l                        standard")
+    print(f"    n      -> n                        standard (only in iin/aiin)")
+    print(f"    y      -> y/i (semivowel/suffix)   y as suffix marker")
+    print(f"    h      -> h                        standard aspirate")
+    print(f"    i      -> i (always in iin/aiin)   genitive/possessive?")
+
+    # Test: if ch = kh/h, does 'cham' make sense?
+    # cham -> kham -> Arabic kham (raw/unformed) or Hebrew cham (hot/warm)
+    print(f"\n  -- Testing ch=kh hypothesis with Leo roots --")
     
     ch_roots = [d for d in decomposed if "ch" in d["root"]]
     ch_unique = sorted(set(d["root"] for d in ch_roots))
     
     print(f"    Roots containing 'ch': {ch_unique}")
     print()
-    print(f"    cham → kham: Arabic خام 'raw' or Hebrew חם 'hot/warm'")
+    print(f"    cham -> kham: Arabic 'kham' (raw) or Hebrew 'cham' (hot/warm)")
     print(f"         Leo = fire sign, 'hot' is perfectly contextual!")
-    print(f"    cheo → kheo: possibly related to Coptic ϫⲟⲉⲓⲥ 'lord'?")
-    print(f"    ches → khes: Coptic ⲕⲉⲥ 'bone'? Hebrew חס 'compassion'?")
-    print(f"    chol → khol: Arabic كحل 'kohl/antimony'? Hebrew כל 'all'?")
+    print(f"    cheo -> kheo: possibly related to Coptic 'choeis' (lord)?")
+    print(f"    ches -> khes: Coptic 'kes' (bone)? Hebrew 'chas' (compassion)?")
+    print(f"    chol -> khol: Arabic 'kohl' (antimony)? Hebrew 'kol' (all)?")
     
     # Test: 'yesh' unique to Leo
-    print(f"\n  ── Testing other Leo-unique roots ──")
-    print(f"    yesh → Hebrew יש 'existence/there is' — common predicate")
-    print(f"    rch  → Hebrew ריח 'smell/spirit' or Arabic ريح 'wind'")
-    print(f"         OR: reversed reading of chr → Coptic chrisma 'anointing'")
-    print(f"    heos → kheos? Greek θεός 'god'? Coptic ϩⲓⲥⲉ 'suffering'?")
-    print(f"    esed → asad (CONFIRMED: Arabic أسد 'lion')")
-    
-    # Look at the inner ring where esed appears — what's before and after?
-    print(f"\n  ── Context around oteesed (nymph #29, inner ring) ──")
+    print(f"\n  -- Testing other Leo-unique roots --")
+    print(f"    yesh -> Hebrew 'yesh' (existence/there is) - common predicate")
+    print(f"    rch  -> Hebrew 'reach' (smell/spirit) or Arabic 'rih' (wind)")
+    print(f"         OR: reversed reading of chr -> Coptic 'chrisma' (anointing)")
+    print(f"    heos -> kheos? Greek 'theos' (god)? Coptic 'hise' (suffering)?")
+    print(f"    esed -> asad (CONFIRMED: Arabic 'asad' (lion))")
+
+    # Look at the inner ring where esed appears - what's before and after?
+    print(f"\n  -- Context around oteesed (nymph #29, inner ring) --")
     
     inner_ring = [d for d in decomposed 
                   if d["locus_type"] == "nymph" and d.get("nymph_num", "0").isdigit()
                   and int(d.get("nymph_num", "0")) >= 21]
     
     for d in sorted(inner_ring, key=lambda x: int(x.get("nymph_num", "0"))):
-        mark = " ★ ANCHOR" if d["root"] == "esed" else ""
-        print(f"    #{d['nymph_num']:>2s} {d['clock']:>5s} {d['original']:15s} → "
+        mark = " * ANCHOR" if d["root"] == "esed" else ""
+        print(f"    #{d['nymph_num']:>2s} {d['clock']:>5s} {d['original']:15s} -> "
               f"det={d['determinative']:<2s} root={d['root']:<10s} "
               f"sf={d['suffix']}{mark}")
 
@@ -610,7 +623,7 @@ def analysis_4_cross_reference(decomposed, all_words):
         corpus_roots[d["root"]][section] += 1
     
     # Show Leo-unique roots (not found or rare outside zodiac)
-    print(f"\n  ── Leo Root Distribution Across Manuscript ──")
+    print(f"\n  -- Leo Root Distribution Across Manuscript --")
     print(f"  {'Root':<12s} {'Leo':>5s} {'herbal':>8s} {'bio':>5s} "
           f"{'cosmo':>7s} {'text':>6s} {'pharma':>8s} {'zodiac':>8s}  Note")
     print(f"  " + "-" * 90)
@@ -642,7 +655,7 @@ def analysis_4_cross_reference(decomposed, all_words):
                   f"{pharma:>8d} {zodiac:>8d}  {note}")
     
     # Which roots are EXCLUSIVE to Leo (not found in other zodiac signs)?
-    print(f"\n  ── Roots exclusive to Leo folio within zodiac ──")
+    print(f"\n  -- Roots exclusive to Leo folio within zodiac --")
     zodiac_files = {
         "f70v_part": "Aries/Pisces",
         "f71r": "Aries",
@@ -712,7 +725,7 @@ def analysis_5_ring_structure(decomposed):
             rings["C3_inner"].append(d)
     
     for ring_name, words in sorted(rings.items()):
-        print(f"\n  ── {ring_name} ({len(words)} words) ──")
+        print(f"\n  -- {ring_name} ({len(words)} words) --")
         
         # Root frequency
         roots = Counter(d["root"] for d in words)
@@ -729,25 +742,25 @@ def analysis_5_ring_structure(decomposed):
         # Show full decomposition
         print(f"    Full text (decomposed):")
         for i, d in enumerate(words[:15]):
-            print(f"      {i+1:>2d}. {d['original']:20s} → "
-                  f"det={d['determinative']:<2s} "
-                  f"pf={d['prefix']:<3s} root={d['root']:<10s} "
-                  f"sf={d['suffix']}")
+            print(f"      {ascii_safe(i+1):>2s}. {ascii_safe(d['original']):20s} -> "
+                f"det={ascii_safe(d['determinative']):<2s} "
+                f"pf={ascii_safe(d['prefix']):<3s} root={ascii_safe(d['root']):<10s} "
+                f"sf={ascii_safe(d['suffix'])}")
         if len(words) > 15:
             print(f"      ... ({len(words) - 15} more)")
     
     # Compare ring structure
-    print(f"\n  ── Ring Comparison ──")
+    print(f"\n  -- Ring Comparison --")
     for ring_name, words in sorted(rings.items()):
         n = len(words)
         det_counts = Counter(d["determinative"] for d in words)
         t_pct = det_counts.get("t", 0) / max(n, 1) * 100
         k_pct = det_counts.get("k", 0) / max(n, 1) * 100
-        bare_pct = det_counts.get("∅", 0) / max(n, 1) * 100
+        bare_pct = det_counts.get("-", 0) / max(n, 1) * 100
         
         unique_roots = len(set(d["root"] for d in words))
-        print(f"    {ring_name:<12s}: {n:>3d} words, {unique_roots:>3d} unique roots, "
-              f"t={t_pct:.0f}%, k={k_pct:.0f}%, bare={bare_pct:.0f}%")
+        print(f"    {ascii_safe(ring_name):<12s}: {ascii_safe(n):>3s} words, {ascii_safe(unique_roots):>3s} unique roots, "
+              f"t={ascii_safe(int(round(t_pct)))}%, k={ascii_safe(int(round(k_pct)))}%, bare={ascii_safe(int(round(bare_pct)))}%")
 
 
 # ════════════════════════════════════════════════════════════════════════
@@ -783,23 +796,23 @@ def analysis_6_anchor_context(all_words):
               f"root={inst['root']} sf={inst['suffix']}")
     
     # Also check for 'sed' root (partial match to asad)
-    print(f"\n  ── Also checking 'sed', 'esd', 'sd' roots ──")
+    print(f"\n  -- Also checking 'sed', 'esd', 'sd' roots --")
     for word, section, folio, locus, locus_type in all_words:
         d = full_decompose(word)
         if d["root"] in ("sed", "esd", "sd"):
-            print(f"    {word:20s}  [{section:>10s}] {folio:>12s} "
-                  f"{locus_type:<8s}  root={d['root']}")
+                print(f"    {ascii_safe(word):20s}  [{ascii_safe(section):>10s}] {ascii_safe(folio):>12s} "
+                    f"{ascii_safe(locus_type):<8s}  root={ascii_safe(d['root'])}")
     
     # Check raw words containing 'esed' as substring
-    print(f"\n  ── Raw words containing 'esed' substring ──")
+    print(f"\n  -- Raw words containing 'esed' substring --")
     seen = set()
     for word, section, folio, locus, locus_type in all_words:
         if "esed" in word and word not in seen:
             seen.add(word)
             d = full_decompose(word)
-            print(f"    {word:20s}  [{section:>10s}] {folio:>12s} "
-                  f"{locus_type:<8s}  det={d['determinative']} root={d['root']} "
-                  f"sf={d['suffix']}")
+            print(f"    {ascii_safe(word):20s}  [{ascii_safe(section):>10s}] {ascii_safe(folio):>12s} "
+                        f"{ascii_safe(locus_type):<8s}  det={ascii_safe(d['determinative'])} root={ascii_safe(d['root'])} "
+                        f"sf={ascii_safe(d['suffix'])}")
 
 
 # ════════════════════════════════════════════════════════════════════════
@@ -827,13 +840,13 @@ def analysis_7_interpretive_attempt(decomposed, all_matches):
              and int(d.get("nymph_num", "0")) >= 21]
     
     for label, ring_name in [(outer, "OUTER RING"), (inner, "INNER RING")]:
-        print(f"  ── {ring_name} ──")
+        print(f"  -- {ring_name} --")
         for d in sorted(label, key=lambda x: int(x.get("nymph_num", "0"))):
             matches = match_lookup.get(d["root"], [])
             best = matches[0] if matches else None
             
             det_label = {"t": "CELESTIAL", "k": "GENERIC", "f": "BOTANICAL",
-                         "p": "PROCESS", "∅": "—"}.get(d["determinative"], "?")
+                         "p": "PROCESS", "-": "-"}.get(d["determinative"], "?")
             
             interp = "?"
             if d["root"] == "esed":
@@ -841,8 +854,8 @@ def analysis_7_interpretive_attempt(decomposed, all_matches):
             elif best and best["score"] >= 0.6:
                 interp = f"{best['meaning'][:30]} ({best['lang']}, {best['score']:.2f})"
             
-            print(f"    #{d['nymph_num']:>2s} {d['original']:18s} "
-                  f"[{det_label:>9s}] root={d['root']:<10s} → {interp}")
+            print(f"    #{ascii_safe(d['nymph_num']):>2s} {ascii_safe(d['original']):18s} "
+                f"[{ascii_safe(det_label):>9s}] root={ascii_safe(d['root']):<10s} -> {ascii_safe(interp)}")
         print()
 
 
@@ -867,30 +880,30 @@ def synthesis(decomposed, all_matches):
     total_unique = len(set(d["root"] for d in decomposed))
     
     print(f"""
-  ┌────────────────────────────────────────────────────────────────────┐
-  │  LEO FOLIO (f72v3) — STRUCTURAL AND INTERPRETIVE SUMMARY          │
-  ├────────────────────────────────────────────────────────────────────┤
-  │                                                                    │
-  │  ANCHOR: oteesed = o[prefix] + t[celestial] + esed[lion/asad]     │
-  │  Inner ring, nymph #29, clock position 06:30                       │
-  │                                                                    │
-  │  Total words: {len(decomposed):<4d}   Unique roots: {total_unique:<4d}                     │
-  │  Nymph labels: {len(nymphs):<3d}  Ring text words: {len(ring_words):<3d}                     │
-  │  Vocabulary matches (≥0.65): {len(matched_roots)} roots                          │
-  │                                                                    │
-  │  DETERMINATIVE PROFILE:                                            │
-  │    t (celestial) dominates — expected for zodiac Leo               │
-  │    k (generic) for classification entries                          │
-  │    f (botanical) minimal — Leo = not a plant section               │
-  │                                                                    │
-  │  KEY INTERPRETIVE CANDIDATES:                                      │
-  │    esed  = asad (lion) — CONFIRMED anchor                          │
-  │    cham  = ħam/khām (hot/warm) — Hebrew חם, fire sign context     │
-  │    sol   = sol (sun) — Leo's ruling planet (also a logogram)       │
-  │    yesh  = Hebrew יש (existence) — predicate marker?               │
-  │    rch   = ruaħ (spirit/wind) — Hebrew רוח                        │
-  │                                                                    │
-  └────────────────────────────────────────────────────────────────────┘
+    +--------------------------------------------------------------------+
+    |  LEO FOLIO (f72v3) - STRUCTURAL AND INTERPRETIVE SUMMARY           |
+    +--------------------------------------------------------------------+
+    |                                                                    |
+    |  ANCHOR: oteesed = o[prefix] + t[celestial] + esed[lion/asad]      |
+    |  Inner ring, nymph #29, clock position 06:30                       |
+    |                                                                    |
+    |  Total words: {len(decomposed):<4d}   Unique roots: {total_unique:<4d}                     |
+    |  Nymph labels: {len(nymphs):<3d}  Ring text words: {len(ring_words):<3d}                     |
+    |  Vocabulary matches (>=0.65): {len(matched_roots)} roots                          |
+    |                                                                    |
+    |  DETERMINATIVE PROFILE:                                            |
+    |    t (celestial) dominates - expected for zodiac Leo               |
+    |    k (generic) for classification entries                          |
+    |    f (botanical) minimal - Leo = not a plant section               |
+    |                                                                    |
+    |  KEY INTERPRETIVE CANDIDATES:                                      |
+    |    esed  = asad (lion) - CONFIRMED anchor                          |
+    |    cham  = ham/kham (hot/warm) - Hebrew, fire sign context         |
+    |    sol   = sol (sun) - Leo's ruling planet (also a logogram)       |
+    |    yesh  = Hebrew (existence) - predicate marker?                  |
+    |    rch   = ruah (spirit/wind) - Hebrew                             |
+    |                                                                    |
+    +--------------------------------------------------------------------+
 """)
 
 

@@ -1,0 +1,387 @@
+[
+  {
+    "key": "italian_cucina",
+    "title": "Il libro della cucina del sec. XIV",
+    "language": "Italian (Tuscan)",
+    "era": "14th century (trecento)",
+    "n_paragraphs": 368,
+    "n_letters": 368,
+    "distribution": {
+      "D": 0.3125,
+      "T": 0.3098,
+      "A": 0.1957,
+      "P": 0.0435,
+      "F": 0.0408,
+      "S": 0.0326,
+      "M": 0.0217,
+      "L": 0.0136,
+      "I": 0.0082,
+      "C": 0.0054,
+      "N": 0.0054,
+      "G": 0.0027,
+      "B": 0.0027,
+      "Q": 0.0027,
+      "R": 0.0027
+    },
+    "top4_letters": [
+      "D",
+      "T",
+      "A",
+      "P"
+    ],
+    "top4_coverage": 0.8614,
+    "coverage_gap": 0.0476,
+    "best_mapping": {
+      "score": 0.0431,
+      "mapping": {
+        "p": "D",
+        "t": "T",
+        "k": "A",
+        "f": "G"
+      },
+      "coverage": 0.8207,
+      "l2": 0.0362
+    },
+    "first_words": [
+      [
+        "togli",
+        106
+      ],
+      [
+        "de",
+        67
+      ],
+      [
+        "altramente",
+        49
+      ],
+      [
+        "del",
+        28
+      ],
+      [
+        "a",
+        15
+      ],
+      [
+        "di",
+        10
+      ],
+      [
+        "dei",
+        9
+      ],
+      [
+        "metti",
+        8
+      ],
+      [
+        "fà",
+        7
+      ],
+      [
+        "tolli",
+        6
+      ],
+      [
+        "anche",
+        5
+      ],
+      [
+        "fave",
+        3
+      ],
+      [
+        "simile",
+        3
+      ],
+      [
+        "lessa",
+        3
+      ],
+      [
+        "altrimenti",
+        2
+      ],
+      [
+        "peselli",
+        2
+      ],
+      [
+        "le",
+        2
+      ],
+      [
+        "poni",
+        2
+      ],
+      [
+        "taglia",
+        2
+      ],
+      [
+        "prendi",
+        2
+      ]
+    ]
+  },
+  {
+    "key": "french_viandier",
+    "title": "Le viandier de Taillevent",
+    "language": "French",
+    "era": "c. 1380-1420 (Charles VI)",
+    "n_paragraphs": 197,
+    "n_letters": 197,
+    "distribution": {
+      "P": 0.599,
+      "C": 0.0711,
+      "B": 0.0609,
+      "S": 0.0558,
+      "V": 0.0406,
+      "T": 0.0406,
+      "E": 0.0203,
+      "L": 0.0203,
+      "H": 0.0152,
+      "G": 0.0152,
+      "F": 0.0152,
+      "A": 0.0102,
+      "M": 0.0102,
+      "I": 0.0102,
+      "R": 0.0051,
+      "O": 0.0051,
+      "D": 0.0051
+    },
+    "top4_letters": [
+      "P",
+      "C",
+      "B",
+      "S"
+    ],
+    "top4_coverage": 0.7868,
+    "coverage_gap": -0.027,
+    "best_mapping": {
+      "score": 0.0743,
+      "mapping": {
+        "p": "P",
+        "t": "C",
+        "k": "B",
+        "f": "S"
+      },
+      "coverage": 0.7868,
+      "l2": 0.0473
+    },
+    "first_words": [
+      [
+        "pour",
+        89
+      ],
+      [
+        "pastes",
+        12
+      ],
+      [
+        "prenez",
+        5
+      ],
+      [
+        "soit",
+        4
+      ],
+      [
+        "tartres",
+        4
+      ],
+      [
+        "bancquet",
+        4
+      ],
+      [
+        "porc",
+        3
+      ],
+      [
+        "tartre",
+        3
+      ],
+      [
+        "cy",
+        2
+      ],
+      [
+        "venoison",
+        2
+      ],
+      [
+        "autre",
+        2
+      ],
+      [
+        "ciue",
+        2
+      ],
+      [
+        "cretonnee",
+        2
+      ],
+      [
+        "blanc",
+        2
+      ],
+      [
+        "poulles",
+        2
+      ],
+      [
+        "lemproye",
+        2
+      ],
+      [
+        "vne",
+        2
+      ],
+      [
+        "saulce",
+        2
+      ],
+      [
+        "potaiges",
+        1
+      ],
+      [
+        "chaudun",
+        1
+      ]
+    ]
+  },
+  {
+    "key": "english_cury",
+    "title": "The Forme of Cury",
+    "language": "Middle English",
+    "era": "c. 1390 (Richard II)",
+    "n_paragraphs": 590,
+    "n_letters": 589,
+    "distribution": {
+      "T": 0.4143,
+      "F": 0.1851,
+      "C": 0.0764,
+      "N": 0.0662,
+      "S": 0.0458,
+      "P": 0.0357,
+      "H": 0.0238,
+      "M": 0.0238,
+      "R": 0.017,
+      "B": 0.017,
+      "L": 0.017,
+      "E": 0.0153,
+      "G": 0.0136,
+      "A": 0.0119,
+      "D": 0.0102,
+      "V": 0.0102,
+      "J": 0.0051,
+      "O": 0.0051,
+      "W": 0.0051,
+      "Y": 0.0017
+    },
+    "top4_letters": [
+      "T",
+      "F",
+      "C",
+      "N"
+    ],
+    "top4_coverage": 0.7419,
+    "coverage_gap": -0.0718,
+    "best_mapping": {
+      "score": 0.0758,
+      "mapping": {
+        "p": "T",
+        "t": "F",
+        "k": "C",
+        "f": "N"
+      },
+      "coverage": 0.7419,
+      "l2": 0.004
+    },
+    "first_words": [
+      [
+        "take",
+        183
+      ],
+      [
+        "for",
+        95
+      ],
+      [
+        "tak",
+        42
+      ],
+      [
+        "nym",
+        30
+      ],
+      [
+        "sawse",
+        6
+      ],
+      [
+        "cawdel",
+        5
+      ],
+      [
+        "connynges",
+        4
+      ],
+      [
+        "nota",
+        4
+      ],
+      [
+        "the",
+        4
+      ],
+      [
+        "they",
+        4
+      ],
+      [
+        "mortrews",
+        3
+      ],
+      [
+        "payn",
+        3
+      ],
+      [
+        "frytour",
+        3
+      ],
+      [
+        "crustardes",
+        3
+      ],
+      [
+        "tart",
+        3
+      ],
+      [
+        "schul",
+        3
+      ],
+      [
+        "egurdouce",
+        2
+      ],
+      [
+        "hares",
+        2
+      ],
+      [
+        "chykens",
+        2
+      ],
+      [
+        "fylettes",
+        2
+      ]
+    ]
+  }
+]

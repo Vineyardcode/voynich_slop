@@ -1,0 +1,774 @@
+══════════════════════════════════════════════════════════════════════
+PHASE 75 — LATIN PARAGRAPH-INITIAL LETTER MAPPING
+Can VMS gallows be mapped to Latin letters?
+══════════════════════════════════════════════════════════════════════
+
+VMS Gallows Paragraph-Initial Distribution (n=784):
+  p:  352 ( 44.9%) ██████████████████████
+  t:  174 ( 22.2%) ███████████
+  k:   81 ( 10.3%) █████
+  f:   31 (  4.0%) █
+  Total gallows: 638 (81.4%)
+
+══════════════════════════════════════════════════════════════════════
+PART 1: EMPIRICAL LATIN TEXT ANALYSIS
+══════════════════════════════════════════════════════════════════════
+
+Downloading Latin texts from Project Gutenberg...
+  [downloading] apicius from https://www.gutenberg.org/cache/epub/16439/pg16439.txt...
+    → 264765 chars saved
+
+──────────────────────────────────────────────────────────────────────
+TEXT: De Re Coquinaria (Apicius)
+Genre: recipe/culinary | Era: c. 400 CE (compiled)
+──────────────────────────────────────────────────────────────────────
+Text length: 244,717 chars after boilerplate removal
+Paragraphs extracted: 538
+
+Paragraph-initial letter distribution (n=538):
+  I:   98 ( 18.2%) █████████
+  P:   71 ( 13.2%) ██████
+  X:   60 ( 11.2%) █████
+  A:   52 (  9.7%) ████
+  V:   41 (  7.6%) ███
+  C:   29 (  5.4%) ██
+  E:   27 (  5.0%) ██
+  L:   20 (  3.7%) █
+  T:   17 (  3.2%) █
+  F:   17 (  3.2%) █
+  M:   16 (  3.0%) █
+  D:   12 (  2.2%) █
+  S:   12 (  2.2%) █
+  O:   11 (  2.0%) █
+  R:   10 (  1.9%) 
+
+Top-4 letters: ['I', 'P', 'X', 'A'] → coverage: 52.2%
+VMS gallows coverage: 81.4%
+Gap: 29.1%
+
+Sentence-initial letter distribution (n=532):
+  I:  126 ( 23.7%)
+  V:   84 ( 15.8%)
+  X:   55 ( 10.3%)
+  G:   48 (  9.0%)
+  S:   34 (  6.4%)
+  P:   31 (  5.8%)
+  H:   26 (  4.9%)
+  A:   23 (  4.3%)
+  T:   20 (  3.8%)
+  C:   16 (  3.0%)
+  Top-4 sentence-initial coverage: 58.8%
+
+Testing all 4-letter mappings against VMS gallows distribution...
+  Tested 493,944 mappings
+
+  TOP 10 PARAGRAPH-INITIAL MAPPINGS:
+  Rank   Score      L2   Cov%   p→   t→   k→   f→
+     1 0.4997 0.0335 34.8%    I    A    E    R
+     2 0.5006 0.0307 34.4%    I    A    E    B
+     3 0.5006 0.0307 34.4%    I    A    E    G
+     4 0.5006 0.0307 34.4%    I    A    E    H
+     5 0.5006 0.0363 34.9%    I    A    E    O
+     6 0.5023 0.0398 35.1%    I    A    E    D
+     7 0.5023 0.0398 35.1%    I    A    E    S
+     8 0.5040 0.0248 33.5%    I    A    L    R
+     9 0.5045 0.0272 33.6%    I    A    L    O
+    10 0.5052 0.0428 35.1%    I    A    C    R
+
+  BEST MAPPING: {'p': 'I', 't': 'A', 'k': 'E', 'f': 'R'}
+  Score: 0.4997 (L2=0.0335, CovΔ=0.4662)
+  Coverage: 34.8% (VMS: 81.4%)
+  Proportions (within 4 letters):
+    VMS p → Latin I: VMS=0.552, Latin=0.524, Δ=0.028
+    VMS t → Latin A: VMS=0.273, Latin=0.278, Δ=0.005
+    VMS k → Latin E: VMS=0.127, Latin=0.144, Δ=0.017
+    VMS f → Latin R: VMS=0.049, Latin=0.053, Δ=0.005
+  [downloading] galen from https://www.gutenberg.org/cache/epub/58978/pg58978.txt...
+    → 341709 chars saved
+
+──────────────────────────────────────────────────────────────────────
+TEXT: De Temperamentis (Galen/Linacre)
+Genre: medical treatise | Era: c. 170 CE / 1521 translation
+──────────────────────────────────────────────────────────────────────
+Text length: 321,659 chars after boilerplate removal
+Paragraphs extracted: 712
+
+Paragraph-initial letter distribution (n=712):
+  X:  144 ( 20.2%) ██████████
+  L:   65 (  9.1%) ████
+  T:   56 (  7.9%) ███
+  I:   56 (  7.9%) ███
+  P:   51 (  7.2%) ███
+  C:   49 (  6.9%) ███
+  S:   43 (  6.0%) ███
+  Q:   41 (  5.8%) ██
+  A:   38 (  5.3%) ██
+  V:   26 (  3.7%) █
+  O:   22 (  3.1%) █
+  M:   19 (  2.7%) █
+  D:   19 (  2.7%) █
+  E:   18 (  2.5%) █
+  H:   15 (  2.1%) █
+
+Top-4 letters: ['X', 'L', 'T', 'I'] → coverage: 45.1%
+VMS gallows coverage: 81.4%
+Gap: 36.3%
+
+Sentence-initial letter distribution (n=2567):
+  A:  380 ( 14.8%)
+  Q:  305 ( 11.9%)
+  I:  292 ( 11.4%)
+  S:  257 ( 10.0%)
+  C:  231 (  9.0%)
+  T:  178 (  6.9%)
+  E:  171 (  6.7%)
+  N:  160 (  6.2%)
+  B:  106 (  4.1%)
+  P:   76 (  3.0%)
+  Top-4 sentence-initial coverage: 48.1%
+
+Testing all 4-letter mappings against VMS gallows distribution...
+  Tested 249,600 mappings
+
+  TOP 10 PARAGRAPH-INITIAL MAPPINGS:
+  Rank   Score      L2   Cov%   p→   t→   k→   f→
+     1 0.4776 0.0318 36.8%    X    L    A    H
+     2 0.4798 0.0298 36.4%    X    L    A    N
+     3 0.4799 0.0383 37.2%    X    L    A    E
+     4 0.4812 0.0411 37.4%    X    L    A    D
+     5 0.4812 0.0411 37.4%    X    L    A    M
+     6 0.4818 0.0304 36.2%    X    L    A    F
+     7 0.4823 0.0407 37.2%    X    L    Q    H
+     8 0.4836 0.0463 37.6%    X    L    Q    E
+     9 0.4844 0.0386 36.8%    X    L    Q    N
+    10 0.4846 0.0487 37.8%    X    L    Q    D
+
+  BEST MAPPING: {'p': 'X', 't': 'L', 'k': 'A', 'f': 'H'}
+  Score: 0.4776 (L2=0.0318, CovΔ=0.4458)
+  Coverage: 36.8% (VMS: 81.4%)
+  Proportions (within 4 letters):
+    VMS p → Latin X: VMS=0.552, Latin=0.550, Δ=0.002
+    VMS t → Latin L: VMS=0.273, Latin=0.248, Δ=0.025
+    VMS k → Latin A: VMS=0.127, Latin=0.145, Δ=0.018
+    VMS f → Latin H: VMS=0.049, Latin=0.057, Δ=0.009
+  [downloading] erasmus from https://www.gutenberg.org/cache/epub/16561/pg16561.txt...
+    → 56739 chars saved
+
+──────────────────────────────────────────────────────────────────────
+TEXT: Encomium Artis Medicae (Erasmus)
+Genre: medical oration | Era: 1518 CE
+──────────────────────────────────────────────────────────────────────
+Text length: 36,829 chars after boilerplate removal
+Paragraphs extracted: 75
+
+Paragraph-initial letter distribution (n=75):
+  S:   24 ( 32.0%) ████████████████
+  P:   11 ( 14.7%) ███████
+  I:    7 (  9.3%) ████
+  E:    6 (  8.0%) ████
+  A:    5 (  6.7%) ███
+  Q:    4 (  5.3%) ██
+  T:    3 (  4.0%) ██
+  D:    3 (  4.0%) ██
+  N:    3 (  4.0%) ██
+  V:    3 (  4.0%) ██
+  L:    1 (  1.3%) 
+  C:    1 (  1.3%) 
+  M:    1 (  1.3%) 
+  G:    1 (  1.3%) 
+  O:    1 (  1.3%) 
+
+Top-4 letters: ['S', 'P', 'I', 'E'] → coverage: 64.0%
+VMS gallows coverage: 81.4%
+Gap: 17.4%
+
+Sentence-initial letter distribution (n=176):
+  Q:   25 ( 14.2%)
+  S:   22 ( 12.5%)
+  A:   21 ( 11.9%)
+  N:   21 ( 11.9%)
+  I:   13 (  7.4%)
+  E:   13 (  7.4%)
+  P:    9 (  5.1%)
+  H:    7 (  4.0%)
+  V:    7 (  4.0%)
+  C:    7 (  4.0%)
+  Top-4 sentence-initial coverage: 50.6%
+
+Testing all 4-letter mappings against VMS gallows distribution...
+  Tested 25,056 mappings
+
+  TOP 10 PARAGRAPH-INITIAL MAPPINGS:
+  Rank   Score      L2   Cov%   p→   t→   k→   f→
+     1 0.2592 0.0321 58.7%    S    P    E    D
+     2 0.2592 0.0321 58.7%    S    P    E    N
+     3 0.2592 0.0321 58.7%    S    P    E    T
+     4 0.2592 0.0321 58.7%    S    P    E    V
+     5 0.2616 0.0478 60.0%    S    P    I    D
+     6 0.2616 0.0478 60.0%    S    P    I    N
+     7 0.2616 0.0478 60.0%    S    P    I    T
+     8 0.2616 0.0478 60.0%    S    P    I    V
+     9 0.2648 0.0643 61.3%    S    P    I    Q
+    10 0.2667 0.0529 60.0%    S    P    E    Q
+
+  BEST MAPPING: {'p': 'S', 't': 'P', 'k': 'E', 'f': 'D'}
+  Score: 0.2592 (L2=0.0321, CovΔ=0.2271)
+  Coverage: 58.7% (VMS: 81.4%)
+  Proportions (within 4 letters):
+    VMS p → Latin S: VMS=0.552, Latin=0.545, Δ=0.006
+    VMS t → Latin P: VMS=0.273, Latin=0.250, Δ=0.023
+    VMS k → Latin E: VMS=0.127, Latin=0.136, Δ=0.009
+    VMS f → Latin D: VMS=0.049, Latin=0.068, Δ=0.020
+  [downloading] caesar from https://www.gutenberg.org/cache/epub/10657/pg10657.txt...
+    → 964451 chars saved
+
+──────────────────────────────────────────────────────────────────────
+TEXT: De Bello Gallico (Caesar)
+Genre: military history (control) | Era: 58-50 BCE
+──────────────────────────────────────────────────────────────────────
+Text length: 944,548 chars after boilerplate removal
+Paragraphs extracted: 1358
+
+Paragraph-initial letter distribution (n=1358):
+  X:  394 ( 29.0%) ██████████████
+  L:  177 ( 13.0%) ██████
+  C:  125 (  9.2%) ████
+  A:  109 (  8.0%) ████
+  V:   86 (  6.3%) ███
+  I:   77 (  5.7%) ██
+  T:   57 (  4.2%) ██
+  S:   53 (  3.9%) █
+  P:   44 (  3.2%) █
+  B:   39 (  2.9%) █
+  M:   37 (  2.7%) █
+  G:   36 (  2.7%) █
+  N:   26 (  1.9%) 
+  D:   20 (  1.5%) 
+  E:   15 (  1.1%) 
+
+Top-4 letters: ['X', 'L', 'C', 'A'] → coverage: 59.3%
+VMS gallows coverage: 81.4%
+Gap: 22.1%
+
+Sentence-initial letter distribution (n=3492):
+  T:  832 ( 23.8%)
+  X:  363 ( 10.4%)
+  A:  339 (  9.7%)
+  H:  337 (  9.7%)
+  B:  255 (  7.3%)
+  I:  236 (  6.8%)
+  W:  186 (  5.3%)
+  C:  178 (  5.1%)
+  L:  172 (  4.9%)
+  F:  131 (  3.8%)
+  Top-4 sentence-initial coverage: 53.6%
+
+Testing all 4-letter mappings against VMS gallows distribution...
+  Tested 62,640 mappings
+
+  TOP 10 PARAGRAPH-INITIAL MAPPINGS:
+  Rank   Score      L2   Cov%   p→   t→   k→   f→
+     1 0.3201 0.0395 53.3%    X    L    A    P
+     2 0.3211 0.0471 54.0%    X    L    A    S
+     3 0.3212 0.0369 52.9%    X    L    A    B
+     4 0.3220 0.0362 52.8%    X    L    A    M
+     5 0.3222 0.0512 54.3%    X    L    A    T
+     6 0.3225 0.0360 52.7%    X    L    A    G
+     7 0.3247 0.0271 51.6%    X    L    V    P
+     8 0.3260 0.0248 51.3%    X    L    V    B
+     9 0.3260 0.0638 55.2%    X    L    C    S
+    10 0.3263 0.0670 55.4%    X    L    C    T
+
+  BEST MAPPING: {'p': 'X', 't': 'L', 'k': 'A', 'f': 'P'}
+  Score: 0.3201 (L2=0.0395, CovΔ=0.2806)
+  Coverage: 53.3% (VMS: 81.4%)
+  Proportions (within 4 letters):
+    VMS p → Latin X: VMS=0.552, Latin=0.544, Δ=0.008
+    VMS t → Latin L: VMS=0.273, Latin=0.244, Δ=0.028
+    VMS k → Latin A: VMS=0.127, Latin=0.151, Δ=0.024
+    VMS f → Latin P: VMS=0.049, Latin=0.061, Δ=0.012
+  [downloading] vulgate_genesis from https://www.gutenberg.org/cache/epub/10005/pg10005.txt...
+    → 433114 chars saved
+
+──────────────────────────────────────────────────────────────────────
+TEXT: Vulgate Bible - Genesis
+Genre: biblical (control) | Era: c. 400 CE
+──────────────────────────────────────────────────────────────────────
+Text length: 413,361 chars after boilerplate removal
+Paragraphs extracted: 616
+
+Paragraph-initial letter distribution (n=616):
+  T:  130 ( 21.1%) ██████████
+  I:  111 ( 18.0%) █████████
+  A:   98 ( 15.9%) ███████
+  W:   56 (  9.1%) ████
+  H:   36 (  5.8%) ██
+  B:   28 (  4.5%) ██
+  O:   24 (  3.9%) █
+  F:   22 (  3.6%) █
+  N:   22 (  3.6%) █
+  S:   15 (  2.4%) █
+  Y:   14 (  2.3%) █
+  M:   11 (  1.8%) 
+  C:    9 (  1.5%) 
+  L:    8 (  1.3%) 
+  D:    8 (  1.3%) 
+
+Top-4 letters: ['T', 'I', 'A', 'W'] → coverage: 64.1%
+VMS gallows coverage: 81.4%
+Gap: 17.3%
+
+Sentence-initial letter distribution (n=1682):
+  T:  407 ( 24.2%)
+  I:  358 ( 21.3%)
+  A:  180 ( 10.7%)
+  H:  161 (  9.6%)
+  W:  127 (  7.6%)
+  B:  104 (  6.2%)
+  O:   72 (  4.3%)
+  S:   67 (  4.0%)
+  M:   34 (  2.0%)
+  N:   31 (  1.8%)
+  Top-4 sentence-initial coverage: 65.8%
+
+Testing all 4-letter mappings against VMS gallows distribution...
+  Tested 103,152 mappings
+
+  TOP 10 PARAGRAPH-INITIAL MAPPINGS:
+  Rank   Score      L2   Cov%   p→   t→   k→   f→
+     1 0.4427 0.2702 64.1%    T    I    A    W
+     2 0.4558 0.2508 60.9%    T    I    A    H
+     3 0.4599 0.2874 64.1%    T    A    I    W
+     4 0.4601 0.1869 54.1%    T    I    W    H
+     5 0.4629 0.1767 52.8%    T    I    W    B
+     6 0.4635 0.1562 50.6%    T    A    W    B
+     7 0.4635 0.2455 59.6%    T    I    A    B
+     8 0.4636 0.1693 51.9%    T    A    W    H
+     9 0.4646 0.1508 50.0%    T    A    W    O
+    10 0.4653 0.1727 52.1%    T    I    W    O
+
+  BEST MAPPING: {'p': 'T', 't': 'I', 'k': 'A', 'f': 'W'}
+  Score: 0.4427 (L2=0.2702, CovΔ=0.1725)
+  Coverage: 64.1% (VMS: 81.4%)
+  Proportions (within 4 letters):
+    VMS p → Latin T: VMS=0.552, Latin=0.329, Δ=0.223
+    VMS t → Latin I: VMS=0.273, Latin=0.281, Δ=0.008
+    VMS k → Latin A: VMS=0.127, Latin=0.248, Δ=0.121
+    VMS f → Latin W: VMS=0.049, Latin=0.142, Δ=0.093
+  [downloading] pliny from https://www.gutenberg.org/cache/epub/60511/pg60511.txt...
+    → 129761 chars saved
+
+──────────────────────────────────────────────────────────────────────
+TEXT: Pliny Natural History (Books I-II)
+Genre: natural history / encyclopedic | Era: 77 CE
+──────────────────────────────────────────────────────────────────────
+Text length: 109,696 chars after boilerplate removal
+Paragraphs extracted: 164
+
+Paragraph-initial letter distribution (n=164):
+  T:   37 ( 22.6%) ███████████
+  D:   35 ( 21.3%) ██████████
+  I:   17 ( 10.4%) █████
+  A:   12 (  7.3%) ███
+  C:    8 (  4.9%) ██
+  S:    7 (  4.3%) ██
+  L:    7 (  4.3%) ██
+  O:    6 (  3.7%) █
+  B:    4 (  2.4%) █
+  W:    4 (  2.4%) █
+  P:    4 (  2.4%) █
+  R:    4 (  2.4%) █
+  H:    4 (  2.4%) █
+  U:    3 (  1.8%) 
+  E:    3 (  1.8%) 
+
+Top-4 letters: ['T', 'D', 'I', 'A'] → coverage: 61.6%
+VMS gallows coverage: 81.4%
+Gap: 19.8%
+
+Sentence-initial letter distribution (n=678):
+  T:  195 ( 28.8%)
+  I:  151 ( 22.3%)
+  A:   61 (  9.0%)
+  H:   35 (  5.2%)
+  W:   32 (  4.7%)
+  B:   25 (  3.7%)
+  O:   24 (  3.5%)
+  S:   22 (  3.2%)
+  M:   17 (  2.5%)
+  P:   15 (  2.2%)
+  Top-4 sentence-initial coverage: 65.2%
+
+Testing all 4-letter mappings against VMS gallows distribution...
+  Tested 77,664 mappings
+
+  TOP 10 PARAGRAPH-INITIAL MAPPINGS:
+  Rank   Score      L2   Cov%   p→   t→   k→   f→
+     1 0.4135 0.2155 61.6%    T    D    I    A
+     2 0.4229 0.2006 59.1%    T    D    I    C
+     3 0.4264 0.1980 58.5%    T    D    I    L
+     4 0.4264 0.1980 58.5%    T    D    I    S
+     5 0.4305 0.1960 57.9%    T    D    I    O
+     6 0.4308 0.2328 61.6%    T    D    A    I
+     7 0.4334 0.0220 40.2%    T    I    C    B
+     8 0.4334 0.0220 40.2%    T    I    C    H
+     9 0.4334 0.0220 40.2%    T    I    C    P
+    10 0.4334 0.0220 40.2%    T    I    C    R
+
+  BEST MAPPING: {'p': 'T', 't': 'D', 'k': 'I', 'f': 'A'}
+  Score: 0.4135 (L2=0.2155, CovΔ=0.1979)
+  Coverage: 61.6% (VMS: 81.4%)
+  Proportions (within 4 letters):
+    VMS p → Latin T: VMS=0.552, Latin=0.366, Δ=0.185
+    VMS t → Latin D: VMS=0.273, Latin=0.347, Δ=0.074
+    VMS k → Latin I: VMS=0.127, Latin=0.168, Δ=0.041
+    VMS f → Latin A: VMS=0.049, Latin=0.119, Δ=0.070
+
+══════════════════════════════════════════════════════════════════════
+PART 2: MEDIEVAL LATIN MEDICAL VOCABULARY MODELS
+══════════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────────────
+VOCABULARY MODEL: herbal_alphabetical
+──────────────────────────────────────────────────────────────────────
+Total entries: 245
+
+Letter distribution:
+  A:   35 ( 14.3%) ███████
+  C:   30 ( 12.2%) ██████
+  P:   25 ( 10.2%) █████
+  S:   20 (  8.2%) ████
+  M:   15 (  6.1%) ███
+  B:   12 (  4.9%) ██
+  R:   12 (  4.9%) ██
+  E:   10 (  4.1%) ██
+  L:   10 (  4.1%) ██
+  V:   10 (  4.1%) ██
+  D:    8 (  3.3%) █
+  F:    8 (  3.3%) █
+  G:    8 (  3.3%) █
+  T:    8 (  3.3%) █
+  H:    6 (  2.4%) █
+
+Top-4 letters: ['A', 'C', 'P', 'S'] → coverage: 44.9%
+VMS gallows coverage: 81.4%
+
+Testing all 4-letter mappings...
+  Tested 212,520 mappings
+
+  TOP 10 MAPPINGS:
+  Rank   Score      L2   Cov%   p→   t→   k→   f→
+     1 0.5866 0.0504 27.8%    A    S    D    N
+     2 0.5866 0.0504 27.8%    A    S    D    O
+     3 0.5866 0.0504 27.8%    A    S    D    U
+     4 0.5866 0.0504 27.8%    A    S    F    N
+     5 0.5866 0.0504 27.8%    A    S    F    O
+     6 0.5866 0.0504 27.8%    A    S    F    U
+     7 0.5866 0.0504 27.8%    A    S    G    N
+     8 0.5866 0.0504 27.8%    A    S    G    O
+     9 0.5866 0.0504 27.8%    A    S    G    U
+    10 0.5866 0.0504 27.8%    A    S    T    N
+
+  BEST: {'p': 'A', 't': 'S', 'k': 'D', 'f': 'N'} (score=0.5866)
+
+──────────────────────────────────────────────────────────────────────
+VOCABULARY MODEL: recipe_pharma
+──────────────────────────────────────────────────────────────────────
+Total entries: 167
+
+Letter distribution:
+  R:   25 ( 15.0%) ███████
+  A:   20 ( 12.0%) █████
+  C:   15 (  9.0%) ████
+  P:   15 (  9.0%) ████
+  S:   15 (  9.0%) ████
+  D:   12 (  7.2%) ███
+  I:   12 (  7.2%) ███
+  T:   12 (  7.2%) ███
+  F:   10 (  6.0%) ██
+  E:    8 (  4.8%) ██
+  M:    5 (  3.0%) █
+  N:    5 (  3.0%) █
+  Q:    5 (  3.0%) █
+  V:    5 (  3.0%) █
+  U:    3 (  1.8%) 
+
+Top-4 letters: ['R', 'A', 'C', 'P'] → coverage: 44.9%
+VMS gallows coverage: 81.4%
+
+Testing all 4-letter mappings...
+  Tested 32,760 mappings
+
+  TOP 10 MAPPINGS:
+  Rank   Score      L2   Cov%   p→   t→   k→   f→
+     1 0.5694 0.0251 26.9%    R    D    M    U
+     2 0.5694 0.0251 26.9%    R    D    N    U
+     3 0.5694 0.0251 26.9%    R    D    Q    U
+     4 0.5694 0.0251 26.9%    R    D    V    U
+     5 0.5694 0.0251 26.9%    R    I    M    U
+     6 0.5694 0.0251 26.9%    R    I    N    U
+     7 0.5694 0.0251 26.9%    R    I    Q    U
+     8 0.5694 0.0251 26.9%    R    I    V    U
+     9 0.5694 0.0251 26.9%    R    T    M    U
+    10 0.5694 0.0251 26.9%    R    T    N    U
+
+  BEST: {'p': 'R', 't': 'D', 'k': 'M', 'f': 'U'} (score=0.5694)
+
+──────────────────────────────────────────────────────────────────────
+VOCABULARY MODEL: medical_treatise
+──────────────────────────────────────────────────────────────────────
+Total entries: 133
+
+Letter distribution:
+  C:   15 ( 11.3%) █████
+  D:   15 ( 11.3%) █████
+  P:   12 (  9.0%) ████
+  Q:   12 (  9.0%) ████
+  S:   12 (  9.0%) ████
+  A:   10 (  7.5%) ███
+  E:   10 (  7.5%) ███
+  I:   10 (  7.5%) ███
+  N:    8 (  6.0%) ███
+  V:    8 (  6.0%) ███
+  H:    5 (  3.8%) █
+  T:    5 (  3.8%) █
+  U:    5 (  3.8%) █
+  F:    3 (  2.3%) █
+  R:    3 (  2.3%) █
+
+Top-4 letters: ['C', 'D', 'P', 'Q'] → coverage: 40.6%
+VMS gallows coverage: 81.4%
+
+Testing all 4-letter mappings...
+  Tested 32,760 mappings
+
+  TOP 10 MAPPINGS:
+  Rank   Score      L2   Cov%   p→   t→   k→   f→
+     1 0.6647 0.0690 21.8%    C    N    F    R
+     2 0.6647 0.0690 21.8%    C    N    R    F
+     3 0.6647 0.0690 21.8%    C    V    F    R
+     4 0.6647 0.0690 21.8%    C    V    R    F
+     5 0.6647 0.0690 21.8%    D    N    F    R
+     6 0.6647 0.0690 21.8%    D    N    R    F
+     7 0.6647 0.0690 21.8%    D    V    F    R
+     8 0.6647 0.0690 21.8%    D    V    R    F
+     9 0.6719 0.0912 23.3%    C    N    H    F
+    10 0.6719 0.0912 23.3%    C    V    H    F
+
+  BEST: {'p': 'C', 't': 'N', 'k': 'F', 'f': 'R'} (score=0.6647)
+
+──────────────────────────────────────────────────────────────────────
+VOCABULARY MODEL: mixed_herbal_recipe
+──────────────────────────────────────────────────────────────────────
+Total entries: 412
+
+Letter distribution:
+  A:   55 ( 13.3%) ██████
+  C:   45 ( 10.9%) █████
+  P:   40 (  9.7%) ████
+  R:   37 (  9.0%) ████
+  S:   35 (  8.5%) ████
+  D:   20 (  4.9%) ██
+  M:   20 (  4.9%) ██
+  T:   20 (  4.9%) ██
+  E:   18 (  4.4%) ██
+  F:   18 (  4.4%) ██
+  I:   18 (  4.4%) ██
+  V:   15 (  3.6%) █
+  B:   12 (  2.9%) █
+  L:   10 (  2.4%) █
+  N:   10 (  2.4%) █
+
+Top-4 letters: ['A', 'C', 'P', 'R'] → coverage: 43.0%
+VMS gallows coverage: 81.4%
+
+Testing all 4-letter mappings...
+  Tested 212,520 mappings
+
+  TOP 10 MAPPINGS:
+  Rank   Score      L2   Cov%   p→   t→   k→   f→
+     1 0.6156 0.0712 26.9%    A    S    V    H
+     2 0.6161 0.0742 27.2%    A    S    V    Q
+     3 0.6164 0.0696 26.7%    A    S    V    O
+     4 0.6177 0.0782 27.4%    A    S    V    G
+     5 0.6177 0.0782 27.4%    A    S    V    U
+     6 0.6204 0.0833 27.7%    A    S    E    H
+     7 0.6204 0.0833 27.7%    A    S    F    H
+     8 0.6204 0.0833 27.7%    A    S    I    H
+     9 0.6205 0.0688 26.2%    A    S    B    H
+    10 0.6206 0.0713 26.5%    A    S    B    Q
+
+  BEST: {'p': 'A', 't': 'S', 'k': 'V', 'f': 'H'} (score=0.6156)
+
+══════════════════════════════════════════════════════════════════════
+PART 3: VMS SECTION-SPECIFIC DISTRIBUTIONS
+══════════════════════════════════════════════════════════════════════
+
+  Section: astro (n=26)
+  Gallows coverage: 30.8%
+       t:   8 ( 30.8%) ← GALLOWS
+       o:   8 ( 30.8%)
+       y:   5 ( 19.2%)
+       d:   2 (  7.7%)
+      ch:   1 (  3.8%)
+      sh:   1 (  3.8%)
+       r:   1 (  3.8%)
+
+  Section: balneo (n=93)
+  Gallows coverage: 74.2%
+       p:  50 ( 53.8%) ← GALLOWS
+       t:  14 ( 15.1%) ← GALLOWS
+       q:  10 ( 10.8%)
+       o:   7 (  7.5%)
+       k:   5 (  5.4%) ← GALLOWS
+       s:   3 (  3.2%)
+     cph:   1 (  1.1%)
+       y:   1 (  1.1%)
+
+  Section: cosmo (n=58)
+  Gallows coverage: 69.0%
+       p:  36 ( 62.1%) ← GALLOWS
+       n:   4 (  6.9%)
+       e:   4 (  6.9%)
+       s:   4 (  6.9%)
+       w:   4 (  6.9%)
+       k:   2 (  3.4%) ← GALLOWS
+       t:   2 (  3.4%) ← GALLOWS
+       o:   2 (  3.4%)
+
+  Section: herbal (n=322)
+  Gallows coverage: 84.5%
+       p: 111 ( 34.5%) ← GALLOWS
+       t:  90 ( 28.0%) ← GALLOWS
+       k:  54 ( 16.8%) ← GALLOWS
+       f:  17 (  5.3%) ← GALLOWS
+       o:  17 (  5.3%)
+       q:   9 (  2.8%)
+       d:   6 (  1.9%)
+       s:   5 (  1.6%)
+
+  Section: recipe (n=285)
+  Gallows coverage: 87.4%
+       p: 155 ( 54.4%) ← GALLOWS
+       t:  60 ( 21.1%) ← GALLOWS
+       k:  20 (  7.0%) ← GALLOWS
+       f:  14 (  4.9%) ← GALLOWS
+       d:   8 (  2.8%)
+       q:   8 (  2.8%)
+       o:   6 (  2.1%)
+       y:   5 (  1.8%)
+
+══════════════════════════════════════════════════════════════════════
+CROSS-REFERENCE ANALYSIS
+══════════════════════════════════════════════════════════════════════
+
+Letter assignment votes (across all sources, weighted by rank):
+  VMS 'p' → X(30), T(30), A(30), I(15), S(15)
+  VMS 't' → L(30), S(30), D(29), A(18), P(15)
+  VMS 'k' → A(39), E(29), I(19), V(17), D(12)
+  VMS 'f' → U(19), H(18), N(15), R(14), O(10)
+
+Top consensus mappings (total weighted votes):
+  votes=  5  p→I t→A k→E f→R
+  votes=  5  p→X t→L k→A f→H
+  votes=  5  p→S t→P k→E f→D
+  votes=  5  p→X t→L k→A f→P
+  votes=  5  p→T t→I k→A f→W
+  votes=  5  p→T t→D k→I f→A
+  votes=  5  p→A t→S k→D f→N
+  votes=  5  p→R t→D k→M f→U
+  votes=  5  p→C t→N k→F f→R
+  votes=  5  p→A t→S k→V f→H
+
+Top-4 coverage comparison:
+  VMS gallows:         81.4%
+  apicius               52.2%  ['I', 'P', 'X', 'A']
+  galen                 45.1%  ['X', 'L', 'T', 'I']
+  erasmus               64.0%  ['S', 'P', 'I', 'E']
+  caesar                59.3%  ['X', 'L', 'C', 'A']
+  vulgate_genesis       64.1%  ['T', 'I', 'A', 'W']
+  pliny                 61.6%  ['T', 'D', 'I', 'A']
+  herbal_alphabetical   44.9%  ['A', 'C', 'P', 'S']
+  recipe_pharma         44.9%  ['R', 'A', 'C', 'P']
+  medical_treatise      40.6%  ['C', 'D', 'P', 'Q']
+  mixed_herbal_recipe   43.0%  ['A', 'C', 'P', 'R']
+
+══════════════════════════════════════════════════════════════════════
+SKEPTICAL ANALYSIS
+══════════════════════════════════════════════════════════════════════
+
+1. IS 81% COVERAGE IN 4 LETTERS UNUSUAL FOR LATIN?
+  Average top-4 coverage across sources: 52.0%
+  VMS gallows coverage: 81.4%
+  → VMS is SIGNIFICANTLY more concentrated than typical Latin
+    This suggests gallows are NOT simple letter substitutions,
+    OR the text has unusual structural constraints.
+
+2. DO BEST MAPPINGS MAKE LINGUISTIC SENSE?
+  For a medical/herbal text, we'd expect frequent paragraph-initial letters to be:
+  D (De...), C (Contra/Cum...), S (Si/Sed...), P (Piper/Praeparatio...),
+  R (Recipe...), A (Accipe/Ad...), I (Item/In...), E (Est/Et...)
+  Letters K, X, Z should be very rare in Latin.
+
+3. SECTION-SPECIFIC ANALYSIS
+  VMS herbal:  p=34%, t=28%, k=17%, f=5% (more balanced)
+  VMS recipe:  p=54%, t=21%, k=7%,  f=5% (p-dominated)
+  VMS balneo:  p=54%, t=15%, k=5%,  f=2% (p-dominated)
+  If gallows = Latin letters, the SAME 4 letters should work for all sections.
+  The VMS sections show DIFFERENT relative frequencies → either:
+    a) Different genre of text uses different words (plausible)
+    b) Gallows are not simple letter substitutions
+
+4. ALTERNATIVE HYPOTHESES
+  Gallows could be:
+  a) Paragraph-TYPE markers (herbal=p, recipe=t, instruction=k, note=f)
+  b) Abbreviated words (not single letters)
+  c) Coptic-style structural markers
+  d) Simple letter substitutions (what this phase tests)
+  e) Section-specific cipher elements
+
+5. INFORMATION CONTENT CHECK
+  Entropy of gallows distribution: 1.575 bits
+  Max possible (uniform 4): 2.000 bits
+  Efficiency: 78.7%
+  This means the gallows carry 1.57 bits of information
+  per paragraph start — consistent with choosing from ~3.0
+  equiprobable options (not 4 equal → not 4 random letters)
+
+══════════════════════════════════════════════════════════════════════
+PHASE 75 SUMMARY
+══════════════════════════════════════════════════════════════════════
+
+Unique 4-letter sets from best mappings: 10
+  ['A', 'L', 'P', 'X']
+  ['D', 'E', 'P', 'S']
+  ['A', 'I', 'T', 'W']
+  ['A', 'E', 'I', 'R']
+  ['A', 'H', 'L', 'X']
+  ['A', 'D', 'I', 'T']
+  ['D', 'M', 'R', 'U']
+  ['A', 'H', 'S', 'V']
+  ['C', 'F', 'N', 'R']
+  ['A', 'D', 'N', 'S']
+
+NO Latin text reaches 70% coverage in top-4 letters.
+This suggests VMS 81% gallows concentration is UNUSUAL.
+
+══════════════════════════════════════════════════════════════════════
+KEY FINDINGS:
+══════════════════════════════════════════════════════════════════════
+
+1. VMS gallows account for 81.4% of paragraph starts.
+   This extreme concentration needs explanation.
+
+2. Best-fit Latin letter mappings are reported above per text/model.
+
+3. The critical question is whether ANY Latin text genre naturally
+   concentrates ~81% of paragraph starts in just 4 letters.
+
+4. Section-specific VMS distributions (herbal=balanced, recipe=p-heavy)
+   should ideally be explained by the same 4-letter mapping with
+   different genres of Latin text.
+
+
+JSON results → C:\projects\voynich_slop\results\phase75_latin_mapping.json

@@ -1,0 +1,234 @@
+C:\projects\voynich_slop\scripts\phase56_syllabary_test.py:392: RuntimeWarning: divide by zero encountered in log2
+  
+C:\projects\voynich_slop\scripts\phase56_syllabary_test.py:392: RuntimeWarning: invalid value encountered in multiply
+  
+C:\projects\voynich_slop\scripts\phase56_syllabary_test.py:393: RuntimeWarning: divide by zero encountered in log2
+  # Distance matrix (Jensen-Shannon divergence)
+C:\projects\voynich_slop\scripts\phase56_syllabary_test.py:393: RuntimeWarning: invalid value encountered in multiply
+  # Distance matrix (Jensen-Shannon divergence)
+Loading corpus...
+  35708 tokens, 3318 types, 22 chars, 143330 total chars
+
+=================================================================
+56a: NULL MODEL TEST — Is degenerate Sukhotin trivially expected?
+=================================================================
+
+  BIGRAM NULL MODEL (N=50):
+  VMS: 13/22 vowels, 91.4% V tokens, alt=0.116
+  Null: 12.9±0.3/22 vowels, 91.4±0.0% V tokens, alt=0.100±0.001
+
+  UNIGRAM NULL MODEL (N=50):
+  Null: 14.0±0.4/22 vowels, 99.7±0.3% V tokens, alt=0.005±0.005
+
+  VMS vs BIGRAM NULL:
+  z(n_vowels) = 0.4
+  z(alternation) = 15.9
+
+  Number of vowels explained by bigrams, but alternation differs.
+
+=================================================================
+56b: SVD OF TRANSITION MATRIX — Low-rank (CV grid) structure?
+=================================================================
+  Common characters (freq>50): 15
+  Singular values (top 10):
+    σ_1 = 1.4197  cumulative = 21.4%
+    σ_2 = 1.2677  cumulative = 40.6%
+    σ_3 = 0.8378  cumulative = 53.2%
+    σ_4 = 0.7786  cumulative = 64.9%
+    σ_5 = 0.6397  cumulative = 74.6%
+    σ_6 = 0.4430  cumulative = 81.3%
+    σ_7 = 0.4216  cumulative = 87.7%
+    σ_8 = 0.3258  cumulative = 92.6%
+    σ_9 = 0.2079  cumulative = 95.7%
+    σ_10 = 0.1271  cumulative = 97.6%
+
+  Effective rank (90%): 8
+  Effective rank (95%): 9
+  Effective rank (99%): 11
+
+  Interpretation:
+  A CV syllabary (C×V symbols) has transition rank ≈ C+V
+  A 5C×4V syllabary → rank ≈ 9, out of 20 symbols
+  VMS: rank(90%) = 8 out of 15 ← NOT low-rank (each character acts independently)
+
+  Null model rank(90%): 8.0 ± 0.0
+  z(rank): 0.0
+  → VMS transition rank is NORMAL for its bigram statistics
+
+=================================================================
+56c: CHARACTER DISTRIBUTIONAL CLUSTERING
+=================================================================
+  Most similar character pairs (by JSD of combined context):
+    a-c: JSD = nan
+    a-d: JSD = nan
+    a-e: JSD = nan
+    a-g: JSD = nan
+    a-h: JSD = nan
+    a-i: JSD = nan
+    a-l: JSD = nan
+    a-m: JSD = nan
+    a-n: JSD = nan
+    a-o: JSD = nan
+    a-q: JSD = nan
+    a-r: JSD = nan
+    a-s: JSD = nan
+    a-y: JSD = nan
+    c-d: JSD = nan
+
+  Most DISSIMILAR pairs:
+    q-s: JSD = nan
+    q-y: JSD = nan
+    r-s: JSD = nan
+    r-y: JSD = nan
+    s-y: JSD = nan
+
+  Agglomerative clustering (merge order):
+
+  INTERPRETATION:
+  In a real syllabary, early clusters would group characters
+  sharing a consonant (e.g., ka+ki+ku) or a vowel (ka+sa+na).
+  Check: do the character pairs above share positional profiles?
+
+  Positional profiles of most similar pairs:
+    a: start=20.4%, end=0.4%  |  c: start=77.7%, end=0.1%
+    a: start=20.4%, end=0.4%  |  d: start=28.7%, end=4.5%
+    a: start=20.4%, end=0.4%  |  e: start=9.3%, end=1.1%
+    a: start=20.4%, end=0.4%  |  g: start=12.1%, end=92.9%
+    a: start=20.4%, end=0.4%  |  h: start=0.0%, end=0.4%
+
+=================================================================
+56d: SIMULATED SYLLABARY CALIBRATION
+=================================================================
+  Simulated CV syllabary: 5C × 4V = 20 symbols
+  35708 words generated
+  Sukhotin vowels: 19/20  (95.7% of tokens)
+  Alternation rate: 0.0845
+
+  SVD of syllabary transition matrix:
+    σ_1 = 1.0337  cumulative = 33.1%
+    σ_2 = 0.6971  cumulative = 55.4%
+    σ_3 = 0.5417  cumulative = 72.8%
+    σ_4 = 0.3387  cumulative = 83.6%
+    σ_5 = 0.0760  cumulative = 86.0%
+    σ_6 = 0.0669  cumulative = 88.2%
+    σ_7 = 0.0593  cumulative = 90.1%
+    σ_8 = 0.0502  cumulative = 91.7%
+  Effective rank (90%): 7
+
+  COMPARISON TABLE:
+                          Metric         VMS   Syllabary    Match?
+      Sukhotin vowels (fraction)  13/   22     19/   20     NO
+                       V token %        91.4       95.7%  YES
+                Alternation rate       0.116      0.0845  YES
+                   SVD rank(90%)           8           7  YES
+
+  --- ALPHABETIC REFERENCE ---
+  Sukhotin vowels: 5/17
+  V token %: 43.8%
+  Alternation rate: 1.0000
+  Sukhotin correctly identified vowels: {'e', 'u', 'o', 'a', 'i'}
+  Sukhotin incorrectly labelled as V: set()
+
+=================================================================
+56e: ENTROPY REDUCTION UNDER CHARACTER GROUPING
+=================================================================
+  Baseline transition entropy (char-level): 1.8136 bits
+
+  k=3 groups:
+    Group 0: q
+    Group 1: a d e g h i l m n o r y
+    Group 2: c s
+    SVD grouping H: 0.2052
+    Random grouping H: 1.3169 ± 0.1837
+    z = -6.1
+    Reduction vs random: +84.4%
+
+  k=4 groups:
+    Group 0: q
+    Group 1: c s
+    Group 2: a i
+    Group 3: d e g h l m n o r y
+    SVD grouping H: 0.8260
+    Random grouping H: 1.5513 ± 0.1804
+    z = -4.0
+    Reduction vs random: +46.8%
+
+  k=5 groups:
+    Group 0: d e g m n r
+    Group 1: c s
+    Group 2: a i
+    Group 3: h l o y
+    Group 4: q
+    SVD grouping H: 1.3665
+    Random grouping H: 1.6851 ± 0.1884
+    z = -1.7
+    Reduction vs random: +18.9%
+
+  k=6 groups:
+    Group 0: h o y
+    Group 1: i
+    Group 2: a g r
+    Group 3: q
+    Group 4: d e l m n
+    Group 5: c s
+    SVD grouping H: 1.3962
+    Random grouping H: 1.7561 ± 0.1939
+    z = -1.9
+    Reduction vs random: +20.5%
+
+=================================================================
+PHASE 56 SYNTHESIS
+=================================================================
+
+CRITICAL SELF-CHECK ON PHASE 55:
+
+56a NULL MODEL RESULT:
+  VMS bigram null produces 12.9/22 Sukhotin vowels
+  vs VMS's 13/22.
+  z(n_vowels) = 0.4, z(alternation) = 15.9
+  → Phase 55 result is LARGELY EXPLAINED by bigram structure alone!
+
+56b SVD RESULT:
+  VMS rank(90%) = 8, null = 8.0±0.0
+  z = 0.0
+  → No evidence of low-rank (CV grid) structure.
+
+56d CALIBRATION RESULT:
+  Simulated syllabary: 19/20 vowels, alt=0.085
+  Simulated alphabetic: 5/17 vowels, alt=1.000
+  VMS:                  13/22 vowels, alt=0.116
+
+OVERALL ASSESSMENT:
+
+  The degenerate Sukhotin result (Phase 55) is LIKELY an ARTIFACT
+  of the VMS character frequency distribution. Random text from the
+  VMS bigram model produces the same degenerate split.
+
+  This means Phase 55's conclusion that 'alphabetic encoding is
+  excluded' was PREMATURE. The Sukhotin failure tells us about
+  character bigram statistics, not about script type.
+
+  However, the CHARACTER STATISTICS THEMSELVES are unusual:
+  - Most characters freely combine with each other
+  - No clear V/C alternation in any model
+  - This is still inconsistent with European alphabetic text
+
+  REVISED ASSESSMENT:
+  - Syllabary hypothesis: DOWNGRADE from 85% to ~70%
+  - Alphabetic exclusion: DOWNGRADE from 90% to ~75%
+  - The unusual character distribution remains unexplained
+
+Phase 56 complete.
+ bigram statistics, not about script type.
+
+  However, the CHARACTER STATISTICS THEMSELVES are unusual:
+  - Most characters freely combine with each other
+  - No clear V/C alternation in any model
+  - This is still inconsistent with European alphabetic text
+
+  REVISED ASSESSMENT:
+  - Syllabary hypothesis: DOWNGRADE from 85% to ~70%
+  - Alphabetic exclusion: DOWNGRADE from 90% to ~75%
+  - The unusual character distribution remains unexplained
+
+Phase 56 complete.

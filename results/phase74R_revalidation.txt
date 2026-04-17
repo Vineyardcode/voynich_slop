@@ -1,0 +1,250 @@
+╔══════════════════════════════════════════════════════════════════╗
+║  PHASE 74R — REVALIDATION OF FIRST-WORD FINDINGS               ║
+╠══════════════════════════════════════════════════════════════════╣
+║  Sceptical challenge: Is the Phase 74 first-word concentration ║
+║  real, or an artefact of VMS hapax rates, EVA encoding, or     ║
+║  general positional patterns?                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+
+Loaded 323 recipe paragraphs (10540 words)
+Loaded 641 non-recipe paragraphs
+
+════════════════════════════════════════════════════════════════════════
+R1 — HAPAX CONTROL: Is 72% Position-Exclusivity Just a Hapax Effect?
+════════════════════════════════════════════════════════════════════════
+
+Actual: 275 first-word types, 198 position-exclusive (72.0%)
+
+Recipe corpus: 10540 tokens, 3040 types, 2096 hapax (68.9%)
+
+First-word types that are corpus-wide hapax: 189/275 (68.7%)
+(These are trivially position-exclusive — they only occur once, period)
+
+First-words appearing 2+ times: 27
+  Of these, exclusive to position 0: 9 (33.3%)
+    "pcheor" (4× as first word, 0× elsewhere)
+    "pchodain" (3× as first word, 0× elsewhere)
+    "psheody" (3× as first word, 0× elsewhere)
+    "tchedor" (2× as first word, 0× elsewhere)
+    "pcholky" (2× as first word, 0× elsewhere)
+    "poar" (2× as first word, 0× elsewhere)
+    "poraiin" (2× as first word, 0× elsewhere)
+    "polar" (2× as first word, 0× elsewhere)
+    "pchedar" (2× as first word, 0× elsewhere)
+
+First-word types with corpus freq >1: 86
+  Exclusive to position 0: 9 (10.5%)
+
+Shuffled control (323 random words from recipe vocab):
+  Mean "not in non-first positions": 2.8% (±1.0)
+  Actual first-word exclusivity: 72.0%
+  Mean hapax rate among sampled: 27.5%
+  P(shuffled ≥ actual): 0.0000
+
+--- Frequency-matched control ---
+First-word corpus-frequency distribution:
+  freq=1: 189 first-word tokens
+  freq=2: 34 first-word tokens
+  freq=3: 19 first-word tokens
+  freq=4: 15 first-word tokens
+  freq=5: 8 first-word tokens
+  freq=6: 8 first-word tokens
+  freq=7: 6 first-word tokens
+  freq=8: 1 first-word tokens
+  freq=9: 3 first-word tokens
+  freq=10: 7 first-word tokens
+  freq=13: 5 first-word tokens
+  freq=14: 2 first-word tokens
+  freq=16: 1 first-word tokens
+  freq=17: 1 first-word tokens
+  freq=18: 1 first-word tokens
+  freq=21: 1 first-word tokens
+  freq=24: 1 first-word tokens
+  freq=27: 1 first-word tokens
+  freq=35: 3 first-word tokens
+  freq=36: 1 first-word tokens
+  freq=49: 2 first-word tokens
+  freq=61: 1 first-word tokens
+  freq=97: 1 first-word tokens
+  freq=100: 1 first-word tokens
+  freq=120: 4 first-word tokens
+  freq=125: 1 first-word tokens
+  freq=136: 1 first-word tokens
+  freq=146: 1 first-word tokens
+  freq=159: 3 first-word tokens
+  freq=207: 1 first-word tokens
+
+Frequency-matched control (same freq distribution as actual first words):
+  Mean exclusivity: 5.7% (±1.3)
+  Actual: 72.0%
+  P(freq-matched ≥ actual): 0.0000
+
+════════════════════════════════════════════════════════════════════════
+R2 — FREQUENCY CONTROL: Are p-initial Words Just Rare Words?
+════════════════════════════════════════════════════════════════════════
+
+Hapax (freq=1): 2096 types, "p"-initial = 122 (5.8%), top = "o" (20.3%)
+Low (2-5): 651 types, "p"-initial = 32 (4.9%), top = "o" (22.9%)
+Mid (6-20): 210 types, "p"-initial = 3 (1.4%), top = "o" (22.4%)
+High (>20): 83 types, "p"-initial = 0 (0.0%), top = "o" (21.7%)
+
+P-initial rate among first words by frequency tier:
+  Hapax (1): 189 first-word tokens, 88 p-initial (46.6%)
+  Low (2-5): 76 first-word tokens, 46 p-initial (60.5%)
+  Mid (6-20): 35 first-word tokens, 12 p-initial (34.3%)
+  High (>20): 23 first-word tokens, 0 p-initial (0.0%)
+
+All hapax words in recipe: 2096 types, 122 p-initial (5.8%)
+First-word hapax: 189 tokens, 88 p-initial (46.6%)
+
+P-initial enrichment in first-word hapax vs all hapax: 8.00×
+=> POSITION-SPECIFIC: first-word hapax are MORE p-initial than general hapax
+
+════════════════════════════════════════════════════════════════════════
+R3 — CROSS-SECTION: Do Non-Recipe Sections Show Similar First-Word Patterns?
+════════════════════════════════════════════════════════════════════════
+
+Recipe (323 paragraphs):
+  Top first char: "p" = 45.2%
+  First-char distribution: {'p': 146, 't': 66, 'k': 20, 's': 19, 'd': 17, 'f': 14, 'o': 13, 'q': 13}
+  Position-exclusive first words: 198/275 (72.0%)
+  First-word mean length: 6.41 (all: 5.35)
+  Top first-word prefix: "po" = 18.0% (enrichment: 24.9×)
+
+Non-recipe (641 paragraphs):
+  Top first char: "p" = 30.1%
+  First-char distribution: {'p': 193, 'o': 135, 't': 121, 'k': 64, 'c': 31, 's': 24, 'd': 21, 'q': 19}
+  Position-exclusive first words: 318/491 (64.8%)
+  First-word mean length: 6.22 (all: 5.18)
+  Top first-word prefix: "po" = 11.2% (enrichment: 30.2×)
+
+════════════════════════════════════════════════════════════════════════
+R4 — LINE vs PARAGRAPH: Is It Just a Line-Initial Effect?
+════════════════════════════════════════════════════════════════════════
+
+If every TEXT LINE starts with a p-heavy distribution, then the
+paragraph effect is just line-1 of each paragraph following the
+same rule. But if only line-1 (paragraph start) shows p-dominance
+while lines 2+ do not, the effect is paragraph-specific.
+
+Line-1 (paragraph start): 323 lines
+  First-char dist: {'p': 146, 't': 66, 'k': 20, 's': 19, 'd': 17, 'f': 14, 'o': 13, 'q': 13, 'y': 8, 'c': 3}
+  "p" rate: 45.2%
+
+Lines 2+ (continuation): 761 lines
+  First-char dist: {'d': 159, 's': 158, 'y': 145, 'o': 120, 'q': 55, 'c': 53, 't': 29, 'l': 16, 'p': 15, 'a': 7}
+  "p" rate: 2.0%
+
+Line-1 top-3 concentration: 71.8%
+Lines-2+ top-3 concentration: 60.7%
+
+Line-1 top prefixes: [('po', 58), ('pc', 57), ('tc', 26), ('ts', 15), ('pa', 14)]
+Lines-2+ top prefixes: [('da', 92), ('sa', 66), ('yc', 63), ('qo', 53), ('ch', 49)]
+
+Line-1 first-word mean length: 6.41
+Lines-2+ first-word mean length: 5.51
+
+════════════════════════════════════════════════════════════════════════
+R5 — EVA "p" DECOMPOSITION: Are These Really the Same Glyph?
+════════════════════════════════════════════════════════════════════════
+
+In EVA, the character "p" maps to one specific VMS glyph.
+But if the p-initial first words actually use different BIGRAM
+beginnings (po, pc, ps, pa, etc.), that might suggest the "p"
+is a prefix/modifier rather than the same functional character.
+
+P-initial first words: 146 (45.2%)
+Non-p first words: 177 (54.8%)
+
+Character following "p" in p-initial first words:
+  po: 58 (39.7%)
+  pc: 57 (39.0%)
+  pa: 14 (9.6%)
+  ps: 11 (7.5%)
+  py: 5 (3.4%)
+  pd: 1 (0.7%)
+
+Character following "p" in p-initial NON-FIRST words (82):
+  pc: 48 (58.5%)
+  po: 18 (22.0%)
+  pa: 10 (12.2%)
+  pd: 2 (2.4%)
+  ps: 2 (2.4%)
+  pe: 1 (1.2%)
+  py: 1 (1.2%)
+
+P-initial first words mean length: 6.70
+Non-p first words mean length: 6.16
+
+P-initial first words: 146 tokens, 119 types, TTR=0.815
+Non-p first words: 177 tokens, 156 types, TTR=0.881
+
+Top 15 p-initial first words:
+  "pol": 5
+  "polaiin": 5
+  "pcheor": 4
+  "pchedal": 3
+  "polchedy": 3
+  "psheody": 3
+  "pchodain": 3
+  "pchedy": 2
+  "pchedar": 2
+  "poar": 2
+  "pair": 2
+  "pcholky": 2
+  "poraiin": 2
+  "polar": 2
+  "pchdair": 2
+
+════════════════════════════════════════════════════════════════════════
+R6 — POSITION DEPTH: How Deep Does the Constraint Go?
+════════════════════════════════════════════════════════════════════════
+
+If position-1 words are constrained, are position-2, -3, etc.
+also showing unusual character distributions? This tests whether
+the effect is purely first-word or extends deeper.
+
+Position 1 (323 words):
+  Top char: "p" = 45.2%
+  Entropy: 2.554 bits
+  Distribution: {'p': 146, 't': 66, 'k': 20, 's': 19, 'd': 17, 'f': 14}
+Position 2 (323 words):
+  Top char: "o" = 24.5%
+  Entropy: 2.881 bits
+  Distribution: {'o': 79, 's': 66, 'q': 47, 'c': 46, 'a': 32, 'k': 19}
+Position 3 (323 words):
+  Top char: "q" = 24.8%
+  Entropy: 2.986 bits
+  Distribution: {'q': 80, 'o': 74, 'c': 45, 's': 36, 'l': 25, 'a': 19}
+Position 4 (323 words):
+  Top char: "o" = 24.1%
+  Entropy: 2.967 bits
+  Distribution: {'o': 78, 'q': 77, 'c': 50, 's': 37, 'l': 19, 'a': 18}
+Position 5 (323 words):
+  Top char: "q" = 26.3%
+  Entropy: 3.066 bits
+  Distribution: {'q': 85, 'o': 73, 'c': 35, 's': 33, 'l': 22, 'a': 20}
+Position 6 (323 words):
+  Top char: "q" = 27.6%
+  Entropy: 2.991 bits
+  Distribution: {'q': 89, 'o': 64, 'c': 59, 's': 28, 'l': 24, 'a': 17}
+
+Overall recipe word-initial distribution:
+  {'o': 2413, 'q': 1871, 'c': 1813, 's': 984, 'a': 889, 'l': 712, 'd': 477, 'k': 371, 'y': 296, 't': 246}
+  Entropy: 3.164 bits
+
+
+════════════════════════════════════════════════════════════════════════
+R-SUMMARY — Phase 74 Revalidation Verdicts
+════════════════════════════════════════════════════════════════════════
+
+R1. Position-exclusivity (72%):
+    Hapax-driven: 68.7% of first-word types are corpus hapax
+    Random baseline: 2.8%, p=0.0
+    Freq-matched baseline: 5.7%, p=0.0
+    Multi-occurrence exclusive: 9 words
+
+R4. Line-1 vs Lines-2+ "p" rate:
+    Line-1 (paragraph start): 45.2%
+    Lines 2+ (continuation): 1.97%
+

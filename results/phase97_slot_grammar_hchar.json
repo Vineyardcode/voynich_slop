@@ -1,0 +1,62 @@
+{
+  "h_char_observed": {
+    "all": 0.656,
+    "a": 0.6809,
+    "b": 0.6229
+  },
+  "h_char_slot_resample": {
+    "all": 0.9162,
+    "a": 0.922,
+    "b": 0.9058
+  },
+  "h_char_slot_shuffle": 0.9162,
+  "h_char_flat_shuffle": 0.9991,
+  "pct_explained_by_slot_grammar": 24.2,
+  "vms_residual": 0.2602,
+  "z_score_vs_nl": 25.91,
+  "verdict": "ADDITIONAL_CORRELATIONS",
+  "nl_baselines": {
+    "apicius": {
+      "n_chars": 171684,
+      "h_char_obs": 0.8119,
+      "h_char_slot_resample": 0.8994,
+      "n_slot_types": 8,
+      "ratio_obs_to_resample": 0.9028
+    },
+    "caesar": {
+      "n_chars": 275246,
+      "h_char_obs": 0.8652,
+      "h_char_slot_resample": 0.9412,
+      "n_slot_types": 8,
+      "ratio_obs_to_resample": 0.9192
+    },
+    "erasmus": {
+      "n_chars": 44680,
+      "h_char_obs": 0.8673,
+      "h_char_slot_resample": 0.9391,
+      "n_slot_types": 8,
+      "ratio_obs_to_resample": 0.9236
+    },
+    "galen": {
+      "n_chars": 267210,
+      "h_char_obs": 0.876,
+      "h_char_slot_resample": 0.9482,
+      "n_slot_types": 8,
+      "ratio_obs_to_resample": 0.9239
+    },
+    "pliny": {
+      "n_chars": 345871,
+      "h_char_obs": 0.8826,
+      "h_char_slot_resample": 0.9464,
+      "n_slot_types": 8,
+      "ratio_obs_to_resample": 0.9326
+    },
+    "vulgate_genesis": {
+      "n_chars": 134187,
+      "h_char_obs": 0.8693,
+      "h_char_slot_resample": 0.9396,
+      "n_slot_types": 8,
+      "ratio_obs_to_resample": 0.9252
+    }
+  }
+}

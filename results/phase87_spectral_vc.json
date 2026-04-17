@@ -1,0 +1,180 @@
+{
+  "vms": {
+    "n_symbols": 50,
+    "spectral_gap": 0.4699803045794676,
+    "lambda2": -0.5300196954205316,
+    "small_ratio": 0.42,
+    "alternation_rate": 0.7482682619647355,
+    "v_candidates": [
+      "d",
+      "y",
+      "q.o.k",
+      "o.k",
+      "k",
+      "o.t",
+      "s",
+      "l",
+      "t",
+      "o",
+      "d.y",
+      "a.m",
+      "y.k",
+      "p",
+      "y.t",
+      "r",
+      "cth",
+      "o.p",
+      "o.d.y",
+      "q.o",
+      "sh.y"
+    ],
+    "c_candidates": [
+      "a.i.i.n",
+      "a.r",
+      "o.l",
+      "a.l",
+      "a.i.n",
+      "o.r",
+      "ch.e.d.y",
+      "e.e.y",
+      "q.o.t",
+      "e.d.y",
+      "ch.y",
+      "e.e.d.y",
+      "ch.e.y",
+      "e.y",
+      "ch.o.l",
+      "sh.e.d.y",
+      "a.i.r",
+      "ch.d.y",
+      "ch.o.r",
+      "sh.e.y",
+      "o.d",
+      "e.o.l",
+      "e",
+      "ch.e.e.y",
+      "ch.e.o.l",
+      "ch.e.d",
+      "sh.o.l",
+      "ch.o",
+      "ch.d"
+    ]
+  },
+  "nl_char": {
+    "Latin-Caesar": {
+      "spectral_gap": 0.5920136178003867,
+      "small_ratio": 0.46153846153846156,
+      "alternation_rate": 0.6679461466357357,
+      "purity": 0.8333333333333334
+    },
+    "Italian-Cucina": {
+      "spectral_gap": 0.43847670130772487,
+      "small_ratio": 0.39285714285714285,
+      "alternation_rate": 0.7318905713429671,
+      "purity": 1.0
+    },
+    "English-Cury": {
+      "spectral_gap": 0.5465458901159814,
+      "small_ratio": 0.3793103448275862,
+      "alternation_rate": 0.3643446946273326,
+      "purity": 0.6666666666666666
+    },
+    "French-Viandier": {
+      "spectral_gap": 0.6366457738937574,
+      "small_ratio": 0.4583333333333333,
+      "alternation_rate": 0.5821092747572629,
+      "purity": 0.6666666666666666
+    }
+  },
+  "nl_syl": {
+    "Latin-Caesar": {
+      "spectral_gap": 0.6015600871298862,
+      "alternation_rate": 0.24739851206851182
+    },
+    "Italian-Cucina": {
+      "spectral_gap": 0.7553871498596446,
+      "alternation_rate": 0.5160327145268078
+    },
+    "English-Cury": {
+      "spectral_gap": 0.637346123386701,
+      "alternation_rate": 0.4820153953813856
+    },
+    "French-Viandier": {
+      "spectral_gap": 0.0,
+      "alternation_rate": 0.12806324110671938
+    }
+  },
+  "null_models": {
+    "row_permuted": {
+      "gap_mean": 0.7234196425382043,
+      "gap_std": 0.13977577692508186,
+      "alt_mean": 0.5679289987405541,
+      "alt_std": 0.10997214723223712
+    },
+    "shuffled_bigrams": {
+      "gap_mean": 0.2884524852684622,
+      "gap_std": 0.0026676723517485793,
+      "alt_mean": 0.8019167333867298,
+      "alt_std": 0.0013084651179795313
+    }
+  },
+  "currier": {
+    "A": {
+      "spectral_gap": 0.5372770379859487,
+      "v_candidates": [
+        "y",
+        "d",
+        "a.l",
+        "o.t",
+        "k",
+        "q.o.k",
+        "l",
+        "t",
+        "s",
+        "q.o.t",
+        "a.m",
+        "d.y",
+        "y.k",
+        "y.t",
+        "p",
+        "r",
+        "o.d",
+        "cth",
+        "o.p",
+        "o.d.y",
+        "sh.o.l"
+      ],
+      "alternation_rate": 0.6504799900261813
+    },
+    "B": {
+      "spectral_gap": 0.38494369557235686,
+      "v_candidates": [
+        "d",
+        "q.o.k",
+        "y",
+        "o.k",
+        "k",
+        "s",
+        "o.t",
+        "l",
+        "t",
+        "d.y",
+        "o",
+        "r",
+        "q.o.l",
+        "p",
+        "y.k",
+        "cth",
+        "y.t",
+        "o.d.y",
+        "o.p",
+        "sh.y",
+        "ckh"
+      ],
+      "alternation_rate": 0.791835429545939
+    }
+  },
+  "positional_confound": true,
+  "slot_consistent": false,
+  "verdict": "NOT_SUPPORTED"
+}

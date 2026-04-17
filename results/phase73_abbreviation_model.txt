@@ -1,0 +1,276 @@
+===========================================================================
+PHASE 73: MEDIEVAL ABBREVIATION/SHORTHAND MODEL vs VMS FINGERPRINT
+Can abbreviation systems reproduce the VMS statistical signature?
+===========================================================================
+
+1. LOADING VMS REFERENCE
+───────────────────────────────────────────────────────────────────────────
+  VMS: 36259 words, 6415 types
+  Fingerprint:
+    heaps        = 0.7533  (target: 0.7533)
+    hapax        = 0.6555  (target: 0.6555)
+    h_char       = 0.5965  (target: 0.6407)
+    h_word       = 0.4448  (target: 0.4448)
+    wlen         = 4.9352  (target: 4.9352)
+    ttr          = 0.3420  (target: 0.3420)
+    zipf         = 0.9415  (target: 0.9415)
+  Word boundary test: stream_H=2.3029, bound_H=2.0869, ΔH=-0.2160
+
+2. LOADING SOURCE TEXTS
+───────────────────────────────────────────────────────────────────────────
+
+  [LATIN]
+  Fetching Latin (Caesar, Gutenberg #10657)...
+  OK: 880120 chars, 145536 words
+
+  [ITALIAN]
+  Fetching Italian (Dante, Gutenberg #1012)...
+  OK: 495132 chars, 96961 words
+
+  [CZECH]
+  Loading Bible Kralická 1613 from 1190 chapter files...
+  OK: 597405 words
+
+  Source language raw fingerprints (first 36000 words):
+    [CZECH]
+      heaps        = 0.7441  (VMS: 0.7533, Δ=-0.0092)
+      hapax        = 0.5477  (VMS: 0.6555, Δ=-0.1078)
+      h_char       = 0.8547  (VMS: 0.6407, Δ=+0.2140)
+      h_word       = 0.4186  (VMS: 0.4448, Δ=-0.0262)
+      wlen         = 4.4187  (VMS: 4.9352, Δ=-0.5165)
+      ttr          = 0.2786  (VMS: 0.3420, Δ=-0.0634)
+      zipf         = 0.8655  (VMS: 0.9415, Δ=-0.0760)
+    [ITALIAN]
+      heaps        = 0.7690  (VMS: 0.7533, Δ=+0.0157)
+      hapax        = 0.6642  (VMS: 0.6555, Δ=+0.0087)
+      h_char       = 0.8479  (VMS: 0.6407, Δ=+0.2072)
+      h_word       = 0.4307  (VMS: 0.4448, Δ=-0.0141)
+      wlen         = 4.0773  (VMS: 4.9352, Δ=-0.8579)
+      ttr          = 0.3620  (VMS: 0.3420, Δ=+0.0200)
+      zipf         = 1.0019  (VMS: 0.9415, Δ=+0.0604)
+    [LATIN]
+      heaps        = 0.7408  (VMS: 0.7533, Δ=-0.0125)
+      hapax        = 0.7105  (VMS: 0.6555, Δ=+0.0550)
+      h_char       = 0.8491  (VMS: 0.6407, Δ=+0.2084)
+      h_word       = 0.4586  (VMS: 0.4448, Δ=+0.0138)
+      wlen         = 5.0270  (VMS: 4.9352, Δ=+0.0918)
+      ttr          = 0.3880  (VMS: 0.3420, Δ=+0.0460)
+      zipf         = 1.0625  (VMS: 0.9415, Δ=+0.1210)
+
+3. EXPERIMENT DESIGN
+───────────────────────────────────────────────────────────────────────────
+  Model A (abbreviation, raw chars): 30 experiments
+  Model B (abbreviation + alphabet map): 600 experiments
+  Model C (syllabic encoding): 180 experiments
+  TOTAL: ~810 experiments
+
+4. RUNNING EXPERIMENTS
+═══════════════════════════════════════════════════════════════════════════
+
+4A. ABBREVIATION MODEL — RAW CHARACTER STATISTICS
+───────────────────────────────────────────────────────────────────────────
+  (Abbreviated text in original Latin chars + marks, no alphabet mapping)
+  This shows the DIRECT effect of abbreviation on entropy/statistics.
+
+  [CZECH]
+    density=0.0: L2=0.5786, |Σ|=24, h_char=0.8547, wlen=4.4187, zipf=0.8655, ΔH_bound=-0.2902
+    density=0.3: L2=0.5853, |Σ|=30, h_char=0.8538, wlen=4.4086, zipf=0.8628, ΔH_bound=-0.2965
+    density=0.6: L2=0.5921, |Σ|=31, h_char=0.8530, wlen=4.3997, zipf=0.8606, ΔH_bound=-0.3024
+    density=0.9: L2=0.5995, |Σ|=31, h_char=0.8518, wlen=4.3916, zipf=0.8594, ΔH_bound=-0.3072
+
+  [ITALIAN]
+    density=0.0: L2=0.8852, |Σ|=23, h_char=0.8479, wlen=4.0773, zipf=1.0019, ΔH_bound=-0.2976
+    density=0.3: L2=0.8992, |Σ|=30, h_char=0.8471, wlen=4.0641, zipf=1.0101, ΔH_bound=-0.3092
+    density=0.6: L2=0.9126, |Σ|=30, h_char=0.8456, wlen=4.0498, zipf=1.0062, ΔH_bound=-0.3177
+    density=0.9: L2=0.9273, |Σ|=30, h_char=0.8434, wlen=4.0347, zipf=1.0094, ΔH_bound=-0.3255
+
+  [LATIN]
+    density=0.0: L2=0.2683, |Σ|=26, h_char=0.8491, wlen=5.0270, zipf=1.0625, ΔH_bound=-0.2200
+    density=0.3: L2=0.2694, |Σ|=34, h_char=0.8488, wlen=5.0062, zipf=1.0661, ΔH_bound=-0.2345
+    density=0.6: L2=0.2648, |Σ|=34, h_char=0.8477, wlen=4.9844, zipf=1.0694, ΔH_bound=-0.2456
+    density=0.9: L2=0.2622, |Σ|=34, h_char=0.8461, wlen=4.9639, zipf=1.0718, ΔH_bound=-0.2562
+
+
+4B. ABBREVIATION + RANDOM ALPHABET MAPPING
+───────────────────────────────────────────────────────────────────────────
+  (Abbreviated text mapped to ~18-char EVA-like alphabet)
+
+  [CZECH] done (230 total)
+  [ITALIAN] done (430 total)
+  [LATIN] done (630 total)
+
+4C. SYLLABIC ENCODING MODEL
+───────────────────────────────────────────────────────────────────────────
+  (Words broken into syllables, common syllables → single chars)
+
+  [CZECH] done (693 total)
+  [ITALIAN] done (756 total)
+  [LATIN] done (819 total)
+
+  Total experiments: 819
+  Elapsed: 243.5s
+
+5. RESULTS ANALYSIS
+═══════════════════════════════════════════════════════════════════════════
+
+5a. L2 DISTANCE DISTRIBUTION (all experiments)
+───────────────────────────────────────────────────────────────────────────
+  Min L2:    0.2622
+  Max L2:    2.7839
+  Mean L2:   1.0663
+  Median L2: 0.6406
+  L2 < 0.5: 210/819 (25.6%)
+  L2 < 1.0: 630/819 (76.9%)
+  L2 < 2.0: 630/819 (76.9%)
+
+  Phase 64/72 reference distances:
+    Italian (Phase 64 best raw):   1.777
+    Naibbe best (Phase 72):        0.3412
+    Naibbe variable mean:          1.0387
+
+5b. L2 DISTRIBUTION BY MODEL TYPE
+───────────────────────────────────────────────────────────────────────────
+  abbrev_raw               : n=  30, min=0.2622, mean=0.5875, median=0.5879, <1.0: 30/30
+  abbrev_mapped            : n= 600, min=0.2974, mean=0.6261, median=0.6208, <1.0: 600/600
+  syllabic                 : n= 189, min=2.1582, mean=2.5394, median=2.6556, <1.0: 0/189
+
+5c. L2 DISTRIBUTION BY SOURCE LANGUAGE
+───────────────────────────────────────────────────────────────────────────
+  CZECH       : n= 273, min=0.5786, mean=0.9948, <1.0: 210/273
+  ITALIAN     : n= 273, min=0.8852, mean=1.3442, <1.0: 210/273
+  LATIN       : n= 273, min=0.2622, mean=0.8598, <1.0: 210/273
+
+5d. ABBREVIATION DENSITY EFFECT (abbreviation models only)
+───────────────────────────────────────────────────────────────────────────
+   Density   Min L2  Mean L2   h_char     wlen     zipf   ΔH_bnd
+  ──────── ──────── ──────── ──────── ──────── ──────── ────────
+       0.0   0.2683   0.6120   0.9207   4.5076   0.9843  -0.0842
+       0.1   0.2696   0.6147   0.9187   4.5023   0.9854  -0.0925
+       0.2   0.2727   0.6187   0.9220   4.4975   0.9881  -0.0837
+       0.3   0.2694   0.6215   0.9230   4.4930   0.9860  -0.0898
+       0.4   0.2705   0.6239   0.9229   4.4877   0.9878  -0.0855
+       0.5   0.2640   0.6242   0.9239   4.4833   0.9855  -0.0857
+       0.6   0.2648   0.6263   0.9243   4.4780   0.9880  -0.0851
+       0.7   0.2651   0.6311   0.9261   4.4730   0.9865  -0.0885
+       0.8   0.2660   0.6342   0.9268   4.4679   0.9844  -0.0920
+       0.9   0.2622   0.6365   0.9273   4.4634   0.9858  -0.0921
+
+  VMS reference: h_char=0.6407, wlen=4.9352, zipf=0.9415, ΔH_bnd=-0.2160
+
+5e. TOP 20 BEST-MATCHING EXPERIMENTS
+───────────────────────────────────────────────────────────────────────────
+  Rank       L2                     Model   Source   Dens   heaps   hapax   h_chr   h_wrd    wlen     ttr    zipf    ΔH_b
+  ──── ──────── ───────────────────────── ──────── ────── ─────── ─────── ─────── ─────── ─────── ─────── ─────── ───────
+   VMS    0.000                                            0.7533  0.6555  0.6407  0.4448  4.9352  0.3420  0.9415 -0.2160
+     1   0.2622                abbrev_raw    latin    0.9  0.7545  0.7264  0.8461  0.4454  4.9639  0.4034  1.0718 -0.2562
+     2   0.2640                abbrev_raw    latin    0.5  0.7521  0.7255  0.8482  0.4465  4.9928  0.4024  1.0631 -0.2418
+     3   0.2648                abbrev_raw    latin    0.6  0.7517  0.7233  0.8477  0.4460  4.9844  0.4044  1.0694 -0.2456
+     4   0.2651                abbrev_raw    latin    0.7  0.7561  0.7272  0.8471  0.4451  4.9784  0.4054  1.0704 -0.2490
+     5   0.2660                abbrev_raw    latin    0.8  0.7541  0.7255  0.8467  0.4452  4.9700  0.4060  1.0760 -0.2533
+     6   0.2683                abbrev_raw    latin    0.0  0.7408  0.7105  0.8491  0.4586  5.0270  0.3880  1.0625 -0.2200
+     7   0.2694                abbrev_raw    latin    0.3  0.7503  0.7270  0.8488  0.4488  5.0062  0.4014  1.0661 -0.2345
+     8   0.2696                abbrev_raw    latin    0.1  0.7429  0.7160  0.8491  0.4541  5.0191  0.3946  1.0664 -0.2258
+     9   0.2705                abbrev_raw    latin    0.4  0.7483  0.7259  0.8486  0.4474  4.9986  0.4044  1.0720 -0.2383
+    10   0.2727                abbrev_raw    latin    0.2  0.7487  0.7234  0.8492  0.4512  5.0125  0.3978  1.0724 -0.2305
+    11   0.2974             abbrev_mapped    latin    0.6  0.7493  0.7214  0.8900  0.4512  4.9844  0.3990  1.0689 -0.0802
+    12   0.2978             abbrev_mapped    latin    0.0  0.7405  0.7086  0.8848  0.4661  5.0270  0.3834  1.0661 -0.0868
+    13   0.3002             abbrev_mapped    latin    0.5  0.7522  0.7237  0.8927  0.4514  4.9928  0.3996  1.0651 -0.1231
+    14   0.3002             abbrev_mapped    latin    0.6  0.7435  0.7128  0.9022  0.4585  4.9844  0.3924  1.0565 -0.0591
+    15   0.3024             abbrev_mapped    latin    0.1  0.7437  0.7144  0.8895  0.4571  5.0191  0.3926  1.0689 -0.1284
+    16   0.3037             abbrev_mapped    latin    0.7  0.7540  0.7260  0.8975  0.4479  4.9784  0.4030  1.0668 -0.0757
+    17   0.3039             abbrev_mapped    latin    0.5  0.7509  0.7234  0.8982  0.4486  4.9928  0.4006  1.0626 -0.1407
+    18   0.3045             abbrev_mapped    latin    0.0  0.7417  0.7102  0.8955  0.4616  5.0270  0.3860  1.0602 -0.1429
+    19   0.3050             abbrev_mapped    latin    0.1  0.7424  0.7206  0.8884  0.4700  5.0191  0.3862  1.0745 -0.0515
+    20   0.3051             abbrev_mapped    latin    0.7  0.7545  0.7255  0.8988  0.4482  4.9784  0.4032  1.0678 -0.1103
+
+5f. CRITICAL METRIC: H(c|p)/H(c) — THE KEY VMS ANOMALY
+───────────────────────────────────────────────────────────────────────────
+  VMS target: 0.6407
+
+  abbrev_raw               : mean=0.8492, min=0.8434, max=0.8547, in [0.55,0.75]: 0/30
+  abbrev_mapped            : mean=0.9273, min=0.8724, max=0.9754, in [0.55,0.75]: 0/600
+  syllabic                 : mean=0.9977, min=0.9938, max=0.9991, in [0.55,0.75]: 0/189
+
+5g. WORD BOUNDARY INFORMATION TEST
+───────────────────────────────────────────────────────────────────────────
+  VMS: ΔH = -0.2160 (positive = non-informative boundaries)
+
+  abbrev_raw               : mean ΔH=-0.2839, min=-0.3255, max=-0.2200, positive (like VMS): 0/30
+  abbrev_mapped            : mean ΔH=-0.0781, min=-0.2515, max=+0.0973, positive (like VMS): 48/600
+  syllabic                 : mean ΔH=-0.2773, min=-0.5761, max=-0.0486, positive (like VMS): 0/189
+
+  CRITICAL: VMS boundaries are non-informative (ΔH > 0).
+  Natural language text has informative boundaries (ΔH < 0).
+  If abbreviation preserves word boundaries, it should also preserve ΔH < 0.
+
+5h. PER-METRIC ANALYSIS (best 30 experiments)
+───────────────────────────────────────────────────────────────────────────
+      Metric      VMS     Mean      Std      Min      Max  |Δ|/VMS
+       heaps   0.7533   0.7487   0.0049   0.7393   0.7561    0.006
+       hapax   0.6555   0.7210   0.0057   0.7086   0.7279    0.100
+      h_char   0.6407   0.8812   0.0241   0.8461   0.9148    0.375
+      h_word   0.4448   0.4538   0.0069   0.4451   0.4700    0.020
+        wlen   4.9352   4.9963   0.0189   4.9639   5.0270    0.012
+         ttr   0.3420   0.3971   0.0064   0.3834   0.4060    0.161
+        zipf   0.9415   1.0675   0.0055   1.0543   1.0765    0.134
+
+6. DETAILED BEST-MATCH ANALYSIS
+═══════════════════════════════════════════════════════════════════════════
+  Configuration: abbrev_raw, source=latin, density=0.9
+  L2 distance: 0.2622
+
+        Metric      VMS    Model        Δ  |Δ|/VMS   Match?
+  ──────────── ──────── ──────── ──────── ──────── ────────
+         heaps   0.7533   0.7545  +0.0012    0.002        ✓
+         hapax   0.6555   0.7264  +0.0709    0.108        ~
+        h_char   0.6407   0.8461  +0.2054    0.321        ✗
+        h_word   0.4448   0.4454  +0.0006    0.001        ✓
+          wlen   4.9352   4.9639  +0.0287    0.006        ✓
+           ttr   0.3420   0.4034  +0.0614    0.180        ~
+          zipf   0.9415   1.0718  +0.1303    0.138        ~
+
+  Word boundary: ΔH = -0.2562 (VMS: -0.2160)
+
+7. COMPARISON: ALL MODELS vs VMS
+═══════════════════════════════════════════════════════════════════════════
+                           Model      L2   heaps   hapax   h_chr   h_wrd    wlen     ttr    zipf    ΔH_b
+  ────────────────────────────── ─────── ─────── ─────── ─────── ─────── ─────── ─────── ─────── ───────
+                    VMS (target)   0.000  0.7533  0.6555  0.6407  0.4448  4.9352  0.3420  0.9415 -0.2160
+                      abbrev_raw  0.2622  0.7545  0.7264  0.8461  0.4454  4.9639  0.4034  1.0718 -0.2562
+                          abbrev  0.2974  0.7493  0.7214  0.8900  0.4512  4.9844  0.3990  1.0689 -0.0802
+                        syllabic  2.1582  0.6870  0.5131  0.9938  0.4948  2.8168  0.2256  0.8732 -0.3826
+          Naibbe best (Phase 72)   0.341  0.7029  0.4952  0.6187  0.3646  4.8456  0.3676  0.6720  -0.308
+          Italian raw (Phase 64)   1.777  0.7515  0.6390  0.8393  0.4639  3.9302  0.3374  1.0207        
+
+8. SKEPTICAL SELF-ASSESSMENT
+═══════════════════════════════════════════════════════════════════════════
+
+  FAILURE CRITERIA CHECK:
+    All L2 > 3.0?                    Best L2 = 0.2622 → PASS
+    h_char stuck near 0.84?           Closest to VMS = 0.2027 → FAIL
+    ΔH always strongly negative?      Any positive: True → PASS (some +)
+
+  KEY OBSERVATIONS:
+  ─────────────────
+  a) h_char at density=0.0: 0.8506, at density=0.9: 0.8471
+     Change: -0.0034 (drops toward VMS)
+     VMS target: 0.6407
+  b) Zipf α at density=0.0: 0.9766, at density=0.9: 0.9802
+     VMS target: 0.9415
+  c) Word boundary ΔH range: [-0.5761, +0.0973]
+     VMS ΔH: -0.2160
+     ALL abbreviation models PRESERVE original word boundaries,
+     so ΔH should remain similar to source language (negative).
+
+  POTENTIAL CONFOUNDS:
+  ─────────────────────
+  a) Our abbreviation rules are MODELED, not taken from real manuscripts.
+     Actual scribal abbreviation was more varied and context-dependent.
+  b) We don't have digitized medieval abbreviated text to compare directly.
+  c) The alphabet mapping step (random mapping to 18 chars) adds noise.
+  d) Syllabification is approximate. Real Latin syllable rules are complex.
+  e) We only test Latin, Italian, Czech. Other languages may differ.
+  f) The abbreviation model preserves word boundaries — but VMS word
+     boundaries are non-informative, which abbreviation cannot explain.
+
+Total runtime: 243.5s

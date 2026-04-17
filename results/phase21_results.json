@@ -1,0 +1,9 @@
+{
+  "phase": 21,
+  "analyses": [
+    "element_vocab_crack",
+    "verb_paradigm",
+    "bio_translation",
+    "fixed_cross_test"
+  ]
+}

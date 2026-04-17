@@ -1,0 +1,553 @@
+{
+  "n_frequent_chunks": 206,
+  "min_freq_threshold": 20,
+  "optimal_k": {
+    "best_silhouette_k": 15,
+    "best_h_ratio_k": 25,
+    "combined_k": 25
+  },
+  "sweep": {
+    "10": {
+      "silhouette": 0.288103497960112,
+      "h_ratio": 0.847031132688553,
+      "hapax_ratio": 0.0,
+      "n_types": 11,
+      "zipf_slope": -3.7279843048270043,
+      "heaps_beta": 0.0805750151280397
+    },
+    "15": {
+      "silhouette": 0.29566501527299954,
+      "h_ratio": 0.8559339891162709,
+      "hapax_ratio": 0.0,
+      "n_types": 16,
+      "zipf_slope": -3.2280230701841055,
+      "heaps_beta": 0.0903415541359244
+    },
+    "20": {
+      "silhouette": 0.2542486185744385,
+      "h_ratio": 0.8433402359822174,
+      "hapax_ratio": 0.0,
+      "n_types": 21,
+      "zipf_slope": -2.9184898685235865,
+      "heaps_beta": 0.09992858418341216
+    },
+    "25": {
+      "silhouette": 0.25043977734202827,
+      "h_ratio": 0.8485595302557289,
+      "hapax_ratio": 0.0,
+      "n_types": 26,
+      "zipf_slope": -2.7171149181426903,
+      "heaps_beta": 0.10268565201003245
+    },
+    "30": {
+      "silhouette": 0.24260841295801328,
+      "h_ratio": 0.84747359348491,
+      "hapax_ratio": 0.0,
+      "n_types": 31,
+      "zipf_slope": -2.5074235636531097,
+      "heaps_beta": 0.0877361340513267
+    },
+    "35": {
+      "silhouette": 0.25995186552171967,
+      "h_ratio": 0.8469262963604474,
+      "hapax_ratio": 0.0,
+      "n_types": 36,
+      "zipf_slope": -2.346289690074978,
+      "heaps_beta": 0.09118164211820509
+    },
+    "40": {
+      "silhouette": 0.24817910640793384,
+      "h_ratio": 0.8461547509780233,
+      "hapax_ratio": 0.0,
+      "n_types": 41,
+      "zipf_slope": -2.3000537483112367,
+      "heaps_beta": 0.10142056474512626
+    },
+    "50": {
+      "silhouette": 0.24456662698767176,
+      "h_ratio": 0.8472900442714393,
+      "hapax_ratio": 0.0,
+      "n_types": 51,
+      "zipf_slope": -2.2022365658695207,
+      "heaps_beta": 0.11691118636363095
+    },
+    "60": {
+      "silhouette": 0.21719366939166607,
+      "h_ratio": 0.8458838457044296,
+      "hapax_ratio": 0.0,
+      "n_types": 61,
+      "zipf_slope": -1.9046954607672795,
+      "heaps_beta": 0.11672768245528753
+    },
+    "80": {
+      "silhouette": 0.23237345271429785,
+      "h_ratio": 0.8448435348610955,
+      "hapax_ratio": 0.0,
+      "n_types": 81,
+      "zipf_slope": -1.499454060287093,
+      "heaps_beta": 0.13424894041740393
+    },
+    "100": {
+      "silhouette": 0.18615315183874004,
+      "h_ratio": 0.8433596218419853,
+      "hapax_ratio": 0.0,
+      "n_types": 101,
+      "zipf_slope": -1.3891554766343208,
+      "heaps_beta": 0.15531804554219802
+    },
+    "150": {
+      "silhouette": 0.14828491716946696,
+      "h_ratio": 0.8396854600226797,
+      "hapax_ratio": 0.0,
+      "n_types": 151,
+      "zipf_slope": -1.143745739087391,
+      "heaps_beta": 0.18970711978545066
+    },
+    "200": {
+      "silhouette": 0.028808540173158266,
+      "h_ratio": 0.8331094258872412,
+      "hapax_ratio": 0.0,
+      "n_types": 201,
+      "zipf_slope": -0.997460183425121,
+      "heaps_beta": 0.20778880959157617
+    }
+  },
+  "null_model_random": {
+    "15": {
+      "h_ratio_mean": 0.9829080883479864,
+      "h_ratio_std": 0.0050911682806081835,
+      "hapax_ratio_mean": 0.0,
+      "hapax_ratio_std": 0.0,
+      "zipf_slope_mean": -0.7353566514207484,
+      "zipf_slope_std": 0.15252562867189343,
+      "heaps_beta_mean": 0.005504525446163069,
+      "heaps_beta_std": 0.006445845558068486,
+      "n_types_mean": 15.0,
+      "n_types_std": 0.0,
+      "ttr_mean": 0.0001910195349311056,
+      "ttr_std": 2.710505431213761e-20
+    },
+    "25": {
+      "h_ratio_mean": 0.9707744322658349,
+      "h_ratio_std": 0.006105536883483545,
+      "hapax_ratio_mean": 0.0,
+      "hapax_ratio_std": 0.0,
+      "zipf_slope_mean": -0.9290927660271396,
+      "zipf_slope_std": 0.11140298006089742,
+      "heaps_beta_mean": 0.021935318416405898,
+      "heaps_beta_std": 0.009472620360532698,
+      "n_types_mean": 25.0,
+      "n_types_std": 0.0,
+      "ttr_mean": 0.0003183658915518427,
+      "ttr_std": 0.0
+    },
+    "30": {
+      "h_ratio_mean": 0.9651487645989306,
+      "h_ratio_std": 0.005782569371180682,
+      "hapax_ratio_mean": 0.0,
+      "hapax_ratio_std": 0.0,
+      "zipf_slope_mean": -1.000923661545923,
+      "zipf_slope_std": 0.10058747129079303,
+      "heaps_beta_mean": 0.03149683812295706,
+      "heaps_beta_std": 0.009344362390030784,
+      "n_types_mean": 30.0,
+      "n_types_std": 0.0,
+      "ttr_mean": 0.0003820390698622112,
+      "ttr_std": 5.421010862427522e-20
+    },
+    "50": {
+      "h_ratio_mean": 0.9447185589166496,
+      "h_ratio_std": 0.0065516444359066,
+      "hapax_ratio_mean": 0.0,
+      "hapax_ratio_std": 0.0,
+      "zipf_slope_mean": -1.2481280188573038,
+      "zipf_slope_std": 0.08334051109503249,
+      "heaps_beta_mean": 0.06527564175412891,
+      "heaps_beta_std": 0.009508271531097097,
+      "n_types_mean": 50.0,
+      "n_types_std": 0.0,
+      "ttr_mean": 0.0006367317831036854,
+      "ttr_std": 0.0
+    }
+  },
+  "ablation": {
+    "context_only": {
+      "silhouette": 0.2408613803154586,
+      "h_ratio": 0.8385675575551649
+    },
+    "skeleton_only": {
+      "silhouette": 0.8483587609801202,
+      "h_ratio": 0.9474183257110642
+    },
+    "position_only": {
+      "silhouette": 0.45127132269264697,
+      "h_ratio": 0.8638055417355905
+    },
+    "all_features": {
+      "silhouette": 0.25043977734202827,
+      "h_ratio": 0.8485595302557289
+    }
+  },
+  "cluster_coherence": {
+    "avg_skeleton_entropy": 2.2198773275940997
+  },
+  "verdict": "SUPPORTED",
+  "cluster_composition": {
+    "C0": {
+      "size": 57,
+      "members": [
+        "y",
+        "ch.e.d.y",
+        "ch.y",
+        "ch.e.y",
+        "d.y",
+        "ch.o.l",
+        "sh.e.d.y",
+        "ch.d.y",
+        "ch.o.r",
+        "sh.e.y",
+        "ch.e.e.y",
+        "ch.e.o.l",
+        "sh.y",
+        "sh.o.l",
+        "ch.o",
+        "q.o.l",
+        "sh.e.e.y",
+        "sh.o",
+        "ch.e.o",
+        "ch.o.d.y",
+        "sh.e.o.l",
+        "ch.a.r",
+        "sh.o.r",
+        "ch.e.o.r",
+        "ch.e.o.d.y",
+        "ch.a.l",
+        "sh.d.y",
+        "sh.e.e.d.y",
+        "ch.e.e.d.y",
+        "sh.e.o",
+        "ch.a.i.i.n",
+        "sh.e.o.d.y",
+        "ch.e.s",
+        "ch.o.s",
+        "sh.o.d.y",
+        "ch.e.o.s",
+        "ch.e.e.s",
+        "sh.e.o.r",
+        "sh.a.r",
+        "ch.l",
+        "ch.e.e.o",
+        "y.d.y",
+        "ch.a.m",
+        "q.o.r",
+        "sh.a.l",
+        "ch.o.y",
+        "ch.a.i.n",
+        "sh.e.s",
+        "ch.o.m",
+        "sh.a.i.i.n",
+        "sh.e.o.s",
+        "ch.e.e.o.r",
+        "sh.o.y",
+        "ch.e.e.o.d.y",
+        "m",
+        "q.o.d.y",
+        "sh.o.s"
+      ],
+      "total_tokens": 16371
+    },
+    "C1": {
+      "size": 44,
+      "members": [
+        "q.o.k",
+        "o.k",
+        "o.t",
+        "q.o.t",
+        "y.k",
+        "y.t",
+        "cth",
+        "ch.o.k",
+        "ch.ckh",
+        "ckh",
+        "ch.e.k",
+        "ch.o.t",
+        "ch.k",
+        "ch.cth",
+        "cph",
+        "sh.e.k",
+        "sh.ckh",
+        "ch.e.t",
+        "ch.t",
+        "ch.e.ckh",
+        "q.o.ckh",
+        "sh.o.k",
+        "ch.e.o.k",
+        "o.cth",
+        "sh.e.ckh",
+        "sh.k",
+        "o.ckh",
+        "sh.cth",
+        "ch.e.e.k",
+        "ch.o.ckh",
+        "ch.e.p",
+        "ch.e.cth",
+        "cfh",
+        "ch.o.cth",
+        "sh.o.t",
+        "sh.e.e.k",
+        "q.o.cth",
+        "sh.e.t",
+        "ch.e.o.t",
+        "ch.cph",
+        "sh.e.o.k",
+        "sh.e.cth",
+        "sh.t",
+        "ch.e.f"
+      ],
+      "total_tokens": 14519
+    },
+    "C2": {
+      "size": 19,
+      "members": [
+        "e.e.y",
+        "e.d.y",
+        "e.e.d.y",
+        "e.y",
+        "e.o.l",
+        "e.o.d.y",
+        "e.e.e.y",
+        "e.e.s",
+        "e.o",
+        "e.e.o.d.y",
+        "e.o.r",
+        "e.e.o.l",
+        "e.e.o",
+        "e.o.s",
+        "e.e.o.r",
+        "e.e.e.d.y",
+        "e.s",
+        "e.e.e.s",
+        "e.e.o.s"
+      ],
+      "total_tokens": 6174
+    },
+    "C3": {
+      "size": 17,
+      "members": [
+        "a.i.i.n",
+        "a.r",
+        "a.l",
+        "a.i.n",
+        "a.m",
+        "a.i.r",
+        "a",
+        "a.i.i.i.n",
+        "a.i.i.r",
+        "a.n",
+        "a.s",
+        "a.i.m",
+        "a.y",
+        "a.i.l",
+        "a.d.y",
+        "a.i.s",
+        "i.i.n"
+      ],
+      "total_tokens": 14846
+    },
+    "C4": {
+      "size": 13,
+      "members": [
+        "d",
+        "o.d",
+        "ch.e.d",
+        "ch.d",
+        "ch.o.d",
+        "sh.e.d",
+        "y.d",
+        "q.o.d",
+        "ch.e.o.d",
+        "sh.d",
+        "sh.o.d",
+        "sh.e.o.d",
+        "ch.e.e.d"
+      ],
+      "total_tokens": 5770
+    },
+    "C5": {
+      "size": 11,
+      "members": [
+        "o.l",
+        "o.r",
+        "o",
+        "o.d.y",
+        "o.s",
+        "o.i.i.n",
+        "o.m",
+        "o.y",
+        "o.i.i.i.n",
+        "o.i.i.r",
+        "o.i.n"
+      ],
+      "total_tokens": 7265
+    },
+    "C6": {
+      "size": 8,
+      "members": [
+        "o.p",
+        "q.o.p",
+        "o.f",
+        "y.p",
+        "q.o.f",
+        "ch.p",
+        "ch.o.p",
+        "y.f"
+      ],
+      "total_tokens": 912
+    },
+    "C7": {
+      "size": 6,
+      "members": [
+        "e",
+        "e.d",
+        "e.e.d",
+        "e.e",
+        "e.o.d",
+        "e.e.o.d"
+      ],
+      "total_tokens": 1065
+    },
+    "C8": {
+      "size": 4,
+      "members": [
+        "ch.e",
+        "sh.e",
+        "ch.e.e",
+        "sh.e.e"
+      ],
+      "total_tokens": 367
+    },
+    "C9": {
+      "size": 4,
+      "members": [
+        "k",
+        "t",
+        "p",
+        "f"
+      ],
+      "total_tokens": 4816
+    },
+    "C10": {
+      "size": 4,
+      "members": [
+        "s",
+        "l",
+        "r",
+        "d.l"
+      ],
+      "total_tokens": 3899
+    },
+    "C11": {
+      "size": 3,
+      "members": [
+        "e.k",
+        "e.t",
+        "e.p"
+      ],
+      "total_tokens": 187
+    },
+    "C12": {
+      "size": 2,
+      "members": [
+        "ch",
+        "sh"
+      ],
+      "total_tokens": 138
+    },
+    "C13": {
+      "size": 2,
+      "members": [
+        "q.o",
+        "q"
+      ],
+      "total_tokens": 402
+    },
+    "C14": {
+      "size": 2,
+      "members": [
+        "a.i.i",
+        "a.i"
+      ],
+      "total_tokens": 69
+    },
+    "C15": {
+      "size": 1,
+      "members": [
+        "ch.s"
+      ],
+      "total_tokens": 103
+    },
+    "C16": {
+      "size": 1,
+      "members": [
+        "y.s"
+      ],
+      "total_tokens": 36
+    },
+    "C17": {
+      "size": 1,
+      "members": [
+        "e.e.e"
+      ],
+      "total_tokens": 33
+    },
+    "C18": {
+      "size": 1,
+      "members": [
+        "a.k"
+      ],
+      "total_tokens": 33
+    },
+    "C19": {
+      "size": 1,
+      "members": [
+        "a.d"
+      ],
+      "total_tokens": 26
+    },
+    "C20": {
+      "size": 1,
+      "members": [
+        "e.e.e.d"
+      ],
+      "total_tokens": 23
+    },
+    "C21": {
+      "size": 1,
+      "members": [
+        "d.k"
+      ],
+      "total_tokens": 22
+    },
+    "C22": {
+      "size": 1,
+      "members": [
+        "y.y"
+      ],
+      "total_tokens": 22
+    },
+    "C23": {
+      "size": 1,
+      "members": [
+        "q.k"
+      ],
+      "total_tokens": 21
+    },
+    "C24": {
+      "size": 1,
+      "members": [
+        "y.o.k"
+      ],
+      "total_tokens": 21
+    }
+  }
+}
